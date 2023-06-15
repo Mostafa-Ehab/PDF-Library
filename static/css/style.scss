@@ -1,0 +1,137 @@
+:root {
+    --bg-color: #F1F6F9;
+    --nav-color: #394867;
+    --outline-color: #14274E;
+    --sec-color: #9BA4B4;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--bg-color);
+}
+
+/* Start navbar */
+.navbar {
+    background-color: var(--nav-color);
+    padding: 15px;
+    display: grid;
+    grid-template-columns: max-content auto max-content;
+    border-bottom: var(--outline-color) 2px solid;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+
+    .logo {
+        color: var(--bg-color);
+        font-size: 2rem;
+        font-weight: 900;
+    }
+
+    .btn-container a {
+        background-color: var(--nav-color);
+        color: var(--bg-color);
+        border: var(--bg-color) solid 2px;
+        text-decoration: none;
+
+        display: inline-block;
+        position: relative;
+        top: 50%;
+        transform: translatey(-50%);
+
+        padding: 5px 15px;
+        margin-right: 20px;
+        border-radius: 20px;
+
+        transition: 0.3s;
+    }
+
+    .btn-container a:hover {
+        background-color: var(--bg-color);
+        color: var(--nav-color);
+        transform: translatey(-50%) scale(1.1);
+    }
+}
+
+/* End Navbar */
+
+/* Start Main Section */
+.main {
+    position: absolute;
+    top: 120px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    .item {
+        width: 300px;
+        margin: 20px;
+        background-color: var(--bg-color);
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        position: relative;
+        border-radius: 20px;
+        overflow: hidden;
+        transition: 0.3s;
+
+        a {
+            text-decoration: none;
+            color: var(--nav-color);
+            display: block;
+
+            .img {
+                width: 100%;
+                height: 400px;
+                display: block;
+            }
+
+            .title {
+                padding: 10px;
+                font-size: 1.2rem;
+
+                p {
+                    width: 260px;
+                    height: 3rem;
+                    overflow: hidden;
+                }
+            }
+        }
+
+        // a:hover {
+        //     transform: scale(1.2);
+        // }
+
+        .bookmark {
+            position: absolute;
+            right: 0;
+            top: 400px;
+            font-size: 1.2rem;
+            border: none;
+            outline: none;
+            background-color: transparent;
+            padding: 10px;
+            transition: 0.3s;
+        }
+
+        .bookmark:hover {
+            transform: scale(1.2);
+            cursor: pointer;
+        }
+    }
+
+    .item:hover {
+        transform: scale(1.05);
+    }
+}
+
+/* End Main Section */
+
+@media screen and (max-width: 600px) {
+    .navbar .btn-container a {
+        margin-right: auto;
+    }
+}
