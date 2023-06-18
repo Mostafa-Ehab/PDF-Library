@@ -12,27 +12,94 @@
     <script src="https://kit.fontawesome.com/21ee534458.js" crossorigin="anonymous"></script>
 </head>
 
-<body>
+<body class="item-page">
     <div class="navbar">
         <div class="logo">
-            <span>PDFs</span>
+            <a href="/">
+                PDFs
+            </a>
         </div>
-        <div></div>
+        <div class="title">
+            Clean Architecture
+            A CRAFTSMAN'S GUIDE TO SOFTWARE STRUCTURE AND
+            DESIGN
+        </div>
         <div class="btn-container">
             <a href="#">Login</a>
             <a href="#">Register</a>
         </div>
     </div>
-    <div class="main">
-        <div class="index">
+    <div class="container">
+        <div class="side-bar">
+            <ul>
+                <li class="main-head">Introduction</li>
+                <li class="main-head">Section 1
+                    <ul>
+                        <li class="sub-head">Sec 1.1</li>
+                        <li class="sub-head">Sec 1.2</li>
+                        <li class="sub-head">Sec 1.3</li>
+                        <li class="sub-head">Sec 1.4</li>
+                    </ul>
+                </li>
+                <li class="main-head">Section 2
+                    <ul>
+                        <li class="sub-head">Sec 2.1</li>
+                        <li class="sub-head">Sec 2.2</li>
+                        <li class="sub-head">Sec 2.3</li>
+                        <li class="sub-head">Sec 2.4</li>
+                        <li class="sub-head">Sec 2.5</li>
+                    </ul>
+                </li>
+                <li class="main-head">Section 3
+                    <ul>
+                        <li class="sub-head">Sec 3.1</li>
+                        <li class="sub-head">Sec 3.2</li>
+                        <li class="sub-head">Sec 3.3</li>
+                        <li class="sub-head">Sec 3.4</li>
+                    </ul>
+                </li>
+                <li class="main-head">Section 4
+                    <ul>
+                        <li class="sub-head">Sec 4.1</li>
+                        <li class="sub-head">Sec 4.2</li>
+                        <li class="sub-head">Sec 4.3</li>
+                    </ul>
+                </li>
+            </ul>
         </div>
-        <div class="pdf">
-            <!-- <object data="/files/pdf/FA22_Freshman.pdf" type="application/pdf" width="100%" height="500px">
-                <p>Unable to display PDF file. <a
-                        href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">Download</a>
-                    instead.</p>
-            </object> -->
-            <!-- <embed type="application/pdf" src="/files/pdf/FA22_Freshman.pdf" width="800px" height="2100px" /> -->
+        <div class="main">
+            <div class="tool-bar">
+                <!-- <div> -->
+                <button class="highlight">
+                    <i class="fa-solid fa-highlighter"></i>
+                </button>
+                <button class="pen">
+                    <i class="fa-solid fa-pen"></i>
+                </button>
+                <button class="text">
+                    <i class="fa-solid fa-t"></i>
+                </button>
+                <button class="erase">
+                    <i class="fa-solid fa-eraser"></i>
+                </button>
+                <div class="page-num">
+                    <input type="text" value="1"> of 422
+                </div>
+                <button class="maximize">
+                    <!-- <i class="fa-solid fa-maximize"></i> -->
+                    <i class="fa-solid fa-up-right-and-down-left-from-center"></i>
+                </button>
+                <!-- </div> -->
+            </div>
+            <div class="pdf">
+                <!-- <object type="image/svg+xml" data="/static/img/book1/clean_arch1.svg"></object> -->
+                <img src="/static/img/book1/clean_arch1.svg">
+                <img src="/static/img/book1/clean_arch2.svg">
+                <img src="/static/img/book1/clean_arch3.svg">
+                <img src="/static/img/book1/clean_arch4.svg">
+                <img src="/static/img/book1/clean_arch5.svg">
+                <img src="/static/img/book1/clean_arch6.svg">
+            </div>
         </div>
     </div>
 </body>
