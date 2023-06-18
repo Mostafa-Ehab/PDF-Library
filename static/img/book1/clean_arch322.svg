@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 22968,0 h 696 v 1056 h -696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 22968,66 h 696 v 930 h -696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-22968)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-22968)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(22968,83.5)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 14 24 30 40 50 59 66 75 80 85 91 96 103 112 121 131"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">Goldberg. I read </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23104,83.5)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 14 24 34 43 52 61 70 80 85 98 109 120 125 136 143 153 162 169 178 192 206 212 221 230 235 246 251 260 266 275 283 288 297 306 316 321 327 337 343 353 367"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">Advanced C++ Programming Styles and Idioms</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23484,83.5)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 10 19 24 32 41 55 64 72 77 91 96 101 114 124 134 140 146 155 164"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">by James O. Coplien.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,107)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 13 22 27 32 42 51 58 67 76 86 94 99 113 123 131 136 141 149 155 164 173 179 185 191 200 209 218 223 229 238 243 253 259 264 273 279 285 290 295 301 306 313 322 331 341"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">But perhaps most significantly of all, I read </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23314,107)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 14 24 30 39 48 53 58 72 79 85 94 103 108 117 127 132 146 155 163 169 178 187 192 207 213 218 227 232 246 256 266 272 278 287 296 301 307 317 326"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">Object Oriented Design with Applications</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,130)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 10 19 24 38 45 54 64 73 78 91 101 111 120 129"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">by Grady Booch.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,172)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 18 27 36 41 46 55 60 69 78 92 101 107 112 126 133 142 152 161 166 179 189 199 208 217 222 227 241 251 266 271 280 290 299 305 315 320 329 338 347 357 366 375 380 386 396 403 412 421 426 431 440 445 454 463 477 486 491 497 503 512 521 526 531 540 549 554 559 564 582 591 600 605 611 619 624 638 648 655 664 669 674 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">What a name! Grady Booch. How could anyone forget a name like that. What’s more, he</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 15 24 32 37 42 51 60"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">was the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23033,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 13 22 28 37 43 48 59 68 74 83 92 97 103 111"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">Chief Scientist</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23154,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 9 14 19 28 33 42 52 66 76 85 94 103 108 117 126 132 138 147 157 162 175 184 189 195 205 214 223 229 235 240 254 264 279 284 290 295 310 319 328 333 342 352 357 362 372 377 387 396 401 410"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">at a company called Rational! How I wanted to be a </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23569,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 13 22 28 37"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">Chief</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 11 20 26 35 44 49 55 63"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">Scientist</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23036,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 6 11 25 34 44 49 57 67 72 78 83 90 99 108 118 123 132 138 146 151 161 171 181 190 195 200 214 223 233 238 244 249 255 264 273 280 289 298 308 313 318 327 336 346 351 357 362 368 377 386 393 402 411 421 426 431 440 449 459 464 470 475 481 490 499 506 515 524 534 539"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">! And so I read his book. And I learned, and I learned, and I learned …</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,261)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 14 22 27 33 38 44 53 62 69 78 87 97 102 107 113 118 127 133 141 151 156 166 175 184 193 202 207 217 226 236 245 250 256 265 274 279 289 298 303 317 326 331 340 349 364 372 377 382 387 396 405 410 425 434 443 448 458 467 477 487 493 502 507 516 526 541 546 556 565 575 584 589 598 603 613"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">As I learned, I also began debating on Netnews, the way people now debate on</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,284)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 11 20 29 38 48 58 68 77 82 87 104 113 118 128 137 147 156 161 170 178 183 198 207 214 223 228 237 247 257 266 271 276 289 300 311 316 325 334 344 349 363 377 382 387 398 408 415 420 425 440 450 455 464 473 482 489 497 502 507 513 518 525 534 540 546 555 565 574 584 589 594 603"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">Facebook. My debates were about C++ and OO. For two years, I relieved the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,307)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 6 13 22 30 35 42 51 56 62 72 81 89 94 99 108 117 122 127 142 151 158 167 172 182 191 197 203 213 219 228 237 242 251 256 261 276 286 293 302 307 317 326 331 341 350 360 369 374 380 389 398 403 418 424 429 438 443 452 461 470 480 487 496 506 514 519 529 535 540 546 556 562 571 579 584 594 603 608 621 629 638 647 656"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">frustrations that were building at work by debating with hundreds of folks on Usenet</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,330)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 9 19 29 38 43 48 53 62 71 76 86 95 103 108 113 119 128 137 146 155 164 173 182 187 193 202 211 216 225 232 241 249 254 263 272 282 287 292 301 310 315 325 334 342 347 352 362 369 375 384 393 399 409 415 424 432 437 447 453 458 468 477 485 491 500 509 514 519 533 539 544 553 560 565 574 579 594 603 609 615 624 629 634 640 645 654 664 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">about the best language features and the best principles of design. After a while, I even</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,353)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 8 13 22 29 34 43 53 58 72 81 90 96 105 114 119 128 133 142 151 158 163 172 178 187 192 201 215 225 234 243 248 253 263 269 274 282 291 300 308 317"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">started making a certain amount of sense.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,396)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 6 11 16 31 40 48 53 59 68 73 83 92 101 106 116 122 127 132 141 151 159 168 173 183 192 202 211 216 225 233 238 243 252 261 266 271 276 285 294 299 305 315 324 333 343 352 357 363 373 382 390 395 405 411 416 421 430 439 444 455 469 480 486 500 505 515 522 528 537 546 552 562 568 577 585 590 605 614 621 630 635 641 650 656 666"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">It was in one of those debates that the foundations of the SOLID principles were laid.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,439)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 14 23 33 38 47 53 59 64 69 78 87 92 97 107 116 126 135 140 146 155 164 169 174 183 192 202 207 217 226 233 242 251 261 269 274 283 293 302 311 316 324 334 348 357 362 372 378 383 388 397 406 411 419 428 437 445 454 459 464 473 483 488 493 507 516 521 530 540 545 551 560 569 579 584"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">And all that debating, and perhaps even some of the sense, got me noticed …</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,489)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0"
+             y="0"
+             id="tspan110">U</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22985,489)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 17 34 49"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">NCLE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23055,489)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0"
+             y="0"
+             id="tspan118">B</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23071,489)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 18"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">OB</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,532)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 14 23 32 37 47 53 58 63 72 81 86 95 104 113 119 128 137 146 153 161 166 175 180 185 198 204 213 222 229 234 249 258 266 271 280 285 294 304 313 322 331 336 342 351 357 363 373 388 393 403 412 417 422 431 440 445 454 463 477 486 491 501 507 512 525 531 537 543 552 557 567 577 586 595 601 606 611 624 630 636 642 651 656 665 674 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">One of the engineers at Clear was a young fellow by the name of Billy Vogel. Billy gave</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,555)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 9 15 24 33 42 51 65 74 82 87 92 102 107 116 126 135 142 151 161 170 179 184 189 203 212 217 226 235 241 247 256 266 271 285 294 299 312 321 330 336 345 350 363 373 383 388 393 399 404 412 421 429 439 448 457 462 467 472 482 491 499 509 515 520 529 534 548 557 562 571 580 594 603 608 618 627 633 642 651 656 669 679 689"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">nicknames to everyone. He called me Uncle Bob. I suspect, despite my name being Bob,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,578)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 5 14 23 28 33 42 51 56 71 80 88 93 107 116 125 131 140 149 154 163 172 177 187 193 199 208 217 226 236 241 248 257 263 272 279 288 297 306 315 320 325 335 340 348 353 358 371 376 381 390 403 413 423 432 437 451 461 471 481 489 494 501 509 518"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">that he was making an offhand reference to J. R. “Bob” Dobbs (see</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,601)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 9 14 19 29 37 43 49 55 64 73 78 93 99 108 114 124 133 143 149 158 163 173 180 189 195 210 216 225 231 237 248 254 260 269 275 288 298 308 318 328 338 348 356 361 371 380"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">https://en.wikipedia.org/wiki/File:Bobdobbs.png</tspan></text>
+        <path
+           d="m 22968,602.5 h 388 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path142" />
+        <text
+           xml:space="preserve"
+           transform="translate(23357,601)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 7"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">).</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,644)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 14 19 24 30 36 43 51 56 61 67 72 77 87 93 102 109 118 123 132 142 147 153 158 163 168 181 190 195 200 209 217 222 227 236 245 250 264 274 283 288 297 305 310 325 334 343 348 353 363 371 376 381 390 396 404 409 415 424 433 442 450 458 467 476 481 486 495 504 513 518 523 532 539 545 554 563 568 578 584 589 598 611 620 629 635 644 649 662 672 682"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">At first I tolerated it. But as the months went by, his incessant chattering of “Uncle Bob,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,667)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 20 25 38 47 56 62 71 76 89 99 109 114 123 128 134 143 148 153 162 171 176 185 195 204 209 218 227 232 237 247 253 258 263 272 281 286 296 303 312 320 328 337 344 353 361 366 375 384 394 399 409 415 423 432 442 452 462 468 477 482 496 505 514 519 527 532 542 548 553 558 567 576 581 589 594 603 610 615 624 634"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">… Uncle Bob,” in the context of the pressures and disappointments of the startup,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,690)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 8 13 22 29 34 43 53 58 63 73 78 93 102 111 118 123 133 140 149 154 159 168 173 178 187 193 202"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">started to wear pretty thin.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,733)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 14 23 33 38 43 52 61 70 75 80 90 99 108 113 123 132 140 145 150 155 164 173 178 188 197 207 216 225 230 237 246 255 264"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">And then, one day, the phone rang.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,782)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0"
+             y="0"
+             id="tspan164">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22983,782)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 18"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">HE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23022,782)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0"
+             y="0"
+             id="tspan172">P</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23037,782)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 18 36 53"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">HONE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23111,782)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0"
+             y="0"
+             id="tspan180">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23128,782)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 16 31"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">ALL</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,825)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 6 11 16 31 40 48 53 62 67 74 83 92 99 108 114 119 128 134 139 144 158 167 172 181 190 200 205 214 224 229 234 243 252 257 271 280 285 294 303 317 326 331 340 348 353 361 371 385 394 404 413 422 427 442 451 461 466 475 484 493 508 513 526 537 548 553 562 571 581 586 596 606 612 621 630 635"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">It was a recruiter. He had gotten my name as someone who knew C++ and object-</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,848)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 10 17 23 32 41 46 55 65 70 80 89 97 103 112 121 126 131 137 144 158 163 172 182 187 192 200 209 216 225 230 239 249 263 268 273 283 292 297 302 308 313 321 330 338 348 357 366 371 376 382 387 392 401 410 420 425 433 443 457 466 471 480 486 495 504 509 514 524 529 539 549 554 569 575 580 589 594 608 617 622 636 645 650 659 668 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">oriented design. I’m not sure how, but I suspect it had something to do with my Netnews</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,871)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text198"><tspan
+             x="0 10 17 26 34 43 52 61 70"
+             y="0"
+             sodipodi:role="line"
+             id="tspan196">presence.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,914)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text202"><tspan
+             x="0 14 23 28 36 45 51 61 66 75 84 89 98 107 117 122 131 140 145 155 165 175 185 192 197 206 215 221 226 235 240 246 255 260 271 277 283 289 298 308 317 322 333 342 348 354 363 371 376 381 390 395 400 409 414 423 433 447 457 466 475 484 489 498 507 521 530 540 545 558 567 572 578 588 597 606 612 617 622 634 643 652"
+             y="0"
+             sodipodi:role="line"
+             id="tspan200">He said he had an opportunity in Silicon Valley, at a company named Rational. They</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,940)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text206"><tspan
+             x="0 15 24 31 40 45 51 61 71 80 86 95 104 109 115 125 132 137 146 155 161 171 176 186 195 201 207 217 223 232 241 246 255 260 273 287 298"
+             y="0"
+             sodipodi:role="line"
+             id="tspan204">were looking for help building a CASE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23278,933)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text210"><tspan
+             x="0 7"
+             y="0"
+             sodipodi:role="line"
+             id="tspan208">13</tspan></text>
+        <path
+           d="m 23278,934.5 h 13 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path212" />
+        <text
+           xml:space="preserve"
+           transform="translate(23297,940)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text216"><tspan
+             x="0 5 15 25 31"
+             y="0"
+             sodipodi:role="line"
+             id="tspan214">tool.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(22968,983)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text220"><tspan
+             x="0 12 21 30 35 45 51 61 71 81 86 96 103 112 118 127 136 146 151 157 164 174 188 193 207 216 221 227 236 245 254 259 264 270"
+             y="0"
+             sodipodi:role="line"
+             id="tspan218">The blood drained from my face. I </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23243,983)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text224"><tspan
+             x="0 9 18 27"
+             y="0"
+             sodipodi:role="line"
+             id="tspan222">knew</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(23290,983)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text228"><tspan
+             x="0 15 24 33 38 43 48 57 63 71 76 91 100 108 113 118 124 129 139 149 158 165 170 175 184 193 203 218 223 232 242 257 262 268 273 282 291 300 314 319 324 334 343 348 353"
+             y="0"
+             sodipodi:role="line"
+             id="tspan226">what this was. I don’t know how I knew, but I</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

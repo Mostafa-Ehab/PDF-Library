@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 12528,0 h 696 v 1056 h -696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 12528,66 h 696 v 930 h -696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-12528)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-12528)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(12528,82.67188)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 9 19 28 35 40 45 54 63 77 82 87 92 101 110 116 123 128 136 145 151 157 163 168 174 183 193 202 208 213 218 227 236 246 251 256 265 274 279 288 298 312 322 328 337 346 352 357 366 371 381 387 392 397 406 415 420 428 438 444 453 458 464 474 483 488 494 503 508 517 527 536 542 551 560 569 574 580 590 599 604 619 625 630 639 644 653 663 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">your team, their skill level, and the complexity of the solution in conjunction with your</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,105.6719)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 5 11 25 34 39 48 57 67 72 82 91 101 110 119 124 133 140 149 154 163 173 182 190 195 202 211 217 226 231 239 244 249 263 269 277 287 292 297 306 312 321 330 335 344 354 364 373 378 383 392 400 406 415 424 429 438 448 457 464 469 478 488 502 512 518 524 533 540 545 550 560 565 574 583 589 599 604 613 623 632 637 646 655 661 671 678 687"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">time and budgetary constraints. Also think about using your compiler to help you enforce</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,128.6719)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 9 19 28 35 40 49 58 68 76 85 94 99 108 115 124 133 139 144 153 162 167 176 183 192 198 203 211 216 225 231 240 245 250 259 268 278 283 298 307 312 321 330 335 345 354 359 364 370 380 387 392 401 411 420 430 436 442 451 460 465 471 480 485 495 500 509 518 525 530 539 546 555 564 572 577 582 590 599 608 617 622 631 639 644 654 663 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">your chosen architectural style, and watch out for coupling in other areas, such as data</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 14 24 34 43 49 57 62 67 79 88 97 102 112 121 131 137 143 148 154 162 167 173 182 187 192 201 210 215 221 235 245 251 260 274 283 292 297 306 311 317 327 336 341 351 360 365 374 380 386 394"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">models. The devil is in the implementation details.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,191)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0"
+             y="0"
+             id="tspan46">1</tspan></text>
+        <path
+           d="m 12528,192.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path50" />
+        <text
+           xml:space="preserve"
+           transform="translate(12535,191)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text54"><tspan
+             x="0 4 8 17 24 27 33 37 40 46 50 57 62 69 76 83 90 93 100 104 111 115 122 129 134 139 142 149 152 159 163 174 181 188 192 196 203 207 214 221 232 239 243 250 254 261 264 271 277 283 286 290 297 304 308 312 319 325 329 340 347 352 355 358 362 368 375 382 386 389 396 400 407 411 414 418 425 432 437 444 451 458 464 468 471 475 479 486 493 500 506 513 518 522 526 531 538 545 548 551 558 562 573 580 584 588 595 599"
+             y="0"
+             sodipodi:role="line"
+             id="tspan52">. This is arguably a horrible way to name a class, but as we’ll see later, perhaps it doesn’t really matter.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,214)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58"><tspan
+             x="0"
+             y="0"
+             id="tspan56">2</tspan></text>
+        <path
+           d="m 12528,215.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path60" />
+        <text
+           xml:space="preserve"
+           transform="translate(12535,214)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 4"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">. </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12543,214)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 7 11 15 22 28 31 35 39 50 57 62 66 69 76 81 88 99 102 109 113 117 124 131 142 146 153 156 159 166 169 173 182 187 194 200 207 214 218 225 229 232 239 246 257 264 275 282 285 292 303 310 314 321 330 337 344 351 356 359 366 373 377 384 388 399"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">https://martinfowler.com/bliki/PresentationDomainDataLayering.html</tspan></text>
+        <path
+           d="m 12543,215.5 h 401 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path70" />
+        <text
+           xml:space="preserve"
+           transform="translate(12945,214)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text74"><tspan
+             x="0"
+             y="0"
+             id="tspan72">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,236)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0"
+             y="0"
+             id="tspan76">3</tspan></text>
+        <path
+           d="m 12528,237.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path80" />
+        <text
+           xml:space="preserve"
+           transform="translate(12535,236)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 4 8 17 24 27 33 37 44 51 58 65 70 73 77 81 84 90 94 105 112 119 126 130 133 140 146 152 156 161 168 171 178 185 192 199 203 207 218 221 225 232 236 240 247 254 258 265 272 279 282 289 296 300 303 310 317 321 326 333 340 343 346 349 353 356 363 369 373 380 385 389 400 407 414 421 426 433 437 442 453 462 468 471 475 482 489 493 497 500 504 508 514 521 528 539 545 549 553 560 567 572 579 583 590 597 603 607 614 621 628 635 639"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">. This benefit is much less relevant with the navigation facilities of modern IDEs, but it seems there has been a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12543,254)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 5 12 19 26 29 35 41 48 55 62 69 73 84 91 98 101 108 115 119 126 133 140 147 151 155 162 166 169 172 179 186 190 201 208 211 218 225 229 233 237 244 251 255 259 266 273 276 280 287 292 298 301 305 310 317 322 326 331 338 345 351 358 365 371 375 380 384 391 402 406 413 416 423 430 435 438 445 449 453 460 467 471 478 481 488 492 496 503 507 514 521 528 535 540 546 550 557 564 571"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">renaissance moving back to lightweight text editors, for reasons I am clearly too old to understand.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,277)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0"
+             y="0"
+             id="tspan90">4</tspan></text>
+        <path
+           d="m 12528,278.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path94" />
+        <text
+           xml:space="preserve"
+           transform="translate(12535,277)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 4 8 21 28 32 37 40 45 51 55 59 62 69 76 80 87 92 96 103 108 112 119 124 131 138 145 152 156 159 166 173 177 182 187 194 205 209 216 223 226 233 240 245 251 254 258 265 269 272 279 283 290 297 304 311 315 326 333 339 343 350 357 360 363 370 373 380 387 391 398 401 404 411 418 422 430 436 443 448 455 462 467 471 478 485 491 498 502 509 516 520 527 534 541 544 547 554 561 565 568 575 582 588 592 603 606 610 617 621"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">. My first job after graduating from university in 1996 was building client–server desktop applications with a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12543,295)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0 4 11 18 25 32 39 42 49 56 63 67 74 81 84 87 94 101 105 114 121 132 139 144 154 161 164 167 174 181 185 188 192 199 203 209 216 223 230 235 240 247 252 259 266 273 280 284 287 294 301 305 312 322 330 334 338 345 352 356 360 367 374 381 388 391 398 405 409 416 420 424 431 438 441 444 451 454 461 468 472 479 486 490 497 504 511 517 524 529 536 541 544 551 558 565 569 576 583 590 593 596 603 610 614 617 624 631 637 641 645"
+             y="0"
+             sodipodi:role="line"
+             id="tspan100">technology called PowerBuilder, a super-productive 4GL that exceled at building database-driven applications. A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12543,313)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 7 14 21 28 31 38 42 49 54 58 65 72 79 84 90 94 97 104 108 115 119 122 126 131 135 146 153 159 163 170 177 180 183 190 193 200 207 211 218 221 224 231 238 242 250 256 263 268 275 282 287 291 298 305 312 315 318 325 332 336 339 346 353 359 363 374 377 381 388 392 398 405 412 419 422 426 437 444 451 456 463 467 478 485 489 496 503 510 514 518 525 529 536 543 546 549 556 560 567 574 579 583 590 601 608 612 619 626 630 637 644 651 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">couple of years later, I was building client–server applications with Java, where we had to build our own database</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12543,331)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 7 14 21 28 35 42 46 49 56 59 63 70 74 79 83 90 93 99 103 114 121 127 131 138 143 150 155 161 172 182 192 197 201 208 215 222 226 233 240 245 249 256 267 274 278 288 299 304 308 312 319 326 329 336 339 343 349 353 360 367 371 375 382 389 393 400 405 409 419 433 441 445 449 458 465 472 476 480 486 490 496 503 508 515 522 527 534 540 546 552 556 561 568 573 577 584 591 598"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">connectivity (this was pre-JDBC) and our own GUI toolkits on top of AWT. That’s “progress“ for you!</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,353)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0"
+             y="0"
+             id="tspan112">5</tspan></text>
+        <path
+           d="m 12528,354.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path116" />
+        <text
+           xml:space="preserve"
+           transform="translate(12535,353)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 4 8 13 20 24 28 35 42"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">. In the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12581,353)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 10 17 28 39 46 53 60 64 75 82 89 94 101 105 115 122 128 135 142 149 155 158 165 168 171 174 178 185 189 197 204 211 216 223 230 237 241 244 251"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">Command Query Responsibility Segregation</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12843,353)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 7 14 18 22 29 34 41 44 48 55 62 69 73 80 87 94 101 105 111 118 125 132 137 144 148 155 159 166 173 177 181 188 193 200 206 210 215 222 227 231 238 245 252 259 263 266 273 280 284 291 298 305 309 314 321 328 335 338 345"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">pattern, you have separate patterns for updating and reading</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12543,371)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 7 14 18 25"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">data.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,394)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0"
+             y="0"
+             id="tspan134">6</tspan></text>
+        <path
+           d="m 12528,395.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path138" />
+        <text
+           xml:space="preserve"
+           transform="translate(12535,394)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 4"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">. </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12543,394)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 7 11 15 22 25 29 33 44 55 65 69 72 79 86 93 97 104 111 115 122 127 134 138 149 156 163"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">http://www.laputan.org/mud/</tspan></text>
+        <path
+           d="m 12543,395.5 h 166 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path148" />
+        <text
+           xml:space="preserve"
+           transform="translate(12528,416)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0"
+             y="0"
+             id="tspan150">7</tspan></text>
+        <path
+           d="m 12528,417.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path154" />
+        <text
+           xml:space="preserve"
+           transform="translate(12535,416)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 4 8 16 23 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">. See </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12569,416)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 7 11 15 22 28 31 35 39 50 61 71 75 81 85 90 97 104 108 115 120 123 129 133 137 144 151 162 166 173 180 183 190 194 201"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">https://www.structurizr.com/help/c4</tspan></text>
+        <path
+           d="m 12569,417.5 h 207 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path164" />
+        <text
+           xml:space="preserve"
+           transform="translate(12781,416)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 5 12 17 21 32 39 44 51 55 58 65 70 77 82 93 100 104 107 114 121"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">for more information.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,439)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0"
+             y="0"
+             id="tspan170">8</tspan></text>
+        <path
+           d="m 12528,440.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path174" />
+        <text
+           xml:space="preserve"
+           transform="translate(12535,439)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 4 8 13 20 24 30 37 44 51 54 58 63 70 75 79 86 93 100 111 118 121 128 131 135 142 145 149 156 163 170 177 184 188 199 206 210 214 221 228 235 239 243 250 254 258 265 268 275 282 286 293 298 302 309 316 323 330 337 344 351 357 361 368 374 378 385 392 395 402 409 413 420 423 430 435 442 447 454 461 464 471 478 481 484 488 491 495 499 505 509 516 523 527 531 538 545 551 557 560 567 570 577 581 585 592 596 603 608 615 622 626 633 637 644 651 658 665 671"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">. In Java, for example, although we tend to think of packages as being hierarchical, it’s not possible to create access</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12543,457)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 5 12 18 22 27 30 37 41 44 51 58 64 68 75 82 88 95 102 106 113 120 124 131 135 142 149 156 163 170 177 184 188 195 202 209 213 219 226 233 240 247 254 261 268 275 282 286 291 298 301 308 312 315 322 329 335 342 345 352 356 360 371 378 385 389 396 399 406 411 418 423 430 437 444 448 452 459 466 470 474 481 488 495 499 506 511 518 525 529 536 540 543 549 553 556 563 567 571 578 585 589 596 603 614 621 625 632 637 641 645 652 659 665"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">restrictions based on a package and subpackage relationship. Any hierarchy that you create is in the name of those</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12543,475)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 7 14 21 28 35 42 49 55 58 62 69 76 83 87 91 98 105 109 116 119 124 131 138 142 149 154 161 165 171 175 180 187 194 198 205 210 217 221 228 235 239 246 249 255 262 265 269 276 283 286 292"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">packages, and the directory structure on disk, only.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,497)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0"
+             y="0"
+             id="tspan188">9</tspan></text>
+        <path
+           d="m 12528,498.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path192" />
+        <text
+           xml:space="preserve"
+           transform="translate(12535,497)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0 4 8 19 26 29 36 42 48 52 59 66 73 77 84 91 98 105 109 113 120 127 134 138 145 151 158 162 168 175 182 189 193 199 203 208 215 220 223 230 237 241 244 251 258 262 273 280 287 294 301 308 311 317 328 331 335 342 349 353 357 364 367 374 381 387 394 398 405 412 419 424 428 432 439 446 450 454 461 468 472"
+             y="0"
+             sodipodi:role="line"
+             id="tspan194">. Unless you cheat and use Java’s reflection mechanism, but please don’t do that!</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

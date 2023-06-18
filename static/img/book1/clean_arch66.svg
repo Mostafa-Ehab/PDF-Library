@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 696,0 h 696 V 1056 H 696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 696,66 h 696 V 996 H 696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-696)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-696)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(697,79.53125)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0"
+             y="0"
+             id="tspan30">}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,128)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 6 15 20 29 34 40 49 58 67 76 85 94 103 108 114 120 129 138 143 156 162 172 178 187 194 203 208 213 228 237 243 252 261 266 272 280 285 294 299 309 318 325 331 341 350 355 361 371 380 385 395 401 406 417 423 431 441 446 451 460 469 479 484 490 498 503 509 518 527 536 541 547 557 566 575 581 586 591 606 615 620 634 640 649 658"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">In a language like Clojure, which is a derivative of Lisp, and is functional, we might</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,151)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 6 20 30 36 45 59 68 77 82 87 92 101 107 115 120 128 137 151 160 165 175 182 192 201 208 217 231 236 245 253 258 264 274 280 286 296 311 319"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">implement this same program as follows:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,191)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">Click here to view code image</tspan></text>
+        <path
+           d="M 696,192.5 H 893 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path46" />
+        <text
+           xml:space="preserve"
+           transform="translate(697,231)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text50"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441"
+             y="0"
+             sodipodi:role="line"
+             id="tspan48">(println (take 25 (map (fn [x] (* x x)) (range))))</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,279)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text54"><tspan
+             x="0 6 12 17 26 36 45 50 60 70 79 86 91 96 105 114 124 139 144 155 161 169 179 184 189 194 203 212 221 226 231 240 246 254 259 273 279 288 297 302 307 313 323 333 342 347 356 361 367 373 378 383 389 398 403 411 416 423 432 441 450 459 464 469 480 490 495 501 510 515 520 534 543 548 555 564 570 580 587 601 610 615 620 626 631 636 645 650 660 666"
+             y="0"
+             sodipodi:role="line"
+             id="tspan52">If you don’t know Lisp, then this might look a little strange. So let me reformat it a bit</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,302)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58"><tspan
+             x="0 9 18 28 33 42 52 62 67 75 85 99 108 113 122 132 146 160 169 178 183 191"
+             y="0"
+             sodipodi:role="line"
+             id="tspan56">and add some comments.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,342)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan60">Click here to view code image</tspan></text>
+        <path
+           d="M 696,343.5 H 893 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path64" />
+        <text
+           xml:space="preserve"
+           transform="translate(697,381.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">(println ;___________________ Print</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,398.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">(take 25 ;_________________ the first 25</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,415.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">(map (fn [x] (* x x)) ;__ squares</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(751,433)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">(range)))) ;___________ of Integers</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,481)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 6 11 16 24 33 43 52 58 68 73 83 92 97 106 112 121 130 137 142 147 156 165 170"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">It should be clear that </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(871,481)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 10 20 30 40 50 60"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">println</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(941,481)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 5"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(951,481)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">take</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(991,481)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 5"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1001,481)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">map</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1031,481)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 5 10 19 28 38"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">, and </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1074,481)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 10 20 30 40"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">range</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1129,481)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 9 16 25 30 39 45 51 56 62 71 80 89 94 100 110 119 127 132 137 143 152 157 168 174 182 192 197 202 211 221"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">are all functions. In Lisp, you</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,504)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 9 18 24 30 35 44 49 55 64 73 82 87 93 103 112 117 127 136 141 151 160 165 170 176 185 194 199 205 210 215 221 230 235 245 254 261 270 279 284 293 302 310 319 327 332 337 348 358 365 370 379 388 397 411 421 427 436 441"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">call a function by putting it in parentheses. For example, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1142,504)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 10 20 30 40 50 60"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">(range)</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1217,504)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 9 18 24 30 38 43 48 57 66 71 78 87 96 105"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">calls the range</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,527)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 6 15 24 33 38 44 54 63"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">function.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,570)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 12 21 30 35 44 53 63 70 79 87 95 101 111 120"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">The expression </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(821,570)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">(fn [x] (* x x))</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(986,570)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 6 14 19 28 37 42 51 60 70 79 88 102 112 121 129 134 140 149 158 167 172 178 188 197 202 207 216 225 230 235 244 253 259 265 273 278 283 292 301 306 320 329 335 340 346 356 362"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">is an anonymous function that calls the multiply</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,593)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 6 15 24 33 38 44 54 63 68 73 83 92 100 108 114 123 132 137 143 148 156 161 167 176 186 195 200 205 214 221 230 239 253 262 271 276 281 287 296 301 306 321 327 336 345 350 355 361 370 375 385 390 399 408 415 420 435 445 452 462 470 475 480 486 491 496 505 515 529 539 548 553 562 570 575 580 589 598 603 611 621 630 639 646 655 660 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">function, passing its input argument in twice. In other words, it computes the square of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,616)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 6 11 19 24 30 39 49 58 63"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">its input.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,659)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 11 21 31 40 46 55 64 69 78 83 88 93 102 111 116 131 140 150 156 165 170 175 184 190 199 208 213 222 231 240 246 255 260 265 271 276 282 290 295 305 314 322 327 332 337 347 352 360 365 374 381 386 391 406 412 417 426 431 436 445 454 459 465 474 483 492 499 513 523 531 536 541 547 556 565 574 579 585 595 604 609 618 627 633 639"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">Looking at the whole thing again, it’s best to start with the innermost function call.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,702)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 7 12 24 33 42"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">• The </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(744,702)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 10 20 30 40"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">range</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(799,702)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 6 15 24 33 38 44 54 63 68 75 84 89 98 105 114 122 127 136 141 150 159 169 178 185 192 201 210 220 226 235 244 249 255 261 269 274 279 289 295 300 306 315 320 329 338 347 354 362 367 375 380 389 396 401 407 416 425 430 445 451 456 465 470 480"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">function returns a never-ending list of integers starting with 0.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,730)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 7 12 24 33 39 47 52 58 64 72 77 82 88 96 101 111 120 128 136 145 155 160 166 175 180 190 195 200 209 218"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">• This list is passed into the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(920,730)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">map</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(955,730)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 6 15 24 33 38 44 54 63 68 73 88 97 103 112 121 126 135 144 150 156 164 169 174 183 192 197 206 215 225 234 243 257 267 276 284 289 297 307 316 325 332 338 347 356 361 367 376 385 394 399 405 415"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">function, which calls the anonymous squaring function</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(709,753)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0 10 19 24 33 42 51 60 65 74 80 89 103 112 121 126 131 136 146 153 163 173 182 191 197 206 215 220 229 234 243 252 267 272 281 290 300 309 316 323 332 341 351 357 366 375 380 386 392 400 405 410 420 426 431 440 446 452 457 462 471 480 485 493 503 512 521 528 537 545"
+             y="0"
+             sodipodi:role="line"
+             id="tspan182">on each element, producing a new never-ending list of all the squares.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,781)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 7 12 24 33 42 47 53 59 67 72 77 87 93 98 106 116 125 134 141 150 158 163 169 177 182 192 201 209 217 226 236 241 247 256 261 271 276 281 290 299"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">• The list of squares is passed into the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1001,781)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text192"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan190">take</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1046,781)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0 6 15 24 33 38 44 54 63 68 73 88 97 103 112 121 126 133 142 147 156 163 172 180 185 194 199 208 217 232 237 243 249 257 262 267 282 288 293 302 307 317 326 332"
+             y="0"
+             sodipodi:role="line"
+             id="tspan194">function, which returns a new list with only</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(709,804)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 5 14 23 28 34 40 47 55 60 65 75 85 90 99 105 114 128 137 146 151 159"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">the first 25 elements.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,832)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text204"><tspan
+             x="0 7 12 24 33 42"
+             y="0"
+             sodipodi:role="line"
+             id="tspan202">• The </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(744,832)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text208"><tspan
+             x="0 10 20 30 40 50 60"
+             y="0"
+             sodipodi:role="line"
+             id="tspan206">println</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(819,832)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text212"><tspan
+             x="0 6 15 24 33 38 44 54 63 68 78 85 91 100 105 113 118 124 129 137 142 148 157 167 176 181 186 191 206 215 221 230 239 244 250 258 263 272 277 283 289 297 302 307 317 323 328 333 342 351 356 362 368 375 383 388 393 403 413 418 426 436 445 454 461 470 478 483 493 499 504 510 519 524 533 542 551 558 566"
+             y="0"
+             sodipodi:role="line"
+             id="tspan210">function prints its input, which is a list of the first 25 squares of integers.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,875)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text216"><tspan
+             x="0 6 12 17 26 36 45 50 56 62 71 81 86 95 105 114 121 129 138 144 150 155 160 169 176 183 189 195 201 210 220 225 235 244 249 254 263 272 277 286 296 305 314 323 333 338 343 353 359 364 373 382 392 401 408 415 424 433 443 449 458 467 472 478 484 492 497 505 510 515 525 535 544 551 556 561 576 586 593 600 608 613 618 632 641 647 656 661 666 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan214">If you find yourself terrified by the concept of never-ending lists, don’t worry. Only the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,898)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text220"><tspan
+             x="0 6 12 19 27 32 37 47 57 62 71 77 86 100 109 118 123 131 136 146 152 157 162 171 181 189 198 203 212 221 231 240 247 254 263 272 282 288 297 306 311 317 323 331 336 344 349 358 365 374 379 388 397 402 411 420 426 432 441 446 455 462 471 480 485 494 504 509 514 526 535 544 549 555 563 568 578 587 596 605 614 622 631 636 645"
+             y="0"
+             sodipodi:role="line"
+             id="tspan218">first 25 elements of those never-ending lists are actually created. That’s because no</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,921)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text224"><tspan
+             x="0 9 15 24 38 47 56 61 66 76 82 87 96 101 110 119 129 138 145 152 161 170 180 186 195 204 209 215 221 229 234 239 245 253 258 267 277 286 292 301 310 315 324 334 339 348 357 362 368 374 379 385 390 395 401 409 414 423 432 441 450 458 466 475 485"
+             y="0"
+             sodipodi:role="line"
+             id="tspan222">element of a never-ending list is evaluated until it is accessed.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,964)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text228"><tspan
+             x="0 6 12 17 26 36 45 50 56 66 75 84 94 99 108 114 120 125 135 141 146 151 160 169 174 179 188 198 207 213 222 230 236 245 254 259 264 269 278 287 296 301 310 320 329 334 343 352 361 366 372 382 392 401 406 412 422 429 444 453 460 470 475 480 490 495 504 509 518 524 534 541 547 557 566 574 579 584 590 604 613 618 624 633 642 649 658 664 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan226">If you found all of that confusing, then you can look forward to a glorious time learning</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,987)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text232"><tspan
+             x="0 9 15 21 26 35 45 55 64 69 74 87 93 103 109 118 125 134 139 148 157 167 172 178 187 196 205 210 216 226 235 244 250 255 265 272 282 291 298 307 321 335 341 350 359 364 369 375 380 385 391 399 404 413 423 428 433 447 456 461 470 480 489 495 500 505 515 520 525 534 543 552 561 566 575 585 594 599 608 618 628 637 642 647 652 661 670 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan230">all about Clojure and functional programming. It is not my goal to teach you about these</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

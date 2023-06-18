@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 2088,0 h 696 V 1056 H 2088 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 2088,66 h 696 V 996 H 2088 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-2088)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-2088)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(2143,79.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">c.execute();</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,96.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0"
+             y="0"
+             id="tspan34">}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2107,114)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0"
+             y="0"
+             id="tspan38">}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,162)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 14 24 29 35 44 53 58 67 73 81 91 96 101 110 119 124"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">Notice also that </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2217,162)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">main</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2262,162)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 9 16 25 34 39 48 56 61 66 75 84 89 95 104 114 123 128 133 141 146 153 162 171 185 190 199 208 218 223 232 242 251 256 265 271 280 288 293 298 307 316 321 335 344 350 359 364 370 380 390 400 405 415 421 426 431 440 449 454 463 472 486 495"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">creates the input stream and contains the main loop of the game,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,185)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 6 15 20 29 36 46 53 62 67 73 82 91 96 101 110 119 124 132 138 152 162 168 177 182 188 197 207 216 221 226 235 245 259 273 282 291 301 309 314 319 329 338 343 348 353 362 371 380 385 395 404 410 419 426 434 439 448 454 460 465 475 482 492 501 510 518 526 532 541 550 555 560 570 575 585 590 599 608 614 619 624 633 639 648 657 666 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">interpreting the simple input commands, but then defers all processing to other, higher-</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,208)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 6 15 25 34 40 45 54 64 78 88 98 107 116 125 130 138"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">level components.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,251)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 11 17 26 35 41 47 55 60 65 74 84 89 95 104 113 118 123 132 141 146"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">Finally, notice that </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2239,251)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">main</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2284,251)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 9 16 25 34 39 48 56 61 66 75 84 89 103 112 122"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">creates the map.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,291)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">Click here to view code image</tspan></text>
+        <path
+           d="m 2088,292.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path78" />
+        <text
+           xml:space="preserve"
+           transform="translate(2089,330.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text82"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288"
+             y="0"
+             sodipodi:role="line"
+             id="tspan80">private static void createMap() {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2116,347.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">int nCaverns = (int) (Math.random() * 30.0 + 10.0);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2116,364.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189"
+             y="0"
+             sodipodi:role="line"
+             id="tspan88">while (nCaverns-- &gt; 0)</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2134,381.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text94"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207"
+             y="0"
+             sodipodi:role="line"
+             id="tspan92">caverns.add(makeName());</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,415.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">for (String cavern : caverns) {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2143,432.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297"
+             y="0"
+             sodipodi:role="line"
+             id="tspan100">maybeConnectCavern(cavern, NORTH);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2143,449.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">maybeConnectCavern(cavern, SOUTH);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2143,466.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">maybeConnectCavern(cavern, EAST);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2143,483.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">maybeConnectCavern(cavern, WEST);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,500.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0"
+             y="0"
+             id="tspan116">}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,534.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">String playerCavern = anyCavern();</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,551.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">game.setPlayerCavern(playerCavern);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,568.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">game.setWumpusCavern(anyOther(playerCavern));</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,585.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">game.addBatCavern(anyOther(playerCavern));</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,602.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">game.addBatCavern(anyOther(playerCavern));</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,619.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">game.addBatCavern(anyOther(playerCavern));</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,653.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">game.addPitCavern(anyOther(playerCavern));</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,670.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">game.addPitCavern(anyOther(playerCavern));</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,687.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">game.addPitCavern(anyOther(playerCavern));</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2125,721.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">game.setQuiver(5);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2107,738.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0"
+             y="0"
+             id="tspan160">}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2107,772.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">// much code removed…</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,790)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0"
+             y="0"
+             id="tspan168">}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,838)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 12 21 30 35 45 55 61 70 75 80 86 94 99 104 113 122 127"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">The point is that </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2220,838)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">Main</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2265,838)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 6 14 19 28 33 43 49 56 61 70 75 81 91 106 113 119 128 138 147 153 158 172 182 192 201 207 216 221 227 236 241 246 255 264 269 279 288 293 302 309 323 333 341 346 351 360 366 373 382 388 397 402 412 418 423 428 437 446 451 460 466 475 484"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">is a dirty low-level module in the outermost circle of the clean</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,861)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 9 16 25 34 40 45 54 63 68 77 84 93 98 103 109 114 119 125 135 144 154 162 167 176 186 195 202 211 216 225 231 240 249 254 263 273 278 284 294 301 306 311 320 329 334 343 349 358 367 372 378 387 397 406 412 417 425 434 442 447 456 470 475 480 489 498 508 513 518 527 536 545 550 559 568 577 587 595 600 609 619 628 633 640 650"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">architecture. It loads everything up for the high level system, and then hands control</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,884)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 10 20 29 36 41 46 56 61 67 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">over to it.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,954)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0"
+             y="0"
+             id="tspan192">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2112,954)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text198"><tspan
+             x="0 26 50 74 96 120 138 151 177"
+             y="0"
+             sodipodi:role="line"
+             id="tspan196">ONCLUSION</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

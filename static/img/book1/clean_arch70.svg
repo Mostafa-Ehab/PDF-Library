@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 3480,0 h 696 V 1056 H 3480 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 3480,66 h 696 V 996 H 3480 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-3480)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-3480)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(3480,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 13 22 27 32 42 51 58 67 76 86 94 99 114 123 128 138 148 157 164 169 174 183 192 202 211 216 221 231 236 250 259 268 277 282 287 296 305 310 318 327 336 345 359 368 373 388 398 405 414 419 425 435 442 451 461 470 476 481 486 500 509 519 524 534 543 550 559 568 578 586 591 606 615 620 629 638 648"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">But perhaps we don’t have to make the scheme work forever. And perhaps we have</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 9 18 28 37 46 55 60 68 73 83 90 99 108 117 122 131 140 150 155 164 173 183 192 201 210 215 225 232 242 251 260 268 276 282 291 300 305 315 325 340 349 356 361 366 376 381 395 404 413 422 427 432 441 450 455 463 472 481 490 504 513 518 533 543 550 559 564 570 580 587 592 597 606"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">enough storage and enough processing power to make the scheme work for the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 7 16 25 33 43 52 61 71 77 86 91 97 103 109 118 123 129 143 152 157 167 173 178 183 192 201 206 215 225 235 241 247 256 265 270 276 286 295"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">reasonable lifetime of the application.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 12 21 27 35 40 46 54 59 64 73 82 87 93 103 112 121 126 136 145 154 160 169 179"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">This is the idea behind </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3664,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 9 19 28 37 42 47 55 65 74 81 90 96 105"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">event sourcing</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3778,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0"
+             y="0"
+             id="tspan50">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3783,168)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0"
+             y="0"
+             id="tspan54">2</tspan></text>
+        <path
+           d="m 3783,169.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path58" />
+        <text
+           xml:space="preserve"
+           transform="translate(3795,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0 12 22 31 40 45 50 58 68 77 84 93 99 108 117 122 128 136 141 150 155 163 168 175 184 189 198 207 216 221 236 245 254 261 270 276 285 290 305 314 319 327 332 342 349"
+             y="0"
+             sodipodi:role="line"
+             id="tspan60">Event sourcing is a strategy wherein we store</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,198)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 5 14 23 28 33 40 49 58 66 75 84 89 95 105 114 122 127 132 142 151 156 161 170 180 185 190 195 204 213 218 226 231 240 245 254 259 264 282 291 300 309 314 322 327 336 341 350 355 361 369 374 381 390 400 409 415 422 431 441 446 451 466 475 480 488 494 508 518 524 533 538 547 557 567 573 582 587 596 602 608 613 618 627"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">the transactions, but not the state. When state is required, we simply apply all the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,221)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text70"><tspan
+             x="0 5 12 21 30 38 47 56 61 67 77 86 94 99 105 112 122 136 141 146 155 164 169 179 188 197 203 212 221 227 236 245 250 260 266 271 276 282 296 305"
+             y="0"
+             sodipodi:role="line"
+             id="tspan68">transactions from the beginning of time.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text74"><tspan
+             x="0 14 20 25 34 44 53 60 68 77 82 87 102 111 116 125 134 143 148 153 162 171 180 185 193 202 212 219 224 233 242 247 255 260 265 276 286 293 298 307 316 325 339 349 355 364 369 374 389 398 403 412 421 430 435 444 454 468 478 487 492 501 506 515 524 534 539 547 556 566 575 580 585 594 603 608 616 621 630 635 644 649 658 668 677 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan72">Of course, we can take shortcuts. For example, we can compute and save the state every</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,287)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0 14 20 30 39 45 54 63 68 73 78 90 99 108 117 122 127 142 151 160 169 174 179 188 197 202 210 215 224 229 238 243 249 258 264 274 281 295 304 309 315 325 334 339 345 353 358 365 374 384 393 399 406 415 425 430 435 450 459 464 473 482 491 501 506 515 525 539 549 558 563 572 577 587 596 602 611 616 621 630"
+             y="0"
+             sodipodi:role="line"
+             id="tspan76">midnight. Then, when the state information is required, we need compute only the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,310)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text82"><tspan
+             x="0 5 12 21 30 38 47 56 61 67 77 86 94 99 107 113 122 131 140 145 159 165 175 184 190 199 208 213"
+             y="0"
+             sodipodi:role="line"
+             id="tspan80">transactions since midnight.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,353)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 14 24 39 44 53 63 72 80 86 96 105 112 117 122 131 140 145 155 164 169 178 183 191 196 206 213 222 231 240 245 252 261 271 280 286 293 302 312 317 323 333 340 345 350 359 365 373 378 386 395 404 413 427 436 442 447 463 472 477 492 502 511 517 527 532 541 550 559 569 574 583 588 594 604 609 614 624 630 635 641 646"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">Now consider the data storage required for this scheme: We would need a lot of it.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,376)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0 13 22 31 37 43 51 56 62 71 80 86 92 100 105 110 120 126 132 138 144 153 162 167 177 186 191 200 205 213 218 228 235 244 253 262 267 276 285 293 298 308 317 326 335 340 349 356 366 381 387 396 405 410 418 428 433 439 448 456 461 466 471 480 489 494 499 514 523 528 537 547 562 567 576 586 595 603 609 619 628"
+             y="0"
+             sodipodi:role="line"
+             id="tspan88">Realistically, offline data storage has been growing so fast that we now consider</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,399)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text94"><tspan
+             x="0 5 12 18 24 30 36 46 55 63 68 78 84 89 99 108 113 122 130 135 140 150 155 165 174 179 187 201 210 216 222 242 250 260 265 280 289 294 303 312 322 331 336 345 350 356 366 371 376 386 392 397 403 408"
+             y="0"
+             sodipodi:role="line"
+             id="tspan92">trillions of bytes to be small—so we have a lot of it.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,442)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 17 27 34 43 48 54 68 78 88 95 100 109 118 123 129 137 142 147 156 166 171 180 186 195 204 209 218 228 237 244 249 258 267 272 280 285 295 304 310 319 324 333 343 348 358 365 370 379 389 399 408 413 422 432 437 443 450 460 474 479 487 496 505 514 519 528 533 543 552 557 566 571 579 584 594 601 610 615 620 634 642 647"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">More importantly, nothing ever gets deleted or updated from such a data store. As a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,465)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0 9 19 28 36 45 55 64 73 82 91 100 105 110 120 129 136 141 150 160 170 176 182 191 200 205 211 221 230 238 243 252 259 268 273 282 292 297 302 315 328 341 355 360 365 370 379 388 397 402 411 418 427 432 438 447 455 460 465 478 491 496 501 515 521 529 539 544 549 559 568 577 586 595 603 612 617 626 635 641 646 655 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan100">consequence, our applications are not CRUD; they are just CR. Also, because neither</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,488)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 9 19 29 38 43 52 60 65 74 84 91 96 106 115 121 130 135 141 151 160 168 173 183 192 201 210 217 222 228 237 242 247 256 265 270 280 289 294 303 308 316 321 331 338 347 352 357 362 371 380 387 396 401 410 419 428 437 447 452 457 467 476 481 490 499 508 513 522 532 541 550 559 566 573 582 591 596 601 610 620 630 639 644"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">updates nor deletions occur in the data store, there cannot be any concurrent update</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,511)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 6 14 22 31 40 48"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">issues.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,554)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 6 12 17 32 41 46 55 64 74 83 88 97 106 116 125 134 143 148 156 161 171 178 187 196 205 210 219 228 238 243 252 261 271 280 289 298 303 313 320 330 339 348 356 364 374 381 386 396 406 421 430 436 441 446 461 470 475 484 493 502 507 521 530 539 548 553 563 572 579 584 593 603 613 619 625 634 643 648 654 664 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">If we have enough storage and enough processor power, we can make our applications</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,577)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0 9 18 23 29 36 45 51 60 65 71 85 99 108 113 122 132 138 147 167 176 185 195 200 205 210 219 228 235 244 250 260 267 276 281"
+             y="0"
+             sodipodi:role="line"
+             id="tspan116">entirely immutable—and, therefore, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3766,577)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 9 18 23 29 36 45 51 60 65 71 80 89 98 103 109 119 128 137"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">entirely functional</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3909,577)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0"
+             y="0"
+             id="tspan124">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,620)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 6 12 17 22 31 37 45 50 58 63 69 75 81 86 94 104 113 122 132 140 145 154 164 172 181 188 198 203 208 214 219 224 238 244 253 262 267 272 281 290 296 306 311 317 323 328 337 347 356 361 368 377 391 400 414 424 433 440 449 459 464 469 478 487 492 497 502 511 517 525 530 536 544 549 559 566 575 584 590 598 607 613 622 627 632 641 650 655 670 679"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">If this still sounds absurd, it might help if you remembered that this is precisely the way</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,643)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 9 19 28 35 40 48 58 67 74 83 92 97 106 116 126 135 140 149 159 168 173 180 190 196 201 209 218 226 231 240 254 259 274 284 291 300 308"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">your source code control system works.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,713)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0"
+             y="0"
+             id="tspan136">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3504,713)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 26 50 74 96 120 138 151 177"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">ONCLUSION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,758)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 10 20 25 33 42 56 70 79 86 92 100 109"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">To summarize:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3481,801)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 7 12 23 28 35 44 53 58 67 74 83 93 98 108 115 125 134 141 150 164 178 184 193 202 207 213 221 226 236 242 250 259 265 275 281 287 296 305 310 316 330 340 350 358 367 377 382 391 401 411 420 425 435 441 448 457 466 471 476 481 488 497 506 514 520 529 536 541 551 557 562 571 581 590 595 602 612 618"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">• Structured programming is discipline imposed upon direct transfer of control.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3481,830)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 7 12 26 36 42 51 60 65 72 82 89 95 104 113 118 127 137 142 152 159 169 178 185 194 208 222 228 237 246 251 257 265 270 280 286 294 303 309 319 325 331 340 349 354 360 374 384 394 402 411 421 426 435 445 455 464 469 475 484 494 500 507 516 525 530 535 540 547 556 565 573 579 588 595 600 610 616 621 630 640 649 654 661 671 677"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">• Object-oriented programming is discipline imposed upon indirect transfer of control.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3481,858)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 7 12 23 32 41 50 55 61 71 80 89 95 100 110 117 127 136 143 152 166 180 186 195 204 209 215 223 228 238 244 252 261 267 277 283 289 298 307 312 318 332 342 352 360 369 379 384 393 403 413 422 427 437 446 453 459 468 478 484 493 498 507 515 523 529 538 547 561 570 579 584"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">• Functional programming is discipline imposed upon variable assignment.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,901)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 12 21 30 39 44 54 60 65 70 79 88 96 105 110 115 124 131 140 149 154 164 173 180 189 199 205 214 228 236 241 250 259 267 272 277 286 295 304 313 318 326 336 350 359 364 373 379 388 397 402 411 426 435 444 449 455 462 472 486 491 500 508 513 518 530 539 548 557 562 569 578 586 591 598 604 613 618 626 631 639 649 663"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">Each of these three paradigms has taken something away from us. Each restricts some</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,924)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 9 17 27 36 45 50 55 65 71 76 81 90 99 104 119 128 137 142 157 166 171 186 193 199 204 213 218 227 237 247 256 261 266 280 290 299 308 313 323 329 334 339 348 357 371 376 385 394 402 407 416 426 436 445 455 460 465 475 480 490 499 506 511 521 531 546 555 562 567 577 584 589 599 608"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">aspect of the way we write code. None of them has added to our power or our</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,947)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 9 18 28 37 47 53 59 65 70 76 85 93"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">capabilities.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,990)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 18 27 36 41 46 61 70 75 84 93 103 112 117 123 132 141 148 157 166 176 181 191 201 210 217 222 227 236 245 250 256 265 273 278 283 292 301 307 313 320 329 338 347 352 361 368 377 382 388 396"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">What we have learned over the last half-century is </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3881,990)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 15 24 33 38 43 52 62 67 72 77 87 92 102"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">what not to do</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3993,990)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0"
+             y="0"
+             id="tspan180">.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

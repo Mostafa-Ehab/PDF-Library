@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 14616,0 h 696 v 1056 h -696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 14616,66 h 696 v 930 h -696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-14616)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-14616)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(14616,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 12 21 30 35 48 62 73 84 89 98 107 113 119 124 129 139 144 154 160 170 179 188 193 202 207 212 221 229 238 243 249 259 269 278 287 297 302 308 314 323 332 337 342 351 357 365"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">The BOSS call to block a task looked like this:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14617,130)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">block(eventCheckFunction);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,178)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 12 21 27 35 40 49 58 64 70 75 83 92 100 110 119 128 138 147 157 162 167 176 185 190 199 208 215 222 231 240 245 250 255 264 272 281 286 291 301 307 316 325 334 344 349 354 363 372"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">This call suspended the current task, placed the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14993,178)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">eventCheckFunction</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(15178,178)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 6 15 20 25 34 43 48 58 68 74 80 86 95"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">in the polling</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,201)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 6 12 20 25 30 35 44 53 63 68 77 85 93 103 112 118 127 132 141 151 156 162 167 172 187 193 198 207 212 217 226 235 240 249 258 273 279 288 293 303 309 319 328 337 346 356 361 366 375 383 392 397 402 408 413 418 423 432 441 450 455 470 479 485 490 499 509 514 520 529 534 539 548 557 562 572 582 588 594 600 609 618 623 629 639 649 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">list, and associated it with the newly blocked task. It then waited in the polling loop,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,224)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 9 18 24 30 36 45 54 59 68 77 86 95 100 110 116 121 126 135 144 149 155 164 173 182 187 193 203 212 220 225 231 240 245 250 259 268 273 283 293 299 305 311 320 329 334 340 346 354 359 364 373 382 387 393 399 404 414 423 432 437 447 453 458 463 472 481 495 500 507 516 521 530 537 546 555 565"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">calling each of the functions in the polling list until one of them returned </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(15186,224)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">true</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(15226,224)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 5 10 22 31 40 45 50 59 67"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">. The task</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,247)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 9 17 25 35 44 50 59 64 73 83 88 103 109 114 123 128 133 142 151 156 161 167 176 185 194 199 205 215 224 229 244 253 261 266 271 280 289 298 303 312 318 324 334 349 358 368 373 378 388 393 400 409 418"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">associated with that function was then allowed to run.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,290)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 6 15 20 30 35 44 53 60 65 80 90 97 107 115 120 125 134 142 147 153 158 166 175 181 191 196 206 215 221 231 238 247 252 257 263 268 273 288 297 305 310 319 324 332 338 352 362 368 377 382 387 396 406 415 425 432 441 450 464 474 479 485 495 504 509 514 523 531 540 545 553 568 574 579 588 597 606 612"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">In other words, as I said before, it was a simple, nonpreemptive task switcher.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 12 21 27 35 40 48 58 64 69 84 93 100 109 114 124 133 142 151 165 174 179 184 193 202 207 217 226 234 240 248 253 259 269 276 281 290 295 305 314 322 327 332 341 350 364 374 383 390 395 405 411 416 426 433 443 449 458 467 472 480 485 495 505 514 521 526 531 540 549 554 560 570 576 582 592 607 613 622 631 636 645 654 663 670 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">This software became the basis for a vast number of projects over the following years.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,356)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 13 22 27 32 42 51 60 65 75 81 86 91 100 109 114 120 126 133 141 146 151 166 175 183 188 193 202 211 216 226 239 252 265"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">But one of the first was the pCCU.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,426)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0"
+             y="0"
+             id="tspan82">p</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14634,426)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 24 48"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">CCU</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,471)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 12 21 30 35 41 50 55 64 69 79 89 99 109 117 122 131 140 150 155 164 173 180 186 195 200 210 220 230 240 248 253 268 277 284 293 298 307 312 317 326 340 349 355 360 369 379 388 396 401 406 412 426 435 440 446 456 463 468 473 482 488 497 507 516 526 535 544 549 558 568 582 592 601 610 616 625 633 638 643 657 666"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">The late 1970s and early 1980s were a tumultuous time for telephone companies. One</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,494)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 10 16 21 26 35 44 49 57 67 76 83 92 101 109 114 124 130 135 140 149 158 163 168 173 182 196 205 211 216 221 236 245 253 258 263 272 281 286 296 302 311 317 322 331 337 342 349 358 368 378 384 393 398 404 414 423"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">of the sources of that tumult was the digital revolution.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,537)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 11 21 28 33 38 47 56 61 71 78 87 96 105 115 121 130 139 144 153 162 171 176 185 192 200 205 210 215 224 233 238 247 257 266 275 284 293 298 304 314 323 328 338 347 352 367 376 385 394 399 404 413 422 427 436 445 454 459 466 475 481 486 494 509 515 520 529 538 544 553 562 567 577 583 589 595 604 613 618 627 636 646 651 656 665"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">For the preceding century, the connection between the central switching office and the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,560)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 9 18 26 31 41 55 64 72 78 86 91 96 105 111 120 130 139 149 158 167 172 181 190 200 205 215 224 233 242 247 256 261 271 280 286 293 298 308 314 319 328 338 348 358 367 374 379 394 400 407 416 424 429 434 446 455 464 472 481 486 501 507 514 523 531 536 551 560 567 576 581 591 600 609 619 625 634 644 649 655 664 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">customer’s telephone had been a pair of copper wires. These wires were bundled into</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,583)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 9 18 28 34 43 51 56 61 70 79 84 89 97 107 114 123 132 142 147 153 162 167 176 181 190 199 208 217 222 231 240 245 260 270 277 286 291 300 309 316 326 334 342 347 352 361 370 375 384 394 403 412 417 424 433 441 447 457 466 471 476 488 497 506 515 520 535 544 551 560 565 573 583 597 606 611 617 631 640"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">cables that spread in a huge network across the countryside. They were sometimes</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,606)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 9 18 25 32 38 47 57 62 72 81 86 96 106 112 121 129 134 139 148 157 167 172 180 190 204 213 218 224 238 247 255 260 270 279 286 292 301 311 316 325 334 344 353 360 369 376 386 395 404 414"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">carried on poles, and sometimes buried underground.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,649)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 13 23 33 43 52 59 64 70 78 83 92 97 107 114 123 132 138 148 157 165 170 184 193 198 207 213 218 223 232 241 251 256 261 270 279 284 294 303 313 322 331 336 345 355 369 379 388 397 406 411 420 429 439 444 449 459 468 476 481 488 494 500 505 514 521 530 536 542 551 556 561 571 580 588 595 600 610 616 621 627"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">Copper is a precious metal, and the phone company had tons (literally tons) of it</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,672)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 9 19 29 38 45 51 60 69 74 79 88 97 102 111 121 130 139 144 151 159 164 169 181 190 199 204 213 222 232 238 243 252 258 263 269 278 288 297 305 310 324 333 342 347 352 367 376 384 389 398 407 417 424 438 448 457 465 470 475 492 501 510 519 524 534 540 545 550 559 568 573 578 587 596 606 612 617 626 632 637 646 656 665 671"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">covering the country. The capital investment was enormous. Much of that capital could</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,695)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 10 19 24 31 40 49 55 64 70 84 93 103 108 118 127 132 137 144 153 162 170 180 190 197 202 208 217 226 231 236 245 254 259 264 273 279 288 298 307 317 326 335 340 349 359 368 378 387 394 402 411 416 422 432 441 446 456 466 475 482 487 497 503 512 518 523 532 538 543 552 562 571 580 589 598 603 609 619 628 636 641 646"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">be reclaimed by transporting the telephone conversation over digital connections. A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,718)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 8 14 23 32 38 47 52 62 71 77 84 89 99 105 110 119 129 139 149 158 165 170 185 191 198 207 215 220 229 239 248 254 264 269 278 287 294 301 310 315 324 333 342 352 359 368 378 386 391 401 407 412 421 431 440 450 459 466 474 483 488 494 504 513 521 526 532 541 546 556 562 571 577 582 591 597 602 608 618 625 639"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">single pair of copper wires could carry hundreds of conversations in digital form.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,761)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 6 15 20 27 36 44 54 64 73 81 90 95 100 105 114 123 128 138 147 157 166 175 180 189 199 213 223 232 241 247 256 264 269 278 292 302 311 318 327 336 346 351 360 370 380 389 394 399 408 417 422 432 439 449 458 467 475 483 488 498 504 509 516 525 535 541 550 559 565 574 583 588 593 602 611 617 624 629 639 645"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">In response, the phone companies embarked upon the process of replacing their old</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,784)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 9 18 27 33 43 52 57 66 75 84 89 96 105 111 116 124 139 145 150 159 168 174 183 192 197 206 216 225 231 241 255 264 273 278 283 298 304 309 318 323 337 347 357 366 373 382 387 397 403 412 418 423 432 438 443 451 466 472 477 486 495 504 512"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">analog central switching equipment with modern digital switches.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,827)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 14 23 30 35 45 52 62 71 77 82 92 99 109 119 128 137 142 147 152 161 169 174 183 193 198 207 217 227 237 246 253 258 273 279 286 295 303 308 313 322 332 337 342 352 358 367 373 378 387 393 398 407 417 426 435 444 453 458 464 474 483 491 496 501 513 522 531 538 547 552 567 576 583 592 597 605 610 616 622 628 633 643 649 658 667 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">Our 4-Tel product tested copper wires, not digital connections. There were still plenty</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,850)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 10 16 21 30 40 50 60 69 76 81 96 102 109 118 126 131 137 146 151 160 165 175 181 190 196 201 210 216 221 230 239 249 255 262 272 281 295 304 313 318 323 328 338 347 352 357 362 371 380 389 394 409 418 425 434 439 453 462 471 480 485 493 502 512 519 524 533 540 545 550 559 568 577 582 592 601 607 617 624 633 638 643 652 661"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">of copper wires in a digital environment, but they were much shorter than before, and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,873)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 5 14 23 32 37 52 61 68 77 82 88 98 107 116 122 128 136 145 155 160 169 178 187 194 199 204 213 222 227 236 245 253 258 268 282 291 299 305 313 318 323 332 338 347 357 366 376 385 394 402 407 412 424 433 442 447 455 461 470 479 488 494 499 514 524 533 539 549 554 564 573 578 587 596 603 610 616 625"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">they were localized near the customer’s telephones. The signal would be carried</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,896)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 10 16 25 31 36 45 51 57 66 71 77 84 94 108 113 118 127 136 141 150 159 168 173 180 189 195 200 210 216 222 228 237 246 251 256 266 271 280 285 291 301 310 319 325"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">digitally from the central office to a local </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14946,896)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 10 16 24 29 36 42 52 61 66 72 82 91 96 106 116 122 131 136 141 146 161 170 179 186 195 200 206 211 216 231 241 250 256 266 271 281"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">distribution point, where it would be</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,919)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 9 19 28 38 47 54 59 68 78 83 93 102 111 120 125 130 140 145 154 163 168 177 186 195 201 211 220 225 233 239 248 257 266 272 277 286 295 305 310 320 326 334 339 346 352 362 371 376 385 395 400 405 415 420 425 434 443 448 457 466 474 479 489 503 512 519 524 534 544 553 560 565 573 578 587 596 606 615 622 632 637 646 656 666 676 685"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">converted back to an analog signal and distributed to the customer over standard copper</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,942)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 15 21 28 37 45 50 55 67 76 82 90 95 109 118 127 136 141 146 151 160 169 174 179 189 198 205 210 224 233 242 250 259 266 275 289 298 307 312 317 327 336 346 352 361 370 375 384 393 402 412 421 431 436 441 451 456 466 475 480 486 496 505 514 519 528 538 543 553 562 567 572 587 596 605 612 621 626 631 640"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">wires. This meant that our measurement device needed to be located out where the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,965)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 9 19 29 39 48 55 60 75 81 88 97 105 110 120 129 138 147 156 161 166 176 185 190 195 205 214 221 226 236 242 251 257 263 272 281 286 296 305 315 321 330 339 344 353 362 371 381 390 400 405 410 420 425 432 441 455 464 470 479 484 493 498 503 508 517 526 531 540 549 558 563 570 579 585 590 600 606 612 618 627 636 641 646 658 667"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">copper wires began, but our dialing device needed to remain at the central office. The</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(14616,988)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 10 17 27 37 43 52 66 71 86 95 103 108 113 122 131 136 141 150 156 162 167 177 186 193 198 211 225 234 244 252 257 266 280 290 300 310 316 325 335 340 350 360 365 374 379 389 395 404 410 416 425 434 439 448 457 467 472 486 495 504 512 521 528 537 551 560 569 574 579 585 594 599 604 613 622 627 635 644 658"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">problem was that all our COLTs embodied both dialing and measurement in the same</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

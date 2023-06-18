@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 5568,0 h 696 V 1056 H 5568 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 5568,66 h 696 V 996 H 5568 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-5568)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-5568)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(5568,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 6 15 24 33 38 44 54 63 71 76 86 95 101 107 116 125 135 140 150 159"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">functions defined by </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5732,83)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">FILE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5772,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 5 10 15 24 33"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">, the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5810,83)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">copy</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5855,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 10 17 27 36 43 52 66 71 86 92 98 104 109 119 128 133 142 151 161 171 180 185 190 200 205 214 222 231 236 241 250 259 273"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">program will be happy to use them.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,126)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 6 15 20 28 37 47 54 59 64 69 74 83 92 97 103 117 122 132 141 151 157 166 175 183 188 197 206 216 225 230 240 249 258 268 282 291 296 306 312 321 330 336 345 353 358 363 373 378 383 392 401"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">In short, the IO devices have become plugins to the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5974,126)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">copy</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6019,126)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 10 17 27 36 43 52 66"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">program.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,169)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 18 27 36 41 51 57 67 72 77 86 95 100 113 127 133 147 152 162 172 181 188 197 202 208 217 226 231 239 248 256 261 270 284 289 303 312 321 330 335 341 355 360 370 379 389 395 404 413 421 426 436 442 451 460 466 475 483 492 497 510 519 528 537 546 554 563 568 583 592 597 603 612 621 628 637 646 656 661 666 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">Why did the UNIX operating system make IO devices plugins? Because we learned, in</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,192)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 5 14 23 28 34 43 48 57 62 72 82 92 102 110 115 120 125 134 143 148 153 163 172 179 184 194 201 211 220 227 236 250 258 263 271 280 290 299 305 315 320 330 339"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">the late 1950s, that our programs should be </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5912,192)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 10 19 29 35 44 53 58 64 73 83 92 102 111 120 130 139 148"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">device independent</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6065,192)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 5 10 28 37 46 55 60 73 82 91 100 109 117 126 131 146"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">. Why? Because we</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,215)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 15 22 32 37 46 51 57 67 72 80 85 95 101 106 116 123 133 142 149 158 172 180 185 190 199 208 213 218 233 242 249 258 263 273 282 292 298 307 316"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">wrote lots of programs that were device </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5889,215)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 10 19 29 38 47 57 66 75"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">dependent</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5969,215)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 5 10 20 29 35 44 49 54 64 69 79 85 93 102 112 122 131 138 143 148 157 166 171 176 191 200 205 212 221 230 236 242"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">, only to discover that we really</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,238)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 15 24 33 38 47 57 62 67 76 86 94 103 108 118 125 135 144 151 160 174 182 187 192 202 207 217 227 232 237 246 255 260 268 277 291 300 305 311 321 331 336 346 355 360 365 374 382 391 396 405 410 420 426 432 438 447 454 463 472 477 482 492 501 511 517 526 535"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">wanted those programs to do the same job but use a different device.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,284)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 11 21 28 33 42 51 60 74 84 90 99 104 109 124 133 138 148 154 159 168 177 182 197 204 214 219 228 233 243 250 260 269 276 285 299 307 312 317 326 335 340 345 352 361 370 380 385 391 400 410 419 424 429 439 448 453 462 467 473 480 490 504 509 519 528 537 546 554 559 569 575 580 589 598 605 615 623"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">For example, we often wrote programs that read input data from decks of cards,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6196,277)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0"
+             y="0"
+             id="tspan98">6</tspan></text>
+        <path
+           d="m 6196,278.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path102" />
+        <text
+           xml:space="preserve"
+           transform="translate(6208,284)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 9 18"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,307)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 5 14 23 32 37 47 56 65 74 83 92 102 107 116 125 140 145 155 164 173 182 190 195 205 211 216 225 234 241 251 259 264 273 281 286 296 305 310 320 329 334 339 344 355 364 369 378 384 389 394 404 413 420 425 434 443 451 456 466 480 489 496 504 509 517 522 532 542 552 561 571 576 585 591 601 607 616 625 630 639"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">then punched new decks of cards as output. Later, our customers stopped giving us</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,330)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 10 19 28 37 45 50 60 66 71 80 89 96 106 114 119 128 137 147 152 160 165 174 181 186 195 205 210 219 225 235 241 250 259 264 273 281 286 293 302 311 317 325 330 340 346 351 365 374 383 392 401 406 412 421 426 431 440 450 459 464 469 481 490 496 504 509 524 533 541 546 556 565 572 581 586 592 601 610 620 629 639 648 657 663 672 681 686"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">decks of cards and started giving us reels of magnetic tape. This was very inconvenient,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,353)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0 10 19 28 37 46 54 63 68 74 79 84 98 107 116 125 130 135 142 151 166 173 179 184 190 199 208 213 219 228 235 244 253 258 268 278 285 290 296 306 315 323 328 338 344 349 354 363 372 377 387 394 400 409 415 424 433 439 444 454 461 471 480 487 496 510 515 520 526 531 536 551 561 570 576 586 591 601 610 615 625 634 641"
+             y="0"
+             sodipodi:role="line"
+             id="tspan116">because it meant rewriting large portions of the original program. It would be very</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,376)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 9 19 28 38 47 56 62 71 80 85 90 96 102 107 112 121 130 135 143 152 166 175 180 190 197 207 216 223 232 246 251 266 276 283 292 301 311 316 322 331 336 345 352 361 370 379 388 397 406 415 425 431 440 445 460 466 471 480 485 494 503 510 520 528 533 543 550 555 560 569 579 588"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">convenient if the same program worked interchangeably with cards or tape.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,419)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 12 21 30 35 45 51 60 69 75 84 89 98 105 114 123 129 134 143 152 157 166 173 182 187 202 211 219 224 230 239 249 258 267 272 281 291 296 301 311 316 324 333 343 353 363 370 375 380 385 394 400 408 413 422 428 437 447 452 462 468 473 479 493 498 508 517 527 533 542 551 556 562 571 581 590 600 609 618 628 637 646 655 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">The plugin architecture was invented to support this kind of IO device independence,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,442)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 9 18 28 33 42 51 59 64 74 83 92 101 106 112 126 136 142 151 165 174 183 188 197 207 212 218 227 232 241 247 261 271 279 284 289 298 308 317 324 333 338 348 358 367 374 383 388 394 403 412 417 425 434 442 447 456 470 475 483 489 498 507 516 521 527 532 540 545 551 560 565 572 582 592 601 610 615 621 631 640 645 650 662 672 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">and has been implemented in almost every operating system since its introduction. Even</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,465)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 8 18 23 28 42 52 60 65 70 80 87 97 106 113 122 136 150 159 166 174 179 189 195 205 210 219 229 234 239 248 257 262 271 280 290 295 300 309 318 323 329 339 348 357 362 367 377 382 387 396 405 411 418 423 433 448 457 462 472 479 489 498 505 514 528 536 541 546 556 565 574 583 592 600 609 614 623 631 637 646"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">so, most programmers did not extend the idea to their own programs, because using</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,488)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 10 20 26 35 40 49 56 64 69 74 84 89 95 104 113 122 127 133 143 152 160 165 180 189 197 202 212 221 230 239 248 255 265 274 282"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">pointers to functions was dangerous.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,531)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 14 28 33 42 48 54 64 79 87 92 97 106 115 120 130 136 145 154 160 169 174 183 190 199 208 214 219 228 237 242 251 258 267 272 277 287 292 302 311 316 325 333 342 352 357 366 375 384 399 408 417 424 433 438 443 449 459 466 471 480 489 498 503 512 518 527 536"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">OO allows the plugin architecture to be used anywhere, for anything.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,581)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0"
+             y="0"
+             id="tspan144">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5585,581)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 15 30 45 62 79 94 111 128"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">EPENDENCY</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5734,581)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0"
+             y="0"
+             id="tspan152">I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5743,581)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 17 33 48 65 78 87 105"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">NVERSION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,624)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 6 20 29 38 44 53 62 67 82 91 100 105 110 118 128 134 139 154 163 170 179 184 199 208 216 221 227 233 242 251 256 266 275 281 291 298 307 312 321 326 334 343 349 358 363 372 381 391 396 405 415 424 434 443 452 458 467 476 481 486 500 509 518 527 536 545 551 559 573 578 584 594"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">Imagine what software was like before a safe and convenient mechanism for</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,647)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 10 20 26 35 49 59 66 76 85 91 99 113 118 133 142 150 155 164 174 183 189 195 204 214 220 229 234 239 245 254 259 264 273 282 287 292 301 311 317 326 335 341 346 355 364 370 376 382 391 400 405 410 417 426 435 440 445 459 468 474 483 488 494 503 512 521 526 532 542 551 559 564 573 582 588 594 603 613 618 627 633 642 651"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">polymorphism was available. In the typical calling tree, main functions called high-</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,670)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 6 15 25 34 40 45 51 60 69 78 83 89 99 108 116 121 126 141 150 156 165 174 179 188 197 203 209 218 228 233 247 253 263 270 276 285 295 304 310 315 321 330 339 348 353 359 369 378 386 391 396 411 420 426 435 444 449 458 467 473 479 488 498 503 509 519 534 541 547 556 566 575 581 586 592 601 610 619 624 630 640 649 657 662 667 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">level functions, which called mid-level functions, which called low-level functions. In</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,693)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 5 14 23 28 33 42 51 57 63 69 78 87 92 97 104 113 122 127 132 141 151 166 175 185 194 200 205 210 218 228 237 244 253 262 267 276 286 296 305 310 320 329 339 348 357 367 376 385 394 400 409 417 422 428 437 446 455 465 472 481 491 497 506 511 517 527 533 539 549 564 573 583 588 593 602 611 616 622 628 638 653 658 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">that calling tree, however, source code dependencies inexorably followed the flow of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,716)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 9 19 28 33 40 50 56 61"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">control (</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5636,716)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 11 17 26 35 42 51 56 66 71"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">Figure 5.1</tspan></text>
+        <path
+           d="m 5636,717.5 h 80 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path184" />
+        <text
+           xml:space="preserve"
+           transform="translate(5717,716)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 7"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">).</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

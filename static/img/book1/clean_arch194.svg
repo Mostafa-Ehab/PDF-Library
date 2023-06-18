@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 2088,0 h 696 V 1056 H 2088 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 2088,66 h 696 V 996 H 2088 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-2088)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-2088)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(2088,87)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0"
+             y="0"
+             id="tspan30">I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2097,87)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 17 32 47 64 77 93 110"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">NTERFACE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2228,87)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0"
+             y="0"
+             id="tspan38">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2244,87)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 17 33 48 63 78 95"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">DAPTERS</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,130)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 12 21 30 35 43 53 59 64 79 88 95 104 109 115 124 129 134 143 152 157 163 172 177 186 193 199 208 217 226 231 240 250 259 269 274 283 290 298 303 309 318 327 336 343 348 354 362 367 376 381 389 398 403 408 418 424 429 438 448 457 467 472 481 488 496 501 506 515 524 529 534 543 553 562 572 581 588 593 598 608 617 622 631 636 642 649 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">The software in the interface adapters layer is a set of adapters that convert data from</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,153)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 5 14 23 28 34 44 51 65 74 79 84 98 108 116 121 126 135 145 154 164 173 182 188 197 206 211 216 222 232 239 244 249 258 267 272 281 289 298 303 312 321 329 338 346 351 360 369 379 384 393 402 407 413 418 424 433 441 446 451 456 466 471 476 485 494 499 505 515 522 536 545 550 555 569 579 587 592 597 606 616 625 635 644 653 659 668 677"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">the format most convenient for the use cases and entities, to the format most convenient</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,176)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 6 16 23 28 36 46 60 69 74 83 92 97 106 113 122 131 137 142 151 160 169 178 187 196 201 209 218 227 236 241 250 258 263 268 277 286 291 301 310 315 324 334 343 351 360 365 375 382 387 392 401 410 415 430 439 449 454 459 465 470 475 481 489 494 499 508 514 522 527 533 542 551 560 566 571 576 582 592 599 604 613 622 631 645 655 661 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">for some external agency such as the database or the web. It is this layer, for example,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,199)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 5 14 23 28 33 48 54 60 66 71 86 95 105 111 117 126 131 140 150 159 164 173 179 188 193 198 207 216 221 238 251 264 269 278 285 294 303 309 314 323 332 337 346 353 362 367 377 383 388 397 402 416 429 435 440 445 457 466 475 480 490 497 506 514 523 532 537 546 553 561 566 571 581 587 596 611 619 624 629 638 647"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">that will wholly contain the MVC architecture of a GUI. The presenters, views, and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,222)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 9 19 28 33 40 50 56 62 71 78 86 91 100 106 112 117 127 136 142 152 161 170 175 181 190 195 200 209 218 223 229 238 243 252 259 265 274 283 292 297 306 316 325 335 340 349 356 364 369 375 384 393 402 408 413 418 430 439 448 453 467 477 487 496 502 510 515 524 531 540 545 551 557 566 575 581 590 595 601 610 618 623 628 638 647 652"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">controllers all belong in the interface adapters layer. The models are likely just data</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,245)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 8 13 20 29 38 43 52 59 68 76 81 86 95 104 109 114 123 130 139 144 154 163 171 179 188 198 203 209 216 226 240 245 250 259 268 273 282 292 301 306 313 323 329 335 344 351 359 364 369 379 384 389 398 407 412 421 429 438 443 452 461 469 478 486 491 496 505 514 524 529 534 543 552 561 566 576 585 594 603 608 614 621 631 645 650 655 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">structures that are passed from the controllers to the use cases, and then back from the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,268)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 9 17 26 31 40 49 57 66 74 79 84 94 99 104 113 122 127 137 144 153 161 170 179 184 193 200 208 213 222 231 241 246 256 262 271 286 294"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">use cases to the presenters and views.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,311)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 11 17 31 37 43 52 59 65 73 78 83 93 102 107 116 121 127 135 140 149 159 168 178 187 194 199 208 218 223 228 234 243 248 253 262 268 276 281 287 296 305 314 320 325 330 336 343 353 367 372 377 386 395 400 406 416 423 437 442 456 466 474 479 484 493 503 512 522 531 540 546 555 564 569 574 580 590 597 602 611 620 625 631 636 642 651 659 664 673 682"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">Similarly, data is converted, in this layer, from the form most convenient for entities and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,334)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 9 17 26 31 40 49 57 66 74 79 84 89 99 104 109 118 127 132 138 148 155 169 174 188 198 206 211 216 225 235 244 254 263 272 278 287 296 301 306 312 322 329 334 349 358 367 372 381 391 400 407 412 422 431 438 446 452 460 465 474 483 492 501 506 512 519 528 542 551 566 576 583 592 597 603 611 616 626 635 641 650"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">use cases, to the form most convenient for whatever persistence framework is being</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,357)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 9 17 26 36 41 48 54 59 68 73 78 83 88 97 106 111 121 130 135 144 154 163 171 180 187 192 197 211 221 226 235 245 255 264 269 275 284 299 308 315 325 330 340 346 351 356 365 371 379 384 393 399 406 415 421 430 435 443 452 462 471 477 487 492 501 510 520 535 540 549 558 567 572 581 587 596 605 610 619 624 629 638 644"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">used (i.e., the database). No code inward of this circle should know anything at all</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,380)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 9 19 29 38 43 48 53 62 71 76 86 95 100 109 119 128 136 145 150 155 161 167 172 177 186 195 200 210 219 224 233 243 252 260 269 274 280 288 293 302 307 318 332 342 347 357 366 371 380 390 399 407 416 421 426 431 440 449 458 463 472 478 484 489 500 514 524 529 537 546 556 565 571 581 586 596 605 610 617 626 634 639 646 652 661 666 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">about the database. If the database is a SQL database, then all SQL should be restricted</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,403)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 5 15 20 25 34 40 48 53 59 68 77 86 93 113 122 131 141 146 152 161 166 176 185 192 197 203 212 221 227 236 243 248 253 263 268 273 282 291 296 306 315 322 327 335 340 350 356 361 366 375 381 389 394 400 409 418 427 434 439 444 453 462 467 472 481 490 500 509 514 519 529 534 544 554 559 574 580 585 594 599 604 613"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">to this layer—and in particular to the parts of this layer that have to do with the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,426)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 10 19 24 33 43 52 60 69"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">database.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,469)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 14 20 28 38 43 49 58 63 68 77 83 91 96 102 111 120 129 136 141 147 155 160 169 178 187 192 202 207 216 225 232 237 246 256 265 275 280 289 296 301 310 319 328 337 345 353 362 369 378 383 388 398 403 412 422 431 441 450 457 462 467 477 486 491 500 505 511 518 528 542 547 555 565 579 588 593 602 611 616 625 632 641 650"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">Also in this layer is any other adapter necessary to convert data from some external</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,492)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 6 16 23 37 42 47 55 64 73 82 87 96 104 109 118 127 132 141 150 155 164 171 180 189 195 200 208 217 224 234 240 249 258 263 268 273 283 288 293 302 311 316 322 331 336 345 352 361 370 376 381 387 397 404 418 423 432 440 449 459 464 474 483 488 493 502 511 516 525 533 542 547 556 565 573 582 590 595 604 613 623 628 637 646 651 657 662 668 677 685"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">form, such as an external service, to the internal form used by the use cases and entities.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,542)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0"
+             y="0"
+             id="tspan106">F</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2103,542)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 17 33 56 71 93 111 128 146 159 165 181 198"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">RAMEWORKS AND</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2324,542)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0"
+             y="0"
+             id="tspan114">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2341,542)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 17 26 42 57 74"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">RIVERS</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,585)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 12 21 30 35 45 54 59 68 75 89 99 107 112 117 123 132 141 150 157 162 172 178 183 188 197 206 211 225 235 245 254 260 265 271 280"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">The outermost layer of the model in </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2373,585)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 11 17 26 35 42 51 56 66 76 81"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">Figure 22.1</tspan></text>
+        <path
+           d="m 2373,586.5 h 90 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path130" />
+        <text
+           xml:space="preserve"
+           transform="translate(2469,585)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 6 14 19 28 37 46 55 62 71 77 83 92 97 106 116 130 140 150 158 167 177 182 192 198 203 209 216 225 239 248 263 273 280 289"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">is generally composed of frameworks</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,608)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 9 18 28 33 38 48 58 64 72 77 85 94 103 112 117 126 134 139 144 153 162 167 177 186 191 200 210 219 227 236 241 250 259 269 274 279 288 297 302 317 326 336 341 347 354 363 377 386 401 411 418 427 432 437 451 460 469 478 485 494 500 506 515 520 529 539 548 553 563 573 582 589 594 599 614 621 627 632 641 646 660 669 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">and tools such as the database and the web framework. Generally you don’t write much</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,631)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 9 19 29 38 43 49 58 63 68 77 83 91 96 102 111 120 129 135 140 145 155 160 169 178 185 190 195 204 213 222 227 236 242 251 260 265 274 284 294 303 308 313 322 331 336 341 350 360 374 388 397 406 412 421 430 435 444 452 457 462 472 477 482 491 500 505 514 523 532 537 542 551 557 564 573 579 588 593 599 608 623 632 639 649"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">code in this layer, other than glue code that communicates to the next circle inward.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,674)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 12 21 30 35 41 48 57 71 80 95 105 112 121 129 134 143 152 162 167 177 184 190 200 209 216 224 229 235 244 253 262 269 274 280 288 293 308 317 326 333 342 347 356 362 368 373 378 387 396 401 411 420 425 434 440 446 454 459 468 478 483 488 500 509 518 523 538 547 557 562 568 576 581 590 595 605 614 619 628 634 640 645 650 662 671"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">The frameworks and drivers layer is where all the details go. The web is a detail. The</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,697)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 10 19 24 33 43 52 60 69 74 80 88 93 102 107 117 126 131 140 146 152 157 162 178 187 192 201 210 219 229 234 239 248 257 265 274 279 284 293 299 308 317 325 330 340 349 354 359 368 377 382 392 401 406 414 420 430 439 444 459 468 477 484 493 498 503 512 521 530 535 544 553 562 567 577 587 592 598 604 609 614 620 629 634 643 652 659 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">database is a detail. We keep these things on the outside where they can do little harm.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,746)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0"
+             y="0"
+             id="tspan152">O</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2106,746)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 17 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">NLY</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2157,746)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0"
+             y="0"
+             id="tspan160">F</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2172,746)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 18 35"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">OUR</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2230,746)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0"
+             y="0"
+             id="tspan168">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2247,746)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 9 26 43 58 73"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">IRCLES</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2333,746)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0"
+             y="0"
+             id="tspan176">?</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,789)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 12 21 30 35 44 50 57 66 72 81 89 94 100 109"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">The circles in </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2202,789)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 11 17 26 35 42 51 56 66 76 81"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">Figure 22.1</tspan></text>
+        <path
+           d="m 2202,790.5 h 90 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path188" />
+        <text
+           xml:space="preserve"
+           transform="translate(2298,789)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text192"><tspan
+             x="0 9 16 25 30 36 45 50 59 68 78 87 97 102 107 117 122 132 141 146 154 163 172 181 195 204 209 215 224 230 235 247 257 266 271 285 294 303 308 314 320 329 339 344 349 358 367 372 377 386 396 405 410 419 428 437"
+             y="0"
+             sodipodi:role="line"
+             id="tspan190">are intended to be schematic: You may find that you need</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,812)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0 14 24 31 40 45 50 59 68 77 82 88 97 105 110 115 120 129 138 146 155 160 166 176 185 191 196 201 213 222 231 238 247 253 261 266 275 285 290 297 306 312 321 326 331 340 349 354 359 367 376 385 393 398 407 417 426 431 445 454 462 467 472 481 487 502 511 520 528 533 542 551 561 570"
+             y="0"
+             sodipodi:role="line"
+             id="tspan194">more than just these four. There’s no rule that says you must always have </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2663,812)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 6 15 23 28 33 38 47 56 64 73 78 84 94 103 109"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">just these four.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,835)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text204"><tspan
+             x="0 14 24 39 48 58 67 73 78 83 88 97 106 111 125 134 144 153 162 172 181 190 199 208 213 226 235 241 250 255 264 270 285 294 303 311 316 325 335 345 351 357 366 374 379 384 395 405 414 421 430 439 444 453 463 473 482 487 497 506 516 525 534 544 553 562 571 577 586 594 599 608 614 629 638 647"
+             y="0"
+             sodipodi:role="line"
+             id="tspan202">However, the Dependency Rule always applies. Source code dependencies always</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,858)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text208"><tspan
+             x="0 10 20 26 35 40 45 51 60 75 84 91 101 106 111 125 133 138 147 157 166 171 185 195 205 214 219 225 234 249 258 265 275 280 285 290 299 308 313 319 328 338 347 353 358 368 374 379 388 398 406 411 418 427 436 441 447 457 466 471 480 489 499 504 514 524 530 536 545 554 559 565 574 583 590 599 608 616 625 633 638 643 655 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan206">point inward. As you move inward, the level of abstraction and policy increases. The</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,881)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text212"><tspan
+             x="0 10 19 24 33 40 54 64 72 77 82 91 97 104 113 119 128 133 142 152 161 169 175 183 188 196 201 211 217 222 228 238 253 260 266 275 285 294 300 305 314 324 333 342 349 358 363 372 377 387 396 401 410 416 422 430 435 440 454 462 467 476 486 495 500 514 524 534 543 548 554 563 578 587 594 604 609 614 619 628"
+             y="0"
+             sodipodi:role="line"
+             id="tspan210">outermost circle consists of low-level concrete details. As you move inward, the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,904)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text216"><tspan
+             x="0 8 18 24 29 44 53 60 69 74 83 90 100 115 123 128 142 152 159 168 173 182 192 200 205 212 221 230 235 240 249 258 268 273 282 291 300 309 319 327 336 342 351 356 365 373 378 387 393 402 411 420 427 434 440 449 459 468 474 479 489 499 505 511 520 526 535 543 548 553 565 574 583 588 594 603 612 621 628 642 652 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan214">software grows more abstract and encapsulates higher-level policies. The innermost</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,927)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text220"><tspan
+             x="0 9 15 22 31 37 46 51 57 65 70 75 84 93 98 112 122 130 135 140 149 158 167 176 183 192 198 203 212 221 231 236 245 251 260 269 278 286 291 296 302 311 321 330 336"
+             y="0"
+             sodipodi:role="line"
+             id="tspan218">circle is the most general and highest level.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,977)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text224"><tspan
+             x="0"
+             y="0"
+             id="tspan222">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2105,977)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text228"><tspan
+             x="0 17 35 48 61 70 87"
+             y="0"
+             sodipodi:role="line"
+             id="tspan226">ROSSING</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2216,977)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text232"><tspan
+             x="0"
+             y="0"
+             id="tspan230">B</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2232,977)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text236"><tspan
+             x="0 18 35 52 69 85 102 111 126"
+             y="0"
+             sodipodi:role="line"
+             id="tspan234">OUNDARIES</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 16704,0 h 696 v 1056 h -696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 16704,66 h 696 v 930 h -696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-16704)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-16704)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(16704,82.67188)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 5 14 21 35 41 50 59 65 70 84 93 102 111 120 129 136 141 151 161 170 177 187 192 197 203 212 220 225 234 243 253 258 268 274 279 288 298 307 312 319 329 335 341 347 356 365 370 375 384 393 398 406 415 422 428 437 443 448 458 467 475 480 486 496 503 508 514 524 533 542 548 553 558 567 574 588 594 603 612 618 626"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">terminal manager board. Instead of controlling the serial bus for local terminals,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 9 19 34 43 53 62 68 73 78 84 89 94 99 109 119 128 133 138 147 156 161 170 179 188 195 204 213 218 227 234 239 247 252 259 268 277 291 296 305 314 324 329 343 352 358 363 369 379 385 394 403 412 422 427 433 438 443 453 463 472 479 484 493 498 506 512 521 530 536 545 550 560 570 580 590 597 607 617"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">however, it took the character stream and multiplexed it over a single 9600-bps</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 9 19 28 38 44 49 55 65 74 83 93 98 112 122 132 141 155 160 166 172 181 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">conditioned modem link.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,172)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 12 21 30 35 49 62 75 80 95 104 112 117 126 131 141 151 160 165 175 181 190 199 208 218 223 232 237 242 247 256 265 270 279 288 296 301 311 325 334 342 348 356 361 368 377 391 401 406 415 420 426 436 445 454 459 465 475 484 489 494 500 505 510 519 529 538 547 556 565 570 579 589 594 599 609 614 619 628 637 642 652 657 666 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">The DRU was a box placed at the customer’s remote location. It connected to the other</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 9 18 28 33 43 49 54 59 68 77 82 92 102 112 122 129 139 149 157 162 168 174 183 192 197 202 211 220 230 235 244 253 263 268 273 282 291 296 305 314 321 331 346 355 362 371 376 381 391 396 405 415 424 429 436 446 452 457 462 471 480 485 490 499 506 520 526 535 544 550 558 563 573 582 587 597 606"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">end of the 9600-bps link, and had the hardware to control the terminals on our</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 10 17 27 37 44 50 59 64 73 80 89 94 102 111 118 124 133 139 144 154 163 171 176 181 187 192 197 207 216 230 239 245 250 256 266 272 281 290 299 309 314 319 328 337 342 351 360 369 376 385 394 399 408 415 423 428 435 444 453 462 468 478 487 497 502 508 515 525 539 544 549 558 567 572 582 592 602 612 619 629 639 647 652 658 664 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">proprietary serial bus. It demultiplexed the characters received from the 9600-bps link</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 9 18 28 33 41 50 59 64 69 74 83 92 106 111 116 126 131 136 145 154 159 168 178 188 195 205 215 222 228 237 242 251 256 262 272 281 290 296 301 306 315 322 336 342 351 360 366 374"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">and sent them to the appropriate local terminals.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,284)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 11 16 23 32 41 50 59 64 69 75 83 92 99 104 109 115 120 129 134 150 159 164 173 182 192 197 202 212 217 226 235 244 250 259 268 277 284 289 298 303 311 321 327 336 341 347 357 366 371 376 385 394 399 404 413 423 438 447 457 466 475 483 488 494 502 507 515 525 530 539 549 555 565 574 580 585 595 604 612 617 632 641 646 655 664 674 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">Strange, isn’t it? We had to engineer a solution that nowadays is so ubiquitous we never</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,307)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 9 19 28 37 42 47 56 62 71 80 85 94 104 114 123 128 133 139 144 149 154 167 176 181 186 196 205 214 223 228 233 242 251 260 265"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">even think about it. But back then …</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,350)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 16 25 30 39 49 58 67 72 81 90 100 105 110 120 125 131 140 150 159 168 173 178 188 197 204 209 219 234 243 248 257 267 281 295 304 313 319 328 337 342 348 358 367 375 380 390 397 407 412 422 431 441 447 452 462 471 480 489 498 506 515 520 525 531 540 545 550 559 569 577 586 591 601 610 619 627"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">We even had to invent our own communications protocol because, in those days,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,373)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 8 13 22 31 41 50 57 67 72 81 91 105 119 128 137 143 152 161 166 172 182 191 199 204 214 221 231 236 246 255 265 271 279 284 299 308 315 324 329 338 348 353 358 368 378 387 396 401 409 419 428 435 444 453 458 466 475 484 491 500 515 524 531 540 545 550 556 565 575 584 593 603 608 613 618 627 633 641 646 661 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">standard communications protocols were not open source shareware. Indeed, this was</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,396)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 6 16 25 34 39 49 58 64 74 81 90 95 110 119 124 133 142 152 157 166 175 184 189 198 204 213 223 228 238 244 249 255 264 269 278 285 294 303 308 313 322 332 341 350 359 368 373 379 389 398"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">long before we had any kind of Internet connection.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,446)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0"
+             y="0"
+             id="tspan78">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16720,446)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 17 34 52 61 76 91 108 123 140 157"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">RCHITECTURE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,489)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 12 21 30 35 44 51 60 69 75 80 89 98 103 112 119 128 133 143 149 154 159 168 174 182 187 195 204 212 217 226 240 245 260 269 277 282 292 301 308 317 322 330 336 350 360 366 375 380 385 395 404 409 414 419 428 437 444 453 458 467 474 483 488 496 506 520 529 534 540 549 554 563 570 579 587 592 598 607 616 621 631 640 646 653 662 670 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">The architecture of this system was very simple, but there are some interesting quirks I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,512)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 15 24 33 38 43 48 58 63 72 78 87 96 102 108 117 126 131 136 141 152 158 165 173 178 183 188 198 208 213 222 227 236 245 251 256 264 269 278 286 295 305 310 320 329 336 341 351 361 371 381 386 391 400 409 418 427 437 443 453 462 470 475 480 489 498 508 513 523 533 538 547 552 567 576 583 592 597 612 619 625 630 635 644 653 658 664 673 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">want to highlight. First, both units used our 8085 technology, and both were written in C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,535)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 9 18 28 33 42 50 59 69 74 87 101 112 123 128 133 146 155 160 165 170 179 188 193 199 207 212 227 236 245 252 261 266 271 280 289 294 302 308 322 328 334 343 350 356 361 370 375 384 393 403 412 422"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">and used BOSS. But that’s where the similarity ended.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,578)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 12 21 30 37 46 51 66 75 82 91 96 101 116 126 131 141 147 152 161 169 174 184 193 198 203 212 221 226 236 243 253 259 268 277 282 287 292 298 303 318 327 335 340 345 354 363 368 378 385 395 401 410 419 424 429 435 444 453 463 468 473 482 491 501 506 523 529 538 547 552 565 574 581 590 605 610 625 634 642 647 661"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">There were two of us on the project. I was the project lead, and Mike Carew was my</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,601)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 9 15 25 33 42 47 56 64 72 82 91 97 106 111 120 125 130 136 141 146 156 166 175 180 190 199 204 209 218 227 232 242 251 259 265 274 283 288 297 306 316 321 330 340 350 356 365 374 379 389 395 400 405 414 423 428 442 453 466 471 476 493 499 508 517 522 532 538 548 553 558 567 576 581 595 608 621"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">close associate. I took on the design and coding of the DLU; Mike did the DRU.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,644)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 12 21 30 35 44 51 60 69 75 80 89 98 103 112 119 128 133 143 149 154 159 168 177 182 196 207 220 225 240 249 257 262 272 281 289 298 308 313 323 332 337 346 351 361 370 375 384 390 396 406 421 426 440 450 460 469 475 480 485 497 506 515 524 529 534 543 551 560 565 575 581 591 596 605 610 618 632 641 647 653 658 667 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">The architecture of the DLU was based on a dataflow model. Each task did a small and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,667)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 6 16 25 34 42 51 61 66 72 82 92 97 102 111 120 130 135 140 149 158 167 172 182 191 199 207 216 226 231 237 242 250 255 265 274 279 289 298 303 308 313 323 328 333 342 351 356 365 374 383 388 393 398 407 415 424 429 435 444 449 455 461 470 479 484 489 498 506 512 521 530 535 544 549 559 568 577 586 595 600 605 617 626 632 641 650 655 665 671 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">focused job, and then passed its output to the next task in line, using a queue. Think of a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,690)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 10 16 26 35 43 48 57 66 76 81 87 93 99 104 113 120 128 133 147 157 167 176 182 187 193 202 207 220 234 240 254 259 264 276 285 294 299 308 315 324 333 339 344 353 362 367 376 383 392 397 412 421 429 434 440 449 454 461 467 476 485 490 499 504 509 523 532 541 546 551 560 568 577 582 596 602 611 620 625 630 636 645 654 664 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">pipes and filters model in UNIX. The architecture was intricate. One task might feed a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,713)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 10 19 28 37 46 51 56 65 74 79 84 98 107 116 125 130 140 145 154 163 170 178 183 198 208 217 223 233 238 246 255 262 272 278 287 296 301 306 320 325 334 343 350 355 360 369 377 386 394 399 414 424 433 439 449 454 460 469 478 488 493 502 507 517 526 535 544 553 558 563 572 581 586 591 597 606 614 619 624 634 643 652 657 662 671 679"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">queue that many others would service. Other tasks would feed a queue that just one task</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,736)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 15 25 34 40 50 55 63 72 79 89 95 104 113"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">would service.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,779)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 12 21 27 36 45 50 60 66 71 80 89 94 103 111 119 128 142 152 158 167 172 178 184 193 202 207 212 224 233 242 251 256 266 276 284 290 295 301 311 320 325 335 344 349 354 363 372 377 386 394 402 411 425 435 441 450 455 461 467 476 485 490 499 508 516 521 530 535 543 549 558 567 573 582 587 592 600 606 620 630 636 645"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">Think of an assembly line. Each position on the assembly line has a single, simple,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,802)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 9 15 24 33 39 48 53 59 69 78 87 95 104 114 119 125 135 145 150 155 165 170 180 189 196 202 212 219 233 238 243 255 264 273 282 287 292 301 310 315 325 332 342 352 361 370 375 380 394 404 414 423 431 436 441 451 456 461 470 479 484 493 502 511 516 521 531 541 549 555 560 566 576 585 590 596 605 610 616 622 631 640"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">highly focused job to perform. Then the product moves to the next position in line.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,825)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 11 21 35 44 49 55 69 78 86 91 96 105 114 119 128 136 144 153 167 177 183 192 197 203 209 218 227 232 240 250 256 262 267 275 280 286 295 300 310 315 329 338 347 356 361 367 373 382 391 399 404 409 420 430 444 453 458 464 478 487 495 500 505 514 524 532 541 546 552 558 567 576 584 589 603 612 619 628 637 642 652 661 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">Sometimes the assembly line splits into many lines. Sometimes those lines merge back</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,848)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 6 15 20 30 35 44 49 57 63 72 81 87 96 101 107 113 122 131 136 141 153 162 171 176 181 196 205 213 218 223 232 241 246 260 271 284"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">into a single line. That was the DLU.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,891)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 17 23 32 41 47 55 60 74 87 100 105 114 122 131 141 146 155 160 167 176 190 199 206 215 224 234 240 249 254 264 270 276 282 291 298 307 316 321 326 334 343 352 361 375 384 389 394 408 417 422 431 438 447 456 461 470 480 485 495 504 513 518 523 532 540 549 554 564 573 580 585 590 599 606 620 626 635 644 650 655 660 669 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">Mike’s DRU used a remarkably different scheme. He created one task per terminal, and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,914)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 8 14 28 38 44 53 58 68 74 84 89 94 103 112 117 126 135 140 146 153 162 167 173 183 193 198 204 214 221 226 231 240 249 254 259 264 273 280 294 300 309 318 324 329 335 344 349 354 363 372 377 382 387 396 404 413 418 423 437 447 452 462 471 480 489 498 506 511 516 530 540 545 555 564 569 578 583 589 595 605 619 624 629 637 646 654"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">simply did the entire job for that terminal in that task. No queues. No data flow. Just</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,937)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 14 23 32 41 46 52 62 71 80 85 91 100 109 115 120 126 135 142 151 160 165 170 179 187 196 204 209 214 223 232 241 250 255 269 278 287 296 305 311 320 329 334 340 345 353 358 368 383 392 397 402 411 418 432 438 447 456 462"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">many identical large tasks, each managing its own terminal.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(16704,980)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 12 21 27 35 40 46 54 59 64 73 82 87 97 107 117 127 135 141 146 155 160 170 176 181 190 199 204 213 221 229 238 252 262 268 277 282 288 294 303 312 317 322 328 337 342 347 356 362 370 375 384 393 401 410 415 420 429 438 443 452 461 470 476 486 495 504 509 515 523 528 542 551 560 569 574 583 592 602 611 618"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">This is the opposite of an assembly line. In this case the analogy is many expert</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

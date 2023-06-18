@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 1392,0 h 696 V 1056 H 1392 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 1392,66 h 696 V 996 H 1392 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-1392)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-1392)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(1392,82.67188)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 14 24 33 43 49 55 60 69 75 84 89 97 106 114 119 128 142 147 162 168 173 182 192 201 206 211 226 235 241 247 254 264 273 279 285 294 303 313 318 327 337 351 361 371 380 389 398 403 411 416 426 433 438 444 453 458 467 474 480 489 498 507 515 520 525 531 540 545 551 560 569 574 579 584 592 601 610 619 624 633 638 643 652 661"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">monolithic system without well-defined components or interfaces. In fact, such a team</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 15 25 34 40 50 55 61 67 76 85 91 100 105 111 117 126 136 141 146 155 164 169 177 182 189 195 204 209 218 225 234 242 247 257 263 268 277 286 291 300 307 316 325 331 336 345 354 359 368 375 384 389 397 407 421 430 435 444 450 459 468 473 483 489 494 503 512 517 523 537 547 556 566 572 586 595 604 609 614 624 633 640 646 655 664 669 674 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">would likely find the strictures of an architecture something of an impediment during the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 9 18 25 31 40 45 55 64 73 81 86 96 102 107 117 126 136 145 151 161 171 185 194 203 208 213 218 230 239 245 253 258 264 272 277 283 289 298 307 313 322 327 332 341 350 355 362 371 380 388 398 407 412 427 436 445 450 458 468 473 487 496 505 514 519 527 536 544 549 558 572 580 585 591 600 609 618 623 632 642 652"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">early days of development. This is likely the reason why so many systems lack good</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 9 16 25 34 40 45 54 63 68 77 84 93 99 104 116 125 134 143 148 163 172 179 188 193 203 212 221 230 239 244 259 265 270 279 284 293 303 312 321 326 331 341 350 359 368 377 385 394 399 404 413 422 427 432 441 450 464 469 484 493 501 506 514 528 537 543 549 554 563 572 582 587 597 603 613 618 627 637 642 647 662 671 680"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">architecture: They were begun with none, because the team was small and did not want</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 5 14 23 28 34 48 58 67 77 83 97 106 115 120 125 135 141 146 155 160 168 177 187 196 203 211 216 223 232 241 246 255 262 271"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">the impediment of a superstructure.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 14 23 28 33 42 51 56 66 71 80 89 96 101 110 119 128 138 143 148 157 162 170 179 187 192 201 215 220 230 239 245 254 263 268 278 287 297 306 312 322 332 341 351 356 366 375 380 386 392 402 411 416 426 432 438 444 453 460 469 478 483 488 493 502 511 525 533 538 543 552 561 570 579 584 594 600 605 620 629 635 644"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">On the other hand, a system being developed by five different teams, each of which</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 6 15 24 30 39 49 58 66 71 79 88 98 107 116 121 131 140 150 159 165 175 185 194 201 209 214 219 228 237 246 255 265 270 275 289 298 307 316 321 331 338 348 357 364 373 381 389 394 403 412 418 427 435 443 448 453 462 471 476 484 493 501 506 515 529 534 540 548 553 563 569 579 585 595 604 614 619 625 634 639"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">includes seven developers, cannot make progress unless the system is divided into</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 15 24 30 36 43 53 62 68 74 83 92 102 107 116 126 140 150 160 169 178 187 192 200 205 220 226 231 240 245 252 261 267 273 282 292 298 307 312 320 325 334 344 350 359 364 370 379 384 393 400 406 415 424 433 441 446 451 457 463 468 477 487 492 502 507 516 525 532 537 543 552 561 566 576 583 591 596 605 612"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">well-defined components with reliably stable interfaces. If no other factors are</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,287)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 9 19 28 36 42 52 61 68 77 87 92 97 102 111 120 125 134 141 150 159 165 170 179 188 193 202 209 218 223 233 239 244 249 258 267 272 277 285 294 302 307 316 330 335 350 356 362 368 373 379 385 394 403 409 418 423 432 442 452 458 468 477 482 488 497 502 512 517 523 529 539 548 553 562 572 586 596 606 615 624 633 638 646 666 676 685"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">considered, the architecture of that system will likely evolve into five components—one</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,310)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 6 16 23 28 37 46 55 64 69 74 83 92 106"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">for each team.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,353)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 11 20 29 38 43 52 57 66 76 90 100 110 119 128 137 142 149 159 168 175 182 187 196 205 219 224 233 240 249 258 264 269 278 287 292 301 308 317 322 328 336 341 350 360 365 370 376 382 391 400 406 415 420 425 435 440 450 459 464 469 478 487 492 502 511 519 524 529 538 545 554 563 569 574 583 592 597 606 613 622 627 633 643"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">Such a component-per-team architecture is not likely to be the best architecture for</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,376)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 10 19 29 35 45 54 68 77 86 91 96 101 111 121 130 137 146 151 157 167 176 181 186 195 204 214 219 233 242 248 257 262 271 280 289 298 307 316 321 331 337 342 347 356 365 370 378 387 395 400 409 423 428 433 447 456 466 475 482 487 496 505 511 520 528 536 541 546 552 557 562 568 576 581 586 595"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">deployment, operation, and maintenance of the system. Nevertheless, it is the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,399)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 9 16 25 34 40 45 54 63 68 77 84 93 98 103 112 121 126 131 140 145 154 161 171 180 190 195 205 211 216 221 230 239 253 261 266 281 287 293 299 304 313 320 329 339 345 350 359 364 373 378 383 393 408 417 424 434 439 445 451 456 461 470 479 488 493 502 509 518 523 533 540 546 556 565 574 579 587 597 603 612 618 627 632 642"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">architecture that a group of teams will gravitate toward if they are driven solely by</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,422)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 10 19 29 38 44 54 64 78 87 96 101 106 114 123 132 141 151 160 166 175"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">development schedule.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,492)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0"
+             y="0"
+             id="tspan86">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1416,492)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 22 42 64 90 114 146 168 192"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">EPLOYMENT</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,537)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 10 20 25 35 44 49 58 64 70 79 88 93 99 109 118 123 128 137 142 150 160 166 171 186 195 202 211 216 224 233 241 246 255 269 274 288 297 305 310 315 325 334 339 349 358 368 374 384 393 402 412 418 427 432 437 449 458 467 472 481 487 496 505 514 521 526 531 540 549 554 563 573 581 586 591 601"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">To be effective, a software system must be deployable. The higher the cost of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,560)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 10 19 29 35 45 54 68 77 86 91 96 101 106 115 124 129 135 144 152 160 165 174 182 191 197 206 212 217 222 231 240 245 253 262 270 275 284 298 303 309 317 322 327 340 345 354 364 373 379 384 394 400 405 414 419 427 437 443 448 463 472 479 488 493 502 509 518 527 533 538 547 556 561 570 577 586 591 596 601 610 619 628 633 638 646 655 665 674 680"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">deployment, the less useful the system is. A goal of a software architecture, then, should</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,583)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 10 19 24 29 39 44 58 67 76 85 90 99 104 112 121 129 134 143 157 162 167 176 185 190 195 204 213 222 227 237 246 251 260 269 277 283 289 298 303 313 322 332 338 348 357 366 376"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">be to make a system that can be easily deployed </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1773,583)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 15 21 26 35 40 49 54 62 68 77 86 92 101 106 115 124 129 135 145"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">with a single action</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1927,583)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0"
+             y="0"
+             id="tspan110">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,626)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 13 22 28 38 45 50 59 68 77 82 91 97 105 110 115 125 134 144 150 160 169 183 192 201 206 211 219 224 231 240 245 254 263 272 277 283 291 296 304 313 319 329 339 353 358 367 377 386 394 400 410 419 426 435 445 450 460 469 476 482 491 500 505 511 520 526 531 537 546 552 557 567 576 586 595 601 611 621 635 644 653 658"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">Unfortunately, deployment strategy is seldom considered during initial development.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,649)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 12 21 27 35 40 46 55 64 74 82 87 92 102 107 116 123 132 141 147 152 161 170 175 184 191 200 208 213 218 227 236 241 246 260 269 278 283 297 306 315 324 329 334 343 352 357 365 374 382 387 396 410 415 424 433 441 450 455 460 470 475 485 494 504 513 519 529 539 544 549 559 568 573 578 584 593 602 612 621 626 632 637 642 652 661 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">This leads to architectures that may make the system easy to develop, but leave it very</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,672)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 10 16 22 28 34 43 52 58 63 68 73 83 88 98 107 117 123 133 141"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">difficult to deploy.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,715)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 11 21 28 33 42 51 60 74 84 90 99 104 109 115 124 129 134 143 152 157 166 175 182 188 197 202 212 221 231 240 246 256 266 280 289 298 303 308 318 324 329 338 343 351 360 368 373 382 396 401 406 411 420 429 434 444 453 463 472 478 488 498 507 514 522 527 541 550 559 564 574 583 592 598 608 617 622 627 637 642 651 659 668 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">For example, in the early development of a system, the developers may decide to use a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,738)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 9 23 29 38 45 55 62 70 79 86 96 102 111 120 125 134 141 150 159 165 170 179 188 193 202 209 218 223 232 237 249 258 267 276 281 295 304 313 318 324 330 339 349 354 359 368 377 382 387 392 401 407 415 420 429 439 449 456 466 475 484 493 498 512 521 530 539 547 552 557 566 575 580 588 597 605 610 619 633 638 648 657 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">“micro-service architecture.” They may find that this approach makes the system very</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,761)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 9 18 26 35 40 45 55 60 70 79 89 98 104 114 124 129 137 143 152 161 170 175 180 189 198 203 212 222 236 246 256 265 274 283 288 293 303 313 322 331 341 350 357 363 372 380 385 394 401 410 415 425 434 441 450 455 461 467 474 488 493 502 511 521 526 531 540 549 554 560 569 574 583 590 596 605 614 623"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">easy to develop since the component boundaries are very firm and the interfaces</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,784)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 7 16 22 31 36 42 52 61 67 76 81 89 94 103 113 119 128 133 138 152 162 177 186 196 205 211 216 221 236 245 254 263 268 274 279 284 293 303 317 326 334 339 344 350 364 373 378 383 393 398 408 417 427 433 443 452 457 462 471 480 485 493 502 510 515 524 538 543 548 553 562 571 580 585 599 608 617 622 632 638 646 655 665 675 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">relatively stable. However, when it comes time to deploy the system, they may discover</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,807)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 5 14 23 28 33 38 47 56 61 70 79 93 103 112 119 124 134 140 145 159 165 174 181 191 198 206 215 222 232 238 247 256 264 269 278 287 295 300 310 319 328 338 352 361 366 376 385 394 403 408 414 423 432 437 442 451 461 470 476 482 491 500 507 513 522 531 536 541 550 559 564 573 583 592 601 610 619 624 630 640 649"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">that the number of micro-services has become daunting; configuring the connections</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,830)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 10 19 24 39 48 57 66 71 76 85 94 108 113 118 127 136 146 151 156 165 174 179 184 190 204 210 219 228 233 243 249 254 259 268 277 283 290 295 301 310 316 321 327 336 341 347 357 366 371 376 390 399 408 413 422 428 436 446 451 456 465 472 481 486 496 505 510 515 520 530 535 545 554 559 568 573 582 591 600 609 614 622 632 641 648 657 666 671 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">between them, and the timing of their initiation, may also turn out to be a huge source of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,853)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 9 16 23 33 40 48"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">errors.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,896)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 14 23 33 38 43 52 61 66 75 82 91 100 106 111 120 129 134 142 147 156 166 175 183 189 199 208 215 224 234 239 249 258 268 274 284 293 307 316 325 330 335 341 349 357 366 375 383 388 397 406 413 419 428 433 443 452 457 462 467 476 485 494 499 513 519 528 537 542 547 556 565 575 584 589 599 608 617 623 633 642 652 657 667"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">Had the architects considered deployment issues early on, they might have decided on</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,919)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 6 15 30 39 46 51 59 68 75 85 91 100 109 117 122 127 136 141 150 159 169 176 182 192 197 207 213 218 226 235 242 252 258 267 276 284 289 298 307 317 322 328 337 344 354 361 371 380 389 397 405 410 419 429 443 453 463 472 481 490 495 503 508 513 522 531 541 546 555 560 574 584 591 600 605 611 620 625 634 643 650 659 664 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">fewer services, a hybrid of services and in-process components, and a more integrated</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,942)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 14 23 32 41 49 54 64 70 75 89 98 107 116 125 131 140 149 154 159 168 177 182 188 197 202 211 218 227 237 246 255 264 273 278 284 294 303 311"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">means of managing the interconnections.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

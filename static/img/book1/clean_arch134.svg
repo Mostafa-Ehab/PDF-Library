@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 11832,0 h 696 v 1056 h -696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 11832,66 h 696 v 930 h -696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-11832)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-11832)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(11832,84)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 13 23 33 38 50 60 70 80 85 95 102 107 119 129 134"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">The Zone of Pain</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,127)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 13 23 32 40 46 56 65 72 77 86 91 100 110 124 134 144 153 162 171 176 181 187 196 201 206 215 224 229 238 245 254 263 268 278 284 289 296 306 311 316 326 333 338 343 355 364 370 378 383 389 397 402 411 416 425 431 440 449 455 464 469 477 482 491 501 507 516 521 530 539 549 554 563 573 582 591 598 607 612"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">Consider a component in the area of (0, 0). This is a highly stable and concrete</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,150)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 9 19 33 43 53 62 71 80 85 90 95 106 115 124 133 138 147 152 161 171 185 195 205 214 223 232 237 242 248 256 261 270 280 285 290 300 309 317 323 330 339 349 355 364 369 379 388 397 406 415 423 432 437 443 448 453 459 467 472 479 485 494 500 510 515 520 526 531 536 545 554 563 572 582 587 592 602 611 616 625 634 639 648 657 667 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">component. Such a component is not desirable because it is rigid. It cannot be extended</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,173)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 10 19 28 37 46 54 63 68 74 79 84 90 98 103 112 122 127 132 141 151 159 164 171 180 189 194 199 204 213 222 232 237 243 248 253 259 267 272 282 291 298 307 312 322 328 334 340 346 355 364 370 375 380 385 395 400 409 418 427 436 445 454 459 469 478 487 496 505 513 522 527 537 543 548 554 559 567 572 580 585 594 604 610 616 622 627 635 640 645 657 666 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">because it is not abstract, and it is very difficult to change because of its stability. Thus</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,196)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 15 24 29 39 49 54 63 73 78 83 92 102 109 123 132 138 144 153 158 167 176 186 195 204 209 214 219 229 234 242 251 260 265 280 289 295 301 308 318 327 335 341 350 359 368 378 383 392 402 416 426 436 445 454 463 468 476 481 489 495 500 505 511 520 529 534 543 552 561 568 573 580 590 595 600 610 617 622 627 639 648 657 662 671 678 687"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">we do not normally expect to see well-designed components sitting near (0, 0). The area</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,219)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 9 16 26 35 44 54 59 66 76 81 86 96 103 108 114 122 127 136 141 149 159 168 177 182 192 198 203 212 221 230 236 245 253 259 269 278 283 292 301 307 313 322 332 337 342 351 360"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">around (0, 0) is a zone of exclusion called the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12197,219)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 11 21 30 39 44 54 60 65 76 85 91"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">Zone of Pain</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12297,219)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0"
+             y="0"
+             id="tspan58">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,262)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 11 21 35 44 49 57 67 73 78 93 102 109 118 123 132 141 146 152 157 163 172 180 185 195 205 210 215 221 230 235 241 250 259 264 269 274 280 289 295 301 306 321 327 332 341 347 356 361 366 375 384 389 400 410 419 428 433 443 449 454 465 474 480 489 494 499 513 522 527 536 545 554 568 578 584 593 598 613 623 632 638 648 653 663 672 677"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">Some software entities do, in fact, fall within the Zone of Pain. An example would be a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,285)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 10 19 24 33 43 52 60 69 74 82 91 100 109 123 132 137 142 156 165 170 179 189 198 206 215 220 228 237 246 255 269 278 286 291 300 307 316 321 330 340 345 355 362 368 378 387 395 401 410 415 425 435 441 450 455 461 467 476 481 486 495 504 509 516 525 539 548 554 563 568 577 587 596 605 612 621 626 635 640 645 654 663"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">database schema. Database schemas are notoriously volatile, extremely concrete, and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,308)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 9 15 24 33 39 48 53 63 72 82 91 100 110 119 129 134 144 153 158 163 175 184 190 198 203 209 217 222 232 241 250 255 262 271 280 288 298 307 312 327 336 345 350 355 364 373 378 384 393 398 407 414 420 429 438 447 452 462 471 476 491 500 509 518 523 537 551 556 565 575 585 591 597 606 615 620 626 636 645 653 658 667 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">highly depended on. This is one reason why the interface between OO applications and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,331)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 10 19 24 33 43 52 60 69 77 82 88 96 101 109 119 124 134 140 146 152 158 167 176 182 187 192 197 207 212 226 235 244 253 262 271 276 281 290 299 309 314 329 338 347 352 360 369 378 387 401 410 415 424 434 444 453 458 467 475 480 489 496 505 510 519 528 537 546 553 562 568 574 583 588 598 607 613 622 628 637 643"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">databases is so difficult to manage, and why schema updates are generally painful.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,374)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 14 23 33 38 47 56 63 68 77 86 95 109 119 125 134 139 149 155 160 168 178 184 189 204 213 220 229 234 239 248 257 262 267 275 281 286 294 299 308 317 326 333 338 343 352 361 366 375 382 391 400 405 415 421 426 433 443 448 453 463 470 475 481 489 494 503 508 517 527 536 545 552 561 566 575 580 589 594 600 606 612 617 626 631 637 643 653 660 669 676 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">Another example of software that sits near the area of (0, 0) is a concrete utility library.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,397)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 14 20 25 34 44 53 62 71 76 84 93 102 111 116 125 130 136 142 152 159 168 175 184 189 198 207 215 220 229 238"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">Although such a library has an </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12075,397)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0"
+             y="0"
+             id="tspan86">I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12086,397)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 14 23 28 35 41 50 55 65 71 76 86 91 96 102 107 112 126 135 144 149 158 167 172 181 190 196 202 211 216 226 235 240 249 259 268 278 288 294 303 308 314 320 329 334 339 352 362 371 379 385 395 404 411 416 421 430"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">metric of 1, it may actually be nonvolatile. Consider the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,420)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 10 20 30 40 50"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">String</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11897,420)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 9 19 33 43 53 62 71 80 85 90 95 101 111 118 123 132 141 150 164 174 180 189 194 199 211 221 230 239 244 249 258 268 277 286 295 300 309 315 321 326 331 340 349 354 363 369 378 386 394 403 411 416 431 437 442 451 457 466 471 477 482 487 496 503 512 517 526 536 545 554 561 570 575 584 589 594 600 605 610 616"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">component, for example. Even though all the classes within it are concrete, it is</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,443)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 8 18 23 32 42 56 70 80 89 95 104 109 118 126 135 145 150 155 164 173 178 183 192 201 210 219 228 234 243 252 257 263 268 273 288 298 307 313 323 328 337 344 353 362 367 376 381 390 399 408 418 426 431 436 448 457 466 473 482 488 498 505 514"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">so commonly used that changing it would create chaos. Therefore </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12351,443)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 10 20 30 40 50"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">String</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12416,443)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 6"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">is</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,466)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 9 19 28 38 48 54 63 68 74 80 89"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">nonvolatile.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,509)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 14 24 33 43 53 59 68 73 79 85 94 99 108 118 132 142 152 161 170 179 184 192 197 206 213 222 227 236 245 252 266 272 281 289 297 302 308 317 322 327 336 345 350 357 367 372 377 387 394 399 407 417 426 435 440 448 454 463 472 481 486 491 500 509 518 523 532 539 548 553 562 572 577 582 588 594 603 612 618 627 632 637 647 652 662"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">Nonvolatile components are harmless in the (0, 0) zone since they are not likely to be</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,532)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 9 18 27 36 45 54 64 69 74 85 95 102 107 112 121 130 135 140 147 156 165 173 183 192 197 202 208 213 218 224 232 237 247 256 262 271 276 286 296 302 311 316 322 328 337 342 350 360 366 371 386 395 402 411 416 425 435 449 459 469 478 487 496 501 509 514 519 528 537 542 547 556 563 572 577 587 594 604 614 620 629 643 652 657 663 672 677 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">changed. For that reason, it is only volatile software components that are problematic in</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,555)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 5 14 23 28 39 49 58 67 72 82 88 93 104 113 119 128 133 138 150 159 168 173 187 197 204 213 218 228 238 244 253 258 264 270 279 284 293 298 307 317 331 341 351 360 369 378 383 388 394 403 408 413 422 431 436 447 457 466 475 480 490 496 501 512 521 527 536 541 546 551 560 569 574 588 598 605 614 619 628 638 647 653 662 668 677 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">the Zone of Pain. The more volatile a component in the Zone of Pain, the more “painful”</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,578)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 6 11 16 22 30 35 40 46 55 65 74 83 93 98 103 118 127 132 146 152 161 170 175 180 189 199 208 216 222 232 241 248 253 263 273 279 288 293 299 305 311 316 325 330 335 345 350 360 369 374 383 388 393 402 408 415 425 430 439 448 454 462 467 477 483 488 493 502 511 516 525 532 541 551 560 565 570 587 593 598 607 612 617 626 632"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">it is. Indeed, we might consider volatility to be a third axis of the graph. With this</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,601)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 9 18 28 37 44 52 57 66 75 85 91 100 109 114"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">understanding, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11951,601)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 11 17 26 35 42 51 56 66 76 81 91"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">Figure 14.13</tspan></text>
+        <path
+           d="m 11951,602.5 h 100 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path142" />
+        <text
+           xml:space="preserve"
+           transform="translate(12057,601)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 8 17 27 42 50 55 65 74 80 89 94 99 108 117 122 136 146 154 159 164 174 183 189 198 204 213 219 224 234 240 249 258 267 272 277 292 301 310 317 326 331 341 351 357 366 371 377 383 389 394 403 408 419 424 434"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">shows only the most painful plane, where volatility = 1.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,645)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 13 23 33 38 50 60 70 80 85 95 102 107 121 129 139 144 154 162 170 180 190 198"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">The Zone of Uselessness</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,688)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 13 23 32 40 46 56 65 72 77 86 91 100 110 124 134 144 153 162 171 176 181 190 199 208 215 220 227 237 242 247 257 264 269 274 286 295 301 309 314 320 330 339 348 353 359 369 378 383 389 397 402 411 420 430 439 447 453 460 469 479 485 494 499 509 518 527 536 545 553 562 567 573 578 583 589 597 602 616 625 634 640 654 663 669 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">Consider a component near (1, 1). This location is undesirable because it is maximally</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,711)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 9 19 27 32 39 48 57 62 67 72 81 90 95 100 109 118 126 131 140 150 155 165 174 184 193 202 212 221 230 235 243 248 253 264 273 282 291 296 305 315 329 339 349 358 367 376 381 389 394 403 410 419 424 433 441 450 456 465 473 481 486 491 503 512 521 529 534 539 548 554 562 567 576 583 592 601 606 612 620 625 634 643 649 655 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">abstract, yet has no dependents. Such components are useless. Thus this area is called</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,734)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 5 14 23"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11860,734)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 11 21 30 39 44 54 60 65 78 86 95 101 110 118 126 135 144 152"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">Zone of Uselessness</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12020,734)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0"
+             y="0"
+             id="tspan168">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,777)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 12 21 30 35 43 53 59 64 79 88 95 104 109 118 127 132 138 143 149 158 166 171 176 185 194 199 204 210 219 228 237 247 253 258 263 268 277 283 291 296 303 312 321 327 337 346 351 360 367 376 381 390 395 404 410 419 429 434 444 450 455 465 474 479 486 492 497 506 514 519 524 536 545 554 563 568 577 584 593 598 608 614 619 628"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">The software entities that inhabit this region are a kind of detritus. They are often</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,800)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 6 15 21 26 36 46 55 62 67 76 86 94 99 106 115 124 129 134 143 149 158 166 174 183 191 196 201 210 219 224 229 238 248 253 263 272 281 286 295 305 314 321 326 332 346 356 362 371 385 394 403 408 417 427 432 437 453 462 467 473 479 488 498 503 508 517 526 540 545 551 560 565 573 582 590 595 604 618 626 631 637 644 654"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">leftover abstract classes that no one ever implemented. We find them in systems from</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,823)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 5 11 25 34 39 44 54 59 64 70 84 93 98 103 111 117 122 127 133 142 151 156 162 171 176 181 190 199 204 213 223 233 242 247 257 266 274 283 288 293 302 311 320 328 337 347"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">time to time, sitting in the code base, unused.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,866)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 13 18 27 37 51 61 71 80 89 98 103 108 113 122 131 136 141 150 159 167 172 181 186 196 206 214 220 225 231 241 250 255 265 274 283 293 298 313 319 324 333 339 348 353 358 367 376 381 392 402 411 420 425 435 441 446 459 467 476 482 491 499 507 516 525 533 541 546 560 569 577 582 587 596 606 615 620 629 635 644 649"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">A component that has a position deep within the Zone of Uselessness must contain a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,889)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 8 14 23 32 38 44 50 59 68 77 82 87 93 100 109 118 123 129 139 148 153 163 169 174 182 191 200 209 214 223 232 237 243 248 254 263 271 276 281 294 300 309 318 325 331 339 344 349 354 363 372 377 387 394 403 411 420 429 438 447 452 462 468 473 481 490 499 508 513 522 530 539 545 554 562 570 575 584 593 598 604 609 615 624 632 637 643"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">significant fraction of such entities. Clearly, the presence of such useless entities is</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,912)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 9 18 28 37 45 51 58 67 77 83 92"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">undesirable.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11832,962)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text198"><tspan
+             x="0"
+             y="0"
+             id="tspan196">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11848,962)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text202"><tspan
+             x="0 16 34 43 60 69 86 104 110 125 143"
+             y="0"
+             sodipodi:role="line"
+             id="tspan200">VOIDING THE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12012,962)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text206"><tspan
+             x="0"
+             y="0"
+             id="tspan204">Z</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12026,962)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text210"><tspan
+             x="0 18 35 50 63 69 87"
+             y="0"
+             sodipodi:role="line"
+             id="tspan208">ONES OF</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12134,962)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text214"><tspan
+             x="0"
+             y="0"
+             id="tspan212">E</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12149,962)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text218"><tspan
+             x="0 15 32 47 64 77 86 104"
+             y="0"
+             sodipodi:role="line"
+             id="tspan216">XCLUSION</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

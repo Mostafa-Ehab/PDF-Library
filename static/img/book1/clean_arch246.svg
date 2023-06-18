@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 9744,0 h 696 V 1056 H 9744 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 9744,66 h 696 V 996 H 9744 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-9744)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-9744)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(9744,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 12 21 30 35 41 51 60 69 74 84 90 95 104 109 115 124 133 142 149 158 168 173 182 189 198 207 213 218 227 236 241 250 257 266 271 277 285 290 300 309 315 321 326 331 341 350 355 360 369 378 383 389 399 408 417 422 432 438 443 453 460 470 479 486 495 509 523 529 538 547 552 557 567 572 578 587 592 601 608 614 623 632 641 649"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">The idea of a layered architecture is built on the idea of programming to interfaces.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 18 27 36 45 50 60 69 78 83 97 107 117 126 132 141 146 152 161 166 175 182 191 200 205 213 218 233 239 244 253 258 267 276 286 291 300 309 316 321 326 335 345 354 363 372 377 386 395 400 406 415 420 429 436 442 451 460 469 474 479 488 498 507 512 521 530 539 544 552 561 571 579 584 590 595 604 609 618 623 633 642"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">When one module interacts with another though an interface, you can substitute one</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 8 17 24 34 40 49 58 63 73 80 90 100 106 116 125 132 137 143 153 160 165 174 183 193 198 207 216 222 227 232 249 258 267 276 281 288 297 306 316 325 332 340 345 360 366 372 378 383 392 401 411 420 425 440 447 453 458 463 472 481 486 491 500 509 515 522 527 537 552 561 566 574 588 597 603 609 614 624 633 640 648 654 664 673 678 688"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">service provider for another. Many readers will have written their own small version of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,152)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 10 20 30 40 50"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">printf</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9809,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 6 16 23 28 38 47 57 63 73 82 96 105 114 119 124 130 139 144 149 158 167 172 177 186 193 202 211 216 221 226 240 248 253 259 269 278 287 292 301 309 314 319 328 337 342 348 357 362 371 378 384 393 402 411 416 421 431 436 445 455 464 471"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">for deployment in the target. As long as the interface to your </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10285,152)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 10 20 30 40 50"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">printf</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10350,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 6 14 19 24 33 42 47 55 64 78"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">is the same</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 9 17 22 27 36 45 50 58 63 72 81 91 100 107 117 122 132 141 148 156 162 172 181 186 196 202"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">as the standard version of </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9951,175)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 10 20 30 40 50"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">printf</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10011,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 5 10 19 29 38 43 52 61 70 75 85 95 104 111 118 124 134 143 148 153 162 171 176 184 193 200 210 216 225 234 239 249 258 267 272 278 288 295 300 305 314 323 328 338 343 352 361 367"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">, you can override the service one for the other.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 14 23 32 37 47 56 64 70 79 84 91 100 106 115 120 130 136 141 146 155 164 178 188 193 199 207 212 217 227 232 241 249 258 263 272 281 290 300 309 316 321 327 333 339 348 356 361 370 378 383 389 398 403 412 419 425 434 443 452 457 467 476 482 488 497 503 508 514 524 533 541 546 551 569 578 587 596 601 610 620 629 634 644 654 659 667 677"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">One basic rule of thumb is to use header files as interface definitions. When you do so,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 9 19 34 43 53 62 68 73 78 87 97 106 111 120 129 139 148 153 158 168 173 183 192 197 206 215 222 231 237 246 252 257 266 276 286 295 300 305 320 329 338 343 348 357 367 376 384 389 395 404 409 414 423 432 437 446 455 464 474 483 490 495 501 507 513 522 527 532 543 549 563 569 574 579 588 597 606 616 625 632 637 643 649 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">however, you have to be careful about what goes in the header file. Limit header file</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 9 19 28 33 42 51 56 64 69 74 84 89 95 104 113 122 127 133 143 152 157 167 176 185 191 200 207 216 221 227 237 246 254 259 268 276 281 296 305 311 317 322 331 339 344 349 358 367 372 381 391 400 408 413 422 431 436 444 449 458 467 477 482 490 495 502 511 520 525 530 539 548 562 571 579 584 589 598 607 612 617 626 633"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">contents to function declarations as well as the constants and struct names that are</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,287)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 9 18 27 37 46 56 61 71 80 85 90 99 108 113 119 128 137 146 151 157 167 176"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">needed by the function.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,330)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 14 24 33 40 45 50 59 65 74 79 84 93 100 105 110 119 128 133 139 148 153 162 169 175 184 193 202 207 216 225 234 244 253 260 265 271 277 283 292 300 305 320 326 331 340 345 355 364 369 378 383 391 396 403 412 421 426 435 442 451 459 464 469 478 488 497 505 510 519 528 533 541 546 551 560 569 579 584 589 598 608 617 627 636 642 650 655 660 669 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">Don’t clutter the interface header files with data structures, constants, and typedefs that</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,353)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 9 16 25 30 39 48 57 67 76 86 91 101 110 115 125 134 140 149 154 159 168 177 182 188 202 212 218 227 241 250 259 264 273 278 284 294 303 308 313 319 324 330 338 343 352 362 367 372 378 387 395 400 405 414 419 433 442 447 452 461 468 473 483 489 494 503 509 518 523 528 537 544 550 555 567 576 585 590 595 604 610 619 624 629 638 645 650 665 671 677"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">are needed by only the implementation. It’s not just a matter of clutter: That clutter will</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,376)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 6 15 24 34 39 44 54 59 68 77 92 101 110 115 124 134 139 149 158 168 177 186 196 205 214 223 229 238 246 251 256 267 273 287 293 298 303 308 317 326 331 341 347 355 361 371 377 383 389 394 403 408 418 424 429 434 443 452 457 463 477 487 493 502 516 525 534 539 548 553 559 569 578 583 593 602 607 616 622 628 636"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">lead to unwanted dependencies. Limit the visibility of the implementation details.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,399)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 12 21 31 40 49 54 59 64 73 82 87 93 107 117 123 132 146 155 164 169 178 183 189 199 208 213 223 232 237 246 252 258 266 271 276 286 291 300 309 318 327 336 345 350 355 367 376 385 390 396 405 420 429 436 441 451 457 466 475 484 492 497 512 521 530 537 546 551 560 570 580 589 594 603 612 622 637 645 650 655 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">Expect the implementation details to change. The fewer places where code knows the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,422)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 10 19 24 33 39 45 53 58 63 68 77 86 91 97 106 121 130 137 142 152 158 167 176 185 193 198 213 222 231 238 247 252 261 271 281 290 295 310 316 322 328 333 342 351 361 370 375 380 390 395 405 414 419 424 431 440 449 458 467 477 482 492 502 517 526 531 540 549 559 564 578 588 598 604 610 616 625 635"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">details, the fewer places where code will have to be tracked down and modified.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,465)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 13 18 27 33 42 51 60 65 74 88 98 107 117 127 136 146 151 160 167 176 185 191 196 205 214 219 228 235 244 249 255 263 268 273 282 290 295 304 314 320 329 334 349 355 360 369 375 384 389 394 403 412 417 423 432 441 450 457 465 470 480 489 498 507 516 524 533 538 552 562 572 581 587 596 604 609 615 624 629 638 645 654 663"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">A clean embedded architecture is testable within the layers because modules interact</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,488)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 5 14 21 31 40 49 58 63 69 78 83 92 99 105 114 123 132 140 145 150 162 171 180 189 194 200 209 214 223 230 236 245 254 263 268 278 285 295 305 311 321 330 338 343 348 357 366 371 376 384 393 402 416 421 431 438 443 451 460 470 478 483 489 494 503 508 514 524 533 538 548 558 564 573 578 583 588 597 606 611 616 622 631 640 646 652 658 663 672 677 686"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">through interfaces. Each interface provides that seam or substitution point that facilitates</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,511)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 10 16 22 29 34 43 50 59 68 73 78 83 92 100 105 111 120 129"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">off-target testing.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,561)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 17 33 47 53"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">DRY C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9814,561)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 18 35 52 61 76 85 103 120 136"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">ONDITIONAL</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9971,561)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0"
+             y="0"
+             id="tspan126">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9988,561)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 18 41 56 65 80 94 109 118 136"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">OMPILATION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10147,561)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0"
+             y="0"
+             id="tspan134">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10164,561)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 9 26 41 58 73 82 98 113"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">IRECTIVES</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,604)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 14 23 32 37 46 54 63 68 78 84 89 97 106 116 124 129 135 140 149 154 163 173 179 185 191 196 205 210 215 224 233 238 243 249 257 262 272 278 283 292 301 306 316 326 335 342 348 358 368 377 386 396 401 408 417 423 432 437 446 454 459 464 474 479 488 498 513 518 527 541 551 560 570 580 589 599 604 617 622 631 640 650 655 668 679"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">One use of substitutability that is often overlooked relates to how embedded C and C++</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,627)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 10 17 27 36 43 52 66 74 79 88 97 106 116 122 131 136 146 152 158 164 173 180 189 198 203 208 213 222 229 238 247 252 260 265 275 282 287 297 307 316 323 332 337 343 352 361 366 374 383 391 396 405 419 427 432 437 449 458 467 474 483 488 494 502 507 516 521 526 535 544 554 563 572 581 590 595 600 610 615 624 632"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">programs handle different targets or operating systems. There is a tendency to use</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,650)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 9 19 28 38 44 49 55 65 74 83 89 94 103 113 127 137 143 149 158 163 169 179 188 193 198 208 213 218 227 234 243 248 258 267 272 281 290 300 305 315 321 327 332 340 349 358 372 381 390 395 403 408 418 424 429 438 448 458 467 472 477 483 488 495 504 513 522 528 534 539 549 558 567 572 581 589 599 608 617 623 632 638 644"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">conditional compilation to turn on and off segments of code. I recall one especially</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,673)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 10 17 27 37 43 52 66 75 80 86 95 100 109 118 126 135 140 155 164 173 180 189 194 199 208 217 222 230 235 244 249 258 272 281 290 295"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">problematic case where the statement </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10044,673)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">#ifdef BOARD_V2</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10199,673)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 15 24 32 37 51 60 69 74 80 90 99 108 118 123 131 140 150 159 166 175"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">was mentioned several</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,696)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 5 14 24 33 41 50 59 69 74 79 85 99 108 116 121 127 136 141 150 155 160 169 175 184 193 203 217 222 231 241 251 257 263 272 281 286 292 302 311"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">thousand times in a telecom application.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,742)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 12 21 27 35 40 47 56 66 75 80 86 91 97 107 116 121 131 137 142 151 161 171 180 185 195 201 211 217 226 231 240 248 253 258 267 276 281 295 305 314 321 326 331 344 353 363 372 381 386 391 403 413 422 429 437 446 452 458 463 470 484 496 510 517 522 532 539 545 554 563 569 579 585 594"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">This repetition of code violates the Don’t Repeat Yourself (DRY) principle.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10343,735)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0"
+             y="0"
+             id="tspan174">5</tspan></text>
+        <path
+           d="m 10343,736.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path178" />
+        <text
+           xml:space="preserve"
+           transform="translate(10355,742)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 6 12 17 23 28 36 45"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">If I see</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,765)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">#ifdef BOARD_V2</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9899,765)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 10 19 28 37 42 47 53 58 64 72 77 86 96 101 106 113 122 131 137 143 152 157 166 171 181 188 198 208 214 223 237 242"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">once, it’s not really a problem. </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10146,765)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 11 17 26 31 36 45 55 64 72 81 90 100 105 110 116 130 139"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">Six thousand times</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10298,765)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text198"><tspan
+             x="0 6 14 19 28 37 42 51 60 65 72 81 95"
+             y="0"
+             sodipodi:role="line"
+             id="tspan196">is an extreme</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,788)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text202"><tspan
+             x="0 10 17 27 37 43 52 66 71 76 89 99 108 118 124 129 135 145 154 163 169 174 183 193 207 217 223 229 238 243 249 259 268 273 279 289 298 307 312 318 324 333 339 348 357 362 367 376 385 390 395 404 411 420 429 434 441 450 459 466 476 491 500 507 516 522 530 535 540 549 559 568 573 579 587 592 602 608 613 622"
+             y="0"
+             sodipodi:role="line"
+             id="tspan200">problem. Conditional compilation identifying the target-hardware’s type is often</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,811)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text206"><tspan
+             x="0 7 16 26 35 44 49 58 68 73 79 88 93 102 116 126 135 145 155 164 174 179 187 196 204 209 218 232 240 245 250 263 272 277 282 297 306 315 320 325 334 340 348 357 362 371 380 389 394 409 418 423 433 443"
+             y="0"
+             sodipodi:role="line"
+             id="tspan204">repeated in embedded systems. But what else can we do?</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,854)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text210"><tspan
+             x="0 18 27 36 41 46 52 58 63 68 77 86 93 102 107 113 121 126 135 140 149 158 165 175 190 199 206 215 220 229 239 247 252 259 268 277 282 288 298 307 312 318 327 336 345 352 361 366 378 387 396 401 410 419 426 436 451 460 467 476 481 486 495 505 514 519 534 544 553 559 569 574 584 593 602 612 626 635 640"
+             y="0"
+             sodipodi:role="line"
+             id="tspan208">What if there is a hardware abstraction layer? The hardware type would become a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,877)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text214"><tspan
+             x="0 10 19 24 33 39 45 50 59 65 75 85 94 103 108 117 126 136 145 152 157 162 171 180 185 199 213 224 229 234 240 246 251 256 265 274 279 293 307 317 322 332 339 349 359 365 375 384 392 397 406 411 419 428 433 438 448 454 459 465 474 479 488 495 501 510 519 528 536 541 546 552 561 569 574 583 592 602 607 617 623 628 637 645 651 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan212">detail hidden under the HAL. If the HAL provides a set of interfaces, instead of using</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,900)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text218"><tspan
+             x="0 9 19 28 38 44 49 55 65 74 83 89 94 103 113 127 137 143 149 158 163 169 179 188 193 198 213 222 227 236 246 255 261 271 276 285 293 302 307 312 321 330 335 341 347 356 365 374 381 386 396 403 408 416 426 440 449 454 460 470 477 491 496 506 512 517 524 533 542 547 553 567 576 581 591 597 606 616 622 631 640 645 650"
+             y="0"
+             sodipodi:role="line"
+             id="tspan216">conditional compilation, we could use the linker or some form of runtime binding to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(9744,923)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text222"><tspan
+             x="0 9 19 28 37 46 55 60 65 70 79 88 93 101 111 117 122 137 146 153 162 167 172 182 187 192 201 210 215 224 233 240 250 265 274 281 290"
+             y="0"
+             sodipodi:role="line"
+             id="tspan220">connect the software to the hardware.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

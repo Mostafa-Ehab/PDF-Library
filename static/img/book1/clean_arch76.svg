@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 696,0 h 696 V 1056 H 696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 696,66 h 696 V 996 H 696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-696)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-696)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(696,83.35938)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 8 13 22 31 40 49 59 65 75 84 91 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">stakeholders </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(800,83.35938)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 9 16"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">are</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(830,83.35938)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 5 14 23 28 37 44 53 62 70 80 89 94 99 109 114 123 132 141 150 159 168 177 182 187 196 205 210 215 220 229 238 243 253 260 266 275 284 290 300 306 315 320 326 334 339 344 353 359 368 374 383 392 397 406 416 426 435 440 445 450 456 465 475 484 493 503 508 513 528"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">the “reason to change” that the principle is talking about. Indeed, we</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 9 18 27 32 39 48 58 67 74 83 91 100 105 110 119 128 133 143 150 156 165 174 180 190 196 205 210 215 225 230 238 247 256 261 266 275 281 289"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">can rephrase the principle to say this:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(720,145)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 10 14 25 32 39 46 49 56 60 66 73 80 87 90 97 101 108 115 119 124 131 137 144 151 158 164 167 174 177 184 188 192 199 203 210 217 224 227 231 238 245 252 256 263 270 273 280 284 291 298 305 308 312 319 325 332 337 341 348 353 357 363 367 374 381 388 395 402 405 412 419 423"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">A module should be responsible to one, and only one, user or stakeholder.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,187)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 13 22 28 38 45 50 59 68 77 82 91 97 105 110 115 120 129 138 143 158 168 175 185 193 198 207 216 224 233 240 249 254 263 272 282 287 296 304 309 318 327 336 345 355 361 371 380 387 396 401 410 417 426 435 442 447 452 459 468 477 483 489 498 503 508 517 526 531 538 544 553 562 567 572 587 597 604 614 622 627 632 642 647 656 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">Unfortunately, the words “user” and “stakeholder” aren’t really the right words to use</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,210)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 9 18 25 34 39 44 56 65 74 81 90 95 110 116 122 128 133 139 145 154 163 169 178 183 193 202 207 221 231 238 247 252 257 266 275 284 289 299 308 317 322 331 339 348 355 360 370 377 382 390 395 404 413 422 431 441 447 457 466 473 478 493 502 512 517 532 541 550 555 563 568 573 582 591 596 604 613 621 626 635"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">here. There will likely be more than one user or stakeholder who wants the system</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,233)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 9 18 27 36 45 54 64 69 75 84 89 94 103 112 117 125 134 148 157 162 177 186 194 199 204 210 219 227 232 241 250 260 265 270 285 294 301 308 317 322 329 338 347 353 359 368 373 380 389 395 404 411 418 424 433 442 447 452 462 467 476 481 490 497 507 516 526 546 556 565 574 579 589 596 601 615 625 632"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">changed in the same way. Instead, we’re really referring to a group—one or more</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,256)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 10 19 29 39 45 54 59 74 83 93 98 105 114 124 133 139 146 155 160 165 174 183 188 193 202 211 220 229 238 247 252 257 273 282 289 295 301 306 313 322 328 337 344 349 354 364 369 374 383 392 397 402 411 418 428 437 447 452 461 469 474 483 492"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">people who require that change. We’ll refer to that group as an </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1193,256)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 9 18 23 33"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">actor</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1233,256)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0"
+             y="0"
+             id="tspan70">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,299)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 12 21 30 38 43 48 57 66 71 77 83 92 101 107 112 122 131 138 146 152 162 171 176 186 192 197 202 211 220 225 236 249 259 264 270 278"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">Thus the final version of the SRP is:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(720,338)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 10 14 25 32 39 46 49 56 60 66 73 80 87 90 97 101 108 115 119 124 131 137 144 151 158 164 167 174 177 184 188 192 199 203 210 217 224 227 231 238 245 252 256 263 270 273 280 284 291 298 305 308 312 319 326 330 337 341"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">A module should be responsible to one, and only one, actor.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,380)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 14 24 38 43 48 63 72 81 86 91 101 111 116 131 140 145 159 168 177 186 191 201 210 215 220 229 238 243 258 268 275 285 290 299 313 323 333 342 348 357 366 375 380 392 401 410 415 423 429 443 453 459 468 476 481 486 496 505 511 517 526 532 537 543 553 562 567 573 581 586 592 601 609 614 619 628 633 641 651 660 667 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">Now, what do we mean by the word “module”? The simplest definition is just a source</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,403)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 6 12 18 27 32 37 54 64 72 77 82 92 98 103 108 117 126 131 136 142 156 165 170 175 184 193 198 203 213 222 228 234 243 249 254 260 270 279 284 299 309 316 325 333 338 344 350 359 368 373 378 389 399 413 422 427 433 442 451 460 469 478 487 496 504 509 518 527 537 542 552 561 571 580 586 596 606 620 629 638"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">file. Most of the time that definition works fine. Some languages and development</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,426)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 9 18 28 34 41 51 60 74 83 92 97 105 110 115 120 129 139 148 157 166 171 176 186 196 205 212 217 222 231 239 248 253 261 271 280 287 296 305 310 316 322 328 337 345 350 355 365 370 379 389 398 403 412 418 427 432 437 446 455 461 468 473 482 492 502 511 516 521 527 536 541 546 555 565 573 582 587 596 605 613 622 630 635"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">environments, though, don’t use source files to contain their code. In those cases a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,449)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 14 24 34 43 49 58 63 69 77 82 88 97 105 110 115 124 129 138 148 157 166 174 180 190 199 204 212 221 226 231 241 247 252 258 267 276 285 290 296 306 315 323 328 337 346 356 361 371 380 385 394 399 407 412 419 428 437 442 451 458 467 475"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">module is just a cohesive set of functions and data structures.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,492)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 12 21 30 35 40 55 65 72 82 87 96 105 115 124 133 141 147 157 166 175 180 186 200 210 216 222 231 239 244 249 258 267 272 283 296 305 310 315 328 338 347 356 364 370 380 389 394 400 408 413 418 427 436 441 447 457 464 473 482 487 492 501 510 515 520 530 536 545 555 563 568 573 583 592 601 606 615 624 631 636 641 650"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">That word “cohesive” implies the SRP. Cohesion is the force that binds together the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,515)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 9 19 29 38 43 50 59 67 77 87 96 104 110 120 126 135 140 145 155 160 169 174 182 188 197 206 212 221 226 235 244 249 259 265"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">code responsible to a single actor.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,558)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 11 20 27 36 45 55 63 68 73 82 91 96 106 115 123 128 133 148 157 166 171 176 186 191 200 209 219 228 235 243 248 257 266 276 281 286 295 301 309 314 324 331 337 346 355 361 371 377 386 391 397 405 410 420 429 434 440 450 460 469 475 484 493 498 507 512 517 522 531 540 545 553 562 576 586 591 601 615 623 628 638"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">Perhaps the best way to understand this principle is by looking at the symptoms of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,581)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 10 16 26 32 41 46 52 61 70 75 81 86"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">violating it.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,651)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0"
+             y="0"
+             id="tspan114">S</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(714,651)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 24 56 76 97 123"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">YMPTOM</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(877,651)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 17 28 36"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">1: A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(936,651)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 24 48 61 85 107 131 150 173"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">CCIDENTAL</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1139,651)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0"
+             y="0"
+             id="tspan130">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1163,651)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 24 44 66 79 103 123 145 158 184"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">UPLICATION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,696)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 17 26 31 37 46 56 66 73 79 84 93 98 107 116 125 139 149 155 164 169 175 183 188 193 202 211"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">My favorite example is the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(912,696)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 10 20 30 40 50 60 70"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">Employee</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(997,696)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 9 15 24 32 40 45 51 58 68 82 87 96 101 111 120 129 136 146 152 158 163 172 182 192 198 204 213 222 227 233 243 252 257 262 268 273 278 287 296 304 309 314 323 330 339"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">class from a payroll application. It has three</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,719)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 14 23 28 37 47 57 65 71"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">methods: </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(772,719)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">calculatePay()</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(912,719)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 5"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(922,719)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">reportHours()</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1052,719)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 5 10 19 28 38"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">, and </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1095,719)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 10 20 30 40 50"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">save()</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1160,719)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0"
+             y="0"
+             id="tspan174">(</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1167,719)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 11 17 26 35 42 51 56 66 71"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">Figure 7.1</tspan></text>
+        <path
+           d="m 1167,720.5 h 80 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path182" />
+        <text
+           xml:space="preserve"
+           transform="translate(1248,719)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 7"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">).</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 4176,0 h 696 V 1056 H 4176 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 4176,66 h 696 V 996 H 4176 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-4176)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-4176)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(4176,83.01562)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 9 19 29 38 43 49 57 62 67 74 83 89 98 103 113 122 132 138 144 153 162 167 176 186 191 196 211 220 225 234 241 250 255 264 274 283 293 300 307 317 327 336 345 355 360 369 377 382 392 399 409 415 424 432 440 446 456 465 474 480 488 493 498 508 513 520 529 539 548 557 566 571 580 589 599 604 613 619 625 639 645 654 663 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">code is truly duplicated, we are honor-bound as professionals to reduce and eliminate</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 6 11"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">it.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,149)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 13 22 27 32 37 46 55 62 71 76 85 92 101 106 116 122 128 134 143 150 159 168 173 178 187 193 202 212 220 225 235 241 246 256 265 275 281 287 296 305 310 316 326 335 340 345 357 366 375 382 391 396 402 410 415 420 427 436 445 450 460 469 479 485 491 500 509 514 520 530 539 544 549 555 564 569 584 593 599 608 617 622 631 641 650 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">But there are different kinds of duplication. There is true duplication, in which every</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,172)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 9 18 27 36 45 54 59 64 74 79 89 98 107 112 118 127 135 140 149 158 167 176 181 190 199 208 217 225 233 239 244 253 258 267 275 280 285 294 303 308 316 325 339 348 353 362 371 380 389 398 407 412 417 427 432 441 451 460 467 476 481 491 500 510 516 522 531 540 545 554 559 569 575 580 585 594 603 608 613 619 628 636 641 650 659 668 677"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">change to one instance necessitates the same change to every duplicate of that instance.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 12 21 30 39 44 49 58 67 74 83 88 94 102 107 113 122 128 136 145 150 160 167 172 181 190 199 205 215 224 233 238 247 253 258 268 277 287 293 299 308 317 322 328 338 347 352 357 363 369 374 379 394 404 409 418 428 438 447 454 463 472 477 483 492 497 507 516 526 532 538 547 556 561 570 580 585 593 602 611 616 622 632 641 649 654 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">Then there is false or accidental duplication. If two apparently duplicated sections of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 9 19 29 38 43 52 62 72 78 88 97 102 111 117 127 136 145 150 160 166 172 178 187 194 203 212 217 222 232 241 246 255 263 283 289 295 300 305 314 323 332 337 346 355 364 373 382 391 396 405 410 415 425 431 437 443 452 459 468 477 482 487 494 503 508 517 525 530 535 544 553 563 568 574 584 591 596 606 612 618 624 633 640 649 658"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">code evolve along different paths—if they change at different rates, and for different</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 7 16 25 33 43 52 60"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">reasons—</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4256,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 5 14 23 32 37 42 51 60 69 74 83 90 99 104 113 123"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">then they are not</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4389,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 5 12 21 30 35 45 54 64 70 76 85 94 99 108 116"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">true duplicates.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4515,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 13 22 27 36 43 52 57 62 72 77 82 91 100 114 119 125 134 139 148 153 159 168 183 188 197 206 215 222 230 235 240 249 258 268 273 282 292 301 308 314 320 325 331 337 346"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">Return to them in a few years, and you’ll find</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 5 14 23 28 33 38 47 56 65 70 79 86 95 100 110 119 126 135 140 150 156 162 168 177 184 193 202 207 212 218 225 235 249 254 263 272 281 290 295 305 310 319 328 334"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">that they are very different from each other.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,307)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 14 24 39 44 50 64 73 82 88 97 106 111 116 131 141 146 155 163 172 177 186 195 203 212 220 225 230 239 248 253 258 267 276 286 295 300 310 319 326 335 340 348 354 368 374 380 389 396 401 409 418 425 434 443 452 457 465 470 477 486 495 500 509 516 525 533 538 543 555 564 573 578 587 594 603 612 618 623 632 641 646 654 659 674 680 686"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">Now imagine two use cases that have very similar screen structures. The architects will</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,330)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 6 12 21 30 36 45 50 60 69 74 82 87 94 104 113 122 128 137 142 147 156 170 180 185 194 204 209 214 224 229 237 246 255 262 271 276 281 290 299 304 313 323 333 342 347 353 363 370 375 380 389 398 403 408 416 421 428 437 446 451 460 467 476 481 486 499 508 513 518 526 535 545 554 560 570 575 580 589 598 607 616 621 627 635 640 645 654 663"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">likely be strongly tempted to share the code for that structure. But should they? Is that</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,353)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 5 12 21 30 35 45 54 64 70 76 85 94 99 105 115 124 133 138 152 159 164 170 175 180 186 194 199 208 217 226 232 242 251 260 265 274 280"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">true duplication? Or it is accidental?</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,396)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 17 27 35 40 45 51 57 66 75 81 90 95 101 106 111 117 125 130 139 148 157 163 173 182 191 196 205 211 216 221 235 243 248 253 259 273 282 287 296 306 315 323 328 338 346 351 356 361 370 379 384 394 404 414 422 427 436 443 452 457 462 471 480 485 490 495 504 514 522 531 536 541 556 566 571 579 588 595 604 613 622 630 635 650 656 662"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">Most likely it is accidental. As time goes by, the odds are that those two screens will</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,419)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 10 16 26 35 42 51 60 65 74 83 93 98 107 117 126 135 140 149 158 164 170 179 184 190 200 210 219 224 234 243 250 259 264 274 280 286 292 301 308 317 326 331 336 341 352 362 369 374 379 388 394 402 407 414 423 432 440 450 459 464 469 478 487 494 503 508 522 531 539 544 549 559 568 573 578 587 596 605 614 619 624 634 639 648 658 668 674"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">diverge and eventually look very different. For this reason, care must be taken to avoid</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,442)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 9 18 24 30 39 45 54 63 68 73 82 91 105 110 115 129 134 143 152 159 174 180 188 197 202 207 215 224 234 243 250 259 264 270 279 288 293 298 307 316 330 335 341 350 355 364 371 376 391 397 403 409 414 424 433 438 447 452 461 470 479 485 491 500 509 518 527"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">unifying them. Otherwise, separating them later will be a challenge.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,485)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 18 27 36 45 50 59 69 78 83 92 99 108 113 123 132 139 144 150 159 168 174 180 189 194 202 211 221 230 237 246 251 257 266 275 280 289 297 306 311 320 329 337 346 354 359 365 372 382 396 401 411 420 429 434 443 452 462 467 476 485 491 496 501 510 520 529 534 549 555 561 567 572 579 588 597 602 608 617 622 632 637 642 651 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">When you are vertically separating use cases from one another, you will run into this</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,508)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 6 14 22 31 40 45 50 59 68 78 83 92 102 111 118 123 128 137 151 161 166 175 180 186 196 205 210 225 231 237 243 248 258 267 272 277 287 292 301 311 320 330 336 345 350 355 364 373 378 387 395 404 409 418 427 435 444 452 457 467 476 485 494 503 511 520 525 530 539 548 557 562 571 580 590 599 604 612 618 632 638 644 653"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">issue, and your temptation will be to couple the use cases because they have similar</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,531)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 8 17 24 33 42 51 56 64 69 76 85 94 99 108 115 124 132 137 142 152 159 164 172 178 192 198 204 213 220 225 234 240 249 259 266 272 277 286 300 308 313 318 328 335 340 348 354 368 374 380 389 396 401 411 420 425 434 444 453 461 470 475 485 494 503 510 516 525 533 538 547 556 566 572 582 589 594 602 611 620 629 643 652 660 665 670 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">screen structures, or similar algorithms, or similar database queries and/or schemas. Be</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,554)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 9 18 25 34 40 49 55 60 65 78 87 95 101 109 114 119 124 133 142 147 152 161 175 185 190 199 204 210 220 229 234 239 249 254 263 273 287 301 307 312 317 322 331 340 345 353 359 368 373 383 389 394 403 412 421 430 437 443 452 459 468 473 482 488 494 508 514 523 532 537 543 553 562 567 577 583 588 598 607 617 623 629 638 647 652 658 668 677"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">careful. Resist the temptation to commit the sin of knee-jerk elimination of duplication.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,577)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 17 26 35 44 49 57 66 73 82 87 92 101 110 115 125 134 144 150 156 165 174 179 185 195 204 209 215 223 228 235 244 253 259"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">Make sure the duplication is real.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,620)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 13 22 27 32 41 50 55 63 72 86 95 100 105 115 124 133 142 147 152 167 176 185 194 199 208 218 227 232 241 248 257 262 270 279 289 298 305 314 319 325 334 343 348 354 363 372 381 388 396 401 410 420 427 433 441 451 460 465 474 480 486 494 499 504 513 523 532 537 551 557 566 575 580 585 594 604 609 615 624 633 638 643 652 661 666 671 676 685"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">By the same token, when you are separating layers horizontally, you might notice that the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,643)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 10 19 24 33 38 46 51 58 67 76 81 90 97 106 111 121 127 132 141 146 156 165 172 177 183 192 201 207 216 223 228 238 247 252 261 271 280 288 297 302 309 318 327 337 344 354 359 365 373 378 388 397 404 413 418 426 432 446 452 458 467 474 479 484 494 499 504 513 522 527 537 546 551 560 565 573 578 585 594 603 608 617 624 633 638 648 654 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">data structure of a particular database record is very similar to the data structure of a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,666)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 10 19 26 31 37 46 55 61 70 77 82 90 99 106 115 124 133 138 148 154 163 177 182 187 199 209 218 223 237 246 255 260 270 279 284 289 298 312 322 327 336 346 351 356 366 371 379 385 399 409 415 424 429 439 448 456 464 469 474 483 492 497 507 516 521 530 540 549 557 566 571 578 587 596 606 613 623 628 637 647 652 657 667 672 677 686"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">particular screen view. You may be tempted to simply pass the database record up to the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,689)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 13 19 24 29 36 45 50 59 68 75 80 85 94 103 112 117 122 132 137 146 153 162 171 176 185 190 199 204 214 220 229 244 249 263 273 283 292 298 303 308 317 326 331 336 342 352 362 371 379 384 389 398 407 412 420 429 443 452 457 466 475 485 490 499 509 519 528 533 538 547 556 561 570 576 585 599 608 617 622 630 635 644 653 660 670 678 686"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">UI, rather than to create a view model that looks the same and copy the elements across.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,712)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 13 22 27 36 45 52 61 67 76 82 88 93 105 114 120 128 133 143 152 162 168 174 183 192 197 203 213 222 227 233 241 246 255 261 275 285 293 298 303 312 321 328 333 342 348 357 363 372 377 386 395 404 410 420 429 438 443 452 458 463 468 481 488 497 506 511 517 526 535 540 545 554 563 568 576 585 595 604 611 620 625 634 639 649 655 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">Be careful: This duplication is almost certainly accidental. Creating the separate view</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,735)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 14 24 34 43 49 54 60 68 73 82 92 97 102 111 116 122 132 137 142 152 158 163 172 178 184 194 201 206 211 216 225 234 244 249 255 260 265 280 286 292 298 303 312 321 327 337 342 351 361 370 375 384 393 402 412 417 422 431 440 445 451 460 469 478 485 493 498 508 515 525 535 544 551 557 566 571 581 590 599 609 618 628 634 643 653"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">model is not a lot of effort, and it will help you keep the layers properly decoupled.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,805)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0"
+             y="0"
+             id="tspan142">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4200,805)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 22 46 72 96 116 138 151 175"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">ECOUPLING</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4408,805)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0"
+             y="0"
+             id="tspan150">M</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4440,805)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 26 50 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">ODES</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4538,805)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 11"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">(A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4572,805)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 25 48 61"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">GAIN</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4657,805)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0"
+             y="0"
+             id="tspan166">)</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,850)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 13 22 31 40 45 50 60 65 79 89 99 108 116 121 126 138 147 156 163 172 177 186 193 202 207 221 230 239 248 253 268 277 286 294 299 304 314 319 329 338 347 357 366 376 382 391 396 402 411 420 429 436 444 449 458 467 477 482 491 499 508 513 522 531 539 548 556 561 566 578 587 596 605 610 619 628 637 642 652"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">Back to modes. There are many ways to decouple layers and use cases. They can be</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,873)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 10 19 28 38 47 57 63 72 82 87 96 101 106 111 120 129 134 142 152 161 168 177 186 191 200 210 220 229 234 240 249 259 268 274 279 284 293 298 303 308 317 326 331 341 347 356 365 372 381 386 395 405 415 424 429 436 446 455 465 471 481 490 504 513 522 527 534 539 545 554 564 573 579 584 589 598 607 617 622 631 636 641 646 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">decoupled at the source code level, at the binary code (deployment) level, and at the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,896)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 9 18 27 36 45 50 56 66 75 80 89 98 104 109 114 121 129 138 145 155 161 170 179 186 191 197 206 216 225 231"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">execution unit (service) level.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4177,940)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0 7"
+             y="0"
+             sodipodi:role="line"
+             id="tspan182">• </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4189,940)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 11 21 31 39 48 58 63 68 78 88 98 103"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">Source level.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4302,940)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text192"><tspan
+             x="0 16 25 30 39 48 57 62 71 81 90 95 102 112 118 123 128 137 146 151 161 170 180 189 198 208 217 226 235 241 250 258 263 273 282 287 302 311 320 329 334 342 352 361 368 377 386 391 400 410 420 429 434 448 458 468 477 483 492 500 505 513 523 528 533 542 551"
+             y="0"
+             sodipodi:role="line"
+             id="tspan190">We can control the dependencies between source code modules so that</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4189,963)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0 9 18 27 36 45 54 62 67 72 82 87 97 106 115 120 134 144 154 163 169 178 183 193 203 208 217 227 232 237 243 253 260 269 278 283 292 301 310 319 328 337 345 350 360 367 372 379 388 397 407 421 431 437 443 452 457 463 473 482 487 497 503 508 518 523 532 541 548 556 561 568 577 582 591 596 601 606 619 628 638"
+             y="0"
+             sodipodi:role="line"
+             id="tspan194">changes to one module do not force changes or recompilation of others (e.g., Ruby</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4189,986)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 14 23 37 45 52"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">Gems).</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

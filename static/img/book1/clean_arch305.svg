@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 11136,0 h 696 v 1056 h -696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 11136,66 h 696 v 930 h -696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-11136)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-11136)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(11136,87)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0"
+             y="0"
+             id="tspan30">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11152,87)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 17 34 52 61 76 91 108 123 140 157"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">RCHITECTURE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,130)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 12 21 30 35 43 52 60 65 74 88 93 108 117 125 130 145 152 158 163 168 177 186 191 197 206 211 221 231 241 251 256 262 271 276 293 303 313 323 328 337 345 353 362 376 386 392 401 407 412 417 423 428 433 448 457 465 470 479 484 492 498 507 516 522 531 536 541 555 565 574 584 590 596 601 610 616"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">The system was written in 1976 in M365 assembler. It was a single, monolithic</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,153)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 10 17 27 36 43 52 66 71 81 87 92 99 109 118 127 136 142 151 156 166 176 181 191 201 211 216 222 228 237 246 254 259 264 276 285 294 299 309 319 328 335 344 349 355 364 373 378 386 395 403 408 417 431 436 451 460 468 473 482 487 496 506 520 529 536 545 552 562 577 586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">program of roughly 60,000 lines. The operating system was a home-grown,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,176)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 9 19 28 38 45 54 63 77 87 92 98 108 117 122 127 132 141 149 158 165 173 188 194 199 208 217 226 233 238 248 257 265 274 284 289 299 308 313 323 333 339 345 351 360 369 374 379 395 404 409 418 427 433 439 448 458 463 469 474 479 496 507 518 523 529 539 546"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">nonpreemptive, task-switcher based on polling. We called it MPS for </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11687,176)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 14 23 29 34 40 50 57 67 76 85 93 101 107 116"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">multiprocessing</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,199)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 8 17 25 30 39 53"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">system.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11199,199)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 12 21 30 35 52 62 72 82 87 96 106 120 130 139 144 153 160 165 174 183 193 198 207 217 222 232 241 247 253 258 265 271 280 285 293 298 307 316 325 330"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">The M365 computer had no built-in stack, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11534,199)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 8 18 23 28 37 45 54 61 69 79 88 97 103 109 115 124 129 139 148 155 161 170 180 186 195 203 208 223 232 239 248 253 262 271 281"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">so task-specific variables were kept</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,222)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 6 15 20 29 34 42 52 61 70 76 85 91 96 105 112 121 130 135 145 151 156 170 179 193 203 210 219 224 233 242 252 257 265 280 289 299 309 318 328 333 343 352 357 362 371 376 381 390 400 409 416 425 430 439 449 458 463 472 481 486 491 499 514 520 525 534 543 548 553 564 573 582 589 598 608 613 623 632 639 645 654 664 670 679"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">in a special area of memory and swapped out at every context switch. Shared variables</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,245)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 15 24 31 40 45 59 68 77 86 95 104 114 119 134 140 145 154 159 165 175 184 193 201 206 215 224 234 239 247 256 270 279 289 298 308 315 324 332 337 342 355 364 373 382 387 394 403 412 421 430 435 441 449 457 466 475 483 488 497 506 516 521 528 537 546 555 560 569 579 588 598 604 609 615 625 634 642 647 662 671 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">were managed with locks and semaphores. Reentrancy issues and race conditions were</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,268)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 9 19 28 36 41 50 59 64 69 79 86 96 106 112 121 135 143"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">constant problems.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,311)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 12 21 30 37 46 51 66 75 83 88 97 107 112 118 126 136 142 151 156 162 172 181 186 196 202 207 217 226 236 242 251 260 265 274 284 293 298 305 315 321 326 332 342 351 357 366 371 376 386 393 398 411 417 422 428 438 447 453 462 467 472 478 485 495 509 514 519 528 537 542 552 561 569 575 584 593 601 609 614 621 630 636 645 653 658 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">There was no isolation of device control logic, or UI logic, from the business rules of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,334)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 5 14 23 28 36 45 53 58 67 81 86 91 102 112 119 124 133 142 151 165 175 181 190 195 200 214 224 234 243 257 262 271 281 290 295 302 312 318 323 332 342 352 361 366 375 385 394 400 410 415 425 434 439 445 455 464 473 483 488 496 510 519 528 535 544 554 559 564 573 580 590 599 608 617 627 636 641 646 651 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">the system. For example, modem control code could be found smeared throughout the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,357)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 10 19 25 34 39 49 55 60 65 74 83 88 98 107 115 121 130 139 147 155 160 167 176 182 191 199 204 213 222 232 237 250 256 261 270 280 290 299 304 309 321 330 339 346 355 360 375 384 392 397 406 416 421 430 435 440 449 463 473 478 483 488 498 503 512 521 526 535 544 551 556 562 567 572 578 587 592 602 607 616 621 635 645 655 664 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">bulk of the business rules and UI code. There was no attempt to gather it into a module</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,380)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 10 17 22 31 41 49 54 61 70 79 84 89 94 103 112 117 123 132 137 146 153 159 168 177 186 191 196 208 217 226 231 245 255 265 274 288 296 301 316 325 332 341 346 355 365 374 379 386 396 402 408 417 427 432 437 446 451 456 461 470 479 484 494 500 505 510 516 525 535 544 550 555 560 570 579 584 593 603 613 622 627 632 641 650 655 660 675 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">or abstract the interface. The modems were controlled, at the bit level, by code that was</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,403)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 8 17 26 31 36 45 52 61 71 76 85 95 104 111 120 135 144 153 160 169 174 183 190 200 209 218 228 233 238 247 256 261 269 278 286 291 300 314"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">scattered everywhere around the system.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,446)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 12 21 30 35 43 52 66 75 80 95 104 112 117 122 129 138 147 152 158 168 175 180 185 194 203 208 213 222 229 243 249 258 267 273 278 291 297 302 307 324 333 341 349 358 367 376 384 389 398 407 417 422 428 438 445 459 468 473 478 484 493 502 507 516 526 535 540 547 557 563 568 577 587 597 606 611 626 635 642 651 656 665 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">The same was true for the terminal UI. Messages and formatting control code were not</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,469)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 6 14 24 30 39 44 53 63 68 73 85 94 103 112 117 124 133 142 151 160 170 175 181 190 197 202 211 220 230 235 250 256 266 275 280 285 294 301 311 320 329 338 348 357 362 367 372 381 390 395 405 415 420 430 440 450 457 463 469 478 487 492 501 511 521 530 535 545 554 562 571"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">isolated. They ranged far and wide throughout the 60,000-line code base.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,512)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 12 21 30 35 49 59 69 78 92 97 111 121 131 140 146 155 163 168 183 192 197 212 221 228 237 242 251 259 265 274 283 288 303 312 319 328 333 343 352 360 366 375 384 393 403 408 413 423 428 438 447 452 466 476 485 494 499 508 518 523 533 542 547 558 571 576 586 596 605 612 622 630 635 640 656"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">The modem modules we were using were designed to be mounted on PC boards. We</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,535)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 10 20 29 38 47 52 57 62 71 81 89 98 103 112 121 127 132 140 145 151 158 168 182 187 196 201 206 215 221 228 238 243 253 262 269 274 282 287 292 301 310 320 325 331 340 345 354 363 370 379 384 393 403 408 413 422 431 445 450 465 471 476 485 490 500 505 514 523 530 535 544 550 557 566 575 581 586 593 602 607 617 626 631 641 646"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">bought those units from a third party, and integrated them with other circuitry onto a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,558)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 10 20 29 36 46 51 56 65 74 79 84 90 96 101 106 112 121 126 136 141 151 160 167 172 181 190 198 203 213 227 232 242 251 260 269 279 285 294 303 312 317 322 334 343 352 360 369 374 383 392 398 403 411 416 431 440 447 456 461 470 479 489 498 507 515 521 531 540 545 550 561 571 576 581 590 596 601 610 617 622 631 636 642 651"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">board that fit into our custom backplane. These units were expensive. So, after a few</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,581)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 9 18 27 34 42 47 52 67 76 81 91 100 109 115 125 134 144 149 154 164 169 179 188 196 202 211 220 225 235 244 251 256 266 281 290 295 309 319 329 338 352 360 365 370 386 395 400 405 411 420 425 430 439 448 453 461 471 477 482 497 506 513 522 527 536 543 553 562 572 577 582 592 601 610 619 628 638 643 648 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">years, we decided to design our own modems. We, in the software group, begged the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,604)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 9 18 25 35 50 59 66 75 80 90 99 107 113 122 131 140 147 152 157 167 172 181 189 198 203 208 217 226 231 239 248 262 271 276 286 292 297 302 308 318 325 339 348 353 361 366 372 382 389 394 403 413 422 427 434 444 450 456 462 471 480 485 490 499 508 513 522 531 546 551 565 575 585 594 608 613 618 634"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">hardware designer to use the same bit formats for controlling the new modem. We</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,627)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 9 18 28 34 43 49 58 67 77 82 87 96 105 110 115 120 129 138 143 157 167 177 186 200 205 214 224 233 238 245 255 261 266 275 285 295 304 309 324 333 341 346 354 368 377 386 393 402 412 417 426 436 445 452 461 476 485 494 501 510 515 520 529 538 548 553 558 567 576 581 586 596 605 612 617 625 634 642 647 656"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">explained that the modem control code was smeared everywhere, and that our system</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,650)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 15 25 34 40 50 55 64 73 83 92 97 102 112 117 127 136 145 151 156 171 177 182 191 196 206 216 221 230 235 244 250 259 269 277 282 292 298 303 317 327 337 346 360 368 373 379 388 393 398 407 416 421 427 436 441 450 457 466 471 476 487 497 502 507 522 531 536 546 555 564 573 582 592 597 606 615 625 630 639 648 654 664 670 679 689"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">would have to deal with both kinds of modems in the future. So, we begged and cajoled,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,673)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 9 20 26 35 44 52 61 66 80 89 98 107 112 117 126 135 140 149 158 173 178 192 202 212 221 235 240 246 256 266 275 280 286 295 303 308 313 319 325 334 343 348 353 362 371 376 386 392 402 407 421 431 441 450 464 469 475 482 492 506 511 520 525 533 543 549 554 569 578 585 594 599 608 618 627 632 639 649"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">“Please make the new modem look just like the old modem from a software control</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,696)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 10 20 26 35 40 45 55 61 66 76 82 91 105 110"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">point of view.”</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,739)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 13 22 27 32 47 56 65 74 79 94 103 108 117 127 132 137 142 151 160 165 174 183 198 203 217 227 237 246 260 265 270 275 284 293 298 307 317 326 331 338 348 354 359 367 372 379 388 397 402 411 418 427 437 442 457 466 474 479 488 497 502 508 515 524 530 539 544 554 560 566 572 581 588 597 606 611 616 621 627 632 637 652 661"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">But when we got the new modem, the control structured was entirely different. It was</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,762)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 9 19 24 29 35 44 52 57 62 71 76 82 88 93 98 104 113 118 128 134 140 146 155 162 171 180 185 190 195 201 206 211 226 235 243 248 257 266 271 277 284 293 299 307 312 317 326 335 345 350 359 369 383 393 399 408 413 422 428 436 441 446 456 462 468 474 483 490 499 508 513"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">not just a little different. It was entirely, and completely, different.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,805)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 12 21 30 39 48 56 61 66 75 84 91 101 116 125 132 141 146 155 164 173 179 188 197 206 212"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">Thanks, hardware engineer.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,848)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 18 27 36 41 46 61 70 77 86 91 106 115 120 125 135 140 150 160 169 174 190 199 204 219 228 235 244 249 258 268 273 278 286 292 306 316 322 331 336 343 352 362 368 377 386 392 401 410 415 424 430 436 441 446 455 464 469 479 485 495 500 514 524 534 543 557 565 570 585 591 596 605 610 619 628"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">What were we to do? We were not simply replacing all the old modems with new</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,871)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 14 24 34 43 57 65 70 75 81 90 98 103 112 121 131 136 141 156 165 170 185 194 201 210 215 229 235 244 250 259 268 273 283 289 299 304 313 322 332 337 346 355 370 375 389 399 409 418 432 440 445 451 460 465 475 484 491 496 504 513 521 526 535 549 557 562 567 579 588 597 602 610 620 626 631 646 655 662"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">modems. Instead, we were mixing old and new modems in our systems. The software</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,894)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 9 18 27 37 46 56 61 66 76 81 91 100 105 114 124 130 139 144 149 159 164 173 182 191 201 207 216 221 231 241 246 255 260 269 275 284 294 302 307 317 323 328 342 352 362 371 385 393 398 407 412 417 422 431 440 445 453 462 476 485 490 495 501 515 524 529 534 550 559 566 575 580 595 604 609 619 629 639 653 662 672 677 682"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">needed to be able to handle both kinds of modems at the same time. Were we doomed to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,917)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 8 17 24 31 41 50 59 69 74 83 93 102 109 118 123 133 139 148 157 166 171 177 186 191 196 205 214 219 228 238 248 257 262 267 276 285 290 295 309 318 327 333 343 352 358 367 372 381 391 396 401 410 419 424 438 448 458 467 481 489 494 509 515 520 529 534 540 546 555 564 572 577 586 595 605 610 618 628 637 646 652 661"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">surround every place in the code that manipulated the modems with flags and special</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,940)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 9 18 26 35 43 52 57 69 78 87 94 103 108 123 132 139 148 153 162 171 180 190 197 206 216 224 229 239 245 250 258 267 276 285 290 300 306 315 324 333 341"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">cases? There were hundreds of such places!</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11136,983)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 6 15 20 25 34 43 48 57 66 76 81 86 101 110 115 125 135 140 149 159 164 170 180 187 192 201 210 215 224 234 243 252 257 272 282 289 297 306 311 319 329 335 344 349 355 365 374"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">In the end, we opted for an even worse solution.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

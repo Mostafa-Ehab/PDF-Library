@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 2784,0 h 696 V 1056 H 2784 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 2784,66 h 696 V 996 H 2784 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath48">
+      <path
+         d="m 2784,66 h 696 V 996 H 2784 V 66"
+         clip-rule="evenodd"
+         id="path46" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-2784)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-2784)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <g
+           id="g30">
+          <path
+             d="m 2785,181 h 695 v 1 h -695 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" />
+        </g>
+        <g
+           id="g34">
+          <path
+             d="m 2785,664 h 695 v 1 h -695 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path36" />
+        </g>
+        <g
+           id="g38">
+          <path
+             d="m 2785,884 h 695 v 1 h -695 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path40" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g42"
+       transform="translate(-2784)">
+      <g
+         id="g44"
+         clip-path="url(#clipPath48)">
+        <text
+           xml:space="preserve"
+           transform="translate(2785,78.67188)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">void setName(struct NamedPoint* np, char* name);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,96)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">char* getName(struct NamedPoint* np);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,130)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">Click here to view code image</tspan></text>
+        <path
+           d="m 2784,131.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path62" />
+        <text
+           xml:space="preserve"
+           transform="translate(2785,170)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">namedPoint.c</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,203.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text70"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198"
+             y="0"
+             sodipodi:role="line"
+             id="tspan68">#include &quot;namedPoint.h&quot;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,220.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text74"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162"
+             y="0"
+             sodipodi:role="line"
+             id="tspan72">#include &lt;stdlib.h&gt;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,254.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162"
+             y="0"
+             sodipodi:role="line"
+             id="tspan76">struct NamedPoint {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2803,271.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text82"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan80">double x,y;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2803,288.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">char* name;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,305.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0 9"
+             y="0"
+             sodipodi:role="line"
+             id="tspan88">};</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,339.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text94"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468 477 486 495 504 513 522 531 540 549 558 567 576 585 594"
+             y="0"
+             sodipodi:role="line"
+             id="tspan92">struct NamedPoint* makeNamedPoint(double x, double y, char* name) {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2803,356.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468 477 486 495 504"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">struct NamedPoint* p = malloc(sizeof(struct NamedPoint));</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2803,373.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan100">p-&gt;x = x;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2803,390.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">p-&gt;y = y;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2803,407.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">p-&gt;name = name;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2803,424.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">return p;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,441.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0"
+             y="0"
+             id="tspan116">}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,475.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">void setName(struct NamedPoint* np, char* name) {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2803,492.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">np-&gt;name = name;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,509.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0"
+             y="0"
+             id="tspan128">}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,543.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">char* getName(struct NamedPoint* np) {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2803,560.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">return np-&gt;name;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,578)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0"
+             y="0"
+             id="tspan140">}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,611)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">Click here to view code image</tspan></text>
+        <path
+           d="m 2784,612.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path148" />
+        <text
+           xml:space="preserve"
+           transform="translate(2785,651)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 9 18 27 36 45"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">main.c</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,685.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">#include &quot;point.h&quot;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,702.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">#include &quot;namedPoint.h&quot;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,719.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">#include &lt;stdio.h&gt;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,753.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">int main(int ac, char** av) {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2803,770.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468 477 486 495 504 513 522 531 540 549 558"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">struct NamedPoint* origin = makeNamedPoint(0.0, 0.0, &quot;origin&quot;);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2803,787.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">struct NamedPoint* upperRight = makeNamedPoint </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3226,787.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">(1.0, 1.0, &quot;upperRight&quot;);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2803,804.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198"
+             y="0"
+             sodipodi:role="line"
+             id="tspan182">printf(&quot;distance=%f\n&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2821,821.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">distance(</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2902,838.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text192"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207"
+             y="0"
+             sodipodi:role="line"
+             id="tspan190">(struct Point*) origin, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2902,855.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252"
+             y="0"
+             sodipodi:role="line"
+             id="tspan194">(struct Point*) upperRight));</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,873)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0"
+             y="0"
+             id="tspan198">}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,922)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text204"><tspan
+             x="0 6 12 17 26 36 45 50 56 66 76 85 90 99 108 115 124 130 139 145 151 160 165 174 179 184 189 198 207"
+             y="0"
+             sodipodi:role="line"
+             id="tspan202">If you look carefully at the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2996,922)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text208"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan206">main</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3041,922)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text212"><tspan
+             x="0 10 17 27 36 43 52 66 71 76 85 95 104 111 117 123 128 136 145 154 159 164 173 182 187 192 197 206 215"
+             y="0"
+             sodipodi:role="line"
+             id="tspan210">program, you’ll see that the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3261,922)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text216"><tspan
+             x="0 10 20 30 40 50 60 70 80 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan214">NamedPoint</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3366,922)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text220"><tspan
+             x="0 10 19 24 33 38 46 51 58 67 76 81 90 97"
+             y="0"
+             sodipodi:role="line"
+             id="tspan218">data structure</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,945)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text224"><tspan
+             x="0 9 18 23 31 36 45 53 58 63 72 82 91 100 109 114 120 125 130 136 144 149 158 163 173 182 189 195 205 214 219 225 235 244 249 259 265 270 275 284 293"
+             y="0"
+             sodipodi:role="line"
+             id="tspan222">acts as though it is a derivative of the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3082,945)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text228"><tspan
+             x="0 10 20 30 40"
+             y="0"
+             sodipodi:role="line"
+             id="tspan226">Point</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3137,945)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text232"><tspan
+             x="0 10 19 24 33 38 46 51 58 67 76 81 90 97 106 111 116 128 137 143 151 156 162 170 175 185 194 203 212 221 229 238 243 248 257 266 271 281 288 298 307 314 319 329"
+             y="0"
+             sodipodi:role="line"
+             id="tspan230">data structure. This is because the order of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,968)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text236"><tspan
+             x="0 5 14 23 28 34 40 47 55 60 65 70 85 95 100 106 112 121 127 137 145 150 156 165"
+             y="0"
+             sodipodi:role="line"
+             id="tspan234">the first two fields in </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2954,968)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text240"><tspan
+             x="0 10 20 30 40 50 60 70 80 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan238">NamedPoint</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3059,968)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text244"><tspan
+             x="0 6 14 19 24 33 42 47 55 64 78 87 92 101 109"
+             y="0"
+             sodipodi:role="line"
+             id="tspan242">is the same as </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3173,968)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text248"><tspan
+             x="0 10 20 30 40"
+             y="0"
+             sodipodi:role="line"
+             id="tspan246">Point</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3223,968)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text252"><tspan
+             x="0 5 10 16 25 30 38 47 57 64 69 74"
+             y="0"
+             sodipodi:role="line"
+             id="tspan250">. In short, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3302,968)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text256"><tspan
+             x="0 10 20 30 40 50 60 70 80 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan254">NamedPoint</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3407,968)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text260"><tspan
+             x="0 9 18"
+             y="0"
+             sodipodi:role="line"
+             id="tspan258">can</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

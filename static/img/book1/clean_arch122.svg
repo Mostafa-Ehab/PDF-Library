@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 3480,0 h 696 V 1056 H 3480 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 3480,66 h 696 V 996 H 3480 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-3480)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-3480)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(3480,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 12 22 31 36 50 59 68 73 82 91 101 110 115 130 140 149 159 168 175 184 194 199 214 223 232 237 246 256 265 270 279 288 298 307 312 317 327 332 338 347 356 362 371 381 390 395 403 413 418 432 441 450 459 464 474 480 486 492 501 508 517 526 531 536 542 548 558 565 574 581 587 596 604 609 614 623 632 642 647 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">You may have wondered why you have to include so many different libraries, and so</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 14 23 32 41 46 56 62 67 76 86 95 102 111 121 131 141 150 155 164 170 178 187 193 201 206 214 219 228 234 240 245 250 256 265 273 278 283 288 298 303 310 319 328 333 342 347 355 361 375 385 391 400 405 414 423 429 434 439 444 453 461 466 471 481 487 492 502 511 520 525 535 541 546 555 565 574 581 586 595 601 610 618 626 635 643 648 653 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">much of everybody else’s stuff, just to run a simple unit test of one of your classes. If</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 9 19 28 33 39 48 58 67 75 80 86 95 104 109 118 123 128 137 146 151 165 174 179 184 193 200 205 214 219 229 235 240 245 250 259 269 278 283 298 304 310 316 321 331 338 348 358 367 377 383 392 397 407 413 421 430 440 450 459 466 471 476 485 494 499 504 509 518 527 534 543 548 557 564 573 578 587 596 605 611 620 628 633 639 648 653 658 667"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">you investigate the matter a bit, you will probably discover that there are cycles in the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 10 19 29 38 47 57 66 75 84 93 98 107 114 123 133 142 147 152 163 172 181 190 195 204 213 222 228 237 245 250 264 273 282 291 296 302 307 312 322 331 338 347 352 362 368 374 380 386 395 404 410 415 420 425 435 440 446 454 464 470 479 484 493 498 507 517 531 541 551 560 569 578 583 591 596 601 614 623 629 634 639 644 653 661 666 672 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">dependency graph. Such cycles make it very difficult to isolate components. Unit testing</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 9 18 28 33 40 49 55 64 73 81 87 96 105 110 120 129 138 148 162 171 176 186 195 202 211 216 226 232 238 244 250 259 268 274 279 284 293 302 312 317 326 333 340 350 357 362 372 379 389 398 407 412 417 423 432 437 446 456 466 472 477 483 493 502 507 512 522 531 537 543 553 558 564 572 580 589 598 606 611 620 627 637"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">and releasing become very difficult and error prone. In addition, build issues grow</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,198)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 9 18 28 42 51 56 63 69 78 87 93 99 108 113 128 134 139 148 153 158 167 176 181 190 199 213 223 232 239 244 254 260 265 279 289 299 308 314 323 331"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">geometrically with the number of modules.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 17 27 34 43 53 63 72 78 83 88 103 112 121 130 135 140 149 158 165 174 179 188 195 204 209 218 227 236 242 251 259 264 270 279 284 289 298 307 312 322 331 341 350 359 369 378 387 396 405 410 419 426 435 445 454 459 464 470 475 480 489 498 507 512 522 531 536 546 555 562 571 576 586 592 598 604 610 619 628 634 639 644 649"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">Moreover, when there are cycles in the dependency graph, it can be very difficult to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 15 25 32 41 46 56 65 70 75 80 89 98 103 113 120 130 139 146 151 157 166 171 186 195 201 210 219 224 233 243 252 257 271 280 288 293 298 308 317 323 329 339 344 349 358 367 372 381 391 405 415 425 434 443 452 457 465 470 475 481 490 500 509 518 528 533 538 543 552 561 568 577 582 592 599 609 619 628 638 644 653 658 664 672 677 686"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">work out the order in which you must build the components. Indeed, there probably is no</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,287)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 9 19 26 33 42 51 56 61 71 78 88 97 103 108 113 125 134 140 148 153 162 171 180 185 191 200 209 219 224 229 239 244 252 262 276 285 290 300 309 316 325 330 339 348 356 361 370 375 385 392 402 412 418 427 441 449 454 460 469 474 480 489 498 507 516 525 534 543 551 556 562 568 577 586 591 599 608 618 627 632 637 646 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">correct order. This can lead to some very nasty problems in languages like Java that</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,310)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 7 16 25 35 40 45 54 63 69 76 81 91 100 109 115 124 131 140 145 151 161 170 178 183 189 196 206 220 225 234 244 258 268 274 280 289 299 304 314 320 329 338 345 354 359 365 371 377 386 394"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">read their declarations from compiled binary files.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,360)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0"
+             y="0"
+             id="tspan70">B</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3496,360)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 17 32 48 66 75 92 110 116 131 149"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">REAKING THE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3666,360)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0"
+             y="0"
+             id="tspan78">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3683,360)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 15 32 47"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">YCLE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,403)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 6 11 16 22 30 35 44 50 65 74 83 91 96 106 116 124 132 138 148 154 163 168 173 183 188 198 205 214 223 232 237 246 251 260 269 278 284 293 298 308 314 319 328 338 352 362 372 381 390 399 404 412 417 426 435 445 450 457 466 472 481 489 494 503 508 517 522 527 536 545 550 560 569 579 588 597 607 616 625 634 643 648 657 664 673 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">It is always possible to break a cycle of components and reinstate the dependency graph</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,426)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 9 17 22 31 36 50 64 78 83 88 100 109 118 125 134 139 148 155 164 169 174 189 199 204 214 221 227 241 250 257 266 271 285 294 303 312 321 330 336 344 358 366 371 377 387 394 399 409 419 425 434 443 448 456 466"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">as a DAG. There are two primary mechanisms for doing so:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,470)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 10"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">1.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3500,470)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 14 24 34 40 49 54 59 68 77 82 96 105 115 124 133 143 152 161 170 179 184 190 199 209 218 225 233 239 249 258 263 274 281 287 296 305 311 321 327 336 341 348 362 368 379 386 391 396 402 411 416 421 430 439 444 453 462 470 479 484 490 499"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">Apply the Dependency Inversion Principle (DIP). In the case in </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4004,470)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 11 17 26 35 42 51 56 66 76 81"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">Figure 14.3</tspan></text>
+        <path
+           d="m 4004,471.5 h 90 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path106" />
+        <text
+           xml:space="preserve"
+           transform="translate(4095,470)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 5 10 25"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">, we</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3496,493)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 9 19 28 34 44 49 58 65 74 83 88 97 102 111 120 125 131 140 145 154 161 167 176 185 194 199 204 213 222 227 232 241 250 258 263 268 277 286 291 305 314 319 328 338 348 356 361 366 375 384 389"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">could create an interface that has the methods that </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3890,493)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan116">User</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3935,493)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 9 18 27 37 45 50 55 71 80 85 94 104 113 119 129 134 139 148 157 166 171 181 190 195 200 205 214 223"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">needs. We could then put that</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3496,516)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 6 15 20 29 36 42 51 60 69 74 80 89 94 104"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">interface into </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3605,516)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 10 20 30 40 50 60 70"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">Entities</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3690,516)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 9 18 28 33 39 48 57 66 73 79 84 89 95 100 105 111 120 125 135"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">and inherit it into </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3830,516)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 10 20 30 40 50 60 70 80 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">Authorizer</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3930,516)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 5 10 22 31 37 45 50 56 65 75 84 91 96 104 109 114 123 132 137 147 156 166 175 184 194 203 212 221"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">. This inverts the dependency</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3496,539)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 10 19 24 39 48 57 66"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">between </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3567,539)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 10 20 30 40 50 60 70"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">Entities</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3652,539)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 9 18 28"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">and </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3685,539)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 10 20 30 40 50 60 70 80 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">Authorizer</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3785,539)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 5 10 15 24 33 40 49 59 68 73 83 90 99 108 117 123 132 141 146 151 160 169 174 183 192 201 207 216"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">, thereby breaking the cycle.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

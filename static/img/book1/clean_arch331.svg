@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 1392,0 h 696 V 1056 H 1392 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 1392,66 h 696 V 996 H 1392 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-1392)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-1392)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(1412,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 9 17 22 30 40 46 51 66 75 82 91 96 106 115 121 130 139 144"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">as software value, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1561,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 10"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">14</tspan></text>
+        <path
+           d="m 1561,84.5 h 19 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path38" />
+        <text
+           xml:space="preserve"
+           transform="translate(1581,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text42"><tspan
+             x="0"
+             y="0"
+             id="tspan40">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1591,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text46"><tspan
+             x="0 10"
+             y="0"
+             sodipodi:role="line"
+             id="tspan44">15</tspan></text>
+        <path
+           d="m 1591,84.5 h 19 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path48" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,108)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 8 13 22 32 38 44 50 55 63 68"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">stability, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1485,108)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">122</tspan></text>
+        <path
+           d="m 1485,109.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path58" />
+        <text
+           xml:space="preserve"
+           transform="translate(1515,108)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0"
+             y="0"
+             id="tspan60">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1525,108)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">126</tspan></text>
+        <path
+           d="m 1525,109.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path68" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,133)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 5 14 22 27 33 42 51 56"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">testing, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1473,133)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">213</tspan></text>
+        <path
+           d="m 1473,134.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path78" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,158)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text82"><tspan
+             x="0 5 14 21 30 39 44 54 60 69 74 83 93 102 111 120 127 136 144 149 155 164 169"
+             y="0"
+             sodipodi:role="line"
+             id="tspan80">three big concerns in, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1586,158)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 10"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">24</tspan></text>
+        <path
+           d="m 1586,159.5 h 19 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path88" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,183)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 10 19 25 34 43 48 58 64 69 75 84 93 102 107 113 123 132 137 147 155 160 165"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">value of function vs., </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1582,183)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 10"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">15</tspan></text>
+        <path
+           d="m 1582,184.5 h 19 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path98" />
+        <text
+           xml:space="preserve"
+           transform="translate(1602,183)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0"
+             y="0"
+             id="tspan100">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1612,183)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 10"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">16</tspan></text>
+        <path
+           d="m 1612,184.5 h 19 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path108" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,208)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 6 15 20 33 46 57 62 71 78 87 96 105 114 124 130 140 149 158 163 173 180 190 196 205 214 219 224"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">in VRS archaeology project, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1641,208)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">358</tspan></text>
+        <path
+           d="m 1641,209.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path118" />
+        <text
+           xml:space="preserve"
+           transform="translate(1671,208)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0"
+             y="0"
+             id="tspan120">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1681,208)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">359</tspan></text>
+        <path
+           d="m 1681,209.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path128" />
+        <text
+           xml:space="preserve"
+           transform="translate(1392,233)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 14 21 30 39 45 50 59 68 73 82 89 98 103 112 119 128 137 146 155 165 171 181 190 199 204 214 221 231 237 246 255 260"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">Architecture archaeology projects</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1412,258)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 10 17 29 41 52 57"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">4-TEL, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1474,258)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">339</tspan></text>
+        <path
+           d="m 1474,259.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path142" />
+        <text
+           xml:space="preserve"
+           transform="translate(1504,258)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0"
+             y="0"
+             id="tspan144">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1514,258)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">344</tspan></text>
+        <path
+           d="m 1514,259.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path152" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,283)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 9 15 24 38 44 53 62 76 81 91 97 106 113 122 131 139 144 149 163 173 182 188 193 203 210 216 225 234 239"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">aluminum die-cast monitoring, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1656,283)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">338</tspan></text>
+        <path
+           d="m 1656,284.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path162" />
+        <text
+           xml:space="preserve"
+           transform="translate(1686,283)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0"
+             y="0"
+             id="tspan164">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1696,283)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">339</tspan></text>
+        <path
+           d="m 1696,284.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path172" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,308)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 9 16 25 34 40 45 54 63 68 76 81 88 97 106 112 120 125 132 141 146 155 164 173 187 192"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">architects registry exam, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1609,308)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">370</tspan></text>
+        <path
+           d="m 1609,309.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path182" />
+        <text
+           xml:space="preserve"
+           transform="translate(1639,308)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0"
+             y="0"
+             id="tspan184">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1649,308)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">373</tspan></text>
+        <path
+           d="m 1649,309.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path192" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0 10 19 24 33 42 47 56 66 73 78 86 92 101 110 119 124 134 144 154 164 169"
+             y="0"
+             sodipodi:role="line"
+             id="tspan194">by author since 1970, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1586,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">325</tspan></text>
+        <path
+           d="m 1586,334.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path202" />
+        <text
+           xml:space="preserve"
+           transform="translate(1616,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text206"><tspan
+             x="0"
+             y="0"
+             id="tspan204">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1626,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text210"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan208">326</tspan></text>
+        <path
+           d="m 1626,334.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path212" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,358)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text216"><tspan
+             x="0 13 22 30 36 45 50 64 74 83 90 99 104 110 119 128 133 144 153 161 166 175 189 194 203 212 222 227 238 247 256 265 275 284 290 299 305 310"
+             y="0"
+             sodipodi:role="line"
+             id="tspan214">Basic Operating System and Scheduler, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1727,358)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text220"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan218">351</tspan></text>
+        <path
+           d="m 1727,359.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path222" />
+        <text
+           xml:space="preserve"
+           transform="translate(1757,358)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text226"><tspan
+             x="0"
+             y="0"
+             id="tspan224">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1767,358)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text230"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan228">352</tspan></text>
+        <path
+           d="m 1767,359.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path232" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,383)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text236"><tspan
+             x="0 13 18 24 33 42 51 60 69 78 87 92"
+             y="0"
+             sodipodi:role="line"
+             id="tspan234">C language, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1509,383)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text240"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan238">349</tspan></text>
+        <path
+           d="m 1509,384.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path242" />
+        <text
+           xml:space="preserve"
+           transform="translate(1539,383)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text246"><tspan
+             x="0"
+             y="0"
+             id="tspan244">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1549,383)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text250"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan248">351</tspan></text>
+        <path
+           d="m 1549,384.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path252" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,408)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text256"><tspan
+             x="0 9 19 28 37 43 52 60 66 76 85 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan254">conclusion, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1507,408)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text260"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan258">373</tspan></text>
+        <path
+           d="m 1507,409.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path262" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,433)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text266"><tspan
+             x="0 13 20 29 35 40 45 59 65 73 83 92 97 106 115 120 131 140 148 153 162 176 181"
+             y="0"
+             sodipodi:role="line"
+             id="tspan264">Craft Dispatch System, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1598,433)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text270"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan268">361</tspan></text>
+        <path
+           d="m 1598,434.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path272" />
+        <text
+           xml:space="preserve"
+           transform="translate(1628,433)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text276"><tspan
+             x="0"
+             y="0"
+             id="tspan274">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1638,433)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text280"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan278">367</tspan></text>
+        <path
+           d="m 1638,434.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path282" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,458)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text286"><tspan
+             x="0 14 25 38 44 58 71 84 89"
+             y="0"
+             sodipodi:role="line"
+             id="tspan284">DLU/DRU, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1506,458)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text290"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan288">354</tspan></text>
+        <path
+           d="m 1506,459.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path292" />
+        <text
+           xml:space="preserve"
+           transform="translate(1536,458)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text296"><tspan
+             x="0"
+             y="0"
+             id="tspan294">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1546,458)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text300"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan298">356</tspan></text>
+        <path
+           d="m 1546,459.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path302" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,483)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text306"><tspan
+             x="0 12 18 27 36 41 48 58 67 73 82 87 100 109 118 127 137 142 148 158 167 173 181 186 191"
+             y="0"
+             sodipodi:role="line"
+             id="tspan304">Electronic Receptionist, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1608,483)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text310"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan308">359</tspan></text>
+        <path
+           d="m 1608,484.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path312" />
+        <text
+           xml:space="preserve"
+           transform="translate(1638,483)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text316"><tspan
+             x="0"
+             y="0"
+             id="tspan314">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1648,483)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text320"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan318">361</tspan></text>
+        <path
+           d="m 1648,484.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path322" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,508)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text326"><tspan
+             x="0 11 20 28 37 44 49 60 67 73 87 92"
+             y="0"
+             sodipodi:role="line"
+             id="tspan324">Laser Trim, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1509,508)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text330"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan328">334</tspan></text>
+        <path
+           d="m 1509,509.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path332" />
+        <text
+           xml:space="preserve"
+           transform="translate(1539,508)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text336"><tspan
+             x="0"
+             y="0"
+             id="tspan334">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1549,508)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text340"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan338">338</tspan></text>
+        <path
+           d="m 1549,509.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path342" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,533)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text346"><tspan
+             x="0 10 23 36 49 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan344">pCCU, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1471,533)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text350"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan348">352</tspan></text>
+        <path
+           d="m 1471,534.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path352" />
+        <text
+           xml:space="preserve"
+           transform="translate(1501,533)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text356"><tspan
+             x="0"
+             y="0"
+             id="tspan354">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1511,533)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text360"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan358">354</tspan></text>
+        <path
+           d="m 1511,534.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path362" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,558)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text366"><tspan
+             x="0 13 27 38 50 55 65 72 82 92 101 110 115 120"
+             y="0"
+             sodipodi:role="line"
+             id="tspan364">ROSE product, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1537,558)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text370"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan368">368</tspan></text>
+        <path
+           d="m 1537,559.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path372" />
+        <text
+           xml:space="preserve"
+           transform="translate(1567,558)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text376"><tspan
+             x="0"
+             y="0"
+             id="tspan374">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1577,558)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text380"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan378">370</tspan></text>
+        <path
+           d="m 1577,559.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path382" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,583)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text386"><tspan
+             x="0 8 17 24 34 40 49 58 63 72 79 88 97 102 111 121 135 145 154 159 168 174 179"
+             y="0"
+             sodipodi:role="line"
+             id="tspan384">service area computer, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1596,583)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text390"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan388">344</tspan></text>
+        <path
+           d="m 1596,584.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path392" />
+        <text
+           xml:space="preserve"
+           transform="translate(1626,583)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text396"><tspan
+             x="0"
+             y="0"
+             id="tspan394">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1636,583)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text400"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan398">349</tspan></text>
+        <path
+           d="m 1636,584.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path402" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,608)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text406"><tspan
+             x="0 13 22 28 38 47 52 66 75 84 94 103 112 117 123 132 141 146 154 163 171 176 185 199 204"
+             y="0"
+             sodipodi:role="line"
+             id="tspan404">Union Accounting system, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1621,608)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text410"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan408">326</tspan></text>
+        <path
+           d="m 1621,609.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path412" />
+        <text
+           xml:space="preserve"
+           transform="translate(1651,608)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text416"><tspan
+             x="0"
+             y="0"
+             id="tspan414">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1661,608)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text420"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan418">334</tspan></text>
+        <path
+           d="m 1661,609.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path422" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,633)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text426"><tspan
+             x="0 13 26 37 42"
+             y="0"
+             sodipodi:role="line"
+             id="tspan424">VRS, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1459,633)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text430"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan428">357</tspan></text>
+        <path
+           d="m 1459,634.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path432" />
+        <text
+           xml:space="preserve"
+           transform="translate(1489,633)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text436"><tspan
+             x="0"
+             y="0"
+             id="tspan434">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1499,633)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text440"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan438">359</tspan></text>
+        <path
+           d="m 1499,634.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path442" />
+        <text
+           xml:space="preserve"
+           transform="translate(1392,658)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text446"><tspan
+             x="0 14 21 30 39 45 50 59 68 73 82 89 98 103 108 118 127 133 139 148 154 163"
+             y="0"
+             sodipodi:role="line"
+             id="tspan444">Architecture, defining</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1412,683)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text450"><tspan
+             x="0 9 19 28 37 43 52 60 66 76 85 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan448">conclusion, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1507,683)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text454"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan452">146</tspan></text>
+        <path
+           d="m 1507,684.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path456" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,708)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text460"><tspan
+             x="0 10 19 29 35 45 54 68 77 86 91 96"
+             y="0"
+             sodipodi:role="line"
+             id="tspan458">deployment, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1513,708)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text464"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan462">138</tspan></text>
+        <path
+           d="m 1513,709.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path466" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,733)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text470"><tspan
+             x="0 10 19 29 38 44 54 64 78 87 96 101 106"
+             y="0"
+             sodipodi:role="line"
+             id="tspan468">development, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1523,733)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text474"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan472">137</tspan></text>
+        <path
+           d="m 1523,734.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path476" />
+        <text
+           xml:space="preserve"
+           transform="translate(1553,733)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text480"><tspan
+             x="0"
+             y="0"
+             id="tspan478">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1563,733)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text484"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan482">138</tspan></text>
+        <path
+           d="m 1563,734.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path486" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,758)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text490"><tspan
+             x="0 10 19 29 35 44 53 58 64 73 83 92 102 111 120 130 139 148 157 166 171"
+             y="0"
+             sodipodi:role="line"
+             id="tspan488">device independence, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1588,758)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text494"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan492">142</tspan></text>
+        <path
+           d="m 1588,759.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path496" />
+        <text
+           xml:space="preserve"
+           transform="translate(1618,758)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text500"><tspan
+             x="0"
+             y="0"
+             id="tspan498">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1628,758)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text504"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan502">143</tspan></text>
+        <path
+           d="m 1628,759.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path506" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,783)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text510"><tspan
+             x="0 6 15 24 33 38 52 61 67 73 78 87 96 105 119 129 135 144 149"
+             y="0"
+             sodipodi:role="line"
+             id="tspan508">junk mail example, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1566,783)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text514"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan512">144</tspan></text>
+        <path
+           d="m 1566,784.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path516" />
+        <text
+           xml:space="preserve"
+           transform="translate(1596,783)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text520"><tspan
+             x="0"
+             y="0"
+             id="tspan518">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1606,783)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text524"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan522">145</tspan></text>
+        <path
+           d="m 1606,784.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path526" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,808)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text530"><tspan
+             x="0 9 18 27 37 43 52 61 66 76 86 91 97 107 116 124 129 139 149 158 167 172"
+             y="0"
+             sodipodi:role="line"
+             id="tspan528">keeping options open, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1589,808)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text534"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan532">140</tspan></text>
+        <path
+           d="m 1589,809.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path536" />
+        <text
+           xml:space="preserve"
+           transform="translate(1619,808)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text540"><tspan
+             x="0"
+             y="0"
+             id="tspan538">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1629,808)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text544"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan542">142</tspan></text>
+        <path
+           d="m 1629,809.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path546" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,833)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text550"><tspan
+             x="0 14 23 29 38 43 52 61 70 79 88 97 102"
+             y="0"
+             sodipodi:role="line"
+             id="tspan548">maintenance, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1519,833)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text554"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan552">139</tspan></text>
+        <path
+           d="m 1519,834.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path556" />
+        <text
+           xml:space="preserve"
+           transform="translate(1549,833)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text560"><tspan
+             x="0"
+             y="0"
+             id="tspan558">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1559,833)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text564"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan562">140</tspan></text>
+        <path
+           d="m 1559,834.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path566" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,858)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text570"><tspan
+             x="0 10 20 29 36 45 50 56 66 75 80"
+             y="0"
+             sodipodi:role="line"
+             id="tspan568">operation, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1497,858)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text574"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan572">138</tspan></text>
+        <path
+           d="m 1497,859.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path576" />
+        <text
+           xml:space="preserve"
+           transform="translate(1527,858)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text580"><tspan
+             x="0"
+             y="0"
+             id="tspan578">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1537,858)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text584"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan582">139</tspan></text>
+        <path
+           d="m 1537,859.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path586" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,883)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text590"><tspan
+             x="0 10 19 28 36 42 51 60 66 71 80 90 100 107 116 124 132 138 147 156 161 170 179 188 202 212 218 227 232"
+             y="0"
+             sodipodi:role="line"
+             id="tspan588">physical addressing example, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1649,883)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text594"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan592">145</tspan></text>
+        <path
+           d="m 1649,884.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path596" />
+        <text
+           xml:space="preserve"
+           transform="translate(1679,883)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text600"><tspan
+             x="0"
+             y="0"
+             id="tspan598">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1689,883)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text604"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan602">146</tspan></text>
+        <path
+           d="m 1689,884.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path606" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,908)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text610"><tspan
+             x="0 9 18 28 37 44 52 57 66 75 85 91 100 109 114"
+             y="0"
+             sodipodi:role="line"
+             id="tspan608">understanding, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1531,908)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text614"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan612">135</tspan></text>
+        <path
+           d="m 1531,909.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path616" />
+        <text
+           xml:space="preserve"
+           transform="translate(1561,908)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text620"><tspan
+             x="0"
+             y="0"
+             id="tspan618">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1571,908)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text624"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan622">137</tspan></text>
+        <path
+           d="m 1571,909.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path626" />
+        <text
+           xml:space="preserve"
+           transform="translate(1392,933)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text630"><tspan
+             x="0 14 21 30 39 45 50 59 68 73 82 89 98 103 108 116 125 132 141 150 164 170 179"
+             y="0"
+             sodipodi:role="line"
+             id="tspan628">Architecture, screaming</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1412,958)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text634"><tspan
+             x="0 9 19 29 38 43 48 53 62 71 76 91 100 110 115"
+             y="0"
+             sodipodi:role="line"
+             id="tspan632">about the web, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1532,958)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text638"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan636">197</tspan></text>
+        <path
+           d="m 1532,959.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path640" />
+        <text
+           xml:space="preserve"
+           transform="translate(1562,958)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text644"><tspan
+             x="0"
+             y="0"
+             id="tspan642">–</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1572,958)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text648"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan646">198</tspan></text>
+        <path
+           d="m 1572,959.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path650" />
+        <text
+           xml:space="preserve"
+           transform="translate(1412,983)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text654"><tspan
+             x="0 9 19 28 37 43 52 60 66 76 85 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan652">conclusion, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1507,983)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text658"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan656">199</tspan></text>
+        <path
+           d="m 1507,984.5 h 29 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path660" />
+      </g>
+    </g>
+  </g>
+</svg>

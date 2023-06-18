@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 3480,0 h 696 V 1056 H 3480 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 3480,66 h 696 V 996 H 3480 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-3480)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-3480)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(3493,83.34375)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 10 16 21 36 45 55 60 70 79 89 98 104 114 124 138 147 156 161 166 171 176 185 194 203 208 217 227 236 241 251 261 270 277 282 287 296 305 314 324 329 334 344 349 359 368 377 383 393 402 407 422 431 437 446 455 460 475 484 494 499 507 516 524 529 538 552 557 562 572 577 586 594 603 608 617 626 631 637"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">of web development, then you don’t need to decide which web system to use until</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3493,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 14 23 32 41 46 52 61 66 75 82 87 93 102 107 112 121 130 135 145 152 162 168 177 186 191 196 201 207 216 226 235 244 254 259"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">much later in the project. Indeed, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3757,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 9 19 28 33 43 53 62 69 74 79 88 98 107 116 121 130 139 149 158 163 168 178 183 193 202 211 217 227 236 241 247 253 258 263 272 281 286 294 303 311 316 325 339 344 359 365 371 377 382 392"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">you don’t even have to decide if the system will be</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3493,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 10 19 25 31 41 50 57 66 76 81 91 101 110 117 122 127 136 145 150 165 174"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">delivered over the web</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3677,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0"
+             y="0"
+             id="tspan46">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3481,157)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 7 12 18 23 28 34 42 47 56 66 71 76 85 94 103 112 120 128 137 144 153 158 163 173 178 187 197 207 217 222 227 240 252 263 275 280 289 298 305 311 320 325 331 340 345 355 364 374 383 389 399 409 423 432 441 446 451 456 466 475 484 493 502 510 519 524 529 538 547 552 561 567 576 585 592 598 607 617 626 632 637 647 657 663 669 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">• It is not necessary to adopt REST early in development, because the high-level policy</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3493,180)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 8 17 27 36 42 52 57 67 76 81 90 99 108 118 126 131 137 146 151 160 170 180 189 194 199 204 213 222 227 233 242 247 256 263 269 278 287 296 301 306 316 321 326 335 344 349 359 368 373 381 387 397 406 411 426 436 443 449 459 464 469 483 493 500 505 511 519 524 530 535 540 549 558 567 576 584 592 601 608 617 622 627"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">should be agnostic about the interface to the outside world. Nor is it necessary to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3493,203)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 9 19 29 39 44 49 58 63 77 83 92 99 109 116 124 133 140 150 156 165 174 182 187 193 200 209 223 232 247 257 264 273 278 283 293 300 305 314 319 330 344 357 362 368 375 384 398 407 422 432 439 448 453 458 472 481 490 496 505 510 515 520 529 538 543 552 558 567 576 583 589 598 608 617 623 628 638 648 654 660 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">adopt a micro-services framework, or a SOA framework. Again, the high-level policy</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3493,226)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 8 17 27 36 42 52 57 66 76 81 86 95 104 111 120 125 134 144 154 163 168 173 178 187 196 204 213 218 223 232 238 247 256 264"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">should not care about these things.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3481,255)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 7 12 18 23 28 34 42 47 56 66 71 76 85 94 103 112 120 128 137 144 153 158 163 173 178 187 197 207 217 222 227 236 241 251 260 270 279 288 298 307 316 325 334 339 345 354 360 369 378 383 389 399 408 413 419 426 435 449 458 473 483 490 499 504 513 522 529 535 544 549 555 564 569 579 588 598 607 613 623 633 647 656 665 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">• It is not necessary to adopt a dependency injection framework early in development,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3493,278)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 10 19 28 37 46 54 63 68 73 82 91 96 105 111 120 129 136 142 151 161 170 176 181 191 201 207 213 222 231 236 244 253 263 272 278 288 293 302 312 317 322 331 340 347 356 361 370 380 395 400 410 419 429 438 447 457 466 475 484 490 499 507 512 521 528 537 542 549 558 566 576 582 592 601 611"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">because the high-level policy should not care how dependencies are resolved.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,321)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 6 11 16 25 31 40 49 54 63 73 82 87 96 105 110 115 120 129 138 143 153 163 169 178 183 188 193 199 205 210 219 229 238 243 252 261 270 275 285 294 304 313 319 329 339 344 349 358 367 372 381 387 396 405 412 418 427 437 446 452 457 467 477 483 489 498 507 512 527 533 538 547 557 566 571 576 585 595 609 623 629 634 639 645 654 663 668 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">I think you get the point. If you can develop the high-level policy without committing to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,344)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 5 14 23 28 38 47 52 61 67 73 81 86 91 100 109 114 119 127 136 143 150 160 169 178 188 193 199 204 209 214 223 233 242 247 256 265 274 279 289 298 304 313 322 327 336 345 355 360 370 379 385 394 401 406 416 425 434 440 448 454 464 473 481 486 495 505 515 524 529 534 539 548 558 566 575 580 590 599 604 613 619 625 633 638 644 654 661 666"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">the details that surround it, you can delay and defer decisions about those details for a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,367)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 6 16 25 34 39 44 50 64 73 78 83 97 106 116 121 126 135 144 149 155 165 174 183 192 199 204 213 223 232 237 252 261 267 272 277 282 292 297 311 320 329 338 343 348 357 367 375 384 389 399 408 417 423 431 437 447 456 464 469"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">long time. And the longer you wait to make those decisions, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3954,367)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 5 14 23 28 42 52 59 68 73 79 88 94 104 111 125 134 139 145 155 164 169 178 188"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">the more information you</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,390)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 9 18 28 37 42 57 63 68 77 82 97 106 112 121 130 135 140 150 155 169 178 187 196 201 206 215 224 238 243 253 260 270 280 289 296 302"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">have with which to make them properly</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3791,390)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0"
+             y="0"
+             id="tspan94">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,433)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 12 21 27 35 40 49 55 63 73 78 84 93 102 112 121 129 134 143 153 162 167 172 181 190 195 205 215 220 226 236 245 250 255 265 270 275 282 291 296 306 312 318 324 333 340 349 358 363 368 377 386 396 405 412 418 432 441 450 455 463 468 473 479 485 490 499 509 518 523 532 541 551 560 565 574 579 589 599 606 611 617 627 636 641 651 657 662 667 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">This also leaves you the option to try different experiments. If you have a portion of the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,456)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 9 15 24 33 40 46 55 65 74 80 85 95 105 111 117 126 135 140 155 165 172 181 187 196 205 210 215 224 233 243 248 254 259 264 270 278 283 292 301 310 320 328 333 339 348 353 362 372 382 391 396 401 406 415 424 429 439 448 453 462 472 481 489 498 503 508 517 527 536 541 550 560 569 575 585 590 595 602"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">high-level policy working, and it is agnostic about the database, you could try</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,479)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 9 19 28 37 46 55 60 66 75 84 89 95 100 105 110 120 125 133 142 152 161 168 177 183 188 198 204 210 216 225 232 241 250 255 260 270 279 284 293 303 312 320 329 337 342 347 357 362 371 380 389 398 407 412 421 431 441 447 453 462 471 481 487 493 499 504 513 518 527 536 546 551 561 570 577 583 593 600 614 623 632 641 650 655 660 672 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">connecting it to several different databases to check applicability and performance. The</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,502)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 8 17 31 40 45 51 59 64 69 76 85 94 99 114 120 125 134 139 154 163 173 178 186 195 203 208 217 231 239 244 249 264 273 283 288 294 301 310 324 333 348 358 365 374 382 387 392 402 409 414 423 433 442 451 456 461 470 479 484 499 508 518 523 529 534 542 551 557 563"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">same is true with web systems, web frameworks, or even the web itself.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,545)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 12 21 30 35 41 51 60 69 78 85 90 99 109 118 123 129 138 147 157 166 171 181 191 196 202 212 221 229 234 244 254 263 272 277 282 287 296 305 310 324 334 341 350 355 364 373 383 392 399 405 419 428 437 442 450 455 464 474 483 488 497 506 515 520 527 536 545 550 555 560 569 578 583 597 607 614 623 628 633 642 648 657 666"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">The longer you leave options open, the more experiments you can run, the more things</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,568)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 9 19 28 33 42 51 60 65 70 77 85 90 95 104 113 123 128 133 142 151 156 170 180 187 196 201 207 216 222 232 239 253 262 267 273 283 292 297 306 316 325 330 345 351 357 363 368 377 386 396 405 410 425 434 443 452 457 466 476 485 490 497 506 515 524 533 538 543 552 561 566 576 586 592 601 606 611 620 625 630 645 654 660 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">you can try, and the more information you will have when you reach the point at which</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,591)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 5 14 24 32 41 46 56 65 74 80 88 94 104 113 121 126 135 144 153 158 167 177 182 188 198 207 216 225 232 237 247 256 261 271 280 286 295 302 309 318 328"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">those decisions can no longer be deferred.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,634)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 18 27 36 41 46 52 58 63 68 77 86 91 101 110 119 125 133 139 149 158 166 171 180 189 199 208 213 222 228 235 244 253 263 272 277 287 296 305 314 319 333 342 352 361 366 376 385 390 398 408 422 431 441 450 459 464 473 479 487 496 505 510 528 537 546 551 556 562 568 573 582 592 601 608 613 622 632 646 656 665 674"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">What if the decisions have already been made by someone else? What if your company</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,657)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 9 18 26 31 45 54 64 73 78 87 92 101 111 125 139 145 150 164 173 182 187 192 197 207 212 221 226 235 244 251 256 265 271 280 285 295 304 309 318 328 337 345 354 359 364 374 381 386 395 400 409 418 425 430 439 445 454 459 474 483 493 498 506 515 522 532 541 547 552 557 567 574 579 588 593 602 611 618 623 632 638"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">has made a commitment to a certain database, or a certain web server, or a certain</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,680)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 6 13 22 36 45 60 70 77 86 95"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">framework? </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3580,680)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 13 18 27 37 47 57 62 71 78 87 96 102 107 116 125 130 135 145 152 161 166 175 184 194 202 207 212 221 230 235 240 245 254 263 268 278 287 296 302 310 316 326 335 340 349 358 366 371 380 390 395 400 410 419 428 437 442 456 465 475"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">A good architect pretends that the decision has not been made</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4064,680)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 5 10 19 28 38 43 51 60 69 79 88"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">, and shapes</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,703)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 5 14 23 28 36 45 53 58 67 81 86 94 103 112 121 126 131 140 149 154 159 164 173 183 191 200 205 215 224 233 239 247 253 263 272 280 285 294 303 312 317 325 330 336 342 348 353 363 372 377 387 396 402 411 418 425 434 444 449 459 466 471 480 489 498 507 516 525 535 540 546 556 563 568 577 585 590 596 606 615 624 629 638"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">the system such that those decisions can still be deferred or changed for as long as</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,726)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 10 20 28 36 42 52 58 67"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">possible.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3504,765)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 10 14 21 28 35 42 46 53 58 65 72 75 79 86 93 97 101 112 119 126 129 140 143 149 156 162 166 170 177 184 188 195 202 213 220 227 232 236 243 248 252 259 266 273 276 282 285 292 299 305 309 316 323 327 331 342 349 356 363"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">A good architect maximizes the number of decisions not made.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,834)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0"
+             y="0"
+             id="tspan158">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3504,834)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 22 45 58 82"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">EVICE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3616,834)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0"
+             y="0"
+             id="tspan166">I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3629,834)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 24 48 70 90 112 136 160 182 206 230"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">NDEPENDENCE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,879)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 14 22 27 36 45 50 59 68 77 91 101 107 116 121 131 137 142 147 156 162 170 175 184 190 199 209 214 224 230 235 240 249 255 264 273 279 288 297 302 307 313 322 327 333 341 346 351 360 369 378 383 392 397 402 409 415 425 430 440 449 458 467 472 477 487 492 497 506 515 520 530 540 550 560 568 573 578 593 602 611"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">As an example of this kind of thinking, let’s take a trip back to the 1960s, when</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,902)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 9 19 33 43 52 57 66 73 81 86 101 110 117 126 131 136 145 154 163 172 181 190 197 205 210 219 228 238 243 257 267 275 280 285 295 302 312 321 328 337 351 365 374 381 389 394 409 418 425 434 439 453 462 467 476 485 499 508 513 519 528 534 543 552 560 565 575 582 587 596 605 614 620 629 638 647 654"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">computers were teenagers and most programmers were mathematicians or engineers</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,925)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0 6 13 23 37 42 52 57 66 75 82 87 97 103 111 120 126 136 142 148 157 166 174 179 186 195 204 214 221 231 240 249 254 259 268 274 281 291 296 306 313 318 332 342 349 358 363 378 387 394 403 408 423 433 447 456 465 472"
+             y="0"
+             sodipodi:role="line"
+             id="tspan182">from other disciplines (and-one third or more were women).</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,968)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 6 15 20 25 34 44 52 61 66 76 85 94 102 107 122 131 136 150 159 169 178 183 192 197 203 213 218 223 233 239 244 258 264 272 277 286 295 304 312 317 322 338 347 352 362 368 378 387 394 399 404 413 422 432 447 452 457 466 475 484 489 504 513 520 529 534 548 554 562 567 576 585 594 602 607 616 621 626 631 640 649 654 659 665 679 688"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">In those days we made a lot of mistakes. We didn’t know they were mistakes at the time,</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

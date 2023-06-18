@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,0 H 696 V 1056 H 0 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="M 0,66 H 696 V 996 H 0 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath44">
+      <path
+         d="M 0,66 H 696 V 996 H 0 V 66"
+         clip-rule="evenodd"
+         id="path42" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <g
+           id="g30">
+          <path
+             d="m 0,66 h 696 v 3 H 0 Z"
+             style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" />
+        </g>
+        <g
+           id="g34">
+          <path
+             d="m 0,186 h 696 v 3 H 0 Z"
+             style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path36" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g38">
+      <g
+         id="g40"
+         clip-path="url(#clipPath44)">
+        <text
+           xml:space="preserve"
+           transform="translate(270.5,140.6562)"
+           style="font-variant:normal;font-weight:bold;font-size:37px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0"
+             y="0"
+             id="tspan46">P</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(293.5,140.6562)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 24 46 63 86 110"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">REFACE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,280)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 12 21 30 35 40 46 51 57 66 71 81 87 92 97 106 112 120 125 135 145 155 164 169 175 183"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">The title of this book is </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(188,280)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 13 19 28 37 46 51 65 72 81 90 96 101 110 119 124 133 140"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">Clean Architecture</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(337,280)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 5 10 22 31 40 45 51 59 64 73 82 87 96 105 115 124 133 139 149 158 166 171 180 189 203 212 217 222 233 243 257 266 271 286 296 305 311"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">. That’s an audacious name. Some would</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,303)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 9 19 28 37 42 51 60 66 72 77 83 88 93 102 109 116 126 135 144 153 158 163 168 179 189 194 209 218 227 232 242 248 258 263 269 274 283 292 302 312 320 329 334 339 348 357 362 367 372 378 383 389 398 403 408 417 426 436 441 456 465 474 479 489 495 505 510 516 521 536 543 549 554 563 568 573 582 588 596 601 611 621 631 640"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">even call it arrogant. So why did I choose that title, and why did I write this book?</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,346)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 6 11 26 33 43 48 57 62 76 85 90 100 109 116 125 130 136 142 149 157 162 167 173 179 188 197 202 212 218 223 232 242 252 261 266 272 281 286 296 306 316 326 331 336 345 350 355 360 369 378 383 392 401 410 415 425 431 436 446 456 461 466 478 487 496 501 510 519 528 535 540 546 554 559 568 578 593 598 608 618 628 638 643 648 656 666 671"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">I wrote my very first line of code in 1964, at the age of 12. The year is now 2016, so I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,369)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 9 18 28 37 42 52 61 70 79 84 99 106 112 117 123 132 141 146 155 165 175 184 189 195 205 212 217 231 241 248 257 262 267 276 285 294 299 308 317 323 329 334 343 348 357 366 375 380 389 396 404 409 414 420 429 434 439 448 457 462 467 472 478 492 501 506 511 517 522 531 540 550 559 564 570 579 588 595 604 613 623 628 637 642 648 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">have been writing code for more than half a century. In that time, I have learned a few</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,392)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 5 14 20 29 38 46 51 60 70 80 89 94 99 108 118 133 138 143 153 158 166 171 178 187 196 201 210 217 226 231 239 249 255 260 275 284 291 300 305 313 322 330 335 344 358 366 386 391 400 406 415 424 432 437 442 451 460 465 470 476 481 491 500 506 512 521 531 540 545 555 560 569 578 585 593 598 613 623 632 638"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">things about how to structure software systems—things that I believe others would</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,415)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 6 12 21 30 36 45 50 56 62 71 81 86 96 105 111 120 129 139 145 154"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">likely find valuable.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,458)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 6 11 17 26 35 42 51 60 70 75 80 89 98 106 115 120 125 134 140 149 158 166 171 181 190 195 205 214 220 226 236 242 251 260 265 279 288 297 306 311 319 328 336 341 350 364 372 377 382 392 402 407 416 421 427 436 443 452 461 466 475 484 494 499 507 521 530 536 542 547 552 558 563 572 581 591 600 605 615 624 630 636 641 646 654 668 677 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">I learned these things by building many systems, both large and small. I have built small</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,481)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 9 23 33 42 52 62 71 81 86 94 103 111 116 125 139 147 152 161 170 180 185 191 200 207 216 225 230 240 249 254 263 272 277 287 294 304 313 322 330 338 344 353 362 367 375 384 392 397 406 420 428 433 438 444 449 458 467 477 486 491 501 510 516 522 527 532 539 548 557 563 570 575 581 595 604 609 617 626 634 639 648 662"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">embedded systems and large batch processing systems. I have built real-time systems</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,504)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 9 18 28 33 48 57 67 72 80 89 97 102 111 125 133 138 143 149 154 163 172 182 191 196 206 215 221 227 232 237 246 256 265 273 283 289 298 303 312 322 332 340 345 350 364 377 383 388 397 407 417 425 430 435 445 452 462 471 480 488 496 501 510 520 529 534 541 551 557 562 571 581 591 599 604 609 618 627 641 650 658"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">and web systems. I have built console apps, GUI apps, process control apps, games,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,527)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 9 18 27 37 46 55 60 66 75 84 89 97 106 114 119 128 142 150 155 160 165 174 180 189 198 208 222 236 245 254 260 269 278 283 289 299 308 316 321 329 338 346 351 360 374 382 387 392 402 411 419 425 434 443 448 453 463 473 479 487 492 497 507 514 523 538 544 553 562 567 576 586 596 604 609 614 623 632 642 647 661 670 679 687"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">accounting systems, telecommunications systems, design tools, drawing apps, and many,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,550)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 14 23 32 41 46 56 61 70 79 86 94"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">many others.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,593)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 6 11 20 29 39 48 53 63 72 78 84 89 94 102 108 117 126 132 141 148 153 162 169 178 187 197 206 216 221 230 240 250 258 263 268 282 291 297 302 308 313 322 329 338 347 357 366 376 381 390 400 410 418 423 428 437 447 457 465 470 485 491 496 505 510 516 525 540 545 554 563 572 582 591 598 613 622 628 637 646"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">I have built single-threaded apps, multithreaded apps, apps with few heavy-weight</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,616)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 10 17 27 36 45 53 61 70 78 83 88 97 107 117 125 130 145 151 156 165 170 184 193 202 211 216 222 228 237 246 251 258 273 282 288 297 306 311 316 326 333 343 352 361 369 377 386 394 399 404 418 427 433 438 444 454 461 471 480 489 497 505 515 522 527 536 546 556 564 569 574 584 593 598 607 617 626 634 643 648 657 667 677 685"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">processes, apps with many light-weight processes, multiprocessor apps, database apps,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,639)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 14 23 28 37 46 60 69 74 80 89 98 104 109 118 128 138 146 151 156 165 175 189 199 208 213 222 227 233 243 252 261 267 272 281 290 300 314 323 328 335 344 349 358 368 378 386 391 396 405 414 424 429 443 452 461 469 474 479 493 502 511 520 525 535 540 549 558 565 573"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">mathematical apps, computational geometry apps, and many, many others.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,682)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 6 13 23 32 37 47 56 62 68 73 78 87 92 98 108 113 118 128 134 139 148 158 168 176 181 186 192 199 209 218 223 233 242 248 254 259 264 273 278 284 294 299 304 314 320 325 333 342 350 355 364 378 386 391 396 410 419 429 434 440 447 457 471 476 481 490 499 513 518 527 533 539 544 549 558 567 577 582 592 601 606 611 620 629 635 644 653 658 663 672 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">I’ve built a lot of apps. I’ve built a lot of systems. And from them all, and by taking them</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,705)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 9 15 21 26 32 41 46 56 61 70 80 89 97 103 113 122 129 138 143 149 159 168 173 178 184 191 201 210 215 221 230 239 246 255 264 274 279 287 297 311 320 325 334 340 349 358 363 371 376 385 392 397 403 409 418 427"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">all into consideration, I’ve learned something startling.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,748)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 12 21 30 35 44 51 60 69 75 80 89 98 103 112 119 128 133 140 149 155 164 172 177 186 193 202 207 212 221 230 235 243 252 266 275"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">The architecture rules are the same!</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,791)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 12 21 27 35 40 46 54 59 67 72 81 88 93 99 105 114 123 128 138 147 156 165 174 182 191 196 201 210 219 224 232 241 249 254 263 277 285 290 295 304 313 318 323 329 334 343 352 362 371 376 386 395 401 407 412 417 426 435 445 454 459 468 474 480 485 495 504 513 522 527 535 545 550 557 566 576 582 591 600 606 612"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">This is startling because the systems that I have built have all been so radically</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,814)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 10 16 22 28 37 44 53 62 67 72 77 95 104 113 118 126 135 145 154 160 170 175 183 192 201 210 215 225 231 237 243 252 259 268 277 282 287 295 304 312 317 326 340 348 353 362 368 374 379 387 396 405 412 421 426 434 440 454 460 466 475 482 487 494 503 509 518 526 531 541 547 552 561 568 577 586 592 597 606 615 620 629 636 645 654 659 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">different. Why should such different systems all share similar rules of architecture? My</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,837)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 9 19 28 37 43 52 60 66 76 85 90 96 104 109 114 123 132 137"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">conclusion is that </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(142,837)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 5 14 23 28 35 44 50 59 67 72 82 88 93 101 111 117 122 137 146 153 162 167 176 183 192 201 207 212 221 230 235 244 251 260 265 274 281 290 295 301 310 320 329 339 348 357 367 376 385 390 395 405 411 416 425 435 444 451 460 465 475 480 489 498"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">the rules of software architecture are independent of every other</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,860)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 10 19 26 32 41 51 57"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">variable</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(66,860)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0"
+             y="0"
+             id="tspan150">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,903)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 12 21 27 35 40 46 54 59 68 78 87 96 101 115 125 132 141 146 154 159 168 175 180 186 192 201 210 215 230 239 248 257 262 271 281 290 295 304 314 323 331 337 347 356 363 368 373 382 391 396 405 414 423 432 441 450 455 460 469 478 483 488 497 506 514 519 524 533 542 551 560 565 575 581 590 599 608 613 619"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">This is even more startling when you consider the change that has taken place in</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,926)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 9 18 25 35 50 59 66 75 80 90 100 109 116 121 126 135 144 149 157 166 180 189 194 203 212 218 224 231 240 249 258 263 272 279 287 292 297 303 308 316 321 330 337 342 351 361 366 376 383 393 402 409 418 432 446 452 461 470 475 485 494 499 513 522 531 540 546 555 564 572 577 582 591 600 605 613 619 627 636 641 651"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">hardware over the same half-century. I started programming on machines the size of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,949)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 9 15 20 29 38 47 56 61 68 77 83 90 96 105 114 121 130 135 145 152 160 165 170 179 188 193 198 207 216 226 231 240 249 255 261 268 282 291 300 309 318 327 334 339 347 352 361 370 379 385 394 399 404 410 424 433 441 446 451 461 475 480 490 496 501 510 520 527 536 541 555 564 578 588 595 603 608 613 623 633 647 652 662"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">kitchen refrigerators that had half-megahertz cycle times, 4K of core memory, 32K of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,972)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 10 16 24 33 38 52 61 75 85 92 100 105 110 119 128 138 143 152 157 167 177 182 191 200 209 216 225 234 239 248 255 260 270 279 286 291 299 308 317 327 336 346 351 356 365 371 380 385 394 404 413 418 424 433 438 447 454 460 469 478 487 492 497 503 508 517 531 536 551 558 564 569 575 584 593 598 603 612 618 626 631 641 648 657 663 672 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">disk memory, and a 10 character per second teletype interface. I am writing this preface</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 6264,0 h 696 V 1056 H 6264 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 6264,66 h 696 V 996 H 6264 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-6264)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-6264)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(6264,84)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 13 23 33 38 50 58 68 77 87 95 103 113 121 126 133 141 146 156 161 175 185 192 202 207"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">The Processor Is a Detail</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,127)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 18 27 36 45 50 59 69 78 85 90 99 113 123 132 142 152 161 171 176 185 195 205 211 217 226 235 240 246 256 265 270 279 287 296 304 309 318 323 331 341 350 359 365 374 380 386 394 403 413 418 423 433 443 449 454 463 472 481 487 496 501 506 512 517 522 537 543 549 555 560 570 576 581 590 599 604 614 621 631 641 647 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">When your embedded application uses a specialized tool chain, it will often provide</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,153)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 9 18 27 37 46 53 58 64 70 76 85 93 98 103 113"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">header files to </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6382,153)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 10 20"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">&lt;i&gt;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6412,153)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 9 18 24 34 39 48 58"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">help you</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6479,153)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">&lt;/i&gt;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6519,153)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0"
+             y="0"
+             id="tspan54">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6524,146)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0"
+             y="0"
+             id="tspan58">4</tspan></text>
+        <path
+           d="m 6524,147.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path62" />
+        <text
+           xml:space="preserve"
+           transform="translate(6536,153)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 12 21 30 38 47 52 61 71 85 95 101 107 116 123 131 136 146 152 157 166 175 180 185 194 203 212 217 223 229 239 248 255 260 266 275 283 288 303 309 314 323 328 333 342 351 356"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">These compilers often take liberties with the C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,176)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text70"><tspan
+             x="0 6 15 24 33 42 51 60 69 74 79 88 98 108 114 123 132 137 146 155 170 175 184 193 202 217 227 234 244 252 257 262 272 277 286 295 304 313 321 329 334 339 348 357 363 370 375 385 392 402 411 420 428 436 446 453 458 464 473 482 487 496 503 512 520 525 530 542 551 560 565 574 584 594 603 608 623 629 635 641 646 652 662 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan68">language, adding new keywords to access their processor features. The code will look</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,199)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text74"><tspan
+             x="0 6 12 21 30 35 48 53 58 68 77 82 87 93 98 103 109 117 122 131 141 146 152 162 171 180 189 196 201 214"
+             y="0"
+             sodipodi:role="line"
+             id="tspan72">like C, but it is no longer C.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,242)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0 11 21 35 44 49 55 69 78 86 91 101 110 119 129 139 146 153 161 170 180 190 196 202 211 221 226 239 244 253 263 277 287 293 299 308 315 323 328 338 345 355 365 371 381 390 395 410 419 428 433 438 444 454 464 473 478 484 490 499 508 513 522 528 538 548 557 563 568 578 587 594 600 609 619 625 634 642 647 652"
+             y="0"
+             sodipodi:role="line"
+             id="tspan76">Sometimes vendor-supplied C compilers provide what look like global variables to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,265)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text82"><tspan
+             x="0 9 15 25 34 39 48 57 66 75 83 91 96 106 112 119 128 137 142 148 157 162 167 177 182 192 199 209 218 227 235 243 253 260 265 272 281 290 296 304 309 318 325 333 338 343 349 363 368 378 388 395 400 408 413 418 427 433 443 452 461 466 471 477 491 500 507 515 520 525 531 545 550 560 566 571 579 584 589 595 604 609 618 625 632 641 651"
+             y="0"
+             sodipodi:role="line"
+             id="tspan80">give access directly to processor registers, IO ports, clock timers, IO bits, interrupt</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,288)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 9 19 28 33 40 50 56 62 71 78 86 91 96 105 114 124 129 139 144 153 162 169 174 184 191 201 210 219 227 235 245 252 257 263 272 281 290 295 301 311 320 328 333 338 344 349 354 360 368 373 382 391 397 407 413 422 428 433 438 448 453 462 471 476 481 490 499 508 517 525 533 538 543 553 558 563 572 581 589 598 603 608 617 623 632 641"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">controllers, and other processor functions. It is helpful to get access to these things</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,311)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0 9 18 26 32 38 46 51 56 66 75 80 85 92 101 110 116 122 130 139 144 149 158 167 172 177 186 195 204 209 219 225 230 239 249 258 265 270 279 289 299 308 313 318 327 336 341 346 355 363 372 380 385 390 399 408 416 425 430 439 448 454 464 470 479 485 490 496 505 514 520 526 532 537 543 552 560 565 571 579 584 593 603 608 614 624 633 642 651 658 663 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan88">easily, but realize that any of your code that uses these helpful facilities is no longer C.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,334)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text94"><tspan
+             x="0 6 11 16 31 41 50 57 62 67 76 86 100 110 116 122 131 136 142 152 159 164 173 182 192 197 206 215 222 227 237 244 254 263 272 280 288 298 304 309 314 324 331 336 350 359 368 378 387 392 401 411 420 429 434 449 455 460 469 474 483 488 498 504 510 516 525 532 541 550 555 560 569 579 593 603 609 615 624 631 636 642 652 659 664 669 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan92">It won’t compile for another processor, or maybe even with a different compiler for the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,357)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 8 17 31 40 45 55 62 72 81 90 98 106 116 122"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">same processor.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,400)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0 6 11 26 36 45 51 61 66 75 84 89 98 103 108 118 123 128 137 143 152 161 166 171 180 189 194 199 204 213 222 227 235 241 247 253 262 272 281 286 295 304 314 319 324 334 344 350 355 365 372 382 392 398 408 417 424 429 435 443 448 458 467 473 482 491 496 505 514 523 529 538 547 553 558 563 568 577 583 592 601 606 615 625 634"
+             y="0"
+             sodipodi:role="line"
+             id="tspan100">I would hate to think that the silicon and tool provider is being cynical, tying your</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,423)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 10 17 27 37 46 55 60 65 70 80 85 90 99 108 113 122 132 146 156 162 168 177 183 188 193 204 213 218 224 232 237 246 252 262 271 276 281 290 299 304 314 321 331 341 347 357 366 373 378 383 392 401 406 416 425 434 443 449 455 460 465 475 481 486 495 500 510 520 529 539 544 549 559 568 573 582 590 598 607 621 627 636 645 650 655 664 673 678 683 689"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">product to the compiler. Let’s give the provider the benefit of a doubt by assuming that it</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,446)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 6 14 19 24 31 40 46 55 60 65 72 81 87 96 105 110 115 125 130 139 148 154 164 169 174 187 196 201 206 215 225 240 245 251 256 262 270 275 284 294 299 304 314 319 328 338 347 352 357 367 372 381 389 398 403 408 417 426 431 436 445 454 460 470 475 481 490 495 504 509 524 533 542 547 552 561 570 575 580 590 600 609 617 622 631 641 646 651 660 669 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">is truly trying to help. But now it’s up to you to use that help in a way that does not hurt</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,469)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 6 15 20 25 34 43 48 54 63 68 77 84 93 98 103 115 125 134 139 154 160 166 172 177 186 195 205 214 219 224 234 239 245 251 265 271 276 281 296 305 311 320 329 334 340 346 352 361 369 374 383 390 399 404 413 419 425 435 450 459 469 474 479 489 494 503 512 522 537 542 551 561 571 580 585 590 595 604 613 618"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">in the future. You will have to limit which files are allowed to know about the C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,492)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0 9 18 23 32 41 49 55 65 74 82"
+             y="0"
+             sodipodi:role="line"
+             id="tspan116">extensions.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,535)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 11 20 25 31 39 44 50 60 70 79 84 93 98 103 108 117 123 131 136 145 154 163 173 182 189 194 200 206 212 221 226 236 245 253 259 268 277 286 296 301 307 317 324 329 334 343 352 357 371 384 401 413 418 424 433 447 453 459 468 473 483 489 494 508 519 530 538 558 567 577 586 591 600 609 619 633 638 643 648 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">Let’s look at this header file designed for the ACME family of DSPs—you know, the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,558)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 10 19 28 36 41 50 58 67 77 82 92 101 106 123 129 135 144 149 161 166 171 184 194 203 213 218 227"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">ones used by Wile E. Coyote:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,598)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">Click here to view code image</tspan></text>
+        <path
+           d="m 6264,599.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path132" />
+        <text
+           xml:space="preserve"
+           transform="translate(6265,637.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">#ifndef _ACME_STD_TYPES</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6265,654.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">#define _ACME_STD_TYPES</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,712)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">Click here to view code image</tspan></text>
+        <path
+           d="m 6264,713.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path146" />
+        <text
+           xml:space="preserve"
+           transform="translate(6265,751.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">#if defined(_ACME_X42)</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6301,768.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 252 261 270 279 288 297 306 315"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">typedef unsigned int Uint_32;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6301,785.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 252 261 270 279 288 297 306 315"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">typedef unsigned short Uint_16;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6301,802.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 252 261 270 279 288 297 306"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">typedef unsigned char Uint_8;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6301,836.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 252 261 270 279 288 297 306"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">typedef int Int_32;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6301,853.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 252 261 270 279 288 297 306"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">typedef short Int_16;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6301,870.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 252 261 270 279 288 297"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">typedef char Int_8;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6265,904.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">#elif defined(_ACME_A42)</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6301,921.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 252 261 270 279 288 297 306 315"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">typedef unsigned long Uint_32;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6301,938.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 252 261 270 279 288 297 306 315"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">typedef unsigned int Uint_16;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6301,955.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 252 261 270 279 288 297 306"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">typedef unsigned char Uint_8;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6301,989.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 252 261 270 279 288 297 306"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">typedef long Int_32;</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

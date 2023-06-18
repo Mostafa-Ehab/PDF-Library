@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 2088,0 h 696 V 1056 H 2088 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 2088,66 h 696 V 996 H 2088 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-2088)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-2088)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(2088,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 10 19 28 37 46 51 60 66 71 80 87 92 102 111 120 129 138"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">queue after queue.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,126)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 14 23 33 38 43 52 61 70 75 81 87 92 101 111 120 125 140 149 158 163 172 182 187 192 202 207 216 226 236 241 250 255 264 273 288 293 299 308 317 322 331 338 347 367 382 391 397 403 408 413 422 432 441 446 455 464 473 478 484 498 507 516 522 531 540 545 550 559 568 573 582 592 601 611 617 623 632"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">And then if you wanted to add a new feature—well, you can imagine the coupling</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,149)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 10 19 24 39 48 57 66 71 80 86 92 97 102 111 121 129 138 143 151 160 167 177 183 192 201 209 214 219 228 237 247 252 257 266 275 280 288 297 306 315 322 327 337 347 353 362 376 385 390 400 406 411 429 440 454 465 473 478 483 492 501 506 511 520 529 538 548 557 567 572 581 590 599 608 617 623 632 641 646 651 660 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">between all those services, and the sheer volume of WSDLs that needed changing, and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,172)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 9 15 21 26 31 40 49 54 61 70 80 89 99 105 115 124 138 147 156 161 169 174 179 188 198 206 215 220 229 238 247 256 265 274 282 287 296 305 314 323 331 339 345 350 359 364 373 383 388"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">all the redeployments those changes necessitated …</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,215)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 14 23 29 35 40 48 53 62 69 74 82 87 92 102 107 115 124 133 147 152 158 164 173 182 187 196 201 210 216 225 234 239 249 255 264 273 282 287 297 306 311 320 330 344 354 363 370 376 384 394 403"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">Hell starts to seem like a nice place by comparison.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,258)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 12 21 30 37 46 52 60 65 74 84 89 98 104 113 122 127 133 142 147 154 160 169 177 183 192 201 207 213 222 227 242 249 259 268 277 282 297 303 308 317 322 331 336 344 354 360 365 380 389 396 405 410 418 427 435 440 449 463 468 473 482 491 496 501 507 515 520 528 533 540 549 558 563 572 579 588 598 603 612 619 629 638 647"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">There’s nothing intrinsically wrong with a software system that is structured around</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,281)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 8 17 24 34 40 49 58 66 71 76 88 97 106 111 120 127 134 144 151 156 165 170 175 193 198 213 222 230 235 240 249 258 263 273 280 289 303 312 317 326 333 342 347 356 366 376 386 391 397 407 416 421 430 439 449 454 463 472 478 488 495 504 513 527 536 545 550 555 565 571 576 585 590 598 607 613 618 627 632 642 648 653 658 668 678 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">services. The error at W was the premature adoption and enforcement of a suite of tools</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,304)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 5 14 23 28 33 43 50 60 74 80 88 97 107 112 123 133 147 167 172 181 190 195 200 206 214 219 224 229 238 247 252 262 269 278 292 301 306 315 322 331 336 345 355 365 375 380 386 396 405 410 420 426 431 440 445 459 468 476 484 490 500 509 514 522 531 537 542 551 556 566 572 577 587 597 611 620 626 635 640 650 660 666 675 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">that promised SoA—that is, the premature adoption of a massive suite of domain object</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,327)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 8 17 24 34 40 49 58 66 71 76 88 97 106 111 120 130 138 143 148 158 164 169 174 183 193 201 210 215 224 231 238 248 255 263 268 283 292 300 305 313 322 331 340 347 352 362 371 378 386 396 405 412 421 431 440 447 455 475 485 494 501 509 519 528 535 544 554 563 570 578 583 589 598 603 613 620 630 640 649 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">services. The cost of those errors was sheer person-hours—person-hours in droves—</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,350)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 6 12 21 29 38 47 57 62 72 82 97 106 111 116 125 134 139 150 160 173 178 188 198 205 210 219 228"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">flushed down the SoA vortex.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,393)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 6 11 20 30 39 45 55 60 69 79 84 94 103 108 118 127 135 144 151 157 167 173 182 191 196 206 215 224 229 238 245 254 263 269 274 283 292 297 306 313 322 328 333 339 348 354 360 369 376 385 390 399 405 410 419 426 431 440 449 459 464 473 482 488 493 498 511 520 525 530 536 545 550 556 564 569 574 583 589 598 603 612 622 632 641 646 651 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">I could go on describing one architectural failure after another. But let’s talk about an</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,416)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 9 16 25 34 40 45 54 63 68 77 84 93 99 104 112 121 130 139 148 156 164 169 175 184 192 197 206 215 225"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">architectural success instead.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,486)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0"
+             y="0"
+             id="tspan78">F</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2108,486)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 13"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">IT</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2143,486)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0"
+             y="0"
+             id="tspan86">N</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2167,486)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 22 40 58"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">ESSE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,531)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 17 26 31 42 52 61 66 71 88 94 103 112 121 126 131 140 149 159 164 170 175 183 188 197 204 209 218 228 233 248 258 265 274 279 289 298"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">My Son, Micah, and I started work on </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2391,531)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 10 20 30 40 50 60 70"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">FitNesse</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2476,531)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 6 15 20 30 40 50 60 65 70 82 91 100 105 111 121 130 139 144 159 168 176 181 186 196 201 210 217 226 235 240 249 254"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">in 2001. The idea was to create a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,554)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 8 14 28 38 44 53 58 73 79 88 94 99 104 113 122 127 132 147 154 163 173 183 192 202 207 223 232 239 249 254 267 276 285 294 300 309 318 327 336 350 356 364 369 380 386 398 403 408 418 428 434 439 445 455 462 467 482 489 495 500 506 515 524 529 538 547 556 565 575 580 589 598 607 616 621 626 635 643 648 656"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">simple wiki that wrapped Ward Cunningham’s FIT tool for writing acceptance tests.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,597)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 12 21 27 35 40 55 64 72 77 87 96 105 114 119 125 134 139 144 153 162 167 177 186 195 203 208 218 227 233 243 250 259 264 281 290 300 309 318 323 332 340 350 356 366 375 385 394 399 404 413 422 427 433 442 449 454 460 466 472 481 486 496 503 513 523 529 538 552 557 562 568 573 588 597 605 610 619 629 638 652 661 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">This was back in the days before Maven “solved” the jar file problem. I was adamant</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,620)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 5 14 23 28 33 42 51 60 65 74 80 89 98 103 118 127 132 142 149 159 169 178 187 196 206 211 219 228 238 247 253 263 268 277 287 292 297 304 313 323 332 338 345 354 359 369 378 388 398 404 413 418 423 433 438 448 458 473 482 488 498 507 517 522 536 546 553 562 567 572 581 590 599 604 614 623 632 637 643 652 659 664 670 676 682 691"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">that anything we produced should not require people to download more than one jar file.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,643)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 6 11 20 29 35 41 50 60 65 70 79 85 93 98 105 114 120 129 134 139 148 162 172 187 196 202 212 221 231 236 245 254 264 269 283 293 298 307 312 324 333 339 347 352 359 368 374 383 388 398 405 415 425 434 439 453 462 471 480 485 495 501 506 516 525 532 537 547 556 565 571 579 585 595 604 612"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">I called this rule, “Download and Go.” This rule drove many of our decisions.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,686)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 14 23 32 37 47 53 58 63 72 81 86 92 98 105 113 118 123 133 142 151 157 165 171 181 190 198 203 218 227 235 240 245 255 260 275 282 288 293 302 307 317 326 333 338 348 363 372 377 392 401 411 416 424 433 440 450 459 465 470 475 483 493 502 511 517 523 529 538 543 548 558 563 568 577 586 591 600 609 618 628 636 641 651"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">One of the first decisions was to write our own web server, specific to the needs of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,709)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 10 20 30 40 50 60 70"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">FitNesse</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2168,709)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 5 10 22 31 37 45 50 64 70 79 88 93 98 106 116 125 134 144 149 158 168 176 185 192 202 207 212 224 234 243 252 257 263 272 277 287 297 307 317 322 327 336 345 352 361 366 381 390 397 406 411 421 427 436 445 450 459 464 474 480 485 495 505 514 523 528 536 546 555 562 571"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">. This might sound absurd. Even in 2001 there were plenty of open source</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,732)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 15 24 34 39 47 56 63 73 82 89 97 102 107 116 125 130 135 150 159 164 173 183 192 198 208 213 222 231 241 250 255 264 272 281 291 296 301 313 322 327 332 347 354 360 365 371 380 389 394 404 413 420 425 435 450 459 464 469 478 485 494 503 513 518 528 537 542 547 552 562 567 577 586 591 600 605 612 621 630 636 642 651 656 665 675 685"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">web servers that we could have used. Yet writing our own turned out to be a really good</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,755)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 10 19 28 34 42 48 58 67 72 82 91 100 109 118 126 135 140 149 154 164 173 180 189 196 206 216 225 234 242 247 262 271 281 286 294 303 310 320 329 336 341 347 355 360 369 374 384 393 400 409 414 422 428 442 452 458 467 472 482 488 497 506 515 520 530 536 541 549 559 565 570 585 594 601 610 615 620 630 635 650 657 663 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">decision because a bare-bones web server is a very simple piece of software to write</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,781)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 9 18 28 33 39 44 49 58 64 70 80 95 104 114 119 128 136 141 146 156 161 171 181 189 194 204 214 223 232 237 246 255 264 269 284 293 303 308 314 321 330 344 353 368 378 385 394 399 409 418 427 433 441 447 457 466 471 480 489 494 500 506 511 525 534 543 552 557 563 572 577 586 592"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">and it allowed us to postpone any web framework decision until much later.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2685,774)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0"
+             y="0"
+             id="tspan146">2</tspan></text>
+        <path
+           d="m 2685,775.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path150" />
+        <text
+           xml:space="preserve"
+           transform="translate(2088,824)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 14 23 33 38 47 56 63 68 77 86 93 99 108 113 123 132 141 147 155 161 171 180 185 200 209 217 222 227 237 242 251 261 271 277 287 292 297 306 312 321 330 336 345 354 359 368 378 388 397 402 407 416 421 431 440 445 454 464 473 481 490 495 500 516 525 530 539 548 558 563 580 589 600 614 624 629 635 644 649 654 663"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">Another early decision was to avoid thinking about a database. We had MySQL in the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,847)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 10 19 28 37 42 52 58 63 73 82 89 94 108 114 123 133 141 146 151 161 170 175 180 195 204 209 219 228 235 245 255 263 272 278 287 292 302 311 317 326 335 344 354 359 364 373 382 387 392 402 411 420 426 434 440 450 459 464 474 483 488 497 511 521 527 537 546 552 561 570 575 584 589 599 608 616 622 631 640 645 650 659 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">back of our minds, but we purposely delayed that decision by employing a design that</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,870)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 14 23 33 42 47 52 61 70 75 85 94 103 109 117 123 133 142 147 153 160 167 176 182 191 201 210 219 224 229 234 246 255 264 269 274 284 293 301 307 316 325 330 345 354 362 367 375 381 395 405 411 420 425 430 440 445 455 464 469 474 483 492 497 503 512 517 526 533 539 548 557 566 571 581 590 595 610 619 628 637 642 651 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">made the decision irrelevant. That design was simply to put an interface between all</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,893)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 10 19 24 33 38 47 56 65 74 82 90 99 107 112 121 130 140 145 150 159 168 173 183 192 197 206 211 218 227 237 247 255 261 266 276 283 292 297 303 308 316 325 331 337"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">data accesses and the data repository itself.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,936)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 16 25 30 40 49 54 59 64 73 82 87 97 106 111 120 125 134 143 152 161 169 177 182 196 205 210 219 229 239 247 252 258 267 272 282 287 296 305 310 316 325 330 339 346 352 361 370 379 384 393 402 416 425 435"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">We put the data access methods into an interface named </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2528,936)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 10 20 30 40 50 60 70"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">WikiPage</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2608,936)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 5 10 22 31 41 49 58 63 77 86 91 100 110 120"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">. Those methods</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,959)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 10 17 27 37 43 53 62 72 77 86 92 98 103 108 117 126 131 137 146 155 164 169 175 185 194 203 209 215 220 229 234 249 258 263 272 281 290 300 309 319 324 329 339 344 350 356 365 375 380 385 391 400 405 414 423 428 433 442 451 461 466 474 483 493 502 507 517 526 535 544 552 557 562 576 582 587 596 606 615 622 630 639 644 649 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">provided all the functionality we needed to find, fetch, and save pages. Of course, we</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,982)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 10 16 26 35 42 47 52 58 72 82 88 97 111 120 129 134 139 144 153 163 171 180 185 199 208 213 222 232 242 250 255 264 269 274 280 286 293 301 306 311 316 331 340 345 353 359 373 383 389 398 403 411 416 425 435 445 454 464 469 474 483 492 506 511 521 530 535 540 555 564 570 576 585 590 605 614 619 634 644 651 660 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">didn’t implement those methods at first; we simply stubbed them out while we worked</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

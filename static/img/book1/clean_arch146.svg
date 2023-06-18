@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 4872,0 h 696 V 1056 H 4872 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 4872,66 h 696 V 996 H 4872 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-4872)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-4872)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(4872,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 13 22 27 32 41 50 55 61 70 75 84 89 99 109 119 129 137 142 147 162 171 176 185 194 204 209 215 224 233 240 249 258 268 273 283 292 299 304 310 319 327 335 345 354 374 383 392 402 407 422 431 436 442 451 461 470 479 484 493 503"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">By the late 1960s, we had learned our lesson—and we invented </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5380,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 10 19 29 35 44 53 58 64 73 83 92 102 111 120 130 139 148 157"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">device independence</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5546,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0"
+             y="0"
+             id="tspan38">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 12 21 30 35 45 55 64 71 80 85 91 100 109 114 122 131 139 144 153 167 175 180 190 196 201 206 215 224 229 239 248 257 262 271 281 289 294 301 310 319 324 333 343 348 353 362 371 376 382 396 401 411 420 430 436 445 454 462 467 473 482 487 497 502 510 520 526 531 546 555 562 571 576 582 591 600 609 614 620 630 639 647 652 657 666 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">The operating systems of the day abstracted the IO devices into software functions that</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 9 18 27 37 43 52 62 67 76 85 91 96 101 108 117 126 136 143 153 161 166 171 180 189 194 199 205 215 225 234 243 253 258 264 270 279 288 293 302 311 318 328 336 341 346 358 367 376 381 391 398 408 417 424 433 447 455 460 475 485 494 500 510 515 521 530 540 550 559 568 573 583 593 602 609 618 623 629 638"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">handled unit records that looked like cards. The programs would invoke operating</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 8 17 25 30 39 53 58 66 75 82 92 98 107 116 124 129 134 143 152 157 162 172 181 190 196 201 206 221 227 232 241 246 255 265 273 278 285 294 303 308 313 322 331 337 342 349 356 365 374 384 391 401 406 416 425 435 441 450 459 467 472 477 491 501 510 517 526 531 541 548 556 561 570 580 589 595 605 610 615 624 630 636 641 646 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">system services that dealt with abstract unit-record devices. Operators could tell the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 10 20 29 36 45 50 56 65 74 79 87 96 104 109 118 132 137 152 161 170 175 184 193 200 205 210 219 229 237 246 251 260 270 278 283 290 299 308 313 318 326 335 342 352 358 367 376 384 389 397 406 416 425 431 441 446 456 465 470 479 489 498 507 516 525 530 539 549 554 559 569 574 583 592 599 609 614 621 630 639 649 658 665 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">operating system whether those abstract services should be connected to card readers,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,198)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 14 23 32 41 50 55 61 70 75 80 89 99 108 113 118 128 135 140 149 158 167 172 182 187 196 205 212 217 226 235 241 246 253 260 269 278 288 295 305 310 320 329 339 345 354 363"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">magnetic tape, or any other unit-record device.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 14 24 39 44 49 58 67 72 80 89 103 112 117 127 134 144 153 160 169 183 188 197 207 216 222 232 237 244 253 262 272 277 286 295 305 310 325 332 338 343 352 357 366 375 382 392 400 405 410 420 427 432 439 448 457 467 472 481 490 500 505 520 527 533 538 547 552 557 566 576 585 590"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">Now the same program could read and write cards, or read and write tape, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5467,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 15 21 26 35 45 54 59 64 73 82"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">without any</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 9 18 27 36 45"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">change</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4926,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 5 10 22 31 40 45 59 69 78 87 97 110 116 126 134 143 153 158 169 176 182 191 200 206 216 222 231 236 251 260 268 273 283 293 300 309 314 321 331 340 345 350 359 369 374 379 388 397 402 407 416 425 439 448 458 465"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">. The Open–Closed Principle was born (but not yet named).</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,334)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0"
+             y="0"
+             id="tspan78">J</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4889,334)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 24 48"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">UNK</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4971,334)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0"
+             y="0"
+             id="tspan86">M</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5003,334)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 23 36"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">AIL</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,379)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 6 15 20 25 34 43 48 54 63 68 77 82 92 102 112 122 130 135 140 146 151 166 176 183 192 201 211 216 222 232 239 244 253 258 267 277 291 301 310 319 328 333 338 347 356 361 366 376 383 389 398 403 412 422 427 433 442 451 460 465 479 488 494 500 505 511 521 528 533 542 548 554 563 572 577 585 590 595 607 616 625 630 639 645 651 660 669 674"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">In the late 1960s, I worked for a company that printed junk mail for clients. The clients</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,402)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 15 25 34 40 50 55 63 72 81 91 96 105 113 118 132 141 150 159 168 173 179 188 193 198 207 217 226 234 239 254 260 265 274 279 288 297 303 308 313 320 329 338 348 355 365 373 378 387 397 406 411 420 426 435 441 450 459 464 469 478 487 492 501 510 524 533 541 546 555 564 574 579 588 598 608 615 624 632 640 649 657 662 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">would send us magnetic tapes with unit records containing the names and addresses of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,425)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 5 14 23 29 36 41 50 59 67 72 82 96 105 112 120 125 130 139 148 158 163 178 187 192 207 217 226 232 242 247 262 269 275 280 289 294 304 311 321 330 337 346 360 368 373 378 387 396 401 406 416 423 429 438 443 452 462 467 476 482 491 500 505 515 524 531 539 549 558 567 573 579 587 596"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">their customers, and we would write programs that printed nice personalized</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,448)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 9 19 29 38 45 50 56 64 73 87 96 105 110 118"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">advertisements.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,491)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 12 22 31 36 45 54 64 79 84 89 98 107 112 121 127 136 146"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">You know the kind:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,534)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 14 23 29 35 45 50 67 73 78 83 100 109 116 121 127 136"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">Hello Mr. Martin,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,567)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 13 23 32 41 48 57 62 71 77 86 91 97 107 116 124"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">Congratulations!</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,600)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 16 25 30 39 48 58 66 75 80 94 108 121 126 132 139 149 163 168 177 187 196 203 212 222 231 240 245 254 260 268 277 282 297 306 316 321 327 333 343 352 360 365 375 384 389 406 412 417 426 435 450 460 470 480 485 496 505 514 523 528 533 543 548 558 567 574 579 585 594 600 610 619 624 633 638 644 653 658 668 677"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">We chose YOU from everyone else who lives on Witchwood Lane to participate in our</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,623)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 9 18 33 38 44 53 62 67 76 84 89 95 104 109 119 128 137 144 149 155 169 178 185 195 204 210 219 224 234 240 246 255 262 268 277 286"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">new fantastic one-time-only offering…</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,666)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 12 21 30 35 44 50 56 65 74 79 87 92 107 117 126 132 142 147 155 164 173 183 188 197 205 210 219 228 237 246 251 258 268 274 280 288 293 303 309 314 320 330 337 351 356 362 371 376 381 390 397 405 410 425 431 436 445 450 459 465 471 476 481 490 499 504 519 529 536 546 554 559 568 577 586 595 605 610 615 620 629 638 643 652 661 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">The clients would send us huge rolls of form letters with all the words except the name</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,689)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 9 18 28 33 42 52 62 69 78 86 94 99 104 113 122 132 137 146 155 164 169 179 184 193 202 209 214 223 229 238 252 261 270 275 280 285 294 303 312 317 332 341 350 355 364 374 379 388 396 401 406 416 421 431 438 444 453 458 463 468 484 493 498 513 520 530 535 544 549 559 566 576 585 592 601 615 623 628 633 642 651"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">and address, and any other element they wanted us to print. We wrote programs that</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,712)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 9 18 23 30 39 48 53 62 72 77 82 91 100 105 114 123 137 146 154 159 164 173 183 193 200 209 217 225 234 242 247 252 261 270 280 285 295 300 309 318 325 330 339 345 354 368 377 386 391 399 404 410 417 427 441 446 451 460 469 474 488 497 506 515 524 529 535 544 549 554 563 573 582 587 592 601 610 620 625 635 642 648 657 662 671"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">extracted the names, addresses, and other elements from the magnetic tape, and printed</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,735)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 5 14 24 32 41 46 55 61 70 84 93 102 107 115 120 129 138 147 156 161 167 176 181 196 205 214 221 230 235 240 249 258 267 272 281 290 299 309 318 328 333 338 348 353 362 372 382 391 400 407 412 422 431 436 441 450 459 464 470 480 487 501 509"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">those elements exactly where they needed to appear on the forms.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,778)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 12 21 30 38 47 52 59 69 75 81 89 94 104 110 115 121 131 138 152 157 163 172 177 182 191 198 206 211 226 235 241 250 259 268 278 283 293 303 313 318 328 338 347 356 366 374 379 388 397 407 412 421 431 440 445 454 460 469 478 488 493 498 507 517 526 534 543 552 562 570 575 585 591 596 602 611 616 621 630 637 645"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">These rolls of form letters weighed 500 pounds and contained thousands of letters.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,801)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 13 19 25 34 43 48 56 61 76 86 95 101 111 116 124 133 142 152 157 166 174 179 188 197 206 216 223 232 242 250 255 265 271 276 281 290 299 307 316 321 328 338 344 350 358 363 368 384 393 398 413 423 432 438 448 453 463 470 476 485 490 495 504 513 522 531 536 546 555 564 569 575 584 594 600 610 616 626 635 644 650 656 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">Clients would send us hundreds of these rolls. We would print each one individually.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,844)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 14 19 24 30 36 43 51 56 61 66 81 90 95 104 113 123 128 137 146 151 157 170 187 192 202 212 222 227 237 247 253 262 271 276 281 290 299 304 314 321 327 336 341 347 356 365 370 380 389 394 400 405 413 418 426 436 442 451 456 462 468 477 486 491 501 508 514 523 528 537 543 548 553 569 578 583 592 602 611 617 627 632 642 649 655 664 669 674"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">At first, we had an IBM 360 doing the printing on its sole line printer. We could print a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,867)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 6 15 30 35 40 49 59 68 76 85 94 104 109 115 124 129 134 143 150 158 163 173 182 189 194 202 211 217 223 228 233 238 251 260 266 276 283 288 297 306 315 320 329 335 343 348 353 358 367 373 381 386 391 397 406 416 421 430 440 445 454 459 469 478 485 494 499 508 517 527 536 545 553 559 569 578 583 597 606 615 624 630 639 648 653 659 669 676 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">few thousand letters per shift. Unfortunately, this tied up a very expensive machine for a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,890)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 10 19 26 35 40 46 56 65 74 79 84 90 104 113 118 123 129 138 143 148 157 167 175 184 189 199 208 217 225 230 235 241 254 271 276 286 296 306 314 319 326 335 344 349 358 368 373 379 389 396 401 406 415 424 432 437 447 453 458 463 472 482 491 499 508 517 527 535 540 550 556 561 571 581 587 593 602 609 617 622 632 641"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">very long time. In those days, IBM 360s rented for tens of thousands of dollars per</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,913)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 14 24 33 38 47"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">month.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,956)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 11 21 26 41 50 55 60 70 76 86 91 96 105 114 119 129 139 148 155 164 169 175 184 193 198 206 215 223 228 237 251 256 261 271 276 285 293 302 307 321 330 339 348 357 362 368 377 382 387 396 406 415 420 426 435 443 448 457 466 476 481 491 497 502 507 516 525 530 536 542 551 560 565 575 582 588 597 602 611 617 622 627 641 650"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">So we told the operating system to use magnetic tape instead of the line printer. Our</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4872,979)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 10 17 27 36 43 52 66 74 79 89 95 105 114 121 126 131 140 149 156 165 170 175 185 194 203 212 221 229 238 243 248 257 266 275 280 289 298 308 313 323 332 341 350 355 370 377 383 388 393 402 411 416 421 431 436 445 453 462 467 472 481 490 495 501 515 520 529 539 547 552 559 568 577 582 588 598 607 615 620 630 636 641 646 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">programs didn’t care, because they had been written to use the IO abstractions of the</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

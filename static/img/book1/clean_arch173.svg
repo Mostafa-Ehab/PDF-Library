@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 2088,0 h 696 V 1056 H 2088 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 2088,66 h 696 V 996 H 2088 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-2088)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-2088)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(2088,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 9 18 27 32 41 48 57 66 71 77 86 91 100 106 116 121 126 135 144 149 155 165 175 180 190 196 201 211 220 230 239 245 255 265 271 280 289 294 299 304 313 321 326 332 341 350 355 360 369 378 388 393 403 412 422 428 438 447 453 462 471 476 481 490 499 504 514 521 531 537 546 555 560 565 570 580 589 598 612 620 625 634 643"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">can greatly aid the job of developing, testing, and deploying the project. Teams can</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 15 25 32 41 46 52 61 71 80 90 99 108 118 127 136 141 147 156 161 171 177 182 191 200 209 218 223 233 238 247 256 263 268 278 287 292 297 306 315 321 328 333 343 358 367 372 381 391 405 415 425 434 443 452 457 465 470 485 491 496 505 515 524 529 534 539 546 555 564 574 580 589 598 603 613 622 627 636 645 654"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">work independently of each other on their own components without treading on each</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 10 15 24 33 41 47 55 60 65 75 84 92 97 102 116 122 131 140 147 153 162 172 181 187 192 201 211 225 235 245 254 263 272 277 285 290 297 306 320 329 335 344 349 355 364 374 383 393 402 411 421 430 439 444 449 459 465 470 476 486 501 510 517 524 530 539 549 558 564 569 579 588 593 602 608 614 622"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">other’s toes. High-level components remain independent of lower-level details.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,172)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 13 23 37 51 60 69 75 84 93 98 104 114 123 131 136 146 155 160 175 184 193 202 207 216 226 240 250 260 269 278 287 292 300 305 311 320 325 334 339 353 363 372 382 388 394 399 408 413 422 429 438 443 453 462 469 478 483 489 498 506 511 516 525 534 544 549 555 564 573 582 592 601 610 618 624 634 643 648 653 665 674 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">Communications between components in a monolith are very fast and inexpensive. They</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 9 16 25 30 35 44 54 60 69 78 84 90 99 104 110 119 127 132 137 143 152 161 170 175 181 191 200 205 214 223 229 235 243 248 253 266 276 285 293 302 312 321 330 339 344 350 358 363 368 377 387 401 415 424 433 439 448 457 462 468 478 487 495 500 509 518 525 535 543 551 556 564 574 583 590 599 608 615 621 630 640 649"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">are typically just function calls. Consequently, communications across source-level</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 10 19 28 38 47 57 63 72 82 87 97 107 116 125 135 144 151 157 166 174 179 188 197 206 211 221 230 235 245 254 261 270 275 284 293 302 307 312 320"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">decoupled boundaries can be very chatty.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,261)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 11 17 26 35 44 49 54 63 72 77 87 96 106 112 122 131 145 154 163 168 173 183 189 194 208 218 227 237 243 249 254 263 271 276 285 293 302 311 317 323 332 337 344 353 363 372 378 385 394 402 407 416 426 440 450 456 462 471 476 482 492 501 506 515 524 534 539 547 552 561 566 572 581 586 592 598 607 616 622 631 640"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">Since the deployment of monoliths usually requires compilation and static linking,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,284)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 9 19 33 43 53 62 71 80 85 93 98 104 113 118 123 132 141 149 158 163 171 180 188 193 202 216 224 229 238 245 254 259 264 273 283 289 298 307 313 319 328 333 343 352 358 364 374 383 390 399 409 414 423 431 436 444 454 463 470 479 488 493 502 512 522 531"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">components in these systems are typically delivered as source code.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,354)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0"
+             y="0"
+             id="tspan62">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2112,354)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 22 42 64 90 114 146 168 192"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">EPLOYMENT</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2334,354)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0"
+             y="0"
+             id="tspan70">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2358,354)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 26 58 78 104 128 150 174 196"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">OMPONENTS</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,399)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 12 21 30 35 43 49 63 73 79 88 96 101 106 116 125 134 142 148 157 166 172 177 184 193 203 210 219 227 236 245 250 259 264 270 280 289 294 304 310 315 324 333 338 347 354 363 372 378 383 392 401 406 415 422 431 437 442 452 462 471 480 490 499 506 515 520 526 534 539 548 553 563 572 581 590 604 610 619 628 634 640"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">The simplest physical representation of an architectural boundary is a dynamically</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,422)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 6 12 21 30 39 49 54 60 66 76 83 92 99 108 113 119 125 134 143 148 157 162 167 181 190 195 200 214 225 236 241 246 255 260 268 277 287 296 301 307 316 323 328 334 340 346 355 360 365 374 379 392 401 411 420 425 439 448 462 467 472 482 489 494 503 508 521 535 541 555 560 568 577 586 593 602 612 617 623 629 639 646 655 662 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">linked library like a .Net DLL, a Java jar file, a Ruby Gem, or a UNIX shared library.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,445)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 14 23 33 39 49 58 72 81 90 95 100 110 120 129 137 142 151 161 166 171 177 186 196 206 212 222 231 236 245 255 269 279 285 291 300 305 311 321 330 335 340 346 355 363 368 377 386 396 401 406 411 420 429"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">Deployment does not involve compilation. Instead, the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2522,445)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 9 19 33 43 53 62 71 80 85 93 98 107 114 123 128 138 147 153 159 169 178 185 194 204 209 215"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">components are delivered in</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,468)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 10 16 25 34 41 49 54 59 69 76 81 89 99 113 122 127 136 146 155 161 171 180 186 195 204 209 214 224 233 243 249 259 268 277 287 293 302 307 313 323 330 344 349 354 366 375 381 389 394 400 408 413 418 427 436 441 451 460 470 476 486 495 509 518 527 532 539 545 554 564 573 579 584 594 603 612 622 631 641 647 653 662"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">binary, or some equivalent deployable form. This is the deployment-level decoupling</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,491)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 14 24 34 43 48 53 65 74 83 88 97 106 111 116 126 132 137 147 156 166 172 182 191 205 214 223 228 233 239 247 252 260 266 280 290 296 305 310 315 324 333 338 347 356 361 370 379 386 392 401 410 415 425 431 436 441 450 459 467 476 481 491 500 510 516 526 535 544 554 560 569 574 583 592 598 603 611 616 621 631 640 649 654 663 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">mode. The act of deployment is simply the gathering of these deployable units together</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,514)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 6 15 20 28 38 52 61 66 75 85 94 104 113 122 128 137 146 151 156 162 172 179 193 198 203 211 220 229 238 243 252 260 265 274 279 295 309 322 327 333 339 345 354 359 364 374 381 386 395 405 414 423 428 434 443 451 456 461 470 475 485 491 498 507 516 521 531 538 546"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">in some convenient form, such as a WAR file, or even just a directory.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,557)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 17 23 28 37 42 47 56 65 70 75 85 94 103 108 117 126 135 144 154 159 165 175 184 189 194 204 213 223 229 239 248 262 271 280 285 292 298 307 317 326 332 337 346 356 370 380 390 399 408 417 422 430 435 444 451 460 465 470 479 488 493 501 510 524 533 538 547 555 560 574 584 593 603 609 615 620 629 637 642 647 659 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">With that one exception, deployment-level components are the same as monoliths. The</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,580)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 6 15 24 33 38 44 54 63 71 76 85 94 103 112 119 128 134 140 149 154 163 169 175 180 189 198 204 212 217 222 228 237 242 247 256 265 270 278 287 301 310 315 325 332 342 351 360 368 376 386 393 398 407 416 426 431 440 450 460 467 476 484 492 497 505 515 524 533 542 547 552 564 573 582 587 595 600 607 616 621 630 639 645 654 662 667 673 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">functions generally all exist in the same processor and address space. The strategies for</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,606)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 8 17 26 33 42 51 60 65 71 80 89 94 99 108 117 122 131 141 155 165 175 184 193 202 207 215 220 229 238 248 253 267 276 285 294 303 309 318 327 332 337 346 355 361 368 373 383 392 402 411 420 430 439 448 457 463 472 480 485 494 501 510 515 520 529 538 543 551 560 574 583"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">segregating the components and managing their dependencies are the same.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2676,599)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0"
+             y="0"
+             id="tspan118">2</tspan></text>
+        <path
+           d="m 2676,600.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path122" />
+        <text
+           xml:space="preserve"
+           transform="translate(2088,649)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 14 22 27 42 48 53 62 67 81 91 100 110 116 122 127 136 144 149 154 163 173 187 201 210 219 225 234 243 248 254 264 273 281 286 295 304 311 321 329 337 342 352 361 371 377 387 396 410 419 428 433 438 447 457 471 481 491 500 509 518 523 528 538 548 557 566 576 585 592 598 607 615 620 629 636 645 650 656 665 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">As with monoliths, communications across deployment component boundaries are just</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,672)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 6 15 24 33 38 44 54 63 68 77 86 92 98 106 111 120 129 139 144 149 154 163 172 179 188 194 204 211 220 225 230 239 246 255 260 270 279 286 295 300 306 315 324 333 343 352 361 369 375 385 394 399 404 416 425 434 441 450 455 469 478 487 492 502 511 516 525 530 540 549 558 565 570 576 590 599 604 613 619 624 629 635 645"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">function calls and, therefore, are very inexpensive. There may be a one-time hit for</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,695)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 10 19 28 37 51 57 66 71 77 83 92 101 107 116 125 130 140 147 152 159 168 177 182 188 202 211 216 222 232 241 251 257 266 275 280 285 295 304 309 314 323 333 347 361 370 379 385 394 403 408 414 424 433 441 446 455 464 471 481 489 497 502 507 516 525 533 542 547 557 567 576 585 595 604 611 617 626 634 639 648 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">dynamic linking or runtime loading, but communications across these boundaries can</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,718)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 8 13 19 25 31 36 46 55 60 70 79 86 95 100 109 118 127 132 137 145"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">still be very chatty.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,789)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0"
+             y="0"
+             id="tspan140">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2110,789)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 26 50 72 95 119"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">HREADS</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,834)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 13 23 28 37 42 56 66 75 85 91 97 102 111 119 124 133 142 152 157 167 176 186 192 202 211 225 234 243 248 253 262 272 286 296 306 315 324 333 338 346 351 360 369 378 383 397 406 415 424 429 438 446 455 460 470 476 481 486 495 502 511 520 530 538 543 548 560 569 576 585 594 604 612 617 626 633 642 647 656 666"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">Both monoliths and deployment components can make use of threads. Threads are not</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,857)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 9 16 25 34 40 45 54 63 68 77 84 93 99 104 114 124 133 142 152 161 168 174 183 191 196 206 213 218 227 236 242 247 255 260 270 276 281 291 300 310 316 326 335 349 358 367 372 377 382 392 401 406 411 418 427 432 441 450 457 462 471 476 491 500 509 514 519 529 534 544 551 560 569 578 584 592 601 606 611 620"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">architectural boundaries or units of deployment, but rather a way to organize the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,880)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 8 17 26 35 45 54 60 69 74 83 92 102 107 117 124 134 143 150 155 165 171 176 185 194 203 212 221 226 232 242 251 256 261 273 282 291 300 305 319 328 337 342 352 361 366 381 390 400 406 412 421 426 435 445 454 459 468 474 483 492 502 507 522 528 533 542 548 557 562 571 576 585 595 609 619 629 638 647 656 661 666 671 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">schedule and order of execution. They may be wholly contained within a component, or</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,903)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 8 18 25 34 43 53 58 67 76 83 93 101 109 114 128 137 146 155 160 169 179 193 203 213 222 231 240 245 253"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">spread across many components.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,973)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0"
+             y="0"
+             id="tspan164">L</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2110,973)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 26 50 73"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">OCAL</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2213,973)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0"
+             y="0"
+             id="tspan172">P</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2233,973)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 24 50 74 96 114 132 154"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">ROCESSES</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

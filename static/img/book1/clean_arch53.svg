@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 696,0 h 696 V 1056 H 696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 696,66 h 696 V 996 H 696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath48">
+      <path
+         d="m 696,66 h 696 V 996 H 696 V 66"
+         clip-rule="evenodd"
+         id="path46" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-696)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-696)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <g
+           id="g30">
+          <path
+             d="m 697,536 h 695 v 1 H 697 Z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" />
+        </g>
+        <g
+           id="g34">
+          <path
+             d="m 697,679 h 695 v 1 H 697 Z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path36" />
+        </g>
+        <g
+           id="g38">
+          <path
+             d="m 697,1038 h 695 v 1 H 697 Z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path40" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g42"
+       transform="translate(-696)">
+      <g
+         id="g44"
+         clip-path="url(#clipPath48)">
+        <text
+           xml:space="preserve"
+           transform="translate(696,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 11 21 35 44 49 55 65 71 80 88 93 99 108 114 120 125 135 144 153 162 167 177 186 191 196 205 212 221 230 235 249 258 267 273 282 287 302 312 319 329 337 342 347 357 362 371 380 390 396 405 411 420 425 430 439 448 453 462 471 476 485 492 501 506 516 522 527 541 555 561"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">Some folks fall back on three magic words to explain the nature of OO: </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1262,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 9 18 27 36 46 54 63 69 78 83 89 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">encapsulation</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1370,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0"
+             y="0"
+             id="tspan58">,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 6 15 24 33 40 46 51 60 69 78"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">inheritance</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(783,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 5 10 19 28 38"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">, and </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(826,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 10 20 26 35 49 59 66 76 85 91 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">polymorphism</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(939,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 5 10 22 31 40 45 51 65 75 81 87 96 105 110 116 126 135 140 146 154 159 164 173 182 187 192 206 220 225 231 239 244 249 258 267 272 282 289 299 309 318 325 330 339 349 363 369 378 383 392 399 408 413 423"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">. The implication is that OO is the proper admixture of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 5 14 23 31 40 45 50 59 66 75 84 89 94 103 109 118 127 135 140 145 155 162 167 176 181 186 192 201 210 218 223 228 233 242 251 256 261 270 279 284 298 312 317 323 332 341 350 359 368 377 386 391 405 414 422 427 432 440 449 459 469 479 486 491 496 501 510 519 527 536 541 546 555 562 571 580 585 590 599 605 614 623 631"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">these three things, or at least that an OO language must support these three things.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,172)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 11 20 25 31 39 44 53 62 71 85 91 100 109 114 123 132 141 150 155 165 171 176 181 190 199 207 216 221 230 240 249 258 267 277 282 290 295 301 310 315 320 329 336 345"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">Let’s examine each of these concepts in turn.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,242)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0"
+             y="0"
+             id="tspan86">E</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(718,242)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 24 48 71 91 109 133 155 175 197 210 236"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">NCAPSULATION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(978,242)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0"
+             y="0"
+             id="tspan94">?</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,287)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 12 21 30 35 42 51 60 68 78 87 92 101 110 119 128 138 146 155 161 170 175 181 191 200 205 211 219 224 233 239 244 253 263 268 277 285 290 300 309 316 321 326 336 342 347 352 361 370 375 385 394 400 406 415 421 426 432 442 451 456 466 472 477 491 505 510 516 524 529 534 543 552 557 562 576 590 595 601 610 619 628 637 646 655 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">The reason encapsulation is cited as part of the definition of OO is that OO languages</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,310)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 10 17 27 37 43 53 62 67 76 85 93 102 107 116 125 135 140 149 155 161 170 179 184 190 200 209 214 223 232 241 250 260 268 277 283 292 297 303 313 322 327 337 343 348 358 367 372 381 386 395 404 414 419 425 434 443 452 457 463 473 482 487 492 506 514 519 528 533 540 549 557 566 572 577 582 587 596 601 607 613 622 631 636 645 654 663 668 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">provide easy and effective encapsulation of data and function. As a result, a line can be</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 10 17 26 41 50 55 64 71 81 90 99 109 114 123 128 137 147 156 165 173 179 189 198 203 211 220 225 230 240 246 251 261 270 275 284 289 298 307 317 322 328 337 346 355 360 366 376 385 393 398 403 417 426 431 439 445 455 464 469 479 485 490 495 504 513 518 523 529 535 544 553 558 563 568 577 586 591 601 610 615 624 629 635"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">drawn around a cohesive set of data and functions. Outside of that line, the data is</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,356)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 9 15 25 35 44 53 58 67 76 86 91 101 110 116 125 130 138 148 162 171 176 186 192 197 202 211 220 225 231 240 249 258 263 269 279 288 296 301 310 317 326 331 340 349 359 374 383 388 393 409 418 423 431 440 449 454 459 468 474 482 487 496 506 515 524 533 543 548 553 559 568 573 582 591 596 602 612 621 626 635 643 648 653 662"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">hidden and only some of the functions are known. We see this concept in action as the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,379)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 10 17 23 33 42 47 56 61 71 80 85 94 99 113 122 136 146 155 162 170 175 184 193 203 208 213 222 231 236 246 255 265 271 277 286 291 305 314 328 338 347 354 359 365 374 383 392 397 403 413 422 430 435 445 451 456 465 470 479 485 494 502 510"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">private data members and the public member functions of a class.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,422)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 12 21 27 35 40 46 56 65 74 79 85 93 98 107 116 123 128 137 143 152 158 167 172 181 191 196 201 210 219 225 235 244 253 258 263 273 278 292 306 311 316 322 331 341 350 359 369 374 379 394 403 408 417 426 436 441 451 460 467 473 482 491 496 501 510 519 528 537 547 555 564 570 579 584 590 600 609 614 620 629 634 647"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">This idea is certainly not unique to OO. Indeed, we had perfect encapsulation in C.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,445)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 13 23 32 40 46 56 65 72 77 82 91 97 105 110 118 124 138 148 154 163 168 181 186 196 203 213 222 229 238 252"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">Consider this simple C program:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,485)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">Click here to view code image</tspan></text>
+        <path
+           d="M 696,486.5 H 893 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path130" />
+        <text
+           xml:space="preserve"
+           transform="translate(697,525)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">point.h</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,559.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">struct Point;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,576.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">struct Point* makePoint(double x, double y);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,594)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">double distance (struct Point *p1, struct Point *p2);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,627)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">Click here to view code image</tspan></text>
+        <path
+           d="M 696,628.5 H 893 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path152" />
+        <text
+           xml:space="preserve"
+           transform="translate(697,667)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">point.c</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,700.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">#include &quot;point.h&quot;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,717.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">#include &lt;stdlib.h&gt;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,734.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">#include &lt;math.h&gt;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,768.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">struct Point {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,785.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">double x,y;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,802.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 9"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">};</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,836.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396"
+             y="0"
+             sodipodi:role="line"
+             id="tspan182">struct Point* makepoint(double x, double y) {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,853.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">struct Point* p = malloc(sizeof(struct Point));</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,870.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text192"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan190">p-&gt;x = x;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,887.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan194">p-&gt;y = y;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,904.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">return p;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,921.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text204"><tspan
+             x="0"
+             y="0"
+             id="tspan202">}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(697,955.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text208"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468"
+             y="0"
+             sodipodi:role="line"
+             id="tspan206">double distance(struct Point* p1, struct Point* p2) {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,972.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text212"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225"
+             y="0"
+             sodipodi:role="line"
+             id="tspan210">double dx = p1-&gt;x - p2-&gt;x;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,989.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text216"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225"
+             y="0"
+             sodipodi:role="line"
+             id="tspan214">double dy = p1-&gt;y - p2-&gt;y;</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

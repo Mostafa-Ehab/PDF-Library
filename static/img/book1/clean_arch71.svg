@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 4176,0 h 696 V 1056 H 4176 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 4176,66 h 696 V 996 H 4176 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-4176)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-4176)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(4176,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 17 23 28 37 42 47 56 65 70 75 82 91 100 106 112 120 129 134 140 150 159 164 169 184 193 198 207 216 226 235 240 245 255 260 266 275 284 293 298 307 316 321 330 339 354 363 369 378 388 402 411 416 422 431 440 445 451 456 467 477 483 488 503 512 519 528 533 539 547 552 561 571 576 581 590 595 602 611 621 627 637 643"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">With that realization, we have to face an unwelcome fact: Software is not a rapidly</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 9 19 29 38 47 56 62 71 80 85 90 99 108 117 126 136 142 152 161 169 174 179 191 200 209 214 221 230 236 245 253 258 268 274 279 287 297 303 308 323 332 339 348 353 362 369 378 383 388 397 406 411 419 428 442 451 456 461 471 481 490 499 504 513 521 526 531 540 549 558 563 578 587 594 603 608 614 623 628 638 648 658 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">advancing technology. The rules of software are the same today as they were in 1946,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 15 24 33 42 47 61 67 76 85 90 101 110 117 123 132 141 146 161 168 178 183 192 197 202 211 220 225 235 244 251 260 265 271 277 284 292 297 302 311 321 331 340 345 350 359 368 373 378 393 403 412 418 428 433 442 451 460 469 478 483 492 497 503 512 517 526 535 540 549 555 564 573 578 585 595 604 610"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">when Alan Turing wrote the very first code that would execute in an electronic</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 9 19 33 43 52 57 66 72 77 82 94 103 112 117 122 132 142 148 156 161 170 179 189 198 203 212 221 230 239 248 257 267 272 277 286 295 305 310 315 324 333 338 347 356 363 373 388 397 404 413 418 427 436 444 449 458 467 476 485 494 503 513 518 523 533 542 547 552 557 566 575 580 589 597 605 614 623 632 641 646 656"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">computer. The tools have changed, and the hardware has changed, but the essence of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 8 18 24 29 44 53 60 69 74 81 90 104 113 119 128 136 141 146 155 164 169 177 186 200 209"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">software remains the same.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 11 21 27 32 47 56 63 72 92 97 106 115 120 128 133 142 148 154 159 169 175 180 189 199 213 223 232 237 246 253 258 268 275 285 294 301 310 324 332 352 358 366 371 380 390 404 414 424 432 441 451 456 466 472 477 485 494 504 513 522 531 540 549 554 559 567 576 582 591 600 605 611 621 630"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">Software—the stuff of computer programs—is composed of sequence, selection,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 6 11 20 27 36 41 47 57 66 71 76 85 94 104 109 115 124 134 140 147 156 165 170 176 186 195 200 205 219 229 234 243 249 258 267 272 286 296 303 312 317 322 336 346 351 360 366 375 384 389 395 404 412 420"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">iteration, and indirection. Nothing more. Nothing less.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,280)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0"
+             y="0"
+             id="tspan58">1</tspan></text>
+        <path
+           d="m 4176,281.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path62" />
+        <text
+           xml:space="preserve"
+           transform="translate(4183,280)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 4 8 13 17 24 31 38 48 52 56 60 64 78 85 92 96 100 106 110 117 121 128 131 137 144"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">. I know... What’s a disk?</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,303)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text70"><tspan
+             x="0"
+             y="0"
+             id="tspan68">2</tspan></text>
+        <path
+           d="m 4176,304.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path72" />
+        <text
+           xml:space="preserve"
+           transform="translate(4183,303)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 4 8 17 24 31 38 45 51 55 59 66 70 80 85 92 99 103 112 119 126 133 140 144 149 156 161 165 169 176 183 190 197 200 207 214 218 229 236 240 247 254 261 268 272 276 280 287 290 296 300 307 314 321 328 335 342 346"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">. Thanks to Greg Young for teaching me about this concept.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

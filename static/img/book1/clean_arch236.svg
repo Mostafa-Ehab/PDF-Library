@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 2784,0 h 696 V 1056 H 2784 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 2784,66 h 696 V 996 H 2784 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-2784)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-2784)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(2795,80)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">void Do_Average(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,103)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310 320 330 340 350 360 370 380"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">void Get_Next_Measurement(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,127)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">void Zero_Sensor_1(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,150)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">void Zero_Sensor_2(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,179)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 7 12 23 32 41 50 55 61 71 80 88 93 98 107 116 121 126 134 143 148 153 162 172 177 182 191 200 205 214 223 230 240 255 264 271 280 285 295 301 310 315 321 331 338"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">• Functions that set up the hardware platform</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,207)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">Click here to view code image</tspan></text>
+        <path
+           d="m 2784,208.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path54" />
+        <text
+           xml:space="preserve"
+           transform="translate(2795,230)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240"
+             y="0"
+             sodipodi:role="line"
+             id="tspan56">ISR(TIMER1_vect) { ... }*</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,254)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210"
+             y="0"
+             sodipodi:role="line"
+             id="tspan60">ISR(INT2_vect) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,277)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">void uC_Sleep(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,300)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text70"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310 320 330 340 350 360 370 380 390 400 410 420 430 440 450 460"
+             y="0"
+             sodipodi:role="line"
+             id="tspan68">Functions that react to the on off button press</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,324)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text74"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290"
+             y="0"
+             sodipodi:role="line"
+             id="tspan72">void btn_Handler(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,347)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310 320 330 340 350 360 370 380 390 400"
+             y="0"
+             sodipodi:role="line"
+             id="tspan76">void Dev_Control(char Activation) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,370)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text82"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310 320 330 340 350 360 370 380 390 400 410 420 430 440 450 460 470 480 490 500 510 520 530 540 550 560 570 580 590"
+             y="0"
+             sodipodi:role="line"
+             id="tspan80">A Function that can get A/D input readings from the hardware</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,394)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310 320 330 340 350 360 370"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">static char Read_RawData(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,423)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0 7 12 23 32 41 50 55 61 71 80 88 93 98 107 116 121 126 134 139 149 156 165 170 180 189 195 204 213 221 226 231 241 246 251 260 269 274 284 293 300 308 314 322 327 336 345 350 355 363 368 378 385 394 403"
+             y="0"
+             sodipodi:role="line"
+             id="tspan88">• Functions that store values to the persistent storage</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,451)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text94"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan92">Click here to view code image</tspan></text>
+        <path
+           d="m 2784,452.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path96" />
+        <text
+           xml:space="preserve"
+           transform="translate(2795,474)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310 320 330 340"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">char Load_FLASH_Setup(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,497)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310 320 330 340"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">void Save_FLASH_Setup(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,521)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">void Store_DataSet(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,544)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310 320 330 340 350 360 370 380 390"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">float bytes2float(char bytes[4]) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2795,567)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290 300 310 320"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">void Recall_DataSet(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2785,596)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 7 12 23 32 41 50 55 61 71 80 85 90 99 108 113 118 128 138 147 155 160 169 179 184 189 199 209 214 229 238 247 252 257 263 268 276 281 290 299 313 322 327 333 347 357 363 369 378"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">• Function that does not do what its name implies</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,624)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">Click here to view code image</tspan></text>
+        <path
+           d="m 2784,625.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path126" />
+        <text
+           xml:space="preserve"
+           transform="translate(2795,648)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270 280 290"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">void Sensor_init(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,689)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 11 21 31 40 46 55 64 69 78 83 88 96 106 120 129 134 144 150 155 160 169 178 183 193 198 207 216 223 228 234 240 246 255 263 268 274 283 288 293 302 308 316 321 330 340 350 356 362 371 380 385 391 401 410 415 420 426 431 437 447 456 465 475 480 494 503 512 521 526 532 546 556 565 575 581 595 604 613 618 626 631 636"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">Looking at some of the other files in this application, I found many impediments to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,712)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 9 18 28 37 44 52 57 66 75 85 91 100 109 114 119 128 137 142 151 161 171 180 185 190 196 201 210 216 224 234 239 245 255 264 273 283 288 297 302 308 314 320 329 334 342 347 354 363 372 377 386 393 402 407 412 421 430 435 440 446 460 470 476 482 491 501 506 511 520 529 534 539 544 553 562 567 577 586 592 601 606 621 630 639 644 649 659 664 669 678 686"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">understanding the code. I also found a file structure that implied that the only way to test</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,735)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 9 18 27 32 42 48 53 58 67 73 81 86 95 105 115 124 129 135 143 148 154 163 168 173 182 191 196 205 219 229 238 248 258 267 277 282 287 296 303 312 321 326 331 336 348 354 361 366 375 384 390 396 405 410 419 429 438 445 454 459 469 475 480 485 495 501 506 511 520 526 534 539 548 558 568 577 582 591 600 610 625 633 638 644 649 654 660 668 673 679"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">any of this code is in the embedded target. Virtually every bit of this code knows it is in</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,761)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 9 14 22 32 41 50 56 65 71 76 90 96 105 112 122 132 139 149 158 167 175 183 193 200 205 214 221 230 239 245 250 259 268 273 282 289 298 303 308 317 325 331 340 349 354 363 372 381 386 395 404 414 423 433 442 447 460 465 474 484 493 501 506 513 522 531 536"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">a special microprocessor architecture, using “extended” C constructs</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3328,754)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0"
+             y="0"
+             id="tspan148">3</tspan></text>
+        <path
+           d="m 3328,755.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path152" />
+        <text
+           xml:space="preserve"
+           transform="translate(3340,761)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 5 14 23 28 33 38 44 53 58 63 72 81 86 95 105 115"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">that tie the code</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,784)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 5 15 20 29 34 44 53 60 65 71 80 89 95 104 111 116 121 131 141 147 152 161 170 179 185 194 199 208 217 227 232 246 252 261 268 278 288 295 305 314 323 331 339 349 355 360 365 377 386 395 402 411 416 422 430 435 444 454 459 474 483 492 497 503 513 520 525 530 539 545 553 558 567 577 587 596 601 606 616 621 630 639 649 658 663"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">to a particular tool chain and microprocessor. There is no way for this code to have a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,807)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 6 16 25 34 39 48 56 65 71 80 86 91 97 103 109 118 123 132 141 147 156 164 172 177 182 191 200 205 215 222 232 242 251 260 265 270 279 288 298 307 314 319 328 337 346 356 364 369 374 384 389 399 408 413 427 437 447 456 466 471 476 486 491 500 505 515 521 527 533 542 549 558 567 572 577 586 595 602 612 627 636 643"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">long useful life unless the product never needs to be moved to a different hardware</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,830)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 9 18 28 34 41 51 60 74 83 92 97"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">environment.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,873)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 12 21 27 35 40 49 59 69 75 81 90 99 104 110 120 129 134 149 159 166 175 183 189 194 206 215 224 229 238 247 256 262 271 280 289 296 301 311 320 328 336 345 355 360 365 374 383 388 402 412 422 429 434 440 445 454 464 473 478 483 492 500 505 510 515 528 537 542 547 552 561 570 575 584 594 604 610 616 625 634 639 645 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">This application works: The engineer passed the App-titude test. But the application</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,896)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 9 18 27 34 39 44 54 63 68 76 85 91 101 106 111 121 126 135 144 154 163 168 177 182 191 197 206 215 224 229 238 252 262 271 281 291 300 310 315 324 331 340 349 355 360 369 378 383 392 399 408"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">can’t be said to have a clean embedded architecture.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,966)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0"
+             y="0"
+             id="tspan178">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2806,966)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0 26"
+             y="0"
+             sodipodi:role="line"
+             id="tspan182">HE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2862,966)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0"
+             y="0"
+             id="tspan186">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2884,966)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text192"><tspan
+             x="0 23 47 72 94"
+             y="0"
+             sodipodi:role="line"
+             id="tspan190">ARGET</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3000,966)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0 11"
+             y="0"
+             sodipodi:role="line"
+             id="tspan194">-H</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3037,966)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 23 47 71 99 122 146"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">ARDWARE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3213,966)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text204"><tspan
+             x="0"
+             y="0"
+             id="tspan202">B</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3235,966)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text208"><tspan
+             x="0 26 48 70 92 114 138 160 184"
+             y="0"
+             sodipodi:role="line"
+             id="tspan206">OTTLENECK</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

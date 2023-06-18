@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 8352,0 h 696 V 1056 H 8352 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 8352,66 h 696 V 996 H 8352 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-8352)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-8352)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(8352,79)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0"
+             y="0"
+             id="tspan30">2</tspan></text>
+        <path
+           d="m 8352,80.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path34" />
+        <text
+           xml:space="preserve"
+           transform="translate(8359,79)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text38"><tspan
+             x="0 4 8 16 23 28 32 39 46 53 64 71 74 81 84 88 96 107 114 117 120 124 131 134 141 144 148 157 164 168 175 182 189 192 196 202 209 216 223 231 238 243 246 253 257 260 264 273 280 287 290 294 301 308 315 319 329 336 343 349"
+             y="0"
+             sodipodi:role="line"
+             id="tspan36">. For example, Smalltalk, Python, JavaScript, Lua, and Ruby.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(8352,102)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text42"><tspan
+             x="0"
+             y="0"
+             id="tspan40">3</tspan></text>
+        <path
+           d="m 8352,103.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path44" />
+        <text
+           xml:space="preserve"
+           transform="translate(8359,102)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 4 8 19 26 30 34 37 44 50 54 58 68 72 79 84 91 98 103 110 121 132 139 144 150 153 157 170 177 183 187 191 194 201 208 215 222 229 236 243 249 253 260 265 269 273 280 287 291 295 302 307 314 318 325 332 339 343 347 354 361 365 372 379 386 393 400 403 406 409 413 420 424 428 435 439 450 457 463 470 477 484 489 496 503 510 514 521 528 535 539 546 553 557 564 568 574 578 583 590 597 601 608 613 620 624 631 637 641 648 655 662 666 673 680 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">. Not just C programmers: Most languages of that era had the capability to masquerade one data structure as another.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(8352,124)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0"
+             y="0"
+             id="tspan50">4</tspan></text>
+        <path
+           d="m 8352,125.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path54" />
+        <text
+           xml:space="preserve"
+           transform="translate(8359,124)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58"><tspan
+             x="0 4 8 13 20 27 34 41 48 52 55 59 63 69 73 76 79 82 86 89 95"
+             y="0"
+             sodipodi:role="line"
+             id="tspan56">. Indeed it still is.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(8352,147)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0"
+             y="0"
+             id="tspan60">5</tspan></text>
+        <path
+           d="m 8352,148.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path64" />
+        <text
+           xml:space="preserve"
+           transform="translate(8359,147)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 4 8 19 30 35 45 49 55 62 68 72 79 90 96 100 107 114 119 126 130 134 138 145 148 154 158 161 167 171 174 181 187 191 195 202 209 213 220 227 234 245 252 255 262"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">. UNIX systems vary; this is just an example.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(8352,169)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0"
+             y="0"
+             id="tspan70">6</tspan></text>
+        <path
+           d="m 8352,170.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path74" />
+        <text
+           xml:space="preserve"
+           transform="translate(8359,169)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0 4 8 17 24 31 38 45 52 59 63 70 77 82 89 95 110 115 125 138 142 153 160 163 166 173 178 181 185 192 196 203 210 215 222 228 231 235 242 249 253 260 267 270 277 288 295 301 305 316 319 326 333 337 341 346 351 362 366 372 379 384 391 395 406 413 420 427 431 438 443 447 454 461 468 472 479 486 493 500 504 511 518 525 532 537 541 548 555 562 569 573 579 586 593 600 604 611 618 625 629 636 641 645 649 656 663 669 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan76">. Punched cards—IBM Hollerith cards, 80 columns wide. I’m sure many of you have never even seen one of these,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(8367,187)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text82"><tspan
+             x="0 7 14 18 22 26 33 40 47 51 62 69 74 81 85 92 99 110 121 128 135 142 145 152 159 166 170 173 180 184 188 195 202 206 213 220 227 234 240 243 247 254 261 268 275 281 284 288 295 302 309 313 320 327 334 341 345 352 359 366 373 379"
+             y="0"
+             sodipodi:role="line"
+             id="tspan80">but they were commonplace in the 1950s, 1960s, and even 1970s.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(8352,210)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0"
+             y="0"
+             id="tspan84">7</tspan></text>
+        <path
+           d="m 8352,211.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path88" />
+        <text
+           xml:space="preserve"
+           transform="translate(8359,210)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 4 8 19 22 29 36 39 43 47 50 57 64 67 72 79 86 90 93 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">. Albeit indirectly.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

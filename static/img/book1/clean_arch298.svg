@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 6264,0 h 696 V 1056 H 6264 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 6264,66 h 696 V 996 H 6264 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-6264)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-6264)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(6264,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 12 21 30 35 44 51 60 69 75 80 89 98 103 112 119 128 133 143 149 154 159 168 177 182 192 199 209 218 225 234 248 253 268 277 285 290 295 304 314 320 329 338 344 349 355 365 372 377 382 391 401 409 418 423 433 442 451 459 464 469 481 490 499 506 515 520 535 544 552 557 566 571 588 597 605 610 619"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">The architecture of the program was typical for those days. There was a Master</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 14 24 33 40 49 54 60 69 78 83 94 101 111 120 127 136 150 155 160 169 179 189 196 206 216 223 229 238 243 252 258 267 272 281 290 296 302 311 321 326 335 340 349 358 363 380 394 403 408 417 422 428 433 441 446 452 462 472 477 492 501 509 514 519 529 534 548 557 566 575 584 593 598 608 617 625 631 640 645 651"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">Operating Program, appropriately called “the MOP.” Its job was to manage basic IO</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 6 15 24 33 38 44 54 63 71 76 85 94 104 109 119 126 136 146 152 162 171 176 181 190 199 204 211 220 230 236 250 259 268 273 281 286 296 302 307 316 321 330 340 349 357 367 373 382 387 396 404 413 422 428 434 439 448 453 470 479 488 497 502 512 518 523 528 537 546 551 561 567 577 583 591 597 607 616 624 629 639"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">functions and provide the rudiments of a console “shell.” Many of the divisions of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 10 19 26 35 45 54 63 72 77 85 94 103 110 119 129 134 139 148 157 162 179 193 203 208 216 226 235 242 251 260 265 274 284 294 303 308 313 323 332 337 342 351 360 369 378 383 392 401 411 416 422 432 439 448 457 467 472 478 483 488 494 504 511 516 522 527 535 540 550 565 574 579 588 596 605 613"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">Teradyne shared the MOP source code, but each had forked it for its own uses.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 13 23 32 40 49 59 68 77 86 91 97 105 110 115 130 139 144 159 169 178 184 194 199 207 216 225 235 240 248 258 267 274 283 292 297 306 316 326 335 340 349 359 369 378 383 392 400 405 414 421 431 440 449 459 464 469 479 484 493 502 511 520 525 535 540 549 558 565 570 576 585 590 595 604 613 618 624 634 641 655 660 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">Consequently, we would send source code updates around to each other in the form of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,198)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 14 23 30 39 48 58 65 74 84 89 95 101 109 114 120 129 138 146 151 156 165 174 179 184 199 208 213 228 238 247 253 263 268 273 282 291 300 305 311 320 325 334 343 350 359 364 373 378 392 401 410 419 428 434 440 449 454 461 470 479 489 494 504 513 520 529 534 543 552 559 568 574 583 589 595 604 611"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">marked-up listings that we would then integrate manually (and very carefully).</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 13 18 26 36 45 54 60 69 75 82 92 101 108 118 128 136 145 150 159 164 170 176 182 187 196 201 207 216 225 234 241 246 255 265 274 279 286 296 302 308 317 327 332 337 346 355 360 374 383 392 400 409 416 425 439 448 457 462 467 476 485 492 502 517 526 533 542 547 552 557 566 575 580 590 600 608 614 619 625 635 644 650 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">A special-purpose utility layer controlled the measurement hardware, the positioning</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 5 14 24 30 39 47 52 57 66 75 85 90 95 104 113 118 124 133 141 150 156 161 166 178 187 196 201 211 221 230 239 249 258 265 274 279 289 298 303 318 327 336 345 350 355 364 370 378 383 389 398 407 416 423 428 437 446 456 461 466 475 484 489 506 520 530 535 550 559 567 572 586 595 605 615 621 630 640 645 654"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">tables, and the laser. The boundary between this layer and the MOP was muddled at</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,287)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 10 19 27 32 37 42 60 69 75 81 90 95 100 109 118 123 132 137 143 149 155 160 169 174 180 189 198 207 214 219 228 237 243 249 258 268 273 278 287 296 301 318 332 341 346 351 356 365 374 379 396 410 420 425 434 443 453 458 468 477 486 495 500 508 518 527 536 542 548 554 563 572 578 584 593 598 612 622 632 638 644 650 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">best. While the utility layer called the MOP, the MOP had been specifically modified</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,310)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 6 16 23 28 33 42 51 56 61 67 76 85 94 100 105 110 119 128 138 143 153 159 164 173 182 187 196 205 211 217 226 236 241 251 260 269 278 283 289 298 303 313 318 324 329 334 339 345 354 364 373 382 392 397 402 417 426 431 441 447 457 466 473 478 483 490 499 508 514 520 529 534 539 548 554 563 572 577 587 593 598 603 612 621 629 638 643 648 663 673 678 687"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">for that layer, and often called back into it. Indeed, we didn’t really think of these two as</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 8 17 27 36 43 52 57 66 71 77 86 95 104 111 119 124 129 139 149 154 163 171 176 181 187 192 197 212 221 229 234 240 249 257 262 267 275 285 299 308 313 322 332 342 351 356 361 370 379 384 389 404 413 418 427 437 447 456 466 471 476 486 491 496 505 514 519 536 550 560 565 571 580 585 594 599 608 614 623 632 638"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">separate layers. To us, it was just some code that we added to the MOP in a highly</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,356)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 9 19 28 38 44 53 63 68 83 92 100"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">coupled way.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,399)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 14 23 32 37 42 51 60 74 83 88 93 102 111 116 122 130 140 146 155 160 166 176 185 190 196 205 214 223 229 234 239 251 260 266 274 279 285 294 303 312 319 324 334 341 351 361 367 377 386 396 401 410 415 425 431 438 443 452 461 467 472 486 495 504 513 519 528 537 542 548 557 562 571 578 584 593 602 611 616 622 632 639 644 649 658"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">Next came the isolation layer. This layer provided a virtual machine interface for the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,422)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 9 19 29 35 41 50 59 64 70 80 89 94 104 111 121 130 137 146 160 168 173 178 193 202 208 217 226 231 246 255 262 271 276 291 298 304 309 314 323 332 337 343 352 357 366 371 380 390 404 414 420 429 434 443 449 458 463 473 479 485 491 500 507 516 525 530 535 545 555 569 578 584 593 600 608 618 627 636 642 648 654"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">application programs, which were written in a completely different domain-specific</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,445)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 10 19 24 33 40 50 57 63 73 82 91 96 102 111 120 129 138 147 156 165 170 177 191 202 213 220 225 230 242 251 260 265 271 280 289 298 307 316 325 334 339 348 357 367 372 382 392 401 408 417 422 428 438 447 455 460 466 476 483 488 502 512 522 528 537 546 551 556 565 574 579 585 594 602 611 617 622 627 641 651 661 667 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">data-driven language (DSL). The language had operations for moving the laser, moving</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,468)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 5 14 23 28 33 42 52 58 67 72 77 91 100 109 115 124 133 138 147 156 161 169 174 179 193 202 211 217 226 235 240 254 263 272 280 289 296 305 319 328 337 342 350 355 360 369 378 388 393 401 411 416 426 435 440 445 459 468 475 480 489 498 506 511 521 535 544 551 559 564 579 589 598 604 614 619 634 641 647 652"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">the table, making cuts, making measurements, and so on. Our customers would write</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,491)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 5 14 23 29 36 41 47 56 64 73 80 85 90 97 103 117 131 137 146 155 160 169 179 189 195 201 210 219 224 230 240 249 254 264 271 281 290 297 306 320 328 333 339 348 353 358 367 373 381 386 392 401 410 419 428 437 446 455 460 465 474 483 493 498 503 512 521 526 532 540 550 556 565 570 576 586 595 600 606 615 624 633 640 645 660 670 679 685"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">their laser trimming application programs in this language, and the isolation layer would</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,514)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 9 18 27 36 45 50 59 64 69 78 87 101"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">execute them.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,557)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 12 21 27 35 40 49 59 69 76 86 95 104 113 118 133 142 150 155 164 174 179 184 190 199 204 213 222 232 241 251 256 261 271 276 285 292 301 310 315 324 329 338 343 357 366 375 384 390 399 408 415 421 430 440 449 459 468 477 487 496 505 510 515 521 530 538 547 554 559 564 571 577 591 596 602 611 620 629 638 647 656 665"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">This approach was not intended to create a machine-independent laser trim language.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,580)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 6 15 25 34 43 53 58 63 68 77 86 91 97 106 115 124 133 142 151 160 165 174 183 193 198 212 221 230 239 244 250 260 266 276 284 293 302 311 318 327 335 341 350 358 363 368 377 386 391 396 411 420 427 436 441 451 460 469 479 485 494 499 508 518 527 537 543 552 562 567 572 582 587 592 601 610 615 621 630 639 648 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">Indeed, the language had many idiosyncrasies that were deeply coupled to the layers</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,603)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 10 19 25 35 49 54 59 72 81 86 95 104 110 115 120 125 134 140 148 153 162 172 182 189 199 208 217 226 231 240 249 259 268 273 278 287 296 301 310 320 330 336 342 351 360 365 371 381 390 395 405 412 422 431 438 447 461 475 484 491 499 504 513 518 527 535 541 555 565 571 580 587 596 601 607 616 625 634 643 652 661"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">below. Rather, this approach gave the application programmers a “simpler” language</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,626)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 5 14 23 32 37 54 64 74 84 89 98 106 114 123 137 147 153 162 169 174 180 189 194 209 218 224 233 242 247 252 262 267 277 284 294 303 310 319 333 338 343 352 361 367 374 379 384 391 397 411 416 422 432 442 450"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">than M356 assembler in which to program their trim jobs.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,669)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 11 18 24 38 43 49 59 69 77 82 91 101 110 116 126 131 141 150 155 161 171 180 190 199 209 214 220 227 237 251 256 261 270 280 289 294 303 312 322 327 336 345 354 363 372 377 386 396 401 411 420 425 430 439 448 453 461 470 478 483 492 506 511 516 528 536 544 553 562 567 573 582 588 594 602 607 612 622 631"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">Trim jobs could be loaded from tape and executed by the system. Essentially, our</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,692)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 8 17 25 30 39 53 58 73 82 90 95 104 113 118 128 138 147 154 163 168 174 183 192 197 205 214 222 227 236 250 255 261 271 278 283 288 295 301 315 320 329 339 349 355 361 370 379 384 390 400 409 417"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">system was an operating system for trim applications.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,735)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 12 21 30 35 43 52 60 65 74 88 93 108 117 125 130 145 152 158 163 168 177 186 191 197 206 211 228 238 248 258 263 272 280 288 297 311 321 327 336 343 348 357 366 376 381 390 400 414 424 430 436 445 455 460 466 475 480 489 494 502 508 517 526 532 541 546 555 565 579 589 595 601 610 615 621 631 640 645 654 663 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">The system was written in M365 assembler and compiled in a single compilation unit</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,758)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 5 14 23 28 33 43 50 60 70 79 88 97 107 112 121 131 139 149 155 164 169 178 183 193 199 208 217 224 233 238 247 257 267 276"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">that produced absolute binary code.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,801)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 12 21 30 35 45 55 64 73 83 92 99 105 114 122 127 133 142 147 152 161 167 175 180 189 199 209 215 221 230 239 244 250 260 269 274 289 298 305 314 319 327 337 343 348 353 362 367 372 382 391 399 404 409 414 426 436 445 454 459 464 473 482 487 497 507 516 525 535 544 551 560 565 575 584 589 604 613 622 631 636 641 650"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">The boundaries in this application were soft at best. Even the boundary between the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,824)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 8 17 25 30 39 53 58 67 77 87 96 101 110 119 129 134 139 148 157 162 171 181 191 197 203 212 221 226 232 242 251 259 264 279 286 292 297 302 311 320 325 331 340 345 350 359 368 373 387 398 408 413 428 437 445 450 459 469 474 479 494 503 509 515 520 529 538 544 554 561 570 579 589 594 599 611 620 629 636 645 650 665 674 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">system code and the applications written in the DSL was not well enforced. There were</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,847)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 9 19 28 38 44 50 59 68 76 81 90 100 109 116 125 140 149 158 165 174"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">couplings everywhere.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,890)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 13 22 27 32 37 46 55 60 65 80 89 97 102 107 116 126 132 141 150 156 161 171 177 182 190 200 206 211 226 235 242 251 256 262 271 276 281 290 299 304 313 322 329 335 344 349 359 369 379 389 397"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">But that was typical of software in the early 1970s.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6264,960)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0"
+             y="0"
+             id="tspan150">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6287,960)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 22 46 78 91 115 139"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">LUMINUM</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6466,960)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0"
+             y="0"
+             id="tspan158">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6490,960)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 13"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">IE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6525,960)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 11"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">-C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6560,960)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 23 41"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">AST</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6631,960)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0"
+             y="0"
+             id="tspan174">M</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6663,960)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 26 50 63 84 110 134 147 171"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">ONITORING</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

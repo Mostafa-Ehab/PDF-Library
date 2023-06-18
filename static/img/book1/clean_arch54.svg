@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 1392,0 h 696 V 1056 H 1392 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 1392,66 h 696 V 996 H 1392 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath56">
+      <path
+         d="m 1392,66 h 696 V 996 H 1392 V 66"
+         clip-rule="evenodd"
+         id="path54" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-1392)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-1392)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <g
+           id="g30">
+          <path
+             d="m 1393,-251 h 695 v 1 h -695 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" />
+        </g>
+        <g
+           id="g34">
+          <path
+             d="m 1393,108 h 695 v 1 h -695 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path36" />
+        </g>
+        <g
+           id="g38">
+          <path
+             d="m 1393,553 h 695 v 1 h -695 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path40" />
+        </g>
+        <g
+           id="g42">
+          <path
+             d="m 1393,798 h 695 v 1 h -695 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path44" />
+        </g>
+        <g
+           id="g46">
+          <path
+             d="m 1393,1021 h 695 v 1 h -695 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path48" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g50"
+       transform="translate(-1392)">
+      <g
+         id="g52"
+         clip-path="url(#clipPath56)">
+        <text
+           xml:space="preserve"
+           transform="translate(1411,78.67188)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">return sqrt(dx*dx+dy*dy);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1393,96)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0"
+             y="0"
+             id="tspan62">}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,146)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 12 21 30 35 44 52 61 68 76 81 91 97"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">The users of </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1494,146)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 10 20 30 40 50 60"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">point.h</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1569,146)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 9 18 28 37 42 51 61 66 75 84 93 102 110 118 123 138 147 156 161 169 179 188 198 207 214 219 224 234 239 244 253 262 267 281 290 304 314 323 330 338 343 353 359"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">have no access whatsoever to the members of </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1933,146)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">struct Point</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2053,146)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0"
+             y="0"
+             id="tspan82">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,169)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 12 21 30 39 44 53 62 71 76 85 94 100 106 111 116 125 134"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">They can call the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1531,169)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">makePoint()</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1646,169)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 6 15 24 33 38 44 54 63 68 73 82 91 101 106 111 120 129"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">function, and the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1780,169)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 10 20 30 40 50 60 70 80 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">distance()</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1885,169)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 6 15 24 33 38 44 54 63 68 73 83 92 97 102 107 116 125 134 139 148 157 167"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">function, but they have</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,192)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 9 19 27 37 43 52 57 66 72 81 86 95 105 110 119 128 138 153 159 168 178 187 196 201 211 217 222 227 236 245 250 256 270 280 286 295 309 318 327 332 341 346 352 362 371 376 386 392 397 406 412 417 426 435 442 447 452 461 470"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">absolutely no knowledge of the implementation of either the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1867,192)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 10 20 30 40"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">Point</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1922,192)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 10 19 24 33 38 46 51 58 67 76 81 90 97 106 111 121 128 133 138 147"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">data structure or the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,215)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 6 15 24 33 38 44 54 63 71"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">functions.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,258)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 12 21 27 35 40 46 54 59 69 78 85 91 100 109 114 119 128 137 146 155 165 173 182 188 197 202 208 218 227 247 253 262 267 276 281 290 300 309 316 330 344 349 355 364 373 382 391 400 409 418 423 428 441 446 456 463 473 482 489 498 512 526 535 542 550 555 564 572 581 591 596 601 611 616 626 636 641 646 655 661"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">This is perfect encapsulation—in a non-OO language. C programmers used to do this</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,281)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 9 15 24 34 39 49 55 60 65 74 80 89 98 103 112 118 124 129 134 143 152 157 162 168 182 191 196 201 217 226 231 246 256 265 271 281 286 292 302 309 324 333 340 350 355 365 374 383 389 398 405 414 419 429 438 443 452 457 465 470 477 486 495 500 509 516 525 533 538 547 556 566 571 577 586 595 604 609 615 625 634 642 647 653"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">kind of thing all the time. We would forward declare data structures and functions in</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,304)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 9 18 27 37 46 53 58 64 70 76 85 93 98 103 112 121 131 136 141 150 159 168 173 179 193 203 209 218 232 241 250 255 260 265 274 283 297 302 308 317"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">header files, and then implement them in </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1714,304)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 6 20 30 36 45 59 68 77 82 91 96 102 112 121 126 132 138 144 153 161 166 171 185 194 201 206 215 223 232 239 247 252 261 270 280 289 296 301 310 319"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">implementation files. Our users never had</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,327)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 9 18 27 36 44 52 57 62 72 77 82 91 100 105 114 120 129 143 152 161 166 174 179 185 194 199 204 213 223 231 240 245 251 265 275 281 290 304 313 322 327 336 341 347 357 366 371 377 383 389 398 406"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">access to the elements in those implementation files.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,370)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 13 22 27 32 37 46 55 64 69 78 87 101 110 115 129 143 148 154 163 168 173 182 191 196 202 212 219 233 238 248 254 259 272 283 294 314 323 332 342 347 352 361 370 375 385 394 401 407 416 425 430 435 444 453 462 471 481 489 498 504 513 518 524 534 543 548 558 564 569 582 587 602 611 619 624 634 641 651 660 669 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">But then came OO in the form of C++—and the perfect encapsulation of C was broken.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,416)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 12 21 30 35 48 59 70 75 84 94 108 118 124 130 139 145 150 155 161 171 178 183 188 197 206 215 224 230 239 248 254 259 266 275 284 292 302 311 319"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">The C++ compiler, for technical reasons,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1716,409)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0"
+             y="0"
+             id="tspan150">1</tspan></text>
+        <path
+           d="m 1716,410.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path154" />
+        <text
+           xml:space="preserve"
+           transform="translate(1728,416)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 9 18 27 37 46 56 61 66 75 84 89 103 112 126 136 145 152 157 167 176 183 189 198 208 214 223 231 236 246 252 257 266 271 280 286 295 303 311 316 321 331 336 346"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">needed the member variables of a class to be</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,439)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 10 19 28 34 43 50 59 69 74 80 89 94 99 108 117 122 131 140 149 159 168 175 180 186 192 198 207 212 222 228 233 238 247 256 261 266 275 281 290 298 306 311 316 327 337 342 352 361 368"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">declared in the header file of that class. So our </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1765,439)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 10 20 30 40"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">Point</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1820,439)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 10 17 27 36 43 52 66 71 80 89 98 107 116 125 135 140 145 155 160 166 176 186 195 200 206 212 221"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">program changed to look like</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,462)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 5 14 20 28"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">this:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,502)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">Click here to view code image</tspan></text>
+        <path
+           d="m 1392,503.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path180" />
+        <text
+           xml:space="preserve"
+           transform="translate(1393,542)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan182">point.h</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1393,575.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">class Point {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1393,592.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text192"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan190">public:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1411,609.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225"
+             y="0"
+             sodipodi:role="line"
+             id="tspan194">Point(double x, double y);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1411,626.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">double distance(const Point&amp; p) const;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1393,660.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text204"><tspan
+             x="0 9 18 27 36 45 54 63"
+             y="0"
+             sodipodi:role="line"
+             id="tspan202">private:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1411,677.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text208"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan206">double x;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1411,694.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text212"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan210">double y;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1393,712)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text216"><tspan
+             x="0 9"
+             y="0"
+             sodipodi:role="line"
+             id="tspan214">};</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,745)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text220"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan218">Click here to view code image</tspan></text>
+        <path
+           d="m 1392,746.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path222" />
+        <text
+           xml:space="preserve"
+           transform="translate(1393,785)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text226"><tspan
+             x="0 9 18 27 36 45 54 63"
+             y="0"
+             sodipodi:role="line"
+             id="tspan224">point.cc</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1393,819.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text230"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153"
+             y="0"
+             sodipodi:role="line"
+             id="tspan228">#include &quot;point.h&quot;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1393,836.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text234"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144"
+             y="0"
+             sodipodi:role="line"
+             id="tspan232">#include &lt;math.h&gt;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1393,870.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text238"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279"
+             y="0"
+             sodipodi:role="line"
+             id="tspan236">Point::Point(double x, double y)</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1393,887.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text242"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan240">: x(x), y(y)</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1393,904.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text246"><tspan
+             x="0 9"
+             y="0"
+             sodipodi:role="line"
+             id="tspan244">{}</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1393,938.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text250"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405"
+             y="0"
+             sodipodi:role="line"
+             id="tspan248">double Point::distance(const Point&amp; p) const {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1411,955.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text254"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153"
+             y="0"
+             sodipodi:role="line"
+             id="tspan252">double dx = x-p.x;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1411,972.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text258"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153"
+             y="0"
+             sodipodi:role="line"
+             id="tspan256">double dy = y-p.y;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1411,989.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text262"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234"
+             y="0"
+             sodipodi:role="line"
+             id="tspan260">return sqrt(dx*dx + dy*dy);</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

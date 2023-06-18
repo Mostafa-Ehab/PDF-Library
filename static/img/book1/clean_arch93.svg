@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 3480,0 h 696 V 1056 H 3480 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 3480,66 h 696 V 996 H 3480 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-3480)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-3480)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(3480,82.67188)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 5 14 23 28 34 43 52 57 62 67 76 85 90 95 100 109 118 123 129 138 143 152 159 165 174 183 192 200 205 215 221 226 231 240 249 254 261 270 278 283 289 298 304 309 317 326 333 343 349 358 367 375 380 389 396 405 410 419 429 434 439 448 454 460 465 473 482 492 500 505 511 516 525 530 539 549 555 564"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">the fact that the interfaces of the restful services are not all substitutable.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,153)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0"
+             y="0"
+             id="tspan34">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3504,153)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 26 50 74 96 120 138 151 177"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">ONCLUSION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,198)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 12 21 30 35 46 57 67 72 81 90 99 104 109 118 127 137 142 150 159 169 178 184 194 199 204 214 223 228 237 246 251 260 269 279 288 298 303 308 318 323 328 337 346 351 357 366 376 385 391 396 406 412 417 426 433 442 451 457 462 471 480 485 494 501 510 515 520 533 538 546 552 566 576 582 591 596 606 612 622 628 637 642 648 658 667 672 682"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">The LSP can, and should, be extended to the level of architecture. A simple violation of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,221)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 8 17 27 35 40 46 51 60 65 74 84 90 96 102 107 115 120 125 134 143 152 157 166 175 184 192 201 206 215 220 228 237 245 250 259 273 279 287 292 301 308 317 326 332 337 346 355 360 369 376 385 390 395 405 410 420 429 434 444 454 460 466 475 480 489 499 504 519 525 530 539 544 553 558 566 572 581 590 596 602 608 617 626 635"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">substitutability, can cause a system’s architecture to be polluted with a significant</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,244)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 9 23 33 42 51 56 61 71 77 82 91 100 105 112 121 126 140 149 158 167 176 185 191 199 213 221"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">amount of extra mechanisms.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,283)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0"
+             y="0"
+             id="tspan54">1</tspan></text>
+        <path
+           d="m 3480,284.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path58" />
+        <text
+           xml:space="preserve"
+           transform="translate(3487,283)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0 4 8 18 25 30 37 44 49 56 60 69 72 78 85 92 98 101 105 111 122 129 133 140 144 155 162 168 172 177 184 191 195 198 205 212 216 223 230 237 241 252 255 262 267 274 279 286 293 299 302 309"
+             y="0"
+             sodipodi:role="line"
+             id="tspan60">. Barbara Liskov, “Data Abstraction and Hierarchy,” </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3800,283)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 8 13 23 32 41 52 63 67 78 85 89 92 99 106 112 116 123"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">SIGPLAN Notices 23</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3930,283)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text70"><tspan
+             x="0 3 7 14 18 23 36 43 50 54 61 68 75 82 87"
+             y="0"
+             sodipodi:role="line"
+             id="tspan68">, 5 (May 1988).</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

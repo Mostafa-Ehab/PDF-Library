@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 696,0 h 696 V 1056 H 696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 696,66 h 696 V 996 H 696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-696)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-696)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(696,83.35938)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 10 19 28 34 42 48 58 67 75 80 85 98 103 112 122 132 142 147 155 164 172 177 186 200 205 214 221 230 239 245 250 259 268 273 282 289 298 303 312 318 324 334 349 357 362 367 376 386 394 403 408 418 427 436 442 450 456 466 475 483 488 493 503 508 518 527 532 546 555 565 574 579 588 593 598 603 612 621 626 632 641 646 655 663"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">decisions. A good system architecture allows those decisions to be made at the latest</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 10 20 28 36 42 52 58 67 72 86 96 110 119 128 133 138 143 158 164 169 178 188 197 202 207 215 221 230 239 245 251 257 266 275 284 289 294 300 314 324 333 342 347"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">possible moment, without significant impact.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,176)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 21 29"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">A C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(749,176)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 26 50 70 92 114 122 148"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">OUPLE OF</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(925,176)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0"
+             y="0"
+             id="tspan46">S</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(943,176)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 23"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">AD</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(998,176)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0"
+             y="0"
+             id="tspan54">S</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1016,176)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 21 47 71 84 106"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">TORIES</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,221)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 14 23 30 39 45 53 58 63 72 81 86 94 103 113 118 126 131 141 148 157 162 172 178 183 192 202 216 226 235 244 253 258 267 272 277 292 301 307 316 325 330 338 347 354 364 373 381 386 395 403 408 417 422 437 446 453 462 468 477 486 491 500 510 520 529 534 539 553 562 571 577 586 595 600 610 617 626 640 649 654 663 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">Here’s the sad story of company P, which serves as a warning about making premature</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,244)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 10 19 28 34 42 48 58 67 75 80 85 91 100 105 110 119 128 133 143 153 163 173 181 186 191 200 209 214 220 230 239 248 258 267 274 282 287 297 303 308 318 323 338 345 355 360 369 374 383 388 396 402 416 426 432 441 446 460 470 479 489 495 501 506 515 521 530 535 545 554 562 571 576 586 596 601 610 620 630 636 642 651 660 665 671 681 690"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">decisions. In the 1980s the founders of P wrote a simple monolithic desktop application.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,267)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 12 21 30 39 44 53 62 68 78 87 96 106 111 120 125 134 141 150 159 164 169 179 188 197 203 208 218 224 229 237 246 255 264 273 281 289 294 303 312 322 327 336 343 352 367 372 377 386 395 400 410 417 427 437 446 455 460 465 470 479 486 496 505 514 523 528 533 542 551 556 566 576 586 596 604 609 615 624 629 639 644"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">They enjoyed a great deal of success and grew the product through the 1990s into a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,290)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 10 20 30 39 45 54 61 66 75 84 94 99 107 116 125 134 143 151 159 165 174 180 185 195 204 212 221 226 236 246 251 265 278 284 289 298 308 318 324 330 339 348 353 359 369 378"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">popular and successful desktop GUI application.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 13 22 27 32 37 46 55 64 69 74 80 89 94 99 108 117 122 128 137 142 151 156 166 176 186 196 204 209 214 219 228 237 242 257 266 276 281 290 304 313 320 329 338 348 353 362 370 375 384 389 395 405 412 421 430 435 440 451 460 470 480 489 498 504 513 518 527 537 546 553 562 572 582 592 601 606 615 624 634 639 644"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">But then, in the late 1990s, the web emerged as a force. Suddenly everybody had to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,356)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 9 18 28 37 42 51 56 71 80 90 95 103 113 119 128 133 139 149 158 163 168 177 186 196 201 211 216 231 240 248 253 262 272 277 286 295 304 313 323 328 334 344 353 358 363 374 380 388 393 402 411 419 424 434 448 457 464 472 477 486 492 501 515 525 532 541 551 556 562 572 579 584 593 598 608 617 624 632 638 648 657 662 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">have a web solution, and P was no exception. P’s customers clamored for a version of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,379)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 5 14 23 28 38 45 55 65 74 83 88 93 103 112 117 122 131 140 145 160 169 179 184 189 199 209 214 228 237 246 251 256 261 270 276 284 289 299 308 322 331 340 350 355 360 365 374 383 388 397 407 421 431 440 449 458 463 472 478 485 494 504 509 518 523 533 542 551 560 569 574 584 590 595 604 614 619 627 636 646"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">the product on the web. To meet this demand, the company hired a bunch of hotshot</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,402)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 5 20 29 38 43 52 59 67 77 91 100 105 114 120 129 138 143 151 160 170 179 184 194 201 211 220 227 236 250 264 273 280 288 293 302 311 321 326 335 349 359 368 375 384 393 403 408 417 427 437 446 451 460 465 475 482 492 498 507 516 521 526 531 541 546 561 570 580 586 592 601 606 611 620 629 635"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">twenty-something Java programmers and embarked upon a project to webify their</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,425)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 10 17 27 37 46 55 60"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">product.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,468)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 12 21 30 35 43 52 62 71 76 85 94 103 111 116 125 134 144 149 159 166 175 184 198 206 211 221 227 232 240 249 256 266 275 282 287 293 302 309 323 331 336 346 355 364 373 379 388 397 402 408 417 422 427 436 445 451 458 463 472 481 490 500 508 513 518 526 536 541 546 555 564 573 578 587 597 607 617 622 631 641 646 655 660 667 673 682"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">The Java guys had dreams of server farms dancing in their heads, so they adopted a rich</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,494)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 5 14 21 30 39 46 51 57 66 73 82 92 97 106 115 122 131 140 146 151 160 169 174 183 190 199"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">three-tiered “architecture”</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(904,487)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0"
+             y="0"
+             id="tspan106">1</tspan></text>
+        <path
+           d="m 904,488.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path110" />
+        <text
+           xml:space="preserve"
+           transform="translate(916,494)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 5 14 23 28 33 38 47 56 65 70 79 89 98 104 114 119 129 135 143 148 155 161 171 180 185 194 199 204 213 220 230 239 248 257 262 270 279 288 297 302 308 317 324 338 346 351 356 368 377 386 393 402 407 422 432 441 447"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">that they could distribute through such farms. There would</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,517)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0 10 19 24 32 41 48 58 67 74 82 87 93 103 110 115 120 129 138 143 157 170 176 181 186 194 203 210 220 229 236 244 249 255 265 272 277 282 291 300 305 319 325 335 345 351 360 375 384 391 400 405 410 419 428 438 443 451 460 467 477 486 493 501 506 512 522 529 534 539 548 557 562 572 581 586 595 605 614 622 631 636 641 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan116">be servers for the GUI, servers for the middleware, and servers for the database. Of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,540)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 9 19 28 35 43 52"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">course.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,583)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 12 21 30 35 45 52 62 71 78 87 101 115 124 131 139 144 154 163 172 178 188 197 207 212 217 227 236 243 252 257 266 275 282 288 297 302 312 321 326 331 336 345 354 359 364 373 379 385 390 400 410 424 433 439 448 453 463 473 479 488 497 502 510 515 530 540 549 555 565 570 579 588 598 607 612 617 626 633 642"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">The programmers decided, very early on, that all domain objects would have three</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,606)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 6 15 23 28 37 46 51 57 66 71 77 87 96 104 110 115 125 134 143 148 154 163 168 173 182 191 196 210 223 229 234 239 245 254 260 265 270 280 289 298 303 309 318 323 328 337 346 351 365 371 381 391 397 406 421 430 437 446 451 456 462 471 477 482 487 496 505 515 520 530 539 548 553 559 568 573 578 587 596 601 611 620 625 634 644 653 661"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">instantiations: one in the GUI tier, one in the middleware tier, and one in the database</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,629)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 5 11 20 26 31 36 47 53 62 71 80 85 90 99 108 116 125 130 136 145 153 158 167 176 181 187 196 201 207 217 226 234 239 245 251 261 270 280 285 295 304 309 319 325 331 337 346 353 362 371 376 381 395 404 413 422 428 437 446 454 459 464 473 478 485 491 500 509 514 522 531 539 544 553 567 572 582"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">tier. Since these instantiations lived on different machines, a rich system of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,652)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 6 15 20 29 36 46 53 63 72 81 89 97 107 114 119 128 137 147 152 158 167 172 181 188 195 200 206 215 222 227 236 246 260 274 283 292 298 307 316 321 327 337 346 354 359 374 383 391 396 404 413 418 423 432 442 447 452 469 478 483 492 502 512 517 523 532 542 552 561 570 575 581 591 600 608 613 623 632 637 652 661 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">interprocessor and inter-tier communications was set up. Method invocations between</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,675)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 5 11 20 27 35 40 55 64 71 80 85 94 104 113 123 132 139 144 153 163 168 173 183 188 198 208 214 223 232 237 245 250 255 263 272 279 285 294 300 306 314 323 333 338 343 352 361 371 376 390 399 406 414 423 432 438 447 457 462 471 480 487 497 505 513 518 523 532 541 546 561 567 574 583"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">tiers were converted to objects, serialized, and marshaled across the wire.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,718)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 14 24 39 44 50 64 73 82 88 97 106 111 126 135 144 149 154 160 165 170 175 185 195 204 209 214 224 229 235 249 259 265 274 288 297 306 311 316 325 330 338 344 358 368 374 383 388 394 403 412 417 426 433 442 447 453 459 468 477 482 491 501 511 517 526 535 540 549 554 563 572 587 592 598 604 613 619 629 634 639 649 654 663"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">Now imagine what it took to implement a simple feature like adding a new field to an</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,741)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 9 18 24 32 37 43 52 61 66 73 82 91 101 108 118 123 128 140 149 158 163 168 174 180 189 195 205 210 219 228 238 243 248 258 263 273 282 287 296 306 316 325 335 340 345 355 360 365 374 383 388 397 403 412 420 428 437 445 450 456 465 470 479 485 491 496 501 510 517 526 535 540 545 551 560 567 575 580 585 594 603 613 618 623 633 638 646 655 665 674 681 690"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">existing record. That field had to be added to the classes in all three tiers, and to several</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,764)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 10 16 21 26 35 44 49 55 64 69 78 85 92 97 103 112 119 124 138 147 155 163 172 181 190 198 203 208 219 225 234 243 252 257 267 276 281 290 295 300 307 316 326 335 341 350 360 365 371 380 385 395 405 410 419 424 434 440 447 456 465 470 476 486 495 503 508 513 519 529 538 545 550 564 573 581 589 598 607 616 621 631 638 648 653 663 672 682 688"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">of the inter-tier messages. Since data traveled in both directions, four message protocols</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,787)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 9 18 27 37 46 56 61 66 76 81 91 100 105 115 124 132 138 147 156 165 175 180 185 197 206 215 224 229 239 246 256 261 271 280 290 296 301 310 319 329 334 343 348 356 365 374 384 390 399 408 413 422 431 441 446 453 462 471 480 486 496 502 511 520 525 533 539 549 558 563 568 576 586 591 600 606 615 624"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">needed to be designed. Each protocol had a sending and receiving side, so eight</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,810)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 10 17 27 32 42 51 61 67 72 81 90 99 109 115 124 131 139 144 159 168 175 184 189 196 205 215 224 230 237 246 256 261 266 278 287 294 303 312 317 326 335 344 353 362 367 376 386 392 401 409 414 423 432 442 447 452 462 467 477 486 491 501 510 516 522 527 532 537 546 555 564 573 578 593 599 604 613 618 623 632 639 648"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">protocol handlers were required. Three executables had to be built, each with three</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,833)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 9 19 29 38 43 52 62 67 77 86 94 100 109 118 126 134 139 149 159 165 174 183 188 196 201 206 212 222 231 238 243 252 261 276 281 295 304 312 320 329 338 347 355 360 365 374 383 393 398 407 413 422 431 436 441 450 459 474 479 488 497 506 516 522 531 538 546"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">updated business objects, four new messages, and eight new handlers.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,876)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 14 23 33 38 43 52 58 67 76 81 91 97 102 117 126 135 140 145 150 159 169 177 186 191 200 209 218 227 236 241 250 260 266 275 283 288 297 306 316 321 326 336 341 351 361 366 371 381 386 392 406 416 422 431 445 454 463 468 473 478 487 496 501 509 515 529 539 545 554 562 567 572 582 588 593 599 608 617 622 631 638 647 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">And think of what those executables had to do to implement the simplest of features.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,899)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 12 21 27 36 45 50 60 66 71 80 86 92 97 102 111 120 125 135 145 151 160 169 174 179 185 194 202 207 216 225 230 236 245 250 256 266 275 283 288 293 302 308 314 319 324 333 342 347 355 364 371 377 386 392 398 406 415 420 426 436 445 453 458 463 472 478 484 489 494 503 512 517 531 540 547 555 564 573 579 585 594 603 608 617 626 636 641 651 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">Think of all the object instantiations, all the serializations, all the marshaling and de-</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,922)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 14 23 30 38 47 56 62 68 77 86 91 96 105 111 117 122 127 136 145 150 160 169 175 181 191 197 206 215 220 229 238 248 253 263 272 279 287 293 302 311 316 326 332 337 351 360 368 376 385 394 403 411 416 421 430 436 442 447 452 461 470 475 483 493 502 511 520 525 530 539 549 563 577 586 595 601 610 619 624 630 640 649 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">marshaling, all the building and parsing of messages, all the socket communications,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,945)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 5 11 25 34 44 53 58 63 77 86 95 104 113 122 129 137 142 147 154 163 168 175 184 189 197 206 215 224 233 240 246 256 264 269 274 283 292 302 307 316 322 328 333 338 347 356 361 371 376 385 394 401 406 415 424 429 436 445 450 458 463 472 478 484 489 494 503 512 517 522 531 541 550 555 564 573 583 592 597 602 612 617 627 637 642 648 657 665 670 675 680"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">timeout managers, retry scenarios, and all the other extra stuff that you have to do just to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,968)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 9 18 23 28 38 47 56 61 69 75 89 99 105 114 119 124 133 139 148 157 162 172 182 191 200"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">get one simple thing done.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

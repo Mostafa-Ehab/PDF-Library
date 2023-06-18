@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 696,0 h 696 V 1056 H 696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 696,66 h 696 V 996 H 696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-696)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-696)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(696,83.04688)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 5 14 23 28 38 47 56 65 75 81 91 98 103 113 119 124 129 138 147 152 160 169 177 182 191 205 210 215 227 236 245 252 261 266 275 282 291 296 306 315 322 331 336 342 351 366 371 381 390 399 408 418 424 434 441 450 456 461 471 481 486 492 502 511 519 524 529 538 547 552 557 562 571 580 585 594 601 610 619 625 630 639 648 653 662 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">the behavior of the system. There are very few behavioral options that the architecture</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 9 18 27 32 38 47 56 66 75 80 90 100 109 118 123 128 141 150 155 160 166 175 181 187 196 205 214 223 232 237 243 251 260 267 272 277 286 296 305 312 321 326 335 341 350 359 364 369 381 390 399 404 418 428 436 441 446 452 466 476 486 493 498 507 516 521 526 531 540 546 555 564 569 578 583 592 602 612"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">can leave open. But influence isn’t everything. The most important thing a good</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 9 16 25 34 40 45 54 63 68 77 84 93 98 107 116 125 130 140 150 155 160 170 175 183 192 202 212 222 229 234 239 249 258 267 276 286 292 302 309 314 320 328 333 338 348 353 362 368 377 384 390 396 405 410 419 428 438 443 452 461 471 481 489 498 503 508 517 526 531 536 546 555 564 573 583 589 599 606 611 619 629 634 639 648 657 662 667 672 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">architecture can do to support behavior is to clarify and expose that behavior so that the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 6 15 20 29 38 43 48 58 64 69 74 83 92 97 105 114 122 127 136 150 155 161 169 174 184 190 198 204 214 220 229 234 243 248 253 258 267 276 281 290 297 306 315 321 326 335 344 349 358 365 374 380 385 391 400 410 419 425"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">intent of the system is visible at the architectural level.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 13 18 26 35 45 55 65 71 80 89 94 103 112 119 124 129 138 148 158 164 170 179 188 193 199 209 218 223 238 244 249 258 263 272 277 286 296 306 316 321 330 337 346 355 361 366 375 384 389 398 405 414 419 434 440 446 452"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">A shopping cart application with a good architecture will </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1153,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 6 16 26"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">look</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1193,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 6 12 21 30 35 44 49 57 66 76 86 96 102 111 120 125 134 143 150"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">like a shopping cart</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 9 19 29 35 41 50 59 64 70 80 89 94 99 111 120 129 134 143 151 160 165 174 183 191 200 208 213 223 229 234 239 248 257 262 267 275 284 292 297 306 320 325 340 346 352 358 363 373 382 387 397 403 412 418 427 433 442 447 457 463 471 477 487 493 502 507 522 528 533 542 548 557 562 567 576 585 590 598 603 610 619 628 633 642 649 658 663 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">application. The use cases of that system will be plainly visible within the structure of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 5 14 23 28 33 41 50 58 63 72 86 91 96 110 119 129 138 144 154 164 173 180 188 193 208 214 220 226 231 240 250 255 260 269 278 288 297 302 307 317 322 331 340 349 354 359 365 375 382 387 397 406 415 424 434 440 450 457 465 470 475 485 494 503 512 521 529 538 543 548 557 567 575 584 589 599 608 617 626 636 642 652 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">that system. Developers will not have to hunt for behaviors, because those behaviors</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 15 21 27 33 38 48 57 62 68 74 81 89 94 101 110 116 125 133 141 146 155 161 170 184 193 202 207 215 220 230 236 244 250 260 266 275 280 289 294 299 304 313 322 327 332 342 352 357 363 372 382 391 397 402 412 418 423 428 437 446 451 459 468 476 481 490 504 509 514 526 535 545 553 562 567 576 582 591 605 614 623 628 636 641 656 662 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">will be first-class elements visible at the top level of the system. Those elements will</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,287)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 10 19 24 33 39 48 56 64 73 81 86 96 103 108 114 123 132 141 146 152 162 171 179 184 194 201 206 220 230 240 249 255 264 272 277 282 291 300 305 310 319 328 338 347 352 362 369 379 393 399 408 417 426 431 436 446 456 464 470 475 481 491 500 508 513 528 534 539 548 554 563 568 573 582 591 596 605 612 621 630 636 641 650 659 664 673 680 689"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">be classes or functions or modules that have prominent positions within the architecture,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,310)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 9 18 28 33 38 47 56 65 70 85 91 97 103 108 117 126 136 145 150 159 168 182 191 199 204 209 218 227 232 237 246 252 261 270 277 283 292 297 307 316 324 333 340 346 356 365 370 375 384 393 399 406 411 417 426 435 444 449 455 465 474"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">and they will have names that clearly describe their function.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,353)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 13 22 31 41 46 55 62 67 77"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">Chapter 21</tspan></text>
+        <path
+           d="m 696,354.5 h 86 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path82" />
+        <text
+           xml:space="preserve"
+           transform="translate(783,353)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 5 10 19 30 39 46 55 64 78 84 93 102 107 121 128 137 146 152 157 166 175 180 189 196 205 210 219 224 239 245 251 257 262 276 285 294 303 308 313 322 328 336 341 351 361 367 376 381 386 400 409 418 427 432 441 447 456 465 472 481 487"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">, “Screaming Architecture,” will make this point much clearer.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,423)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0"
+             y="0"
+             id="tspan88">O</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(722,423)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text94"><tspan
+             x="0 20 42 66 86 108 121 147"
+             y="0"
+             sodipodi:role="line"
+             id="tspan92">PERATION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,468)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 14 21 30 39 45 50 59 68 73 82 89 98 103 113 119 128 137 145 150 159 164 178 188 195 204 209 217 226 236 244 249 258 267 272 278 287 293 298 303 312 321 331 336 342 351 359 367 372 381 391 399 413 422 427 433 442 447 452 459 469 475 484 489 495 504 509 517 526 536 546 556 563 568 574 583 592 597 602 611"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">Architecture plays a more substantial, and less cosmetic, role in supporting the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,491)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0 10 20 29 36 45 50 56 66 75 80 90 96 101 106 115 124 129 137 146 154 159 168 182 187 192 198 204 209 214 223 232 237 245 254 262 267 276 290 295 309 318 326 331 336 345 354 363 373 379 388 393 403 413 423 428 438 448 458 463 472 481 489 494 504 518 527 534 542 547 557 566 573 578 586 595 604 614 623 633 638 643 648 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan100">operation of the system. If the system must handle 100,000 customers per second, the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,514)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 9 16 25 34 40 45 54 63 68 77 84 93 98 112 121 129 134 139 147 156 166 176 186 193 198 203 208 217 226 231 236 245 251 260 270 275 285 291 296 301 310 317 327 336 345 354 364 373 378 383 392 401 411 416 423 432 440 450 460 469 477 486 491 496 502 516 525 530 536 546 553 558 567 576 585 594 599 608 616 625 630 639 648 656"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">architecture must support that kind of throughput and response time for each use case</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,537)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 5 14 23 28 33 43 52 66 75 84 94 102 107 113 118 123 128 134 140 145 150 159 168 173 181 190 198 203 212 226 231 245 254 262 267 272 282 291 300 307 316 321 331 337 346 351 361 370 375 384 389 398 407 417 426 434 439 445 454 459 473 479 485 491 497 505 514 523 533 542 552 560 565 570 575 584 593 602 607 612 621"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">that demands it. If the system must query big data cubes in milliseconds, then the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,560)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 9 16 25 34 40 45 54 63 68 77 84 93 98 112 121 129 134 139 149 158 163 171 176 183 192 201 206 215 222 231 241 246 251 261 266 275 281 287 297 312 317 322 331 337 345 350 359 365 374 384 389 399 405 410 420 430 439 446 455 460 466 476 485"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">architecture must be structured to allow this kind of operation.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,603)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0 11 21 28 33 41 51 65 74 79 87 96 104 109 118 132 140 145 150 155 164 170 178 183 198 204 210 216 221 235 244 253 262 267 276 283 290 299 308 317 323 332 341 346 351 360 369 374 384 391 401 410 419 427 435 441 450 459 464 473 479 488 502 511 520 525 533 538 548 554 559 564 573 582 587 595 604 612 617 626 640 645 651 660 665"
+             y="0"
+             sodipodi:role="line"
+             id="tspan116">For some systems, this will mean arranging the processing elements of the system into</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,626)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 9 18 23 32 39 46 55 64 69 79 85 90 96 102 107 112 118 127 132 140 149 156 166 172 181 190 198 203 212 221 230 235 245 254 259 266 275 284 289 295 304 309 319 328 335 344 350 356 365 371 376 386 395 400 414 423 432 441 446 456 462 468 474 483 490 499 508 513 518 526 535 542 552 561 568 576 581 586 597 607 614 619 629 634 643 652"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">an array of little services can be run in parallel on many different servers. For other</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,649)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 8 17 25 30 39 53 61 66 71 77 82 87 102 108 114 120 125 139 148 157 166 171 180 185 195 201 210 215 224 234 241 250 255 265 271 276 282 288 293 298 304 313 318 324 330 339 348 353 368 377 383 392 401 406 411 416 425 432 441 450 460 468 473 481 490 499 506 512 521 530 535 540 549 558 563 572 582 592 599 608 616 624 629 637 647 656 665 674 679 689"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">systems, it will mean a plethora of little lightweight threads sharing the address space of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,672)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 9 14 22 28 37 46 52 61 66 76 83 93 102 111 119 127 132 147 153 158 167 173 182 187 196 201 209 215 224 233 239 248 253 263 270 280 289 298 306 314 324 330 335 340 351 356 362 368 374 379 389 394 403 412 419 424 432 441 449 454 463 477 485 490 505 511 517 523 528 537 546 555 565 570 576 585 593 598 603 612 617 623 632"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">a single process within a single processor. Still other systems will need just a few</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,695)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 10 17 27 36 45 53 61 70 78 83 90 99 108 117 123 132 141 146 152 161 166 172 180 190 196 205 210 219 229 234 243 253 263 270 279 287 295 300 308 318 327 336 345 353 358 363 377 386 396 401 409 419 433 442 447 455 464 472 477 486 500 508 513 522 531 540 545 554 564 573 582 587 595 604 611 621 627 637 646 651 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">processes running in isolated address spaces. And some systems can even survive as</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,718)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 8 14 28 38 44 53 58 72 82 91 101 107 113 118 127 133 142 147 157 164 174 183 190 199 213 221 226 233 242 251 260 266 275 284 289 295 304 309 318 323 331 337 346 355 361 370 375 385 392 402 411 420 428 436"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">simple monolithic programs running in a single process.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,761)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 14 22 27 35 40 47 56 65 74 83 88 97 105 110 116 121 126 140 149 158 163 171 180 189 203 208 213 218 227 233 241 246 256 265 274 280 288 294 304 313 318 324 332 337 347 356 365 370 380 386 391 396 405 414 419 429 439 444 450 460 469 477 482 487 496 505 510 515 524 529 538 548 558 568 573 582 589 598 607 613 618 627 636"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">As strange as it may seem, this decision is one of the options that a good architect</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,784)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 6 15 24 34 43 51 56 66 76 85 94 99 104 117 122 130 139 147 152 161 175 180 185 194 203 208 213 219 227 232 247 254 260 265 270 279 288 293 302 310 315 324 329 343 353 362 372 378 384 389 398 403 408 417 426 436 441 446 455 464 469 474 484 493 503 512 521 531 539 544 554 563 568 573 582 591 596 601 615 625 634 644 650 656 661 670 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">leaves open. A system that is written as a monolith, and that depends on that monolithic</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,807)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 8 13 20 29 38 43 52 59 68 73 78 87 96 105 114 124 129 134 143 152 160 166 172 181 186 196 205 210 219 229 238 245 254 264 273 283 288 293 303 308 322 331 337 342 348 358 364 373 378 388 395 405 414 423 431 439 448 456 461 466 480 489 495 500 506 516 522 531 536 541 550 557 566 575 585 593 598 603 613 620 625 639 645 654 661 671"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">structure, cannot easily be upgraded to multiple processes, multiple threads, or micro-</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,830)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 8 17 24 34 40 49 58 66 71 79 88 98 107 113 123 128 133 142 151 156 165 174 183 193 198 207 214 220 228 237 242 247 260 269 274 283 293 307 317 326 333 339 347 357 366 371 376 385 394 399 408 415 424 433 439 444 453 462 467 476 483 492 497 502 511 520 525 530 544 553 559 568 573 582 588 597 605 610 615 624 633 638 648 655 665 675 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">services should the need arise. By comparison, an architecture that maintains the proper</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,853)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 6 14 24 30 39 44 50 60 69 74 84 90 95 101 106 114 119 128 138 152 162 172 181 190 199 204 212 217 222 231 240 250 255 265 275 284 292 297 306 316 321 326 335 343 351 360 374 383 388 393 402 411 416 430 439 448 457 465 470 480 486 491 500 510 524 538 547 556 562 571 580 585 591 601 610 615 625 634 639 654 663 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">isolation of its components, and does not assume the means of communication between</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,876)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 5 14 24 32 41 46 55 65 79 89 99 108 117 126 131 139 144 149 164 170 176 182 187 197 206 211 225 234 243 252 257 266 275 283 289 298 305 310 315 325 330 335 342 351 360 368 374 379 385 395 404 409 414 423 430 440 449 458 467 472 477 486 495 500 508 518 527 536 541 548 557 571 576 586 592 597 602 611 618 627 636 646 654"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">those components, will be much easier to transition through the spectrum of threads,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,899)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 10 17 27 36 45 53 61 70 78 83 88 97 106 116 121 129 138 145 155 161 170 179 187 192 201 209 214 219 228 237 242 252 262 271 278 287 292 298 308 317 326 332 337 346 355 364 374 382 387 397 403 408 413 422 431 436 444 453 461 466 475 489 494 503 512 521 530 539 548 553 563 573 582 589 594 599 605 619 628"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">processes, and services as the operational needs of the system change over time.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,970)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0"
+             y="0"
+             id="tspan168">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(720,970)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 22 45 67 89 115 135 167 189 213"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">EVELOPMENT</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 1392,0 h 696 V 1056 H 1392 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 1392,66 h 696 V 996 H 1392 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-1392)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-1392)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(1429,79)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">&quot;littered with garbage&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1429,96)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">&quot;spattered with guano&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1429,113)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">&quot;with piles of Wumpus droppings&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1429,130)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">&quot;with bones scattered around&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1429,147)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">&quot;with a corpse on the floor&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1429,164)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">&quot;that seems to vibrate&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1429,181)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">&quot;that feels stuffy&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1429,198)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">&quot;that fills you with dread&quot;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1411,215)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 9"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">};</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 14 24 39 44 53 62 69 78 84 92 97 102 111 120"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">Now here’s the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1517,264)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">main</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1562,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 6 15 24 33 38 44 54 63 68 73 87 97 102 108 117 126 131 140 150 165 170 176 181 186 195 203 212 220 225 230 239 248"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">function. Notice how it uses the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1815,264)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 10 20 30 40 50 60 70 80 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">HtwFactory</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1920,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 5 15 20 29 36 45 54 59 68 73 78 87 96 101 110 119 133 142 147 152 158"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">to create the game. It</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,287)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 10 19 27 35 44 52 57 63 72 77 82 91 100 105 114 123 137 146 151 161 167 172 177 186 195 200 209 215 224 232 240 245"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">passes in the name of the class, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1642,287)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">htw.game.HuntTheWumpusFacade</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1922,287)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 5 10 20 29 38 47 56 64 73 78 83 92 101 106 111 120 126 135 143"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">, because that class</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,310)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 6 14 19 28 38 47 56 61 71 77 84 89 95 104 111 116 121 130 139 148"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">is even dirtier than </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1545,310)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">Main</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1585,310)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 5 10 22 31 37 45 50 60 67 76 86 95 104 109 117 122 131 140 149 158 167 176 184 189 195 204 209 214 223 232 237 242 251 257 266 274 282 287 293 300 310 324 329 338 347 356 364 370 379 388"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">. This prevents changes in that class from causing </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1978,310)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">Main</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2023,310)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 5"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 7 16 25 35 49 59 65 71 80 86 93 102 112 121 131 137 147 155"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">recompile/redeploy.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,373)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">Click here to view code image</tspan></text>
+        <path
+           d="m 1392,374.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path126" />
+        <text
+           xml:space="preserve"
+           transform="translate(1393,412.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468 477 486 495 504 513 522"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">public static void main(String[] args) throws IOException {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1420,429.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468 477 486 495 504 513"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">game = HtwFactory.makeGame(&quot;htw.game.HuntTheWumpusFacade&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1690,446.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">new Main());</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1420,463.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">createMap();</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1420,480.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">BufferedReader br = </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1438,497.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">new BufferedReader(new InputStreamReader(System.in));</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1420,514.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">game.makeRestCommand().execute();</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1420,531.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">while (true) {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1438,548.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">System.out.println(game.getPlayerCavern());</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1438,565.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468 477 486 495 504 513"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">System.out.println(&quot;Health: &quot; + hitPoints + &quot; arrows: &quot; + </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1636,582.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">game.getQuiver());</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1438,599.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">HuntTheWumpus.Command c = game.makeRestCommand();</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,616.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">System.out.println(&quot;&gt;&quot;);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,633.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">String command = br.readLine();</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,650.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">if (command.equalsIgnoreCase(&quot;e&quot;))</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1465,667.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">c = game.makeMoveCommand(EAST);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,684.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">else if (command.equalsIgnoreCase(&quot;w&quot;))</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1465,701.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text198"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270"
+             y="0"
+             sodipodi:role="line"
+             id="tspan196">c = game.makeMoveCommand(WEST);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,718.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text202"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342"
+             y="0"
+             sodipodi:role="line"
+             id="tspan200">else if (command.equalsIgnoreCase(&quot;n&quot;))</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1465,735.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text206"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279"
+             y="0"
+             sodipodi:role="line"
+             id="tspan204">c = game.makeMoveCommand(NORTH);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,752.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text210"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342"
+             y="0"
+             sodipodi:role="line"
+             id="tspan208">else if (command.equalsIgnoreCase(&quot;s&quot;))</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1465,769.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text214"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279"
+             y="0"
+             sodipodi:role="line"
+             id="tspan212">c = game.makeMoveCommand(SOUTH);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,786.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text218"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342"
+             y="0"
+             sodipodi:role="line"
+             id="tspan216">else if (command.equalsIgnoreCase(&quot;r&quot;))</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1465,803.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text222"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234"
+             y="0"
+             sodipodi:role="line"
+             id="tspan220">c = game.makeRestCommand();</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,820.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text226"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351"
+             y="0"
+             sodipodi:role="line"
+             id="tspan224">else if (command.equalsIgnoreCase(&quot;sw&quot;))</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1465,837.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text230"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279"
+             y="0"
+             sodipodi:role="line"
+             id="tspan228">c = game.makeShootCommand(WEST);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,854.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text234"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351"
+             y="0"
+             sodipodi:role="line"
+             id="tspan232">else if (command.equalsIgnoreCase(&quot;se&quot;))</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1465,871.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text238"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279"
+             y="0"
+             sodipodi:role="line"
+             id="tspan236">c = game.makeShootCommand(EAST);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,888.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text242"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351"
+             y="0"
+             sodipodi:role="line"
+             id="tspan240">else if (command.equalsIgnoreCase(&quot;sn&quot;))</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1465,905.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text246"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288"
+             y="0"
+             sodipodi:role="line"
+             id="tspan244">c = game.makeShootCommand(NORTH);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,922.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text250"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351"
+             y="0"
+             sodipodi:role="line"
+             id="tspan248">else if (command.equalsIgnoreCase(&quot;ss&quot;))</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1465,939.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text254"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288"
+             y="0"
+             sodipodi:role="line"
+             id="tspan252">c = game.makeShootCommand(SOUTH);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,956.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text258"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342"
+             y="0"
+             sodipodi:role="line"
+             id="tspan256">else if (command.equalsIgnoreCase(&quot;q&quot;))</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1465,973.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text262"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan260">return;</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 2784,0 h 696 V 1056 H 2784 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 2784,66 h 696 V 996 H 2784 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-2784)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-2784)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(2784,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 13 18 32 41 50 59 64 72 77 84 94 103 112 121 128 133 143 152 161 169 175 184 193 199 204 213 220 229 238 244 249 258 267 272 281 288 297 303 308 318 328 337 346 356 365 372 381 386 392 400 405 410 419 428 433 439 449 458 467 473 478 488 495 505 514 523 531 539 544 549 562 567 573 583 592 601 607 612 622 629 639 648 657 665 673 678 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">A much stronger physical architectural boundary is the local process. A local process is</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 5 14 24 30 39 48 54 60 69 74 83 90 99 108 113 122 132 137 143 150 160 174 179 184 193 202 207 216 226 240 254 263 272 282 287 293 299 308 317 322 332 339 344 353 362 367 376 386 395 401 411 420 426 435 444 449 454 462 471 479 484 493 507 512 521 530 536 542 547 552 563 573 582 591 597 602 612 619 629 638 647 655 663 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">typically created from the command line or an equivalent system call. Local processes</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 7 16 25 30 36 45 50 55 64 73 78 86 95 109 118 123 133 140 150 159 168 176 184 194 200 205 210 220 227 232 238 247 252 257 266 275 280 288 297 311 320 325 333 342 347 352 362 368 373 383 390 400 409 418 426 434 444 451 459 464 479 485 490 499 505 514 519 528 533 547 556 562 567 573 582 592 599 608 613 618 628 637 642 647 654 663 672 677 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">run in the same processor, or in the same set of processors within a multicore, but run in</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 8 17 27 36 43 52 57 66 71 80 90 100 107 116 124 132 137 145 155 164 173 182 190 195 200 217 226 240 250 257 266 271 281 288 298 303 312 321 326 332 342 351 356 365 374 383 392 399 408 414 420 429 434 444 451 460 470 479 488 493 501 506 514 523 532 541 546 556 563 573 582 591 599 607 616 624 629 635 642 652"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">separate address spaces. Memory protection generally prevents such processes from</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 8 17 26 33 39 48 57 62 76 85 99 109 116 124 129 134 143 149 154 163 173 182 191 200 205 213 222 231 238 247 257 262 276 285 299 309 316 325 330 340 349 356 361 367 372 378 388 397 405 410 419 426 435 440 450 456 461 470 479 484 493 501 510 520"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">sharing memory, although shared memory partitions are often used.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 17 27 35 40 45 55 61 66 75 84 89 94 100 110 119 128 134 139 149 156 166 175 184 192 200 209 217 222 231 241 255 269 278 287 293 302 311 316 325 330 345 351 356 365 370 379 388 397 406 411 421 426 435 444 451 456 465 473 479 488 497 502 510 520 529 538 547 552 560 565 570 580 587 592 600 610 624 633 638 648 653 662 671"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">Most often, local processes communicate with each other using sockets, or some other</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 9 15 24 34 39 49 55 60 70 80 89 96 105 110 116 125 134 139 147 156 164 169 178 192 197 206 216 230 244 253 262 268 277 286 291 297 307 316 324 329 335 344 353 359 365 371 376 385 390 398 407 416 425 430 439 447 452 466 475 481 487 497 507 516 525 533 538 548 555 560 574 583 591 599 608 617 626 631 641 650 659 668 677 685"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">kind of operating system communications facility such as mailboxes or message queues.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,284)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 12 21 30 39 44 50 60 69 78 84 89 99 106 116 125 134 142 150 155 169 178 187 192 202 211 216 225 230 238 243 252 257 263 272 281 287 293 302 307 313 319 328 337 346 356 361 375 385 394 404 410 416 421 430 435 440 450 457 462 468 473 478 492 501 510 515 525 534 539 548 558 572 582 592 600 609 619 624 634"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">Each local process may be a statically linked monolith, or it may be composed of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,307)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 10 19 28 37 51 57 66 75 81 87 96 101 107 113 122 131 140 150 155 165 174 184 190 200 209 223 232 241 246 251 260 270 284 294 304 313 322 331 336 344 349 354 360 369 374 379 388 397 402 408 418 425 439 448 455 460 469 478 486 495 500 505 513 522 532 541 548 557 563 568 582 592 601 611 617 623 628 637 643"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">dynamically linked deployment components. In the former case, several monolithic</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,330)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 10 17 27 36 45 53 61 70 78 83 97 106 115 120 129 138 148 157 162 167 176 185 190 198 207 221 230 235 244 254 268 278 288 297 306 315 320 328 333 342 352 366 376 382 388 397 407 412 421 430 440 445 451 457 466 475 484 494 499 505 514 519 529 534 539 548 557 571 576 581 587 596 601 606 615 624 629 635 644 649 654 663 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">processes may have the same components compiled and linked into them. In the latter,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,353)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 5 14 23 32 37 51 60 69 74 82 91 100 107 116 121 126 135 144 149 157 166 180 189 194 204 213 222 231 245 251 260 269 275 281 290 295 301 307 316 325 334 344 349 359 368 378 384 394 403 417 426 435 440 445 454 464 478 488 498 507 516 525 530 538"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">they may share the same dynamically linked deployment components.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,396)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 12 21 27 36 45 50 60 66 71 80 85 91 101 110 119 125 130 140 147 157 166 175 183 191 196 205 213 218 227 232 241 247 256 266 271 281 287 292 301 311 320 327 334 343 353 367 377 387 396 405 414 419 425 430 442 451 460 465 475 482 492 501 510 518 526 531 540 550 559 567 573 581 586 594 599 609 615 620 626 636 651 660 667"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">Think of a local process as a kind of uber-component: The process consists of lower-</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,419)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 6 15 25 34 40 45 54 64 78 88 98 107 116 125 130 138 143 148 157 166 171 176 190 199 208 217 226 235 240 245 254 263 269 276 281 291 300 310 319 328 338 347 356 365 371 380 388 393 398 407 414 424 433 442 451 456 466 475 484 493 507 513 522 527 537 547 553 562 576 586 593 603 612 618 626 640"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">level components that manage their dependencies through dynamic polymorphism.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,462)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 12 21 30 35 43 52 61 68 77 86 95 100 106 116 125 130 138 143 150 159 164 173 182 191 196 206 215 220 235 244 253 262 267 273 283 292 301 307 312 322 329 339 348 357 365 373 382 390 395 401 409 414 419 428 437 442 450 459 473 482 487 496 504 509 515 525 532 537 551 561 570 580 586 592 597 606 614 619 628 637"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">The segregation strategy between local processes is the same as for monoliths and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,485)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 10 16 25 34 41 50 55 64 74 88 98 108 117 126 135 140 148 153 158 169 179 188 195 204 213 218 227 237 247 256 261 271 280 290 299 308 318 327 336 345 351 360 368 373 383 393 399 408 413 418 424 433 438 443 452 461 466 474 483 497 506 511 521 527 534 543 552 557 563 573 582 587 596 605 612 622 630 638 643 648 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">binary components. Source code dependencies point in the same direction across the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,508)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 10 20 29 38 48 57 64 72 77 82 91 100 110 115 124 130 145 154 163 171 176 181 191 206 215 222 232 237 242 251 260 265 274 280 289 298 307 314 321 327 336 346 355 361 366 375 385 399 409 419 428 437 446 451"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">boundary, and always toward the higher-level component.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,551)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 11 21 28 33 39 49 58 67 73 78 88 95 105 114 123 131 139 148 156 161 166 171 180 186 194 199 213 222 231 240 248 253 258 267 276 281 286 291 300 309 314 322 332 341 348 357 366 371 380 390 400 409 414 424 430 435 440 449 458 463 472 478 487 496 505 512 519 525 534 544 553 559 564 574 581 591 600 609 617 625 634 642 647 661 670 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">For local processes, this means that the source code of the higher-level processes must</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,574)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 9 19 24 29 38 48 57 62 71 77 86 91 96 105 114 119 128 137 151 160 168 173 178 188 195 200 210 219 228 236 242 251 260 266 271 280 290 300 307 316 324 332 341 349 354 359 369 376 381 388 397 406 412 420 425 432 441 446 452 462 472 481 490 500 505 514 523 532 540 545 555 561 566 572 582 597 606 613 620 626 635 645 654"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">not contain the names, or physical addresses, or registry lookup keys of lower-level</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,597)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 10 17 27 36 45 53 61 70 78 83 88 101 110 124 133 147 157 166 173 178 183 192 201 206 211 216 225 234 239 248 255 264 273 279 284 293 302 307 316 323 332 338 343 352 362 371 377 382 388 396 401 407 417 424 429 435 445 460 469 476 483 489 498 508 517 523 528 538 545 555 564 573 581 589 598 606 611 616 626 631 641"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">processes. Remember that the architectural goal is for lower-level processes to be</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,620)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 10 16 25 34 40 49 57 62 67 77 82 91 97 106 115 124 131 138 144 153 163 172 178 183 193 200 210 219 228 236 244 253 261"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">plugins to higher-level processes.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,663)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 13 23 37 51 60 69 75 84 93 98 104 114 123 128 137 146 153 163 171 179 184 190 200 209 218 224 229 239 246 256 265 274 282 290 295 305 315 324 333 343 352 359 365 374 382 387 393 402 412 422 428 438 447 452 462 472 481 488 497 502 508 517 526 531 539 548 556 561 570 584 589 598 607 613 619 627 632 637 647 656 661"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">Communication across local process boundaries involve operating system calls, data</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,686)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 14 23 30 38 47 56 62 68 77 86 91 100 109 119 124 134 143 152 162 172 178 187 196 201 206 215 224 234 239 245 254 259 268 275 285 292 302 311 320 328 336 341 350 360 369 374 383 392 397 402 410 425 431 436 445 454 463 471 476 481 496 505 511 520 529 534 543 550 559 564 578 588 598 607 614 623 628 637 643"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">marshaling and decoding, and interprocess context switches, which are moderately</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,709)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 9 18 28 37 46 54 60 70 79 84 89 102 111 120 125 130 136 145 154 162 170 175 183 192 202 211 217 227 232 242 251 256 265 274 281 290 296 305 311 317 326 331 337 343 357 363 368 377 387"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">expensive. Chattiness should be carefully limited.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,779)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0"
+             y="0"
+             id="tspan122">S</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2802,779)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 22 45 68 81 105 127"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">ERVICES</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,824)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 12 21 30 35 43 48 55 65 74 83 92 100 105 110 120 130 139 148 158 167 174 183 188 194 202 207 216 221 229 238 245 255 261 270 279 284 289 302 307 315 324 331 341 347 356 365 370 376 384 389 398 403 413 420 430 439 448 456 464 469 474 483 492 501 510 517 526 532 538 547 552 560 565 574 581 586 595 605 610 616 623 633 647 652 657 666"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">The strongest boundary is a service. A service is a process, generally started from the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,847)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 9 19 33 47 56 65 75 80 86 92 101 110 115 125 132 137 142 151 158 168 177 186 195 200 209 218 223 232 242 251 257 267 276 282 291 300 305 310 318 327 335 340 349 363 368 377 386 392 398 403 408 419 428 435 445 451 460 469 477 482 492 502 507 516 526 531 536 546 555 565 574 583 593 598 608 617 622 627 636 645 651"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">command line or through an equivalent system call. Services do not depend on their</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,870)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 10 19 28 36 42 51 60 66 71 77 87 96 105 110 116 126 135 140 145 155 170 180 185 194 204 218 232 241 250 256 265 274 279 285 294 303 308 316 325 332 342 348 357 366 374 379 393 402 410 415 420 430 437 442 456 465 474 479 488 498 503 508 513 523 533 542 549 558 563 572 577 583 592 597 602 611 620 625 633 642 656"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">physical location. Two communicating services may, or may not, operate in the same</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,893)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 10 19 28 36 42 51 60 66 71 81 88 98 107 116 124 132 142 149 154 164 171 176 190 199 205 210 216 225 235 242 251 256 261 273 282 291 296 304 313 320 330 336 345 354 362 367 376 384 392 401 415 424 429 434 443 452 457 462 471 477 483 488 497 507 521 535 544 553 559 568 577 582 588 598 607 615 620 625 634 643"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">physical processor or multicore. The services assume that all communications take</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,916)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 10 16 25 34 43 48 58 68 77 84 89 94 103 112 117 126 135 140 155 165 172 181"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">place over the network.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,959)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 13 23 37 51 60 69 75 84 93 98 104 114 123 131 136 145 154 161 171 179 187 192 200 209 216 226 232 241 250 255 265 275 284 293 303 312 319 325 334 342 347 356 363 372 377 387 396 403 412 417 425 431 441 456 461 470 480 494 504 513 520 529 539 544 549 559 564 570 579 588 597 602 608 618 627 632 641 650 656 662 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">Communications across service boundaries are very slow compared to function calls.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,982)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 11 20 27 36 45 52 62 71 80 90 95 100 106 120 129 137 142 151 160 169 174 181 190 199 208 217 222 228 235 245 259 264 269 278 287 295 300 310 316 321 335 341 347 353 359 367 376 385 395 404 414 422 427 432 442 447 455 464 473 483 492 502 510 515 520 533 542 549 558 563 577 586 594 599 604 614 623 628 633 642 651 660 669 674 679"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">Turnaround times can range from tens of milliseconds to seconds. Care must be taken to</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

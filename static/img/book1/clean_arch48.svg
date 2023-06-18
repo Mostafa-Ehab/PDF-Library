@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 1392,0 h 696 V 1056 H 1392 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 1392,66 h 696 V 996 H 1392 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-1392)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-1392)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(1392,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 14 20 26 35 43 48 55 64 69 78 87 96 111 116 121 130 139 144 149 154 163 173 181 190 195 204 214 223 228 235 245 251 256 264 269 276 285 294 299 308 315 324 332 337 342 357 366 375 384 389 398 408 422 432 438 447 456 466 471 486 492 497 506 511 519 528 538 547 556 565 570 576 585 591 596 605 614 623 632 641 646 652 662 671"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">Dijkstra knew that those control structures, when combined with sequential execution,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 15 24 31 40 45 53 63 72 81 87 96 102 107 112 124 133 142 151 156 165 174 184 189 199 208 217 226 231 237 247 256 265 270 276 282 288 297 307 312 317 332 342 347 356 365 374 381 389 394 404 413 419 429 436 445 450 460 469 474 487 497 506 520 525 534 543 553 558 566 575 584 594 604 610 619 625 630 635 650 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">were special. They had been identified two years before by Böhm and Jacopini, who</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 10 17 27 37 46 56 61 66 75 84 89 94 103 109 115 120 130 137 147 156 163 172 186 194 199 208 217 226 231 241 250 255 264 274 283 291 296 303 312 321 326 335 345 350 356 363 373 387 392 398 407 415 420 425 430 439 446 455 464 469 477 482 489 498 507 512 521 528 537 545 551 556 564 573 583 592 601 610 619 628"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">proved that all programs can be constructed from just three structures: sequence,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 8 17 23 32 41 46 52 62 71 76 81 90 99 109 114 120 125 134 141 150 155 161 171 180"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">selection, and iteration.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 12 21 27 35 40 50 56 64 73 83 93 102 109 118 123 138 147 155 160 167 176 190 199 206 215 224 234 240 249 255 260 272 281 290 295 305 314 321 330 335 344 354 363 368 375 385 391 396 404 409 416 425 434 439 448 455 464 472 477 482 491 500 505 510 524 533 543 552 557 566 571 585 595 605 614 620"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">This discovery was remarkable: The very control structures that made a module</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 10 17 27 37 46 56 62 71 76 91 100 107 116 121 126 135 144 149 157 166 180 189 194 208 214 223 229 243 252 266 271 279 288 293 298 308 314 319 328 338 347 352 359 369 375 380 388 393 400 409 418 423 432 439 448 456 461 467 474 484 498 503 518 527 533 542 551 556 565 571 577 582 592 599 609 618 625 634 648 656 661 670 679"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">provable were the same minimum set of control structures from which all programs can</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 10 19 24 34 43 49 55 60 65 70 82 91 100 108 113 121 126 133 142 151 156 165 172 181 191 196 206 213 223 232 239 248 262 276 282 291 300 305 320 329 337 342 352 362 369 378"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">be built. Thus structured programming was born.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,284)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 14 20 26 35 43 48 55 64 69 77 86 96 111 120 130 135 140 149 158 163 168 176 185 195 204 213 222 227 233 242 248 253 261 266 275 280 289 303 312 321 326 334 339 348 358 367 373 383 388 398 407 412 422 429 439 449 458 468 473 482 492 499 506 515 524 529 534 539 548 555 565 574 583 592 597 605 611 625 635 641"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">Dijkstra showed that sequential statements could be proved correct through simple</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,307)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 9 18 27 41 50 57 66 71 77 87 96 101 106 118 127 136 141 146 155 164 173 182 188 198 207 216 221 235 244 249 258 267 281 290 295 301 310 319 325 331 340 345 350 357 366 375 384 394 399 404 413 422 427 433 442 452 461 466 474 479 489 495 500 505 514 523 528 536 545 555 564 573 582 591 600 605 610 620 625 630 639"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">enumeration. The technique mathematically traced the inputs of the sequence to the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,330)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 10 19 24 34 43 48 56 61 71 77 82 87 96 105 110 118 127 137 146 155 164 173 182 187 192 204 213 219 227 232 241 251 261 268 278 287 296 305 310 325 334 342 347 356 366 371 381 387 393 399 408 415 424 433 438 443 449 456 466 480 485 494 503 512 517 526 536 543 557 566 572 577 591 600 605 614 623 637 646 651 657 666 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">outputs of the sequence. This approach was no different from any normal mathematical</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,353)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 10 17 27 37 43"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">proof.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,396)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 14 20 26 35 43 48 55 64 69 74 83 92 101 107 116 126 131 139 148 154 163 172 177 183 193 202 207 212 221 228 238 247 256 265 270 277 286 295 305 315 321 327 336 345 350 356 366 375 380 390 396 401 410 419 428 442 451 458 467 472 478 488 497 502 507 519 528 537 546 551 561 570 575 584 589 594 603 610 620 629 638 647 652 657 666"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">Dijkstra tackled selection through reapplication of enumeration. Each path through the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,419)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 8 17 23 32 41 46 52 62 71 76 91 100 108 113 122 131 140 154 163 170 179 184 193 203 208 213 219 225 230 240 250 255 264 269 279 288 293 302 310 315 324 334 343 352 357 366 375 381 387 396 401 411 418 428 438 447 456 465 475 480 489 499 509 516 526 536 543 549 558 563 572 577 591 600 605 614 623 637 646 651 657 666 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">selection was enumerated. If both paths eventually produced appropriate mathematical</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,442)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 7 16 24 33 39 44 52 57 62 67 76 85 94 99 104 113 122 127 137 144 154 164 170 175 190 199 207 212 220 230 236 242 252"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">results, then the proof was solid.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,485)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 6 11 20 27 36 41 47 57 66 71 86 95 103 108 117 122 132 138 143 148 158 164 170 176 185 192 201 210 215 220 225 235 245 250 260 267 277 287 296 301 310 319 324 330 335 344 351 360 365 371 381 390 395 404 414 421 428 437 446 451 456 461 475 481 487 496 504 509 516 525 530 539 548 558 563 568 578 583 592 600 609"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">Iteration was a bit different. To prove an iteration correct, Dijkstra had to use </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2006,485)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 6 15 25 34 43 48 54 64"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">induction</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2079,485)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0"
+             y="0"
+             id="tspan94">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,508)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 14 23 28 38 45 55 65 74 84 89 94 103 112 117 126 135 143 152 157 163 173 180 185 195 200 210 219 224 233 242 251 265 274 281 290 295 301 311 320 325 330 342 351 360 369 374 383 392 397 407 414 424 434 443 453 458 463 472 481 486 495 504 512 521 526 531 540 549 554 559 565 571"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">He proved the case for 1 by enumeration. Then he proved the case that if </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1968,508)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0"
+             y="0"
+             id="tspan102">N</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1987,508)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 15 24"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">was</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,531)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 9 17 25 34 48 57 67 72 81 91 98 105 114 123 128 133"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">assumed correct, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1530,531)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0"
+             y="0"
+             id="tspan114">N</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1549,531)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 11 16 26 31 46 55 63 68 77 87 94 101 110 119 124 129 134 143 152 161 167 176 181 191 200 205 214 223 232 246 255 262 271 276 282 292 301 306 311 325 334 339 348 354 362 372 377 387 394 404 414 423 433 438 443 452 461 466 474 479 488 495 500 506 515"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">+ 1 was correct, again by enumeration. He also proved the starting</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,554)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 9 18 28 33 42 51 61 67 76 85 90 99 106 112 117 126 133 139 148 153 163 169 174 179 188 197 202 208 213 222 229 238 243 249 259 268 273 283 292 297 306 315 324 338 347 354 363 368 374 384 393"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">and ending criteria of the iteration by enumeration.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,597)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 11 20 29 38 43 53 60 70 80 86 94 99 114 123 130 139 144 150 159 169 179 186 192 202 211 219 224 233 242 252 257 266 276 290 300 306 315 324 344 354 363 368 373 378 387 396 405 410 425 434 441 450 455 465 472 482 492 498 506 511 516 533 539 544 553 558 563 572 581 587"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">Such proofs were laborious and complex—but they were proofs. With their</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,620)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 10 19 29 38 44 54 64 78 87 96 101 106 111 116 125 134 139 145 155 164 173 178 183 192 201 206 211 220 225 237 246 255 261 267 277 286 295 304 309 318 324 333 340 349 356 365 374 383 388 398 404 409 414 423 432 442 449 458 472 480 485 494 504 513 519 529 534 544 553 558 567 577 586 594 599 606 615 624 629 638"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">development, the idea that a Euclidean hierarchy of theorems could be constructed</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,643)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 8 17 26 40 49 59 64 71 80 89 98 107 116 126 132 141"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">seemed reachable.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,713)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 21 29"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">A H</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1447,713)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 23 47 79 99 123"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">ARMFUL</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1600,713)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0"
+             y="0"
+             id="tspan146">P</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1620,713)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 24 50 74 96 119 151 171 193 206 232"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">ROCLAMATION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,758)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 6 15 20 30 40 50 60 65 70 84 90 96 105 113 118 125 134 139 154 161 171 176 185 190 199 204 210 219 224 229 238 245 250 255 265 270 275 284 293 298 307 317 323 328 338 345 350 360 366"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">In 1968, Dijkstra wrote a letter to the editor of </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1763,758)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 13 27 40"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">CACM</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1820,758)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 5 10 25 34 40 49 58 63 78 87 95 100 110 119 129 135 141 149 158 167 177 182 188 197 202 207 216"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">, which was published in the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,781)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 17 26 33 42 51 56 62 70 78 87 96 101 106 118 127 136 141 146 152 157 163 172 177 187 193 198 203 212 218 226 231 237 246 251 256 265 272 277 292 301 309 314 323 337 347 352 362 372 377 388 393 402 407 416 430 439 448 453 458 471 481 490 498 504 514 523 530 539 549 554 568 577 584 598 604 613 619 624 633 638 650 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">March issue. The title of this letter was “Go To Statement Considered Harmful.” The</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,804)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 9 16 21 27 36 42 51 56 66 75 80 86 92 101 110 120 125 134 140 148 153 163 173 181 187 192 198 208 217 222 232 241 246 251 260 269 274 279 288 295 304 313 318 327 337 346 351 358 368 374 379 387 392 399 408 417 422 431 438 447 455"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">article outlined his position on the three control structures.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,847)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 14 23 33 38 43 52 61 66 76 83 93 102 109 118 132 146 152 161 170 175 190 200 207 213 223 228 237 246 255 264 273 278 283 289 295 302"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">And the programming world caught fire</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1703,847)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 5 10 23 32 41 50 55 60 69 78 87 92 107 116 121 131 137 147 156 163 168 173 182 191 201 210 215 224 233 238 244 253 258 267 274 283 292 297 302 307 315 325 330 340 349 359 369 375"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">. Back then we didn’t have an Internet, so people</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,870)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0 9 19 28 34 44 53 60 65 70 80 90 98 103 108 117 126 134 139 148 153 167 176 190 199 207 212 222 228 233 247 253 259 268 276 281 288 297 302 307 316 325 335 340 345 354 363 372 377 386 396 405 411 421 430 437 442 447 453 459 468 482 491 496 505 511 525 530 540 549 555 561 570 579 584 589 602 611 616 621 626 635 644"
+             y="0"
+             sodipodi:role="line"
+             id="tspan182">couldn’t post nasty memes of Dijkstra, and they couldn’t flame him online. But they</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,893)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 9 19 28 34 44 49 54 63 72 82 87 92 101 110 119 124 134 140 150 155 160 175 182 188 193 202 207 213 222 227 232 241 248 256 261 266 276 281 286 295 304 309 318 328 334 339 349 356 364 369 379 385 390 404 413 422 431 436 446 455 465 471 477 485 494 503 513 518 524 534 543 550 559 568 574 582"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">could, and they did, write letters to the editors of many published journals.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,936)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text192"><tspan
+             x="0 12 21 31 39 48 53 59 68 73 78 87 94 102 107 122 131 138 147 156 163 168 173 182 191 200 209 217 225 234 241 247 253 262 267 276 282 288 293 303 313 319 325 330 339 344 349 360 370 384 393 398 413 422 429 438 443 449 458 463 472 481 489 498 504 513 518 527 536 545 554 559 565 575 584 589 594 604 609 618 627 634"
+             y="0"
+             sodipodi:role="line"
+             id="tspan190">Those letters weren’t necessarily all polite. Some were intensely negative; others</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,959)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0 10 20 26 35 44 54 59 67 72 79 89 98 107 112 120 129 139 149 159 166 171 176 182 192 199 204 213 219 227 232 242 252 260 266 271 277 287 296 301 306 320 329 339 344 352 362 367 372 381 390 395 405 414 419 424 430 439 444 459 468 476 481 487 497 503 512 521 531 536 541 550 556 561 567 581 590 595 604 610 619 624 629 639 644 650 659 667"
+             y="0"
+             sodipodi:role="line"
+             id="tspan194">voiced strong support for his position. And so the battle was joined, ultimately to last</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,982)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 9 19 29 38 43 48 57 62 72 81 90 99 109 118"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">about a decade.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

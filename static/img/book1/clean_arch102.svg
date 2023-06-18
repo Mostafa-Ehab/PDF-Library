@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,0 H 696 V 1056 H 0 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="M 0,66 H 696 V 996 H 0 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath44">
+      <path
+         d="M 0,66 H 696 V 996 H 0 V 66"
+         clip-rule="evenodd"
+         id="path42" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <g
+           id="g30">
+          <path
+             d="m 0,66 h 696 v 3 H 0 Z"
+             style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" />
+        </g>
+        <g
+           id="g34">
+          <path
+             d="m 0,234 h 696 v 3 H 0 Z"
+             style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path36" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g38">
+      <g
+         id="g40"
+         clip-path="url(#clipPath44)">
+        <text
+           xml:space="preserve"
+           transform="translate(325.5,142.6562)"
+           style="font-variant:normal;font-weight:bold;font-size:40px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#777988;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 16"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">IV</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(130.5,188.6562)"
+           style="font-variant:normal;font-weight:bold;font-size:37px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0"
+             y="0"
+             id="tspan50">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(157.5,188.6562)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 26 58 78 104 128 150 174"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">OMPONENT</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(362.5,188.6562)"
+           style="font-variant:normal;font-weight:bold;font-size:37px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0"
+             y="0"
+             id="tspan58">P</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(385.5,188.6562)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 24 37 61 85 98 118 140 162"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">RINCIPLES</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,328)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 6 12 17 22 31 40 45 56 70 81 87 101 106 116 123 129 138 147 153 163 169 178 186 191 196 205 211 217 222 231 239 244 253 263 278 283 288 298 303 312 319 326 335 344 353 362 367 372 381 390 395 405 412 418 427 436 444 449 455 464 469 479 484 499 508 514 520 528 533 542 551 561 566 573 583 593 607 615 620 625 630 639 648 657 662 667 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">If the SOLID principles tell us how to arrange the bricks into walls and rooms, then the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,351)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 9 19 33 43 53 62 71 80 85 90 100 107 113 122 131 137 147 153 162 170 175 180 189 195 201 206 215 223 228 237 247 262 267 272 282 287 296 303 310 319 328 337 346 351 356 365 374 379 386 396 406 420 428 433 439 448 453 463 468 478 487 493 499 509 515 524 533 541 546 551 562 571 578 587 596 601 609 619 625 630 645 654 661"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">component principles tell us how to arrange the rooms into buildings. Large software</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,374)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 8 17 25 30 39 53 61 66 71 77 83 92 101 106 112 121 128 137 146 151 161 170 176 182 192 198 207 216 224 229 234 243 250 259 264 274 283 289 295 300 305 315 324 329 334 344 350 355 363 377 386 392 398 407 414 419 428 438 452 462 472 481 490 499 504 512"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">systems, like large buildings, are built out of smaller components.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,417)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 6 15"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">In </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(20,417)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 11 20 27 32 37 43"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">Part IV</tspan></text>
+        <path
+           d="M 20,418.5 H 75 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path86" />
+        <text
+           xml:space="preserve"
+           transform="translate(76,417)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0 5 10 25 34 39 54 60 66 72 77 87 93 101 110 119 127 135 140 155 164 173 178 183 191 201 207 212 227 236 243 252 257 266 276 290 300 310 319 328 337 342 350 355 364 371 380 385 390 405 414 420 429 438 443 452 458 467 481 490 499 504 512 517 525 534 544 553 559"
+             y="0"
+             sodipodi:role="line"
+             id="tspan88">, we will discuss what software components are, which elements should</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,440)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text94"><tspan
+             x="0 9 19 33 43 53 61 70 75 80 89 98 112 117 122 131 140 150 155 164 174 189 194 199 208 217 226 231 239 248 258 267 273 283 288 298 307 312 321 331 345 355 365 373 382 392 397 402 412 421 430 435 444 453 460 465 471 480 485 495 500 508 517 525 530 539 553 561"
+             y="0"
+             sodipodi:role="line"
+             id="tspan92">compose them, and how they should be composed together into systems.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 2784,0 h 696 V 1056 H 2784 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 2784,66 h 696 V 996 H 2784 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-2784)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-2784)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(2784,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 10 20 25 34 44 49 54 64 73 83 92 101 111 116 126 135 140 149 157 166 171 180 189 197 206 214"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">do not depend on use cases.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,153)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0"
+             y="0"
+             id="tspan34">R</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2808,153)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 22 47 71 93 111 132 140 163 187"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">EQUEST AND</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3027,153)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0"
+             y="0"
+             id="tspan42">R</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3051,153)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 22 40 60 86 110 128"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">ESPONSE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3209,153)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0"
+             y="0"
+             id="tspan50">M</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3241,153)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 26 50 72 94"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">ODELS</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,198)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 13 21 30 35 44 53 61 70 78 83 92 101 111 120 129 134 139 145 154 164 173 178 183 193 202 207 216 221 226 235 244 254 259 264 273 282 291 296 306 313 323 333 342 351 360 365 375 384 389 399 408 413 418 428 437 442 451 456 461 475 485 500 509 519 528 534 539 544 553 558 573 582 588 594 601 607 617 624 638 647 657 662 671 679"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">Use cases expect input data, and they produce output data. However, a well-formed use</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,221)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 9 18 26 35 40 50 60 66 75 84 89 94 102 111 121 130 136 146 151 160 169 179 188 193 202 212 217 223 232 241 247 253 262 271 276 285 295 305 314 319 324 329 338 347 352 367 376 385 390 395 404 413 418 423 433 442 447 456 461 467 475"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">case object should have no inkling about the way that data is </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3264,221)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 9 19 33 47 56 65 71 80 89 94 103 113 118 123 133 138 143 152 161 166 175 183 192 198"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">communicated to the user,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,244)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 10 17 22 27 37 42 51 60 69 74 84 89 98 107 114 119 128 138 152 162 172 181 190 199 204 209 214 230 239 244 253 262 269 274 283 289 298 304 313 318 328 338 347 354 359 364 379 388 397 402 407 412 421 430 435 444 454 464 473 478 493 499 504 513 519 528 533 538 547 556 561 570 578 587 592 601 610 618 627 632 641 647 656 664 672 677 682"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">or to any other component. We certainly don’t want the code within the use case class to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,267)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 9 18 28 43 48 57 67 77 86 91 96 110 122 139 149 154 164 171 176 187 201 212"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">know about HTML or SQL!</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,310)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 12 21 30 35 44 52 61 66 75 84 92 101 106 115 121 130 138 146 151 160 169 178 187 197 202 210 215 223 229 243 253 259 268 273 280 289 299 308 317 325 330 335 345 354 359 368 373 381 386 393 402 411 416 425 432 441 449 454 460 470 477 482 488 493 501 506 512 521 531 540 545 550 555 564 573 583 588 595 604 609 618 625 634"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">The use case class accepts simple request data structures for its input, and returns</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 8 14 28 38 44 53 58 65 74 82 92 102 111 119 128 133 143 152 157 166 171 179 184 191 200 209 214 223 230 239 247 252 261 269 274 280 285 293 298 308 317 322 332 341 346 351 356 368 377 386 394 403 408 418 427 432 441 446 454 459 466 475 484 489 498 505 514 522 527 536 543 552 557 566 576 581 586 596 605 615 624 633 643 652 661 666 671 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">simple response data structures as its output. These data structures are not dependent on</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,356)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 9 18 27 32 41 47 56 65 70 75 87 96 105 114 119 129 139 144 153 163 168 173 183 192 199 205 215 224 229 235 242 252 266 271 279 284 293 302 312 321 328 338 343 349 356 365 379 388 403 413 420 429 434 440 449 454 463 470 476 485 494 503 511 516 524 533 542 551 556 565 573"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">anything. They do not derive from standard framework interfaces such as </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3362,356)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">HttpRequest</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,379)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 9 18 28"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">and </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2817,379)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">HttpResponse</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2937,379)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 5 10 22 31 40 49 54 63 72 82 97 102 111 121 126 135 141 150 159 164 174 180 185 190 199 208 213 228 237 247 252 257 266 276 283 288 298 308 313 318 327 336 345 350 358 367 376 383 392 397 406 415 424 429 439 445 450 455 464"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">. They know nothing of the web, nor do they share any of the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,402)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 5 12 21 31 41 47 56 65 73 78 88 94 99 114 123 132 137 146 156 165 172 177 186 194 203 210 215 221 230 235 244 251 257 266 275 284 289 303 309 318 327 332 337 347 356 361 367 376 381 391 397 406 415 424"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">trappings of whatever user interface might be in place.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,445)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 12 21 27 35 40 46 55 64 73 78 88 94 99 109 118 128 137 146 156 165 174 183 189 198 206 211 217 225 230 239 246 252 257 263 272 281 287 292 297 303 309 314 319 328 337 342 349 358 368 377 386 394 399 404 413 422 432 437 444 453 461 471 481 490 498 507 512 526 536 546 555 561 569 574 583 590 599 604 613 623"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">This lack of dependencies is critical. If the request and response models are not</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,468)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 6 15 25 34 44 53 62 72 81 90 95 100 105 110 119 128 137 142 147 156 165 170 179 187 196 201 210 219 227 236 244 249 254 263 272 277 282 292 301 311 320 329 339 344 354 363 368 373 382 391 405 410 425 431 437 443 448 458 467 472 478 487 497 503 510 519 528 533 539 548 553 563 573 582 591 601 606 611"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">independent, then the use cases that depend on them will be indirectly bound to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,491)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 15 24 33 38 47 57 66 73 78 88 97 107 116 125 135 144 153 162 168 177 185 190 195 204 213 218 232 242 252 261 267 275 280 289 298 305 312 321 326 341 347 352 361 366 371 380 389 403"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">whatever dependencies the models carry with them.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,534)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 12 22 31 36 50 56 65 74 79 84 94 103 108 113 122 136 146 151 160 170 175 180 190 195 204 213 223 232 237 242 251 260 268 277 282 292 301 306 315 320 328 333 340 349 358 363 372 379 388 396 401 410 420 429 434 443 449 458 463 470 479 485 494 501 510 519 528 537 545 550 555 565 570 582 591 596 602 607 616 621 631 641 647 656 665 670 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">You might be tempted to have these data structures contain references to Entity objects.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,557)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 12 22 31 36 50 56 65 74 79 84 89 98 104 113 122 127 132 141 147 155 160 174 183 192 201 209 214 222 231 240 248 257 262 272 281 290 299 308 316 325 330 335 344 353 358 370 379 384 390 395 401 410 418 423 432 441 451 456 461 470 479 484 491 500 510 519 528 536 541 547 554 563 571 581 591 600 608 617 622 636 646 656 665 671"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">You might think this makes sense because the Entities and the request/response models</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,580)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 8 17 26 33 42 47 55 65 70 84 93 102 111 116 126 135 140 149 154 159 171 181 191 197 207 212 217 226 232 240 245 250 259 273 283 288 297 302 308 318 327 333 338 350 359 368 373 383 392 399 409 419 427 436 441 451 457 462 467 476 485 493 502 507 512 527 537 542 552 562 568 577 586 591 599 604 610 618 623 633 642 649"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">share so much data. Avoid this temptation! The purpose of these two objects is very</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,603)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 10 16 22 28 37 44 53 62 67 72 77 91 101 110 117 122 127 133 147 156 161 166 175 184 193 198 213 219 225 231 236 245 254 263 272 281 290 295 301 311 318 323 333 342 349 358 363 373 379 385 391 400 407 416 425 430 435 442 451 460 468 478 487 495 500 505 513 523 528 533 542 548 557 566 571 576 585 594 608 613 618 628 637 646 651 660 669 676 681 687"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">different. Over time they will change for very different reasons, so tying them together in</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,626)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 9 18 27 32 47 56 65 70 80 86 96 102 111 116 125 133 138 143 152 161 166 179 189 203 217 227 236 241 254 260 270 278 287 294 303 308 317 326 336 341 352 358 367 376 382 391 396 409 418 426 436 446 455 463 469 479 485 491 497 502 511 516 527 534 540 549 558 564 574 580 589 597 602 607 619 628 637 642 649 658 666 675 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">any way violates the Common Closure and Single Responsibility Principles. The result</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,649)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 15 25 34 40 50 55 65 74 79 85 95 100 108 113 123 129 134 139 146 155 169 179 184 194 203 208 217 222 227 236 245 255 260 266 276 281 289 294 304 310 315 324 334 343 353 359 364 370 380 389 398 404 412 417 423 432 437 446 456 465 472 477 486 496 506 515"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">would be lots of tramp data, and lots of conditionals in your code.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,720)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0"
+             y="0"
+             id="tspan146">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2808,720)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 26 50 74 96 120 138 151 177"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">ONCLUSION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,765)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 13 22 30 36 45 54 62 70 75 82 91 97 106 114 119 128 135 144 149 154 163 172 177 184 193 202 210 220 229 234 243 248 256 266 272 277 292 301 308 317 322 330 339 347 352 361 375 380 389 398 404 412 417 425 430 435 447 456 465 474 479 488 495 504 509 514 523 532 537 546 556 563 572 577 583 592 601 610 615 621 631 640 649 655 661 666 674"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">Business rules are the reason a software system exists. They are the core functionality.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,788)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 12 21 30 39 44 53 62 69 76 85 90 95 104 113 118 127 137 147 156 161 166 175 184 189 194 208 217 226 235 243 248 253 263 270 275 283 292 302 311 319 324 329 343 353 362 371 379 384 389 401 410 419 428 433 442 449 458 463 468 477 486 491 497 506 520 526 532 541 546 552 561 576 585 591 599"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">They carry the code that makes, or saves, money. They are the family jewels.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,831)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 12 21 30 35 45 54 62 68 77 86 94 102 107 114 123 129 138 146 151 159 168 178 187 193 203 208 215 224 238 247 253 262 267 277 284 290 298 303 309 318 327 332 337 346 355 363 372 378 384 390 399 409 414 424 433 438 448 457 465 474 481 486 495 505 514 523 532 539 548 556 561 569 578 587 596 601 610 618 623 628 637 646 651 660 668 677"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">The business rules should remain pristine, unsullied by baser concerns such as the user</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,854)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 6 15 20 29 36 42 51 60 69 74 84 91 96 106 115 120 129 139 148 156 165 170 179 187 196 206 211 216 222 232 241 250 256 262 270 275 280 285 294 303 308 317 327 337 346 351 356 365 374 379 384 391 400 410 417 426 434 443 452 457 465 470 475 484 493 498 508 517 525 531 540 549 557 565 570 577 586 592 601 609 614 622 631 641 650 656 666 671 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">interface or database used. Ideally, the code that represents the business rules should be</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,877)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 5 14 23 28 37 46 55 62 67 72 82 88 93 98 107 116 121 129 138 146 151 160 174 179 184 199 205 210 219 224 230 239 247 255 264 271 276 285 295 304 313 322 329 338 346 351 361 370 376 385 394 399 409 415 424 433 442 451 461 466 472 481 486 491 501 506 511 520 529 543 548 553 565 574 583 588 598 607 615 621 630 639 647"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">the heart of the system, with lesser concerns being plugged in to them. The business</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,900)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 7 16 22 31 39 44 52 61 71 80 86 96 101 111 120 125 130 139 148 153 167 177 185 190 195 201 210 220 229 239 248 257 267 276 285 290 295 304 313 323 328 335 344 353 361 370 380 386 395 400 409 419 429 438 443 449 458 463 468 477 486 491 499 508 516 521 530 544"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">rules should be the most independent and reusable code in the system.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,939)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0"
+             y="0"
+             id="tspan178">1</tspan></text>
+        <path
+           d="m 2784,940.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path182" />
+        <text
+           xml:space="preserve"
+           transform="translate(2791,939)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 4 8 17 24 27 33 37 40 46 50 55 62 69 74 78 84 91 98 105 112 118 125 132 136 142 146 153 160 171 178 182 187 194 199 203 207 214 217 223 227 234 241 248 255 262 269 273 277 282 287 291 295 301 308 315 322 329 335 342 349 353 360 364 368 375 378 382 385"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">. This is Ivar Jacobson’s name for this concept (I. Jacobson et al., </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3180,939)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 11 18 21 28 35 39 43 54 59 62 69 76 80 87 94 98 106 113 118 122 133 140 145 152 156 165 172 179 182 189 196 203 208 211 218"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">Object Oriented Software Engineering</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3405,939)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 3 7 18 25 32 35 41 48 55"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">, Addison-</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2799,957)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text198"><tspan
+             x="0 13 20 26 29 36 42 45 49 56 63 70 77 82"
+             y="0"
+             sodipodi:role="line"
+             id="tspan196">Wesley, 1992).</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,979)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text202"><tspan
+             x="0"
+             y="0"
+             id="tspan200">2</tspan></text>
+        <path
+           d="m 2784,980.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path204" />
+        <text
+           xml:space="preserve"
+           transform="translate(2791,979)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text208"><tspan
+             x="0 4 8 13 20 23 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan206">. Ibid.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 3480,0 h 696 V 1056 H 3480 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 3480,66 h 696 V 996 H 3480 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-3480)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-3480)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(3480,82.67188)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 6 12 21 30 35 40 46 60 69 77 82 97 106 113 122 127 132 141 150 155 165 175 180 185 191 200 209 218 227 236"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">link times were the bottleneck.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,126)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 16 25 30 45 54 61 70 75 80 90 96 101 110 120 129 136 144 153 158 163 172 181 191 200 207 213 222 231 240 246 255 264 269 286 295 302 312 321 330 336 344 349 355 364 379 384 394 400 405 415 422 432 441 448 457 471 476 484 490 498 507"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">We were, of course, experiencing Murphy’s law of program size:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3504,165)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 9 14 21 28 33 40 51 57 61 72 75 78 81 85 92 97 104 115 119 123 130 134 139 142 145 148 152 159 162 165 169 176 183 190 193 196 203 210 213 220 224 231 238 249 256 259 262 269 273 280 287 294 298 301 304 311 318 322 326 329 340 347"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">Programs will grow to fill all available compile and link time.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,210)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 13 22 27 32 49 58 65 75 84 93 98 113 122 130 135 144 154 159 164 169 178 187 192 202 211 217 226 231 240 250 259 264 273 282 292 301 308 313 319 328 333 338 348 363 372 377 382 396 402 412 421 430 435 444 453 467 476 481 498 508 518 525 534"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">But Murphy was not the only contender in town. Along came Moore,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4019,203)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0"
+             y="0"
+             id="tspan46">3</tspan></text>
+        <path
+           d="m 4019,204.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path50" />
+        <text
+           xml:space="preserve"
+           transform="translate(4031,210)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text54"><tspan
+             x="0 9 18 28 33 39 48 53 58 67 76 81 87 96 101"
+             y="0"
+             sodipodi:role="line"
+             id="tspan52">and in the late</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,233)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58"><tspan
+             x="0 10 20 30 40 48 53 58 63 72 81 86 91 106 116 121 131 140 145 150 156 165 175 180 186 191 196 206 215 220 225 230 247 257 267 274 283 288 303 313 322 327 332 341 350 355 360 370 379 384 389 395 404 409 414 428 434 442 451 459 464 472 477 486 493 498 507 517 522 527 537 542 550 559 566 572 581 590 595 604 613 623 628 637 647"
+             y="0"
+             sodipodi:role="line"
+             id="tspan56">1980s, the two battled it out. Moore won that battle. Disks started to shrink and got</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,256)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0 8 14 23 32 38 44 50 59 68 77 82 88 97 102 108 117 125 130 139 145 150 155 168 178 192 202 211 216 225 232 237 251 260 274 284 291 300 305 313 318 327 334 339 348 358 363 368 378 383 392 401 406 411 419 429 434 441 447 457 463 472 481 487 497 506 514 520 529 534 543 552 561 570 580 585 590 599 608 613 618 632 641 650 659 664 674"
+             y="0"
+             sodipodi:role="line"
+             id="tspan60">significantly faster. Computer memory started to get so ridiculously cheap that much of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,279)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 5 14 23 28 38 47 52 61 66 76 85 90 100 106 114 123 128 137 147 156 162 172 177 187 196 201 210 219 228 237 246 256 261 267 276 281 294 308 325 330 335 348 358 372 382 391 396 405 412 417 426 432 442 451 460 465 472 481 486 495 503 508 514 523 532 539 548 557 565 574 584 589 595 602 612 626 631 641 646 663 677"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">the data on disk could be cached in RAM. Computer clock rates increased from 1 MHz</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,302)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text70"><tspan
+             x="0 5 15 20 30 40 50 55 72 86 94"
+             y="0"
+             sodipodi:role="line"
+             id="tspan68">to 100 MHz.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,345)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text74"><tspan
+             x="0 13 22 27 32 41 50 55 69 75 85 92 102 112 122 132 140 145 150 155 164 173 178 183 189 203 212 217 225 235 244 253 258 263 269 275 284 293 299 308 317 322 331 340 350 355 365 374 383 392 401 406 411 421 426 434 443 450 456 465 474 479 485 494 502 507 516 523 528 533 542 551 560 565 575 584 591 596 605 619 629 635 640 646 656 665"
+             y="0"
+             sodipodi:role="line"
+             id="tspan72">By the mid-1990s, the time spent linking had begun to shrink faster than our ambitions</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,368)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0 9 19 28 34 44 49 63 72 81 90 95 105 112 122 131 138 147 161 169 174 183 190 200 214 219 224 230 239 244 258 267 276 285 290 299 308 316 325 333 338 343 349 355 364 373 378 383 389 403 412 417 427 436 445 452 461 470 478 487 497 502 507 517 522 531 536 550 559 564 569 578 585 590 600 606"
+             y="0"
+             sodipodi:role="line"
+             id="tspan76">could make programs grow. In many cases, link time decreased to a matter of </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4091,368)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text82"><tspan
+             x="0 8 17 26 36 45 55"
+             y="0"
+             sodipodi:role="line"
+             id="tspan80">seconds</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4154,368)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0"
+             y="0"
+             id="tspan84">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,391)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0 11 21 28 33 41 55 64 70 76 81 87 97 107 115 120 125 130 139 148 153 159 169 178 187 192 202 208 213 222 227 233 239 248 257 263 272 281 286 292 302 311 321 330 337 342 352 361 370 379 393 402 407 413 422 431 439 445 455 461 470 475 484 493 502 508 517"
+             y="0"
+             sodipodi:role="line"
+             id="tspan88">For small jobs, the idea of a linking loader became feasible again.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,434)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text94"><tspan
+             x="0 12 21 27 35 40 55 64 72 77 82 91 100 105 114 121 130 135 145 151 156 170 179 184 190 200 209 216 230 235 240 248 257 266 273 282 292 297 303 309 319 326 335 342 348 357 365 370 375 384 393 403 408 413 422 431 436 446 455 464 470 479 488 494 503 512 520 525 535 541"
+             y="0"
+             sodipodi:role="line"
+             id="tspan92">This was the era of Active-X, shared libraries, and the beginnings of </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4026,434)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">.jar</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4071,434)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0 6 12 18 27 35"
+             y="0"
+             sodipodi:role="line"
+             id="tspan100">files.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,457)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 13 23 37 47 56 61 70 77 85 90 99 108 118 123 133 142 152 158 167 176 184 189 198 207 217 222 231 241 246 251 260 269 274 282 292 297 303 312 320 325 330 335 344 353 358 363 378 387 392 401 411 420 426 436 441 446 456 465 474 483 488 497 506 515 521 530 535 540 550 560 565 570 579 588 593 599 605 614 623 629 638 647 652 661"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">Computers and devices had gotten so fast that we could, once again, do the linking at</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,480)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 6 16 25 35 40 45 51 65 74 79 84 100 109 114 123 133 142 148 158 163 169 175 184 193 198 203 213 222 231 236 245 254 261 266 274 283 293 302 309 318 324"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">load time. We could link together several </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3809,480)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">.jar</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3854,480)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0 6 12 18 27 35 40 45 55 62 67 75 84 94 103 110 119 125 130 138 147 156 163 172 182 187 193 199 209 216 225 232 238 247 255 260 266 275 280"
+             y="0"
+             sodipodi:role="line"
+             id="tspan116">files, or several shared libraries in a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,503)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 14 23 28 33 42 49 54 64 70 75 83 92 101 111 120 130 138 143 148 157 166 176 181 190 199 208 217 226 231 240 245 250 259 268 273 280 289 297 306 312 317 323 332 341 346 356 363 373 382 389 398 412 417 422 436 445 455 460 468 478 483 488 497 506 511 520 530 544 554 564 573 582 591 596 601 611 617 626 635 641"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">matter of seconds, and execute the resulting program. And so the component plugin</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,526)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 9 16 25 34 40 45 54 63 68 77 84 93 98 113 122 130 135 145 155 162 171"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">architecture was born.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,569)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 10 20 30 39 48 53 68 77 82 89 99 108 113 119 128 137 143 152 157 165 174 180 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">Today we routinely ship </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3675,569)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">.jar</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3720,569)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 6 12 18 27 35 40 50 57 62 76 87 98 106 111 121 128 133 141 150 159 166 175 185 190 196 202 212 219 228 235 241 250 258 263 272 280 285 295 301 310 319 325 334 342 347 352 362 367 376 385 391 399 404 410 419"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">files or DLLs or shared libraries as plugins to existing</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,592)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 9 19 29 35 41 50 59 64 70 80 89 97 102 107 113 119 124 133 143 152 157 172 181 190 195 200 205 215 220 229 236 245 254 259 268 273 282 287 301 311 321 326 331 341"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">applications. If you want to create a mod to </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3826,592)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 17 23 32 41 50 57 66 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">Minecraft</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3903,592)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 5 10 16 26 33 38 47 56 65 79 89 95 104 109 114 123 133 142 147 155 161 175 185 191 200 205 211 220 229 235 244 254"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">, for example, you simply include</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,615)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 9 19 28 35 40 49 58 66 71 81 95"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">your custom </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3580,615)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">.jar</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3625,615)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 6 12 18 27 35 40 46 55 60 69 74 83 92 99 104 113 119 128 133 139 149 155 165 174 180 185 190 196 202 207 216 226 235 240 255 264 273 278 283 288 298 303 313 319 328 337"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">files in a certain folder. If you want to plug </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3967,615)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 13 22 30 39 48 55 65 74"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">Resharper</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4053,615)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 6 15 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">into </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4088,615)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 12 18 26 35 44"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">Visual</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,638)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 11 16 25 35 41"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">Studio</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3531,638)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 5 10 19 29 38 43 51 57 71 81 87 96 101 107 116 125 131 140 150 159 164 169 178 187 192 201 211 221 228 238 248 255 261 270 275 284 289 303 314 325 333"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">, you simply include the appropriate DLLs.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,708)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0"
+             y="0"
+             id="tspan184">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3504,708)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 26 50 74 96 120 138 151 177"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">ONCLUSION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,753)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 12 21 30 38 47 52 62 71 80 89 103 109 118 127 133 139 148 153 159 165 174 183 192 202 207 213 219 225 234 242 247 252 267 276 282 291 300 305 314 323 332 337 347 356 361 371 377 386 395 404 413 423 428 433 443 452 461 466 475 484 491 496 505 510 515 522 531 540 545 551 565 574 579 584 593 600 609 614 619 628"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">These dynamically linked files, which can be plugged together at runtime, are the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,776)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text198"><tspan
+             x="0 8 18 24 29 44 53 60 69 74 83 93 107 117 127 136 145 154 159 167 172 182 188 193 203 212 219 224 233 240 249 258 264 269 278 287 292 301 308 317 325 330 335 341 346 351 360 369 377 382 387 396 405 414 423 428 438 448 453 462 471 480 487 495 500 505 515 524 529 534 549 558 563 572 581 591 600 605 614 621 628 634 644 653 663 668 677 682 687"
+             y="0"
+             sodipodi:role="line"
+             id="tspan196">software components of our architectures. It has taken 50 years, but we have arrived at a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,799)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text202"><tspan
+             x="0 10 16 25 34 43 48 63 72 81 88 97 102 111 121 135 145 155 164 173 182 187 192 202 208 217 226 232 241 246 255 262 271 280 286 291 300 309 314 323 330 339 344 353 362 371 376 386 395 400 405 414 423 428 437 446 454 463 472 478 483 493 502 508 517 526 532 537 542 551 559 564 574 584 594 604 612 621 631 636 641 651 656 661 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan200">place where component plugin architecture can be the casual default as opposed to the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,822)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text206"><tspan
+             x="0 9 18 25 34 43 49 58 67 76 81 90 96 102 112 119 124 129 135 140 145 155 164 173 182 187 202 211 219"
+             y="0"
+             sodipodi:role="line"
+             id="tspan204">herculean effort it once was.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,861)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text210"><tspan
+             x="0"
+             y="0"
+             id="tspan208">1</tspan></text>
+        <path
+           d="m 3480,862.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path212" />
+        <text
+           xml:space="preserve"
+           transform="translate(3487,861)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text216"><tspan
+             x="0 4 8 21 28 32 37 40 45 51 55 59 66 77 84 87 94 101 108 113 117 124 131 138 142 146 152 159 166 173 178 185 188 192 199 206 212 219 226 230 237 244 251 258 264 268 275 280 284 288 295 302 306 312 319 326 331 338 345 349 352 359 366 370 373 376 383 388 395 400 407 411 417 424 431 436 443 450 454 461 468 475 482 486 493 500 504 511 515 521 528 535 538 543 547 551 565 572 579 586 590 597 604 611 615 626 631 638 642 649 653 660 664 671 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan214">. My first employer kept several dozen decks of the subroutine library source code on a shelf. When you wrote a new</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3495,879)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text220"><tspan
+             x="0 7 12 19 26 31 38 49 52 56 63 70 77 81 87 90 101 108 111 118 122 129 134 141 148 155 162 169 173 180 187 194 198 205 210 214 218 225 232 238 245 249 256 263 270 277 283 287 294 301 308 312 318 321 328 335 342 349 356 360 363 367 371 378 385 389 396 400 404 411 418 422 429 436 443 447 454 459 463 470 477 484 489 493 500 507 514 521"
+             y="0"
+             sodipodi:role="line"
+             id="tspan218">program, you simply grabbed one of those decks and slapped it onto the end of your deck.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,902)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text224"><tspan
+             x="0"
+             y="0"
+             id="tspan222">2</tspan></text>
+        <path
+           d="m 3480,903.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path226" />
+        <text
+           xml:space="preserve"
+           transform="translate(3487,902)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text230"><tspan
+             x="0 4 8 19 26 30 37 44 47 50 56 59 63 74 81 87 91 95 102 107 111 115 122 129 135 142 146 153 156 163 167 178 185 192 199 202 209 216 222 226 233 239 246 253 257 264 271 276 283 287 298 305 316 323 328 334 337 341 352 359 362 369 376 380 387 390 397 401 408 415 419 423 430 437 441 445 452 457 464 470 477 484 488 499 506 513 520 524 531 538 545 549 556 563 574 581 586 593 600 604 608 615 622 626 633 640 651 658 665 669 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan228">. Actually, most of those old machines used core memory, which did not get erased when you powered the computer</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3495,920)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text234"><tspan
+             x="0 7 14 25 32 36 40 53 60 64 71 76 80 87 94 98 101 108 113 117 121 125 132 139 143 148 155 162 169 173 176 183 190 194 197 200 207 212 219 224 231 235 238 245 252 259 266 273 277 282 289 294 298 305 312 319 325 329 336 340 344 351 355 359 362 373 380"
+             y="0"
+             sodipodi:role="line"
+             id="tspan232">down. We often left the function library loaded for days at a time.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,942)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text238"><tspan
+             x="0"
+             y="0"
+             id="tspan236">3</tspan></text>
+        <path
+           d="m 3480,943.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path240" />
+        <text
+           xml:space="preserve"
+           transform="translate(3487,942)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text244"><tspan
+             x="0 4 8 21 28 35 40 47 51 57 61 64 71 82 85 89 99 106 117 124 131 135 142 147 151 157 164 171 178 185 188 192 203 210 221 228 233 239 242 246 253 260 267 271 278 285 292 298 301 305 312 316 323 330 337 344 347 354 358 365 372 379 384 391 395 402 409 413 424 431 438 442 449 455 459 463 472 479 482 488 492 495 502 513 517 524 531 534 541 545 550 555 562 573 577 581 588 595 599 606 613 620 627 633 637 641 648 652 659 666 673 680"
+             y="0"
+             sodipodi:role="line"
+             id="tspan242">. Moore’s law: Computer speed, memory, and density double every 18 months. This law held from the 1950s to 2000,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3495,960)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text248"><tspan
+             x="0 7 14 18 22 26 33 40 47 50 54 61 65 69 72 79 86 92 96 100 105 112 117 121 128 131 138 145 152 156 161 168 172 179 185 188 192 198 202 209 216 223 230 237 241 248 255 258 265"
+             y="0"
+             sodipodi:role="line"
+             id="tspan246">but then, at least for clock rates, stopped cold.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

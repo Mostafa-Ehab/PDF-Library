@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 3480,0 h 696 V 1056 H 3480 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 3480,66 h 696 V 996 H 3480 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-3480)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-3480)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(3480,82.67188)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 8 18 32 41 46 56 65 74 83 92 97 106 116 121 127 137 146 151 161 167 172 178 184 193 202 207 216 226 235 244 249 254 259 265 274 284 293 302 312 317 322 331 340 345 354 361 370 379 385 390 399 408 413 422 429 438 443 453 462 470 479 489 494 504 513 518 526 535 542 552 558 567 576 584 589 595 603 608 618 624 629 638"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">some vague notion of line count. Indeed, an architecture based on services is often</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 9 18 24 30 39 49 54 63 68 76 85 92 102 108 117 126 133 143 150 156 165 174 179 188 198 203 212 219 228 237 243 248 257 266 271 280 287 296"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">called a service-oriented architecture.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,149)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 6 12 17 22 31 40 45 50 59 69 83 92 101 110 116 125 130 139 146 155 160 168 177 182 187 197 203 209 214 222 232 246 255 260 269 275 284 291 305 310 320 329 335 341 349 354 360 369 374 383 393 402 409 414 428 434 443 453 458 463 473 483 492 499 504 509 524 534 541 548 556 561 566 572 579 593 598 607 617 622 627 636 646 652 661 670 675 680"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">If that nomenclature set off some alarm bells in your mind, don’t worry. I’m not going to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,172)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 5 14 20 26 31 40 50 59 64 69 78 87 92 97 108 118 131 136 142 150 155 160 169 178 183 193 202 210 215 220 230 240 248 256 262 272 278 287 292 301 308 317 326 332 337 346 355 360 369 376 385 390 395 405 412 417 422 431 440 445 450 464 470 479 486 496 503 511 520 527 537 543 552 561 569 574 583 590 599 604 609 618 627 632 647 656 666 675 680 690"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">tell you that SoA is the best possible architecture, or that micro-services are the wave of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 5 14 23 28 34 43 48 57 64 73 78 83 95 104 113 118 128 138 144 153 158 163 173 182 188 197 206 211 225 234 244 253 258 267 276 283 292 297 303 311 316 321 330 339 344 349 357 367 381 390 395 401 415 424 432 437 452 461 466 475 484 494 503 508 513 523 528 536 545 555 564 571 580 585 594 599 609 618"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">the future. The point being made here is that sometimes we have to separate our</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 9 19 33 43 53 62 71 80 85 93 98 107 113 119 124 129 138 147 152 167 176 185 190 195 205 210 215 224 233 238 246 255 262 272 278 287 296 301 307 316 326 335 341"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">components all the way to the service level.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,261)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 13 22 36 45 59 69 78 84 89 94 103 108 117 127 137 147 152 161 168 177 186 192 197 206 215 220 229 236 245 250 256 265 274 284 293 301 306 316 326 331 337 347 356 364 369 379 389 398 407 412"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">Remember, a good architecture leaves options open. </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3897,261)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 12 21 30 35 45 54 63 73 82 92 98 104 113 122 127 141 151 161 170 175 181 189 194 204 213 222 227 237"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">The decoupling mode is one of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,284)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 5 14 24 32 41 46 56 66 71 77 87 96 104"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">those options.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,327)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 13 22 28 38 45 54 59 74 83 88 97 106 116 122 132 139 148 153 158 167 176 181 186 191 201 211 217 226 231 237 246 253 258 267 276 282 287 292 298 307 312 318 326 331 337 347 357 366 371 376 386 391 396 405 414 419 429 434 443 452 459 464 469 484 494 499 509 518 524 530 539 544 552"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">Before we explore that topic further, let’s look to the other two bullets.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,397)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0"
+             y="0"
+             id="tspan70">I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3493,397)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 24 48 70 90 112 136 160 182 206"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">NDEPENDENT</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3729,397)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0"
+             y="0"
+             id="tspan78">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3753,397)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 22 45 67 89 115 135 146 169 191 204 226 239 261"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">EVELOP-ABILITY</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,442)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 12 21 30 35 40 49 55 62 72 77 87 96 102 108 117 122 127 142 151 159 164 174 183 193 202 208 218 228 242 251 260 265 270 275 288 294 303 312 319 325 334 339 354 363 372 381 386 395 405 419 429 439 448 457 466 471 479 484 493 500 509 514 522 527 534 544 553 562 568 577 582 592 601 610 620 629 639 645 654 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">The third bullet was development. Clearly when components are strongly decoupled,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,465)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 5 14 23 28 34 43 48 57 64 70 79 86 95 104 113 122 127 137 146 151 166 175 184 193 198 203 212 221 235 243 248 254 262 267 281 287 292 298 307 316 321 330 340 345 350 356 362 367 372 381 390 395 405 414 422 428 437 446 454 462 467 474 483 489 498 506"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">the interference between teams is mitigated. If the business rules </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3991,465)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 10 20 29 36 41 46 55 64 74 89 94 103 113 123 132 137 142 147 156"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">don’t know about the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,488)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 13 19 24 29 34 43 52 61 66 75 80 85 94 103 117 122 127 136 145 150 155 161 171 180 189 197 206 214 219 229 238 243 248 257 266 271 284 290 295 304 313 322 331 341 346 351 365 374 383 392 397 406 412 418 427 436 441 446 455 460 465 474 483 497 502 507 516 525 530 535 541 551 560 569 577 586 594 599 609 618 623 628 637"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">UI, then a team that focuses on the UI cannot much affect a team that focuses on the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,511)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 10 19 27 33 42 51 59 67 72 79 88 94 103 111 116 121 127 133 138 143 152 161 166 175 183 192 197 206 215 223 232 240 245 250 259 268 282 290 299 305 315 324 332 337 346 353 362 367 377 386 395 405 414 424 430 439 449 454 460 467 477 491 496 506 515 524 529 538 547 557 562 571 580 586 591 596 601 610 619 628 633 642 647 652 661 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">business rules. If the use cases themselves are decoupled from one another, then a team</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,534)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 5 14 23 28 33 39 49 58 67 75 84 92 97 107 116 121 126 135 144"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">that focuses on the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3629,534)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 10 20 30 40 50 60 70"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">addOrder</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3714,534)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 9 17 26 31 40 49 57 66 71 77 85 90 99 109 114 119 125 131 140 149 155 164 169 174 184 189 195 204 209 218 225 231 240 247 256 261 276 282 287 296 301 310 315 320 329 338 352 357 362 371 380 385 390 396 406 415 424 432 441"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">use case is not likely to interfere with a team that focuses</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,557)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 10 19 24 29 38 47"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">on the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3532,557)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">deleteOrder</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3647,557)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 9 17 26 31 40 49 57 66"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">use case.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,600)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 11 21 26 32 42 51 60 65 74 82 87 92 101 110 115 121 130 139 148 155 163 168 177 186 196 201 210 218 227 232 241 250 258 267 275 280 289 296 305 310 320 329 338 348 357 367 373 382 392 397 402 407 416 425 430 439 446 455 464 470 475 484 493 498 507 514 523 528 538 544 549 554 563 572 577 585 594 602 607 616 630 635 650 656 662"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">So long as the layers and use cases are decoupled, the architecture of the system will</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,623)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 8 17 27 37 47 54 59 64 69 78 87 92 102 109 118 127 136 142 150 159 164 170 180 189 194 204 210 215 220 229 238 243 248 257 266 280 288 293 298 304 311 318 327 335 345 354 363 368 374 384 393 398 408 414 419 434 443 452 457 466 475 482 487 492 501 510 519 524 533 540 549 554 564 571 580 589 598 604 612 621 631 636 645"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">support the organization of the teams, irrespective of whether they are organized as</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,646)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 6 15 24 29 38 45 54 59 64 73 82 96 104 109 114 123 133 147 157 167 176 185 194 199 204 209 218 227 241 249 254 259 265 274 283 292 299 304 309 318 327 341 349 354 359 369 376 381 389 399 413 422 427 437 442 451 460 467 472 482 491 498 504 513 518 524 534 543"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">feature teams, component teams, layer teams, or some other variation.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,717)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0"
+             y="0"
+             id="tspan142">I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3493,717)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 24 48 70 90 112 136 160 182 206"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">NDEPENDENT</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3729,717)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0"
+             y="0"
+             id="tspan150">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3753,717)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 22 42 64 90 111 134 156 169 191 204 226"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">EPLOYABILITY</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,762)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 12 21 30 35 45 54 63 73 82 92 98 104 113 122 127 137 143 148 153 162 171 176 185 193 202 207 216 225 233 242 250 255 264 273 283 288 294 303 312 321 328 336 341 350 356 364 374 379 388 394 400 410 417 427 435 440 449 454 463 469 478 487 492 502 511 520 527 536 545 550 560 566 571 577 583 592 601 607 617 623 629 635 640 649 654 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">The decoupling of the use cases and layers also affords a high degree of flexibility in</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,785)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 10 19 29 35 45 54 68 77 86 91 96 101 107 116 126 135 144 154 159 164 170 176 181 186 195 204 209 219 228 237 247 256 266 272 278 287 296 301 307 315 320 330 340 349 358 363 378 387 393 399 404 409 414 423 432 441 446 452 457 462 470 479 489 498 504 514 519 529 538 543 553 563 571 579 585 595 601 610 615 620 630 635 644 654 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">deployment. Indeed, if the decoupling is done well, then it should be possible to hot-</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,808)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 8 23 32 42 47 53 62 71 80 87 95 100 109 118 128 133 142 150 159 164 173 182 190 199 207 212 218 227 232 239 248 257 266 272 281 290 295 303 312 320 325 334 348 356 361 366 380 390 400 406 415 424 429 438 443 452 461 476 481 490 498 507 512 521 530 538 547 552 561 571 580 586 596 601 611 620 625 634 639 647 653 667 677 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">swap layers and use cases in running systems. Adding a new use case could be a simple</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,831)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 9 17 22 31 41 51 57 66 75 80 89 94 100 109 124 129 138 147 162 167 173 182 189 194 200 206 212 221 229 234 244 251 256 264 273 280 290 296 305 314 322 327 332 342 347 352 361 370 375 383 392 400 405 414 428 433 448 457 463 469 478 483 489 498 507 517 523 532 541 546 551 560 569 574 581 590 598 603 608 617 623 633 642 651"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">as adding a few new jar files or services to the system while leaving the rest alone.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,901)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0"
+             y="0"
+             id="tspan174">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3504,901)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 24 44 66 79 103 123 145 158 184"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">UPLICATION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,946)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0 14 21 30 39 45 50 59 68 73 81 86 96 102 107 116 125 130 136 145 151 157 162 168 177 182 192 197 206 211 216 223 232 242 262 271 276 281 288 297 307 312 317 326 335 340 345 354 360 369 378 387 395 400 410 419 424 429 438 447 453 460 465 471 480 489 496 501 511 517 522 532 541 551 557 563 572 581 586 592 602 611"
+             y="0"
+             sodipodi:role="line"
+             id="tspan182">Architects often fall into a trap—a trap that hinges on their fear of duplication.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,989)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 14 23 33 39 45 54 63 68 74 84 93 98 104 112 117 126 135 144 153 160 169 175 181 190 195 204 209 219 228 238 243 248 257 263 272 281 286 292 301 306 314 324 330 335 350 359 366 375 380 385 401 410 415 425 435 444 451 456 461 467 473 482 491 496 506 515 525 531 537 546 555 560 569 579 584 593 603 613 622 627 632 650 659 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">Duplication is generally a bad thing in software. We don’t like duplicated code. When</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

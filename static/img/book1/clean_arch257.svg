@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 1392,0 h 696 V 1056 H 1392 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 1392,66 h 696 V 996 H 1392 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-1392)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-1392)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(1392,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 12 22 31 36 44 53 63 72 78 88 93 102 111 121 130 135 145 154 163 173 182 192 198 207 217 222 231 241 250 257 262 272 281 289 295 304 313 321 329 334 341 350 356 365 373 378 384 391 401 415 420 429 439 448 455 460 473 479 484 489 495 500 510 520 529 536 541 546 555 564 574 589 594 609 618 627 632 641 650 657 662 667 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">You should have decoupled your business rules from your UI. I don’t know whether the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 14 19 28 35 44 53 59 64 73 82 87 95 100 109 118 128 133 143 153 162 171 176 181 190 199 204 209 214 228 237 246 251 261 270 279 284 290 297 307 312 318 328 338 347 352 357 367 372 381 390 399 406 411 416 425 434 440 447 452 460 465 475 482 490 495 500 514 523 533 538 544 549 559 568 577 586 591 596 605 614 621 630 635 644 649 654 659 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">Q architects had done that. One day I’d love to hear their story. Had I been there at the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 5 11 25 34 39 44 50 55 64 73 80 85 94 100 109 115 124 129 144 154 163 169 179 184 193 202 212 221 226 232 242 252 262 268 277 287 292 302 311 318 327 332 341 350 357 367 372 377 387 392 398 406 416 422 431 436 445 450 455 464 473 478 488 497 505 511 520 529 537 545 550 557 566 572 581 589 594 600 607 617 631 636 641 650"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">time, I certainly would have lobbied very hard to isolate the business rules from the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 14 27 33 38 43 53 62 71 80 89 97 106 111 120 130 139 144 153 162 172 181 188 193 202 211 221 236 241 256 265 274 279 284 289 298 307 312 326 335 342 351 360 365 371 380 389 394 403 412 421 427 436 444 453 461 466 481 487 493 499 504 514 524 529 538 547 556 561"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">GUI, because you never know what the marketing geniuses will do next.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 14 24 39 44 53 63 72 80 86 96 105 112 117 126 136 150 160 169 178 187 192 206 211 216 231 240 246 255 264 269 283 292 301 310 318 323 332 337 343 353 363 372 378 387 392 400 414 423 430 435 445 454 464 473 482 487 492 505 514 523 532 541 546 552 561 566 572 577 582 589 598 604 613 622 630 639 649 654 663"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">Now consider company A, which makes a lovely smartphone. Recently it released an</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 9 19 28 35 44 54 63 73 78 88 97 104 112 118 128 137 142 152 158 163 169 174 182 187 196 206 216 225 232 241 246 252 261 270 275 283 292 300 305 314 328 337 342 349 355 360 366 374 379 387 397 402 410 415 422 431 440 449 458 463 468 477 486 491 496 511 520"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">upgraded version of its “operating system” (it’s so strange that we </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1917,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 9 18 27 32 37 46 52 61 66 75 85 95 104 109 114 119 128"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">can talk about the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 10 20 29 36 45 50 56 65 74 79 87 96 104 109 118 132 137 143 152 160 166 176 185 190 199 204 214 223 233 242 251 258 263 268 282 296 306 315 324 329 339 344 353 362 369 374 379 388 394 403 412 420 425 430 435 444 453 458 463 472 482 492 501 508 517 522 528 537 546 551 559 568 576 581 590 604 613 618 627 637 646 653 662 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">operating system inside a phone). Among other things, that “operating system” upgrade</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 9 19 33 43 49 58 63 72 78 87 92 101 110 119 128 137 146 156 161 166 175 184 189 195 205 215 224 229 238 247 257 262 268 277 286 292 297 307 313 318 327 333 339 344 349 358 367 372 381 391 401 407 413 422 431 436 442 452 461 469 474 479 497 506 515 524 529 540 550 564 573 578 592 601 608 617 626 631 637 646"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">completely changed the look and feel of all the applications. Why? Some marketing</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,287)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 9 18 27 33 42 50 55 63 72 78 88 93 101 111 116 121 127 132 140 149 159 169 179 187 196"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">genius said so, I suppose.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,330)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 6 13 27 32 41 51 56 61 70 79 84 93 102 112 121 128 133 138 148 157 162 167 176 185 190 198 208 214 219 234 243 250 259 264 279 285 290 299 305 314 319 324 333 342 347 352 362 371 381 387 396 405 410 415 423 433 438 444 449 459 469 478 485 490 495 504 513 523 538 543 549 555 560 565 574 583 588 593 602 611 620 629 638"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">I’m not an expert on the software within that device, so I don’t know if that change</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,353)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 9 18 27 35 44 54 59 68 77 86 91 99 105 114 123 129 135 141 150 159 168 173 178 188 194 200 206 212 221 230 236 241 247 256 264 269 275 285 292 297 302 311 320 325 335 342 352 361 368 377 391 405 414 421 429 434 444 450 455 460 469 478 483 492 502 512 520 525 530 539 548 553 558 565 574 583 588 594 603 608 617 627 641 651 660 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">caused any significant difficulties for the programmers of the apps that run in company</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,376)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 12 18 26 31 41 50 60 69 78 83 88 94 99 109 119 124 133 143 153 162 167 172 181 190 195 204 211 220 229 235 240 249 258 263 271 276 285 290 295 309 314 319 328 337 347 352 357 366 375 380 389 396 405 414 420 425 434 443 448 456 461 471 477 482 487 496 505 510 519 529 539 547 552 557 566 575 584 594 599 604 613 622 628 635 640 653 659 664 673 682"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">A’s phone. I do hope the architects at A, and the architects of the apps, keep their UI and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,399)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 10 19 27 33 42 51 59 67 72 79 88 94 103 111 116 122 130 140 146 155 160 169 179 184 190 197 207 221 226 235 244 253 262 267 277 282 291 300 306 311 316 326 335 344 353 362 370 379 384 389 398 407 414 423 428 437 444 453 458 467 473 488 497 506 514 519 533 542 549 558 567 572 578 587 596 601 610 619 628 634 643 651 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">business rules isolated from each other, because there are always marketing geniuses</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,422)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 10 19 24 29 34 43 52 59 68 73 79 88 96 101 106 121 130 136 141 147 156 165 170 175 185 190 200 210 219 228 237 246 251 261 270 275 280 289 298 303 312 321 330 335 340 346 352 357 362 368 377 382 392 398 403 408 418 424 429 438 448 457 467 473 479 488 497 502 511 521 530 535 544 551 560 569 574 583"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">out there just waiting to pounce on the next little bit of coupling you create.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,492)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0"
+             y="0"
+             id="tspan90">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1414,492)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 26"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">HE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1470,492)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0"
+             y="0"
+             id="tspan98">U</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1494,492)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 20 38 64 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">PSHOT</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,537)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 12 21 30 35 44 54 62 71 81 86 91 97 105 110 118 124 138 148 154 163 168 173 182 188 196 202 207 219 228 237 242 256 269 275 280 286 294 299 308 313 323 332 337 346 352 358 363 368 380 389 398 403 418 427 437 442 448 456 461 470 475 489 502 508 513 518 529 539 544 549 558 567 572 587 596 606 611 617 625 630 639 644 654 663 668 677 683 689"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">The upshot is simply this: The GUI is a detail. The web is a GUI. So the web is a detail.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,560)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 14 23 33 38 43 52 60 65 74 83 88 97 104 113 122 128 133 142 151 156 161 166 175 185 194 199 214 223 232 237 242 247 257 262 272 281 286 291 301 310 315 324 330 336 344 349 355 361 370 379 384 389 398 407 412 417 427 436 445 451 460 470 475 485 495 504 513 523 532 539 545 554 562 567 572 581 590 595 600 609 618 627 637 642 647 656 665"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">And, as an architect, you want to put details like that behind boundaries that keep them</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,583)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 8 17 27 36 43 52 57 66 71 77 84 94 108 113 122 132 141 148 153 162 172 179 188 193 203 212 220 226 235 244 252 260 265 271 281 290 296 305"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">separate from your core business logic.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,626)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 12 21 27 36 45 50 59 69 79 88 93 98 104 109 114 119 128 134 142 147 162 171 180 186"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">Think about it this way: </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1583,626)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 12 21 30 35 53 65 78 83 89 97 102 111 120 125 131 145 150 160 169 179 185 194"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">The WEB is an IO device</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1786,626)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 5 10 16 25 30 35 44 53 58 68 78 88 98 106 111 116 131 140 145 151 160 169 176 185 194 204 209 214 223 232 237 247 256 262 271 280 285 295"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">. In the 1960s, we learned the value of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,649)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 15 22 28 33 39 48 57 62 71 81 91 97 103 112 121 126 132 142 151 159 164 169 178 187 192 197 212 221 228 237 242 252 261 271 277 286 295 300 306 315 325 334 344 353 362 372 381 390 395 400 405 417 426 435 440 454 464 469 475 485 494 499 505 515 524 529 535 545 552 557 562 571 580"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">writing applications that were device independent. The motivation for that</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,672)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 6 15 25 34 44 53 62 72 81 90 99 108 113 122 131 139 144 153 163 168 173 182 191 200 209 218 227 237 242 247 259 268 277 282 297 306 316 321 327 335 340 349 359 364 369 378 387 392 401 410 419 428 438 443 449 459 468 473 478 488 493 498 507 516 521 526 533 542 548 557"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">independence has not changed. The web is not an exception to that rule.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,715)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 14 21 26 32 40 45 51 56 65 70 82 91 100 105 114 121 130 139 153 162 171 176 181 190 199 208 213 223 232 237 251 260 270 279 284 289 298 307 312 317 326 331 345 358 364 369 374 380 386 395 404 409 414 423 432 437 452 461 471 476 481 487 495 500 508 518 523 532 541 547 557 566 575 580 589 598 608 613 620 626 635 644 649 654 663 672 677 682 688"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">Or is it? The argument can be made that a GUI, like the web, is so unique and rich that it</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,738)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 6 14 19 28 38 46 55 62 72 77 82 92 97 107 116 123 131 140 149 154 163 168 178 187 197 203 212 221 228 234 243 253 262 272 281 290 300 309 318 323 328 337 344 353 362 368 373 382 391 396 405 412 421 426 431 449 458 467 476 481 490 500 509 514 519 528 534 543 552 557 566 576 586 595 600 605 610 619"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">is absurd to pursue a device-independent architecture. When you think about the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,761)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 6 15 20 27 33 42 51 60 66 75 83 88 98 104 109 117 126 136 145 156 165 172 178 188 193 198 208 217 223 229 239 248 253 259 269 278 283 293 300 305 315 322 331 340 347 356 365 375 382 392 399 409 419 424 438 446 460 474 479 488 497 503 509 517 522 527 537 544 549 558 567 576 581 591 597 602 607 616 625 630 640 646 655 660 669 679 686"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">intricacies of JavaScript validation or drag-and-drop AJAX calls, or any of the plethora</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,784)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 10 16 21 31 36 45 54 61 66 81 87 97 106 115 120 128 133 142 151 161 166 175 184 194 203 212 217 225 230 239 249 258 263 272 281 290 295 305 314 319 324 334 343 348 357 362 377 386 396 401 411 420 429 438 443 448 454 459 465 473 478 487 496 504 513 518 523 533 538 547 554 563 572 581 586 591 600 609 614 619 629 638 648 654 663"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">of other widgets and gadgets you can put on a web page, it’s easy to argue that device</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,807)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 6 15 25 34 44 53 62 72 81 90 99 108 113 119 127 132 138 152 162 169 178 187 192 198 207 216 222"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">independence is impractical.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,850)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 10 20 25 33 43 57 66 71 80 89 94 103 112 117 122 127 132 141 147 155 160 166 174 179 184 191 200 209 214 219 231 240 249 254 260 269 274 283 290 299 308 313 319 329 338 343 353 362 367 382 391 400 409 414 419 428 437 442 451 461 471 477 483 492 501 506 512 522 531 536 545 554 564 569 574 583 592 597 611 624 630 635 641"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">To some extent, this is true. The interaction between the application and the GUI is</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,873)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 9 18 27 36 41 46 55 64 69 75 84 89 104 113 122 130 135 140 149 158 163 168 177 184 193 198 208 217 223 228 237 242 250 260 269 278 284 290 296 305 310 315 325 330 335 344 353 358 367 373 382 392 397 407 413 418 432 445 451 456 465 475 484 489 498 507 517 526 531 536 548 557 566 571 581 590 599 608 617 622 632 641 646 661 670 679"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">“chatty” in ways that are quite specific to the kind of GUI you have. The dance between</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,896)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 9 14 24 31 41 56 64 73 80 85 94 103 113 118 127 132 147 156 166 171 180 190 200 206 212 221 230 235 241 251 260 265 271 279 284 294 300 306 312 321 328 337 346 351 356 362 369 379 393 398 403 412 421 426 436 445 454 463 472 477 487 496 501 516 525 534 543 548 557 562 572 581 589 598 603 613 623 628 642 655 661 666 675 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">a browser and a web application is different from the dance between a desktop GUI and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,919)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 6 11 19 24 33 43 53 59 65 74 83 88 94 104 113 118 123 134 141 150 156 165 174 179 184 194 199 208 218 226 231 238 247 256 261 266 276 285 290 295 300 309 318 323 328 338 347 356 365 374 379 384 389 398 407 412 427 436 445 450 460 469 479 485 494 503 511 516 525 532 541 546 555 565 573 578 585 594 603 608 617 627 632 642 651 656 661 671"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">its application. Trying to abstract out that dance, the way devices are abstracted out of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,942)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 13 27 33 47 52 57 65 74 83 97 105 110 119 128 134 140 149 158 164 173 178 183 193 198 208 217 222 232 242 250 258 264 274 280 289"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">UNIX, seems unlikely to be possible.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,985)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 13 22 27 32 41 50 60 65 74 83 90 95 105 115 124 133 143 152 159 168 173 183 192 197 212 221 230 239 244 249 258 267 272 285 291 296 305 314 324 329 334 343 352 357 366 376 386 392 398 407 416 421 427 437 446"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">But another boundary between the UI and the application </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1843,985)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0 9 18"
+             y="0"
+             sodipodi:role="line"
+             id="tspan182">can</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1875,985)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 10 19 24 33 43 51 56 63 72 81 86 95 105 110 115 127 136"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">be abstracted. The</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

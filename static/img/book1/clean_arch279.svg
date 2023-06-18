@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 6960,0 h 696 V 1056 H 6960 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 6960,66 h 696 V 996 H 6960 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-6960)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-6960)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(6960,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 10 19 25 31 41 46 51 57 71 80 85 90 102 112 121 126 140 149 158 163 172 181 191 200 205 213 222 231 240 245 253 262 271 280 285 292 301 307 316 324 329 338 348 357 364 372 381 387 393 398 403 408 417 426 435 440 449 457 466 475 481 487 496 501 515 524 533 539 545 554 562 567 572 577 586 595 609 617 626 632 642 651 659 664 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">build time. You may have seen such rules yourself; they usually manifest themselves as</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 7 16 25 34 40 49 56 61 70 79 89 96 105 113 121 127 137 146 154 159 169 176 181 196 202 208 218 227 236 243 253 258 266 271 278 284 293 302 310 315 320 329 338 343 348 356 361 370 375 384 389 398 403 412 422 431 439 444 450 459 464 474 483 492 501 510 519 528"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">regular expressions or wildcard strings that state “types in package </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(7493,106)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 10 20 30 40 50"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">**/web</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(7558,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 8 17 27 36 42 52 57 66 76"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">should not</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 9 18 27 36 44 52 57 62 71 81 90 98 103 109 118"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">access types in </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(7083,129)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 10 20 30 40 50 60"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">**/data</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(7153,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 9 14 19 28 37 47 52 57 66 75 84 89 98 105 114 119 128 137 146 155 164 169 178 188 193 202 208 213 222 229 234 239 248 257 262 271 281 295 305 311 317 326 331 337 347 356 361 369 374 383 393"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">”; and they are executed after the compilation step.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,172)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 12 21 27 35 40 49 59 69 76 86 95 104 113 118 124 132 137 146 151 157 163 168 173 179 188 193 202 209 218 228 237 242 247 257 266 271 276 282 287 292 301 310 319 324 334 344 349 354 363 372 377 382 389 395 404 413 418 423 430 439 449 459 466 471 477 486 495 500 510 516 526 532 541 546 552 562 571 579 584 594 600 605 610 619"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">This approach is a little crude, but it can do the trick, reporting violations of the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 9 16 25 34 40 45 54 63 68 77 84 93 98 108 115 121 130 139 145 155 161 170 178 183 188 197 206 211 216 225 235 244 251 261 270 275 285 294 300 306 315 324 334 339 348 356 361 370 375 380 389 398 412 417 426 435 445 450 457 466 476 485 490 499 509 519 528 535 540 546 555 561 567 573 582 591 596 601 610 619 624 634 643 649 655 665"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">architecture principles that you’ve defined as a team and (you hope) failing the build.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 12 21 30 35 45 52 62 72 78 87 101 106 121 127 132 141 146 156 166 171 180 185 194 204 214 221 231 240 249 258 267 275 280 286 294 299 304 313 322 327 332 337 346 355 364 369 378 385 394 399 405 414 420 426 432 442 448 457 462 467 476 485 495 500 505 514 523 528 534 543 552 562 572 581 590 599 604 610 620 630 640 645 651"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">The problem with both approaches is that they are fallible, and the feedback loop is</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 6 16 25 34 43 50 55 60 69 78 87 92 98 103 108 116 125 135 144 150 160 165 175 184 189 194 200 206 211 217 226 232 237 242 251 260 269 278 287 296 305 314 324 329 334 339 348 354 362 367 377 384 393 402 407 413 422 431 436 445 454 463 468 473 482 489 498 503 512 517 526 536 546 555 560 570 579 587 596 601 607 616 621 631 636 645 650 659 669 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">longer than it should be. If left unchecked, this practice can turn a code base into a “big</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,267)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 10 19 25 31 36 46 52 57 71 80 90 95"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">ball of mud.”</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(7064,260)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0"
+             y="0"
+             id="tspan78">6</tspan></text>
+        <path
+           d="m 7064,261.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path82" />
+        <text
+           xml:space="preserve"
+           transform="translate(7076,267)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 6 13 23 28 38 47 54 62 72 81 90 96 102 111 116 122 128 137 146 151 156 166 171 180 188 197 202 207 216 225 230 239 249 263 273 279 285 294 301 306 311 321 326 335 344 350 360 367 376 385 390 404 413 418 427 434 443 452 458 463 472 481 486 495 502 511 516 522 528 533 542 547 552 561 567"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">I’d personally like to use the compiler to enforce my architecture if at all</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,290)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0 10 20 28 36 42 52 58 67"
+             y="0"
+             sodipodi:role="line"
+             id="tspan88">possible.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text94"><tspan
+             x="0 12 21 27 35 40 50 57 63 72 81 89 94 103 111 116 121 131 136 141 150 159 164 173 183 192 201 210 219 228 237 242 252 261 266 275 285 299 309 319 328 337 346 351 360 365 375 385 390 396 406 415 420 425 431 436 442 450 455 464 469 478 487 497 504 510 520 525 534 544 554 561 571 580 589 598 603 608"
+             y="0"
+             sodipodi:role="line"
+             id="tspan92">This brings us to the “package by component” option. It’s a hybrid approach to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,356)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 9 19 28 35 44 49 58 64 73 82 87 102 111 118 128 137 142 150 159 168 177 182 190 200 205 211 220 226 231 236 251 257 262 271 276 281 290 299 304 313 323 332 338 343 353 359 364 374 383 392 402 408 414 423 432 437 446 452 458 463 473 479 484 489 498 507 512 519 528 536 546 556 565 573 579 589 595 601 607 612 618 627 635 640 647 656 662 671 676 685"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">everything we’ve seen so far, with the goal of bundling all of the responsibilities related</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,379)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0 5 15 20 29 34 42 48 57 66 72 81 86 95 105 114 121 129 138 145 154 161 170 176 185 194 204 209 218 228 242 252 262 271 280 289 294 299 305 314 319 329 334 343 348 356 362 371 380 386 395 400 408 417 427 436 441 451 460 469 478 487 496 505 510 515 521 526 532 540 545 554 564 574 583 588 593 598 607 616 622 631 640 645"
+             y="0"
+             sodipodi:role="line"
+             id="tspan100">to a single coarse-grained component into a single Java package. It’s about taking a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,402)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 8 17 24 34 40 49 58 65 74 83 92 97 104 110 119 124 134 140 149 164 169 179 185 190 199 204 212 222 228 233 248 257 264 273 278 286 295 303 308 317 331 336 341 356 365 371 380 389 394 400 408 413 421 431 445 454 459 468 474 483 492 497 512 521 528 535 544 549 557 566 575 581 590 599 604 619 625 630"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">service-centric view of a software system, which is something we’re seeing with</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,425)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 14 20 29 36 46 53 61 70 77 87 93 102 111 116 125 132 141 150 156 161 170 179 184 193 200 209 217 222 231 239 244 259 268 274 280 285 290 296 305 310 315 324 333 338 346 355 369 378 383 398 407 416 421 426 435 444 449 454 464 474 481 486 494 499 508 517 527 532 541 551 560 570 575 584 591 599 604 609 616 625 634 639 644 649 658"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">micro-service architectures as well. In the same way that ports and adapters treat the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,448)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 15 24 34 39 48 56 61 67 76 84 89 94 103 112 122 127 136 145 152 157 167 176 182 188 198 207 214 223 228 242 251 260 269 278 287 293 301 315 320 325 334 344 353 362 371 380 389 398 403 413 422 427 436 446 460 470 480 489 498 507 512 521 526 535 544 553 563 571 576 581 590 599 604 613 621 630"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">web as just another delivery mechanism, “package by component” keeps the user</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,471)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0 6 15 20 29 36 42 51 60 69 74 82 91 101 110 117 126 131 140 145 151 158 168 182 187 192 201 210 218 227 232 241 251 260 267 275 284 291 300 307 316 322 331 340 350 355 364 374 388 398 408 417 426 435 440 448 453"
+             y="0"
+             sodipodi:role="line"
+             id="tspan116">interface separate from these coarse-grained components. </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(7418,471)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 11 17 26 35 42 51 56 66 76 81"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">Figure 34.6</tspan></text>
+        <path
+           d="m 7418,472.5 h 90 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path124" />
+        <text
+           xml:space="preserve"
+           transform="translate(7514,471)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 8 17 27 42 50 55 70 79 88 93 98 103 112"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">shows what the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,494)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 9 19 25 34 49 54 64 71 81 90 97 105 114 119 128 136 145 150 159 168 176 185 190 204 210 219 228 233 238 244 254 264 273 278 284 290 299 308"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">“view orders” use case might look like.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,537)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 6 15 20 29 37 45 54 63 72 81 86 91 96 105 111 119 124 133 143 153 160 170 179 188 197 202 212 221 230 240 246 255 263 268 277 287 292 297 306 315 320 329 339 348 356 362 371 380 388 396 401 407 417 426 432 441 450 455 464 473 483 488 498 507 514 522 528 536 541 550 559 568 577 582 591 601 611 620 625 631 640 645 655 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">In essence, this approach bundles up the “business logic” and persistence code into a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,560)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 8 14 23 32 38 47 52 57 66 72 81 90 95 100 115 124 130 139 148 153 159 166 180 185 194 203 209 215 221 230 239 244 253 258 267 276 286 300 310 320 329 338 347 352 357 366 371 384 393 402 408 417 422 435 445 455 460 470 477 486 494 503 512 517 526 536 541 550 556 564 569 579 588 594 600 609 615 620 626 636 645 650 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">single thing, which I’m calling a “component.” Uncle Bob presented his definition of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6960,583)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 9 18 28 42 52 62 71 80 89 94 103 108 117 126 133 139 145 154 161 166 172 181 186 191 200 209 214 224 234 244 253 258 263 271 280 289 295 304 313"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">“component” earlier in the book, saying:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6984,622)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 10 17 28 35 42 49 56 63 67 73 77 84 89 96 100 104 111 118 122 129 136 139 143 149 153 160 165 169 176 183 190 193 200 207 218 225 232 236 240 244 253 260 267 274 278 285 290 297 301 305 312 319 323 329 340 347 350 353 360 366 370 374 381 388 392 395 399 402 409 415 419 423 430 437 441 445 452 459 466 470 477 484 488 495 502 509 512 519 526 533 540 544 551 557 561 568 575 580 584 588 595 600 604"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">Components are the units of deployment. They are the smallest entities that can be deployed as part of a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(6984,640)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 6 13 19 23 30 41 45 49 54 61 65 71 78 85 92 95 99 103 110 117 124 128 135 140 147 151 154 161 166 170 175 178 181 188 194"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">system. In Java, they are jar files.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

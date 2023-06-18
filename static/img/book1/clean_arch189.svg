@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 1392,0 h 696 V 1056 H 1392 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 1392,66 h 696 V 996 H 1392 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-1392)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-1392)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(1392,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 6 14 19 24 33 42 47 62 71 81 86 95 104 109 118 125 134 143 149 154 163 172 177 186 193 202 211 216 230 240 249 257 262 267 276 285 290 296 305 314 319 324 329 338 347 352 357 366 376 385 392 397 405 414 422 427 436 450 455 461 469 474 484 493 499 505 515 524 531 540 550 555 565 574 579 584 593 602 607 622 631"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">Is the web an architecture? Does the fact that your system is delivered on the web</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 10 16 25 30 39 44 53 58 63 72 81 86 95 102 111 120 126 131 140 149 154 163 170 179 184 194 200 205 214 224 233 240 245 253 262 270 275 284 298 307 312 326 332 337 346 356 365 372 380 389 394 403 413 418 424 429 441 450 459 464 479 488 498 503 509 517 522 531 536 546 555 561 567 577 586 593 602 607 621 630 639 648 657 666 672 680"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">dictate the architecture of your system? Of course not! The web is a delivery mechanism</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 20 29 38 43 49 63 68 78 87 97 103 112 121 141 150 159 169 174 183 193 202 209 214 223 233 243 249 255 264 273 278 284 294 303 308 317 324 333 342 348 353 362 371 376 385 392 401 406 414 423 433 442 448 458 463 468 475 484 493 498 503 509 514 519 528 536 541 549 558 567 576 581 586 598 607 616 621 627 636 645 650 655 660 669 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">—an IO device—and your application architecture should treat it as such. The fact that</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 9 19 28 35 40 49 59 69 75 81 90 99 104 110 120 129 134 140 148 153 163 172 178 184 194 203 210 219 229 234 244 254 263 270 275 280 289 298 303 318 327 337 342 348 356 361 370 375 385 394 399 408 414 420 425 434 443 453 458 466 475 485 494 500 510 515 524 534 539 544 554 564 578 584 593 602 607 616 621 630 640 649"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">your application is delivered over the web is a detail and should not dominate your</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 8 17 25 30 39 53 58 66 71 78 87 96 101 110 117 126 131 136 142 151 161 170 179 189 194 199 204 213 222 227 237 246 255 261 269 275 285 294 299 304 313 322 327 332 341 351 360 367 372 381 391 401 407 413 422 431 436 442 452 461 466 481 487 493 499 504 514 523 528 538 547 553 559 569 578 585 594 604 609 619 629 638 645 650 655 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">system structure. Indeed, the decision that your application will be delivered over the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,198)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 15 24 34 39 45 53 58 68 77 86 91 96 105 114 119 124 133 143 152 157 165 174 184 193 199 209 214 224 233 239 248 254 259 264 276 286 295 302 307 315 324 332 337 346 360 365 374 381 390 399 405 410 419 428 433 442 449 458 463 471 480 490 499 505 515 520 530 539 544 553 561 566 572 581 590 600 607 616 625 630 635 644"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">web is one that you should defer. Your system architecture should be as ignorant as</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,221)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 10 20 28 36 42 52 58 67 72 81 91 101 110 115 120 129 139 154 159 165 170"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">possible about how it </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1567,221)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 15 21 27 33 38 48 57 62 72 81 87 93 103 112 119 128 138 143 148 160 170 179 184 192 201 211 220 226 236 241 251 260 265 274 284 290 299 304 309 319 324 334 343 349 355 365 374 381 386 392 397 402 411 419 424 433 438 447 457 466 474 484 490"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">will be delivered. You should be able to deliver it as a console</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,244)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 9 19 29 34 39 49 56 61 70 75 90 99 109 114 123 133 143 148 153 163 170 175 184 189 194 203 209 218 227 232 241 247 253 262 271 276 281 290 300 310 315 320 330 337 342 351 361 370 379 384 393 398 413 422 432 437 445 454 461 471 477 486 495 500 509 519 529 534 539 554 560 565 574 584 593 598 603 612 621 631 640"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">app, or a web app, or a thick client app, or even a web service app, without undue</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,267)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 9 19 33 43 49 55 64 73 78 84 94 103 108 118 125 130 139 148 157 166 175 184 189 194 204 209 214 223 232 237 243 252 261 271 280 294 303 312 317 326 332 337 346 353 362 371 377 382 391 400 405 414 421 430"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">complication or change to the fundamental architecture.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,337)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0"
+             y="0"
+             id="tspan70">F</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1412,337)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 24 47 79 101 133 159 183 209"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">RAMEWORKS</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1647,337)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0"
+             y="0"
+             id="tspan78">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1670,337)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 24"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">RE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1724,337)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0"
+             y="0"
+             id="tspan86">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1746,337)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 26 52 74"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">OOLS</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1838,337)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 8 16"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">, N</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1878,337)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 26"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">OT</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1934,337)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0"
+             y="0"
+             id="tspan102">W</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1966,337)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 20 44 62 70 96"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">AYS OF</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,376)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0"
+             y="0"
+             id="tspan110">L</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1414,376)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 13 33"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">IFE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,421)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 11 18 27 41 50 65 75 82 91 99 104 113 122 131 136 146 155 160 170 179 186 195 200 210 220 235 244 251 257 266 272 277 286 295 305 310 320 329 336 345 350 359 367 376 382 391 397 402 407 418 425 434 448 457 472 482 489 498 503 512 521 526 535 545 552 560 565 575 581 586 595 604 609 619 628 634 640 649 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">Frameworks can be very powerful and very useful. Framework authors often believe</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,444)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 10 19 26 35 40 50 59 68 78 84 93 98 104 113 118 123 132 141 147 154 159 165 172 181 195 204 219 229 236 245 253 258 263 275 284 293 298 307 316 325 339 349 355 364 372 377 382 391 400 409 414 429 436 442 447 456 461 467 477 484 489 498 508 523 528 533 543 548 557 565 574 579 584 593 602 608"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">very deeply in their frameworks. The examples they write for how to use their</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,467)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 6 13 22 36 45 60 70 77 86 94 99 108 115 124 129 134 144 150 160 165 171 178 188 202 207 212 221 230 235 245 255 261 270 275 280 290 296 301 311 317 326 341 346 356 362 367 376 381 386 393 402 411 416 426 435 441 447 456 466 475 481 486 491 505 510 519 528 535 540 549 558 563 572 582 589 597 602 617 626 636 641 656 663 669 674"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">frameworks are told from the point of view of a true believer. Other authors who write</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,490)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 9 19 29 38 43 48 53 62 71 76 82 89 98 112 121 136 146 153 162 167 176 182 190 200 205 210 219 228 238 243 248 258 263 273 282 287 297 303 311 320 326 336 342 351 359 364 374 380 385 390 399 408 413 418 425 434 443 448 458 467 473 479 488 494 499 504 516 525 534 543 548 556 565 575 590 595 604 614 623 628 633 642 651 656 671 680"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">about the framework also tend to be disciples of the true belief. They show you the way</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,513)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 5 15 20 29 37 46 51 56 65 74 79 85 92 101 115 124 139 149 156 165 170 175 189 195 200 209 218 223 228 237 246 255 260 269 277 285 294 308 317 322 331 340 345 354 360 366 373 382 391 400 410 424 434 443 451 459 465 474 483 488 493 502 508 514 521 531 540 547 557 566 576 582 591 600 605 610 616 625 630 637 642 651 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">to use the framework. Often they assume an all-encompassing, all-pervading, let-the-</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,536)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 6 13 22 36 45 60 70 77 86 93 103 113 120 129 139 148 155 164 169 178 184 193 202 207 217 227 235 241 246 252 262 271"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">framework-do-everything position.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1416,575)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 9 16 19 25 29 32 38 42 49 56 60 64 68 75 82 86 93 100 106 109 113 116 123 130 134 141 148 155 159 170 177 184 188 192 196 203 207 211 218 225 232"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">This is not the position you want to take.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,617)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 11 21 31 40 45 54 59 64 73 82 91 100 105 111 118 127 141 150 165 175 182 191 196 211 217 222 231 236 245 250 256 265 275 284 294 299 308 317 326 331 336 348 354 363 378 383 389 394 399 407 416 425 435 440 446 455 464 470 476 484 489 494 506 515 523 528 533 539 544 549 563 569 578 587 592 597 606 615 621 631 636 641 651 660 665 670 679"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">Look at each framework with a jaded eye. View it skeptically. Yes, it might help, but at</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,640)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 15 24 33 38 43 52 62 70 75 84 89 103 111 120 125 134 144 153 160 168 177 183 189 194 203 213 228 233 242 252 261 266 274 283 293 302 308 318 323 332 340 349 354 360 365 370 375 384 393 403 408 417 427 442 447 456 466 475 480 488 497 507 516 522 532 537 547 554 564 569 578 587 592 597 606 616 625 632 640 649 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">what cost? Ask yourself how you should use it, and how you should protect yourself</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,663)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 6 13 23 37 42 48 53 58 63 75 84 90 99 108 113 122 132 142 151 156 161 170 180 195 200 209 219 228 233 242 251 260 265 275 282 291 299 308 315 325 334 339 344 353 362 367 376 384 393 400 409 418 426 435 440 449 463 473 482 491 499 505 513 518 528 534 539 548 558 567 574 579 588 595 604 613 619 624 633 642 647 656 663 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">from it. Think about how you can preserve the use-case emphasis of your architecture.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,686)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 14 23 33 42 48 58 68 73 82 87 95 100 107 116 121 130 139 148 153 158 167 176 181 186 196 203 212 222 231 240 245 253 258 263 272 281 286 292 299 308 322 331 346 356 363 372 377 383 390 400 414 419 424 433 442 448 457 466 471 481 491 500 507 512 517 526 535 540 545 554 561 570 579 585 590 599 608 613 622 629 638"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">Develop a strategy that prevents the framework from taking over that architecture.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,757)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0"
+             y="0"
+             id="tspan162">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1414,757)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 22 40 59 82 104 126"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">ESTABLE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1570,757)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0"
+             y="0"
+             id="tspan170">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1593,757)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 24 48 74 87 109 131 155 177 201 225 247"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">RCHITECTURES</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,802)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 6 12 17 26 36 45 52 57 65 74 82 87 96 110 115 124 131 140 149 155 160 169 178 183 192 199 208 213 219 227 232 241 247 253 258 267 277 287 296 301 306 311 320 329 334 343 351 360 365 374 383 391 400 408 413 418 427 436 446 451 457 463 468 477 487 496 501 510 519 529 538 543 552 561 571 576 581 590 600 609"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">If your system architecture is all about the use cases, and if you have kept your</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,825)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0 6 13 22 36 45 60 70 77 86 94 99 108 113 118 127 134 148 154 162 167 173 182 191 200 205 214 219 224 229 238 247 256 261 270 280 289 294 302 311 321 330 336 346 351 361 370 375 384 394 400 409 414 419 429 434 443 452 458 463 470 475 484 492 497 502 511 517 523 528 533 542 552 560 569 574 583 591 600 605 614 623 631 640"
+             y="0"
+             sodipodi:role="line"
+             id="tspan182">frameworks at arm’s length, then you should be able to unit-test all those use cases</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,848)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 15 21 26 35 45 54 59 64 73 82 91 96 106 112 117 122 131 140 145 151 158 167 181 190 205 215 222 231 239 244 250 259 264 274 280 289 298 307 312 317 329 339 348 353 361 370 380 389 395 405 414 421 426 431 440 449 458 468 473 478 487 496 501 516 525 535 540 548 557 564 574 583 590 595 602 611 620 629 635 644 653 658 663"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">without any of the frameworks in place. You shouldn’t need the web server running to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,871)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text192"><tspan
+             x="0 7 16 25 30 39 49 58 65 70 75 84 92 97 105 110 115 127 137 146 151 159 168 178 187 193 203 212 219 224 229 238 247 256 266 271 276 285 294 299 309 318 323 332 342 351 359 368 373 382 392 401 410 419 428 433 442 452 457 462 472 477 484 493 502 507 516 526 535 542 547 552 561 569 574 582 587 592 604 614 623 630 635 647 656 661 667 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan190">run your tests. You shouldn’t need the database connected to run your tests. Your Entity</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,894)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0 10 20 26 35 44 49 57 62 70 79 89 98 104 114 119 129 138 143 153 159 168 174 183 188 198 204 214 219 229 239 245 254 263 268 276 281 286 295 304 309 314 323 332 342 351 356 365 375 380 390 399 409 418 427 437 446 455 464 470 479 487 492 502 511 516 522 529 538 552 561 576 586 593 602 610 615 625"
+             y="0"
+             sodipodi:role="line"
+             id="tspan194">objects should be plain old objects that have no dependencies on frameworks or</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,917)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 10 19 24 33 43 52 60 69 77 82 92 99 104 114 119 128 137 144 149 158 168 182 192 198 204 213 222 227 233 243 252 260 265 270 282 292 301 308 313 322 330 339 344 353 362 370 379 384 394 404 410 419 428 433 441 446 454 463 473 482 488 498 503 512 522 532 539 549 555 564 573 578 587 592 601 611 620 627 632 644 653 658 664 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">databases or other complications. Your use case objects should coordinate your Entity</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,940)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text204"><tspan
+             x="0 10 20 26 35 44 49 57 62 67 78 84 93 102 108 114 122 127 132 141 147 153 158 168 174 179 184 193 202 216 221 226 236 245 254 259 268 277 284 289 297 306 316 325 331 341 346 356 365 370 375 384 392 397 406 416 422 431 436 442 451 456 464 470 475 484 489 494 509 515 520 529 539 548 553 558 567 576 585 590 600 606 611 616 625"
+             y="0"
+             sodipodi:role="line"
+             id="tspan202">objects. Finally, all of them together should be testable in situ, without any of the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1392,963)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text208"><tspan
+             x="0 9 19 33 43 49 55 64 73 78 84 94 103 111 116 126 132 137 143 150 159 173 182 197 207 214 223 231"
+             y="0"
+             sodipodi:role="line"
+             id="tspan206">complications of frameworks.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

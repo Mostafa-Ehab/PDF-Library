@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 3480,0 h 696 V 1056 H 3480 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 3480,66 h 696 V 996 H 3480 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-3480)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-3480)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(3480,83.34375)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 13 23 32 37 44 54 60 66 75"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">Controller</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3562,83.34375)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 5 10 25 34 39 48 54 62 72 77 92 101 110 115 120 125 135 140 150 157 167 172 181 190 195 200 205 214 223"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">, we also want to protect the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3790,83.34375)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 13 23 32 37 44 54 60 66 75"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">Controller</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3877,83.34375)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 6 13 23 37 42 51 60 69 78 87 96 104 109 114 124 129 134 143 152"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">from changes to the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4034,83.34375)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 6 15 20 29 36 45 54 59 69"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">Interactor</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4115,83.34375)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 10"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">by</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 9 15 25 31 40 49 54 59 68 77 82 88 97 102 111 118 127 136 142 150 155 165 171 176 181 190 199"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">hiding the internals of the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3684,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 6 15 20 29 36 45 54 59 69"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">Interactor</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3760,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0"
+             y="0"
+             id="tspan62">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,176)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0"
+             y="0"
+             id="tspan66">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3504,176)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 26 50 74 96 120 138 151 177"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">ONCLUSION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,221)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 12 21 30 35 49 62 72 77 83 91 96 106 115 124 129 139 145 150 155 164 173 178 188 195 201 211 217 226 235 240 246 256 263 272 281 289 294 304 313 322 328 337 347 352 357 366 375 380 389 396 405 414 420 425 434 443 448 457 464 473 478 488 494 499 507 516 524 529 538 552 560 565 570 582 591 600 605 614 624 633 639 644 650 658 663 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">The OCP is one of the driving forces behind the architecture of systems. The goal is to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,244)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 14 23 32 41 46 51 60 69 74 82 91 99 104 113 127 132 141 150 158 167 172 177 187 192 201 210 215 224 233 243 248 263 269 274 283 293 302 307 312 318 327 336 345 352 359 365 374 383 388 397 402 411 417 426 435 440 446 460 470 479 488 493 498 508 514 519 528 537 546 555 564 573 578 583 595 604 610 618 623 632 642 651 657 662 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">make the system easy to extend without incurring a high impact of change. This goal is</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,267)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 9 18 27 37 51 61 67 73 81 90 99 109 114 124 133 138 148 157 164 169 175 180 186 196 205 211 220 229 234 239 248 257 262 270 279 287 292 301 315 320 326 335 340 350 355 364 374 388 398 408 417 426 435 440 448 453 458 467 476 486 491 500 507 514 523 532 541 547 556 565 570 575 584 594 602"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">accomplished by partitioning the system into components, and arranging those</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,290)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 9 19 33 43 53 62 71 80 85 93 98 104 113 118 128 133 142 147 157 166 176 185 194 204 213 222 231 240 245 254 260 269 276 285 292 301 310 319 324 329 338 347 352 357 367 374 384 389 398 407 412 420 425 434 440 449 458 467 474 481 487 496 506 515 521 526 535 545 559 569 579 588 597 606 611 619 624 630 637 647"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">components into a dependency hierarchy that protects higher-level components from</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,313)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 9 18 27 36 45 54 62 67 73 82 87 93 103 118 127 134 141 147 156 166 175 181 186 195 205 219 229 239 248 257 266 271 279"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">changes in lower-level components.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3480,352)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0"
+             y="0"
+             id="tspan94">1</tspan></text>
+        <path
+           d="m 3480,353.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path98" />
+        <text
+           xml:space="preserve"
+           transform="translate(3487,352)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0 4 8 18 25 30 34 39 46 53 60 64 77 84 91 98 102 106"
+             y="0"
+             sodipodi:role="line"
+             id="tspan100">. Bertrand Meyer. </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3597,352)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 11 18 21 28 35 39 43 54 59 62 69 76 80 87 94 98 106 113 118 122 133 140 145 152 156 166 173 180 186 190 195 202 209 213 216 223"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">Object Oriented Software Construction</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3827,352)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 3 7 16 21 28 35 39 42 49 56 60 71 78 81 84 87 91 98 105 112 119 122 126 133 137 141 148 155"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">, Prentice Hall, 1988, p. 23.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

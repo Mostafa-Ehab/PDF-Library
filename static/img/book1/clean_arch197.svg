@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 4176,0 h 696 V 1056 H 4176 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 4176,66 h 696 V 996 H 4176 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-4176)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-4176)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(4176,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 14 24 29 38 43 48 57 66 71 81 87 94 103 112 117 123 133 142 150 155 165 171 176 181 190 199 204 214 223 233 242 251 261 270 279 288 294 303 311 316 321 335 341 347 352 362 371 381 390 399 409 418 427 436 442 451 459 464 473 480 490 498 506 511 516 525 534 539 549 559 568 577 587 596 603 612 617 623 629 638 647"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">Note the directions of the dependencies. All dependencies cross the boundary lines</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 10 20 26 35 40 46 55 64 69 75 84 99 108 115 125 130 135 141 151 157 163 173 188 194 203 212 217 222 231 240 245 259 268 278 287 296 306 315 324 333 342 347 360 369 375 384"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">pointing inward, following the Dependency Rule.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,176)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0"
+             y="0"
+             id="tspan38">C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4200,176)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 26 50 74 96 120 138 151 177"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">ONCLUSION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,221)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 13 23 32 38 48 55 69 75 84 93 98 103 113 118 123 132 141 149 158 163 171 177 191 201 207 216 221 228 237 243 252 260 265 271 279 284 293 303 308 313 323 329 335 341 347 356 365 371 376 381 386 395 404 414 419 425 430 435 450 456 462 468 473 481 490 500 509 514 523 533 542 547 556 561 567 577 582 587 597 603 608 617 626 635 645 654 663 672 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">Conforming to these simple rules is not difficult, and it will save you a lot of headaches</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,244)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 9 19 25 34 43 48 54 64 71 86 95 102 112 117 122 135 144 149 157 166 176 185 192 201 206 212 221 230 235 240 249 258 263 271 281 287 292 307 316 323 332 337 343 352 357 367 372 378 387 396 405 412 420 425 434 443 453 458 467 477 486 492 502 509 523 529 538 547 552 557 567 572 577 586"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">going forward. By separating the software into layers and conforming to the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,267)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 14 23 33 42 51 61 70 79 88 97 102 115 124 130 139 144 149 158 168 177 182 197 203 209 215 220 229 236 245 254 259 268 273 282 287 295 304 312 317 326 340 345 350 359 368 373 378 384 392 397 403 412 417 424 430 439 447 453 462 471 477 483 492 497 502 511 519 524 533 543 549 558 563 568 583 589 594 603 608 617 623 629 634 639 648"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">Dependency Rule, you will create a system that is intrinsically testable, with all the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,290)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 10 19 28 37 43 49 54 62 67 72 81 90 95 100 106 120 130 136 142 151 159 164 169 187 196 205 214 219 228 237 246 251 261 267 272 277 286 295 300 309 318 323 332 339 348 357 363 368 378 387 394 399 407 412 422 428 433 438 447 456 461 469 478 486 491 500 514 519 529 538 547 557 571 580 585 595 605 613 623 629 638 643 652"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">benefits that implies. When any of the external parts of the system become obsolete,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,313)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 8 17 26 35 40 49 57 62 67 76 85 90 100 109 114 123 133 142 150 159 164 169 179 186 191 196 205 214 219 234 243 253 258 264 271 280 294 303 318 328 335 344 349 354 363 373 382 387 396 405 414 419 426 435 445 451 460 469 478 483 488 497 507 515 524 529 539 549 557 567 573 582 587 596 601 610 616 625 639 648 657 662"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">such as the database, or the web framework, you can replace those obsolete elements</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4176,336)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 15 21 26 35 40 49 54 68 74 83 89 103 112 126 131 141 147 152 158 167 175 183"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">with a minimum of fuss.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

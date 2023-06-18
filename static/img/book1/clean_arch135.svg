@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 12528,0 h 696 v 1056 h -696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 12528,66 h 696 v 930 h -696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-12528)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-12528)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(12528,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 6 11 16 24 33 42 56 64 69 78 84 93 102 109 114 119 128 137 142 147 157 166 173 178 192 202 210 215 220 230 240 246 255 260 266 272 281 286 295 305 319 329 339 348 357 366 371 379 384 392 401 411 420 426 436 441 451 460 465 474 483 493 498 503 512 520 525 531 540 547 552 558 565 575 589 594 604 614 619 628 633 641 651 660 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">It seems clear that our most volatile components should be kept as far from both zones</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 10 16 21 30 39 48 54 63 71 77 87 96 101 110 118 123 133 143 151 159 165 175 181 190 195 200 212 221 230 235 241 251 260 269 277 282 292 298 303 313 323 329 338 343 351 356 361 370 379 384 389 398 405 414 419 433 442 451 457 471 480 486 492 501 506 516 522 530 535 544 553 558 563 569 576 586 600 605 614 623 632 641 646 654 664 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">of exclusion as possible. The locus of points that are maximally distant from each zone</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,132)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 6 14 19 24 33 42 47 53 59 68 77 82 87 96 105 110 115 124 134 143 152 161 170 175 183 188 195 205 210 215 225 232 237 246 255 265 270 277 287 292 297 307 314 319 324 330 335 344 353 359 365 370 375 384 390 398 403 409 415 424 433 438 443 452 461"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">is the line that connects (1, 0) and (0, 1). I call this line the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12994,132)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 17 26 32 41 46 57 66 76 85 94 103 112"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">Main Sequence</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(13115,132)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0"
+             y="0"
+             id="tspan46">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(13120,125)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0"
+             y="0"
+             id="tspan50">2</tspan></text>
+        <path
+           d="m 13120,126.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path54" />
+        <text
+           xml:space="preserve"
+           transform="translate(12528,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58"><tspan
+             x="0 13 18 27 37 51 61 71 80 89 98 103 108 113 122 131 136 141 149 155 160 168 173 183 192 197 202 211 220 225 242 251 257 266 271 282 291 301 310 319 328 337 346 351 357 365 370 379 389 394 399 408 413 423 433 438 447 457 465 470 477 486 495 500 509 514 520 530 537 542 548 553 561 566 574 579 588 598 604 610 616 621 629 634 639 648 658 665 670 676"
+             y="0"
+             sodipodi:role="line"
+             id="tspan56">A component that sits on the Main Sequence is not “too abstract” for its stability, nor is</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,198)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0 6 11 16 25 30 40 50 55 64 73 81 86 95 105 111 120 129 134 140 150 157 162 168 173 181 186 195 205 213 218 225 234 243 248 257 266 274 282 287 292 298 303 308 314 322 327 336 345 351 356 365 374 381 386 395 403 412 418 427 435 443 448 457 467 474 479 489 498 505 510 516 525 534 540 549 556 562 571 576 586 595 601 610 616 625 631 636 641 647 652 657 663"
+             y="0"
+             sodipodi:role="line"
+             id="tspan60">it “too unstable” for its abstractness. It is neither useless nor particularly painful. It is</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,221)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 10 19 29 38 47 57 66 76 81 91 100 105 110 120 125 130 139 148 153 162 171 176 185 194 199 204 209 218 227 232 237 243 248 253 259 267 272 281 291 299 304 311 320 329 334 339 344 353 362 372 377 383 388 393 403 412 422 431 440 450 458 463 473 482 487 497 502 511 520 527 535 540 545 555 560 565 574 583 588 597 606 611 620 629 634 639 644 653 662 667 672 678"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">depended on to the extent that it is abstract, and it depends on others to the extent that it</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,244)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text70"><tspan
+             x="0 6 14 19 28 38 47 56 63 72 77 86"
+             y="0"
+             sodipodi:role="line"
+             id="tspan68">is concrete.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,287)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text74"><tspan
+             x="0 12 21 30 35 49 59 67 72 77 87 96 104 110 117 126 136 142 151 156 166 176 184 190 195 201 211 220 225 231 241 248 253 262 267 276 286 300 310 320 329 338 347 352 357 363 371 376 385 390 395 405 414 423 428 438 444 449 454 463 472 477 482 497 507 512 521 530 540 550 560 566 575 580 588 593 603 609 614 619 628 637 642 659 668 674"
+             y="0"
+             sodipodi:role="line"
+             id="tspan72">The most desirable position for a component is at one of the two endpoints of the Main</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,310)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0 11 20 30 39 48 57 66 75 80 85 99 109 119 129 134 143 150 159 168 174 179 188 197 202 210 215 223 228 235 241 251 260 265 270 280 285 295 305 313 319 324 330 340 349 354 359 368 377 382 396 405 411 421 428 434 439 448 453 463 469 474 479 488 497 503 510 515 524 534 548 558 568 577 586 595 600 608 613 622 627 632 637 646 656 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan76">Sequence. Good architects strive to position the majority of their components at those</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text82"><tspan
+             x="0 9 18 28 38 48 54 63 68 76 81 86 100 110 125 134 144 153 159 164 169 175 184 189 203 212 217 226 235 245 254 261 267 276 285 294 303 308 313 321 331 345 354 359 367 381 390 396 402 407 413 420 429 438 443 449 459 468 473 483 489 494 499 508 517 522 531 541 555 565 575 584 593 602 607 615 620 626 635 640 649 654 660 669 676 685"
+             y="0"
+             sodipodi:role="line"
+             id="tspan80">endpoints. However, in my experience, some small fraction of the components in a large</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,356)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 8 17 25 30 39 53 58 67 74 83 88 97 106 112 117 126 135 142 147 157 166 173 179 188 197 202 208 217 222 231 241 249 254 261 270 279 284 289 298 308 315 320 330 339 346 352 361 370 375 381 390 395 403 408 417 427 433 442 447 452 464 473 483 491 500 505 514 524 538 548 558 567 576 585 590 598 603 612 621 631 640 645 650 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">system are neither perfectly abstract nor perfectly stable. Those components have the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,379)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0 10 19 27 32 37 46 55 64 71 80 89 94 103 110 116 124 129 135 144 152 157 163 169 174 179 188 197 206 211 220 227 236 241 251 260 265"
+             y="0"
+             sodipodi:role="line"
+             id="tspan88">best characteristics if they are on, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12798,379)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text94"><tspan
+             x="0 10 17 22 31 37 47 55"
+             y="0"
+             sodipodi:role="line"
+             id="tspan92">or close</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12862,379)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 5 10 15 25 30 35 44 53 58 75 84 90 99 104 115 124 134 143 152 161 170 179"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">, to the Main Sequence.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,429)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0"
+             y="0"
+             id="tspan100">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12545,429)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 9 22 35 51 68 85 100 106 121 138 156 179 185 200 218"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">ISTANCE FROM THE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12784,429)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0"
+             y="0"
+             id="tspan108">M</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12807,429)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 16 25"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">AIN</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12855,429)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0"
+             y="0"
+             id="tspan116">S</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12868,429)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 15 33 50 65 82 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">EQUENCE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,472)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 12 21 27 35 40 46 55 64 74 82 87 96 104 109 114 124 129 139 148 155 160 166 175 183 188 193 207 216 221 228 234 243 248 253 259 265 270 276 281 286 292 300 305 315 324 332 338 345 354 364 370 379 384 390 400 407 412 421 431 445 455 465 474 483 492 497 505 510 515 525 530 540 549 554 564 573 578 583 593 600 605 614 620 630 638 647 652 657 662"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">This leads us to our last metric. If it is desirable for components to be on, or close, to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,495)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 5 14 23 28 45 54 60 69 74 85 94 104 113 122 131 140 149 154 159 164 173 182 191 196 211 220 225 234 243 252 257 266 273 282 291 296 305 310 319 324 338 347 352 359 365 374 379 384 393 402 407 412 426 435 444 452 461 468 477 485 490 499 509 524 529 535 544 551 556 565 580 589 598 603"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">the Main Sequence, then we can create a metric that measures how far away a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,518)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 9 19 33 43 53 62 71 80 85 90 96 104 109 115 122 132 146 151 156 165 171 179 184 190 200 209 218 224"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">component is from this ideal.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12529,564)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 7"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">• </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12541,564)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0"
+             y="0"
+             id="tspan140">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12555,557)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0"
+             y="0"
+             id="tspan144">3</tspan></text>
+        <path
+           d="m 12555,558.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path148" />
+        <text
+           xml:space="preserve"
+           transform="translate(12562,564)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 6 11 25 31 39 44 53 62 71 80 85"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">: Distance. </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12652,564)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0"
+             y="0"
+             id="tspan154">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12671,564)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 11 16"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">= |</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12690,564)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0"
+             y="0"
+             id="tspan162">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12704,564)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0"
+             y="0"
+             id="tspan166">+</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12715,564)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0"
+             y="0"
+             id="tspan170">I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12721,564)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 10 20 23 28 33 38 50 59 68 73 80 89 98 107 116 121 131 137 142 147 156 162 170 175 189 198 203 210 216 225 230 236 244 249 256 266 271 276 286 293 298 303 316 321 331 340 346 355 364 369 379 385 390 400 405 411 420 430 436 445 454 459 468"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">–1| . The range of this metric is [0, 1]. A value of 0 indicates</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12541,587)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 5 14 23 28 33 38 47 56 61 70 80 94 104 114 123 132 141 146 151 157 165 170 180 186 193 202 211 216 222 231 236 246 255 260 265 274 283 288 305 314 320 329 334 345 354 364 373 382 391 400 409 414 419 432 437 447 456 462 471 480 485 495 501 506 516 521 527 536 546 552 561 570 575 584 592 597 602 611 620 625 630 635 644"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">that the component is directly on the Main Sequence. A value of 1 indicates that the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12541,610)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0 9 19 33 43 53 62 71 80 85 90 96 104 109 118 126 131 137 146 153 158 167 182 191 200 205 214 222 227 237 247 255 263 269 279 285 294 299 305 312 322 336 341 346 355 364 369 386 395 401 410 415 426 435 445 454 463 472 481 490"
+             y="0"
+             sodipodi:role="line"
+             id="tspan182">component is as far away as possible from the Main Sequence.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,653)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 14 20 30 39 48 53 58 67 73 81 86 100 109 114 121 127 136 141 146 155 160 170 179 187 193 202 211 216 225 234 243 248 258 267 272 281 290 299 305 314 322 331 341 346 352 362 369 374 380 385 393 398 408 418 427 434 443 449 455 460 469 479 488 494 504 511 525 534 543 552 561 566 571 581 586 591 600 609 614 631 640 646"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">Given this metric, a design can be analyzed for its overall conformance to the Main</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,676)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text192"><tspan
+             x="0 11 20 30 39 48 57 66 75 80 85 97 106 115"
+             y="0"
+             sodipodi:role="line"
+             id="tspan190">Sequence. The </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12648,676)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0"
+             y="0"
+             id="tspan194">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12667,676)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 14 23 28 35 41 50 55 61 71 78 83 92 101 110 119 124 133 143 157 167 177 186 195 204 209 214 223 232 241 246 256 265 270 279 288 294 303 312 318 327 332 341 351 356 361 375 384 393 398 407 417 431 441 451 460 469 478 483 488 493 502 511 516 521 530 539"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">metric for each component can be calculated. Any component that has</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,699)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text204"><tspan
+             x="0 9"
+             y="0"
+             sodipodi:role="line"
+             id="tspan202">a </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12542,699)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text208"><tspan
+             x="0"
+             y="0"
+             id="tspan206">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12561,699)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text212"><tspan
+             x="0 10 19 25 34 43 48 53 62 71 76 81 87 95 100 109 119 124 129 138 147 156 163 168 176 185 192 202 207 216 225 234 239 249 258 263 270 279 288 297 306 320 326 335 344 354 359 368 377 387 392 399 408 416 421 428 437 446 451 460 467 476 486"
+             y="0"
+             sodipodi:role="line"
+             id="tspan210">value that is not near zero can be reexamined and restructured.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,742)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text216"><tspan
+             x="0 11 16 25 30 36 44 49 55 64 73 79 84 93 102 111 117 126 134 140 148 153 163 169 174 183 188 198 207 215 221 230 239 244 250 258 263 272 278 286 296 301 311 321 329 337 343 353 359 368 373 378 394 403 408 417 426 435 440 449 458 464 473 482 488 497 502 511 516 521 530 539 544 558 567 576 585 590 599 608 618 623 633 642 649 655 664 673 682"
+             y="0"
+             sodipodi:role="line"
+             id="tspan214">Statistical analysis of a design is also possible. We can calculate the mean and variance</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,765)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text220"><tspan
+             x="0 10 16 21 30 36 42 47 52 61 70"
+             y="0"
+             sodipodi:role="line"
+             id="tspan218">of all the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12603,765)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text224"><tspan
+             x="0"
+             y="0"
+             id="tspan222">D</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12622,765)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text228"><tspan
+             x="0 14 23 28 35 41 50 58 63 69 79 86 91 96 105 114 119 128 138 152 162 172 181 190 199 204 212 217 232 238 243 252 258 267 272 281 286 296 305 313 319 328 337 342 347 363 372 377 392 402 411 417 427 432 441 450 460 469 478 483 488 497 502 511 521 530 536 546 553 567 573 582"
+             y="0"
+             sodipodi:role="line"
+             id="tspan226">metrics for the components within a design. We would expect a conforming</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,788)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text232"><tspan
+             x="0 10 19 27 33 42 51 56 61 71 76 85 94 104 113 118 127 132 146 155 164 173 178 187 196 206 211 221 230 237 243 252 261 270 279 284 289 298 307 312 317 326 333 342 347 356 362 372 380 389 394 399 409 414 422 431 438 448 453 458 470 479 488 493 503 512 519 525 534 543 552 561 566 575 584 593 598 608 617 622 631 639 648 658 663 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan230">design to have a mean and variance that are close to zero. The variance can be used to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,811)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text236"><tspan
+             x="0 9 17 22 31 41 47 53 61 70 75 84 93 103 112 117 124 134 140 145 151 157 171 177 182 190 199 204 212 222 227 236 244 249 254 264 269 275 285 294 303 308 314 320 329 334 343 353 367 377 387 396 405 414 419 427 432 437 446 455 460 465 474 481 490 495 504 513 522 531 540 550 555 561 571 580 589 595 604 609 615"
+             y="0"
+             sodipodi:role="line"
+             id="tspan234">establish “control limits” so as to identify components that are “exceptional” in</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,834)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text240"><tspan
+             x="0 9 19 33 43 52 59 65 73 83 92 97 102 112 117 126 132 138 143 148 157 166 171 181 186 195 204 211 219"
+             y="0"
+             sodipodi:role="line"
+             id="tspan238">comparison to all the others.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,877)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text244"><tspan
+             x="0 6 15 20 25 34 43 48 56 65 74 79 84 93 100 110 116 126 131 136 142 151"
+             y="0"
+             sodipodi:role="line"
+             id="tspan242">In the scatterplot in </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12684,877)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text248"><tspan
+             x="0 11 17 26 35 42 51 56 66 76 81 91"
+             y="0"
+             sodipodi:role="line"
+             id="tspan246">Figure 14.14</tspan></text>
+        <path
+           d="m 12684,878.5 h 100 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path250" />
+        <text
+           xml:space="preserve"
+           transform="translate(12785,877)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text254"><tspan
+             x="0 5 10 25 34 39 47 56 65 70 75 84 93 98 103 108 117 126 131 141 150 156 165 170 180 186 191 196 205 214 219 228 238 252 262 272 281 290 299 304 312 317 323 329 338 343 352 358 368 377 386 391 396 405"
+             y="0"
+             sodipodi:role="line"
+             id="tspan252">, we see that the bulk of the components lie along the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,900)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text258"><tspan
+             x="0 17 26 32 41 46 57 66 76 85 94 103 112 121 126 131 141 150 155 160 168 178 192 201 206 216 222 227 232 241 250 264 269 278 285 294 299 313 323 330 339 344 349 358 367 376 381 391 400 409 414 422 427 436 445 455 464 471 481 486 496 505 515 521 530 535 541 551 560 565"
+             y="0"
+             sodipodi:role="line"
+             id="tspan256">Main Sequence, but some of them are more than one standard deviation (</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(13100,900)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text262"><tspan
+             x="0"
+             y="0"
+             id="tspan260">Z</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(13116,900)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text266"><tspan
+             x="0 11 16 26 33 38 47 62 71"
+             y="0"
+             sodipodi:role="line"
+             id="tspan264">= 1) away</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,923)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text270"><tspan
+             x="0 6 13 23 37 42 47 56 65 70 84 93 102 111 116 121 133 142 151 159 168 173 182 192 201 208 215 224 233 238 243 252 262 276 286 296 305 314 323 328 336 341 350 357 366 371 386 396 403 408 417 422 431 440 449 463 469 478 484 493 502 507 521 531 538 547 552 561 567 577 585 594 600 608 613 618 629 639 646 651 659 669 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan268">from the mean. These aberrant components are worth examining more closely. For some</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,946)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text274"><tspan
+             x="0 7 16 25 33 43 52 57 62 67 76 85 94 99 108 115 124 129 138 144 149 158 167 174 179 189 198 205 214 219 228 238 246 251 258 267 276 281 286 301 307 312 321 326 332 341 356 361 371 380 390 399 408 418 427 436 441 449 454 464 471 476 486 495 502 511 516 525 535 544 553 560 569 574 583 588 603 609 614 623 628 642 651 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan272">reason, they are either very abstract with few dependents or very concrete with many</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12528,969)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text278"><tspan
+             x="0 10 19 29 38 47 57 66 75 80 88"
+             y="0"
+             sodipodi:role="line"
+             id="tspan276">dependents.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

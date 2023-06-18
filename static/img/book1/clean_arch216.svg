@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 696,0 h 696 V 1056 H 696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 696,66 h 696 V 996 H 696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-696)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-696)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(696,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 13 23 32 40 46 56 65 72 77 82 91 100 105 111 121 127 133 143 158 164 173 182"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">Consider the following </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(883,83)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 10 20 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">Main</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(928,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 9 19 33 43 53 62 71 80 85 90 96 103 113 127 132 141 146 153 162 171 180 189 194 199 209 218 225 233 239 249 258 263 273 279 284 298 307 316 321 326 331 340 349 354 371 380 394 404 413 421"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">component from a recent version of Hunt the Wumpus.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 14 24 29 35 44 53 58 67 77 92 97 103 108 113 119 129 138 148 156 161 170 180 185 194 200 206 211 216 225 234 239 247 252 259 265 274 283 291 296 301 310 319 324 329 344 353 358 368 378 387 394 399 404 419 428 437 442 447 452 461 470 475 489 498 504 513 518 528 538 548 557 562 572 578 583 588 597 606 611 620 630 640 649 654 659"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">Notice how it loads up all the strings that we don’t want the main body of the code to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 9 18 28 43 48 57 67 77 86 91"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">know about.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(696,169)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">Click here to view code image</tspan></text>
+        <path
+           d="M 696,170.5 H 893 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path54" />
+        <text
+           xml:space="preserve"
+           transform="translate(697,208.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432"
+             y="0"
+             sodipodi:role="line"
+             id="tspan56">public class Main implements HtwMessageReceiver {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,225.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297"
+             y="0"
+             sodipodi:role="line"
+             id="tspan60">private static HuntTheWumpus game;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,242.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">private static int hitPoints = 10;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,259.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text70"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 450 459 468 477 486 495 504 513 522 531 540 549 558 567"
+             y="0"
+             sodipodi:role="line"
+             id="tspan68">private static final List&lt;String&gt; caverns = new ArrayList&lt;&gt;();</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,276.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text74"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468 477 486 495 504 513"
+             y="0"
+             sodipodi:role="line"
+             id="tspan72">private static final String[] environments = new String[]{</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,293.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan76">&quot;bright&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,310.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text82"><tspan
+             x="0 9 18 27 36 45 54 63"
+             y="0"
+             sodipodi:role="line"
+             id="tspan80">&quot;humid&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,327.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 9 18 27 36 45"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">&quot;dry&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,344.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan88">&quot;creepy&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,361.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text94"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan92">&quot;ugly&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,378.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 9 18 27 36 45 54 63"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">&quot;foggy&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,395.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0 9 18 27 36 45"
+             y="0"
+             sodipodi:role="line"
+             id="tspan100">&quot;hot&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,412.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan104">&quot;cold&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,429.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">&quot;drafty&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,446.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 9 18 27 36 45 54 63 72 81"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">&quot;dreadful&quot;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,463.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0 9"
+             y="0"
+             sodipodi:role="line"
+             id="tspan116">};</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,497.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">private static final String[] shapes = new String[] {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,514.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 9 18 27 36 45 54 63"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">&quot;round&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,531.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">&quot;square&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,548.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">&quot;oval&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,565.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">&quot;irregular&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,582.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">&quot;long&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,599.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">&quot;craggy&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,616.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 9 18 27 36 45 54 63"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">&quot;rough&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,633.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">&quot;tall&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,650.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 9 18 27 36 45 54 63"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">&quot;narrow&quot;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,667.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 9"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">};</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,701.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468 477 486 495 504 513"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">private static final String[] cavernTypes = new String[] {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,718.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">&quot;cavern&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,735.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">&quot;room&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,752.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 9 18 27 36 45 54 63 72 81"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">&quot;chamber&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,769.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">&quot;catacomb&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,786.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">&quot;crevasse&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,803.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">&quot;cell&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,820.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">&quot;tunnel&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,837.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text198"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108"
+             y="0"
+             sodipodi:role="line"
+             id="tspan196">&quot;passageway&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,854.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text202"><tspan
+             x="0 9 18 27 36 45 54"
+             y="0"
+             sodipodi:role="line"
+             id="tspan200">&quot;hall&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,871.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text206"><tspan
+             x="0 9 18 27 36 45 54 63 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan204">&quot;expanse&quot;</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,888.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text210"><tspan
+             x="0 9"
+             y="0"
+             sodipodi:role="line"
+             id="tspan208">};</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(715,922.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text214"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360 369 378 387 396 405 414 423 432 441 450 459 468 477 486 495 504"
+             y="0"
+             sodipodi:role="line"
+             id="tspan212">private static final String[] adornments = new String[] {</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(724,939.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text218"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180"
+             y="0"
+             sodipodi:role="line"
+             id="tspan216">&quot;smelling of sulfur&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,956.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text222"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270"
+             y="0"
+             sodipodi:role="line"
+             id="tspan220">&quot;with engravings on the walls&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,973.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text226"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180"
+             y="0"
+             sodipodi:role="line"
+             id="tspan224">&quot;with a bumpy floor&quot;,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(733,990.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text230"><tspan
+             x="0 9 18"
+             y="0"
+             sodipodi:role="line"
+             id="tspan228">&quot;&quot;,</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

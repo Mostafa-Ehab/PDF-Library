@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 2784,0 h 696 V 1056 H 2784 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 2784,66 h 696 V 996 H 2784 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-2784)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-2784)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(2784,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 9 15 20 25 34 39 45 54 63 68 77 84 93 98 113 119 125 131 136 145 154 164 173 178 183 193 198 208 217 222 232 241 248 257 262 271 280 287 296 302 311 317 323 332 337 346 356 366 373 383 389 398 407 412 421 431"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">kitty feature will have to be very carefully coordinated.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,126)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 6 15 20 30 35 44 53 60 65 80 90 97 107 115 120 125 130 139 148 153 161 170 177 187 193 202 211 219 224 233 240 249 254 263 269 275 280 289 299 308 318 324 333 343 348 353 362 371 381 386 395 404 413 422 432 437 442 452 461 466 472 481 491 500 510 519 528 538 547 556 561 567 576 581 591 600 610 619 625 635 645 654 664"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">In other words, the services are all coupled, and cannot be independently developed,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,149)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 10 19 29 35 45 54 63 73 78 83 92 101 111 116 130 139 145 154 159 168 174 183 192 202"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">deployed, and maintained.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,192)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 12 21 27 35 40 46 54 59 64 73 82 87 97 104 114 124 130 139 153 158 173 179 184 193 198 207 214 224 232 240 247 256 265 270 275 281 290 299 304 313 323 332 341 350 357 366 374 379 384 396 406 415 422 431 436 444 454 460 465 480 489 496 505 510 518 527 535 540 549 563 568 582 591 599 604 609 615 624 633 642 647 652 661 667"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">This is the problem with cross-cutting concerns. Every software system must face this</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,215)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 10 17 27 37 43 52 66 71 76 91 100 109 114 123 132 139 144 152 161 168 178 184 193 202 207 217 224 230 239 248 253 262 272 277 287 294 299 308 318 323 328 333 344 353 362 371 376 382 392 401 410 416 421 431 440 449 459 473 483 493 501 507 512 518 528 537 545 550 555 565 571 576 581 590 599 604 613 619 628"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">problem, whether service oriented or not. Functional decompositions, of the kind</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,238)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 10 19 29 35 44 49 58 68 73 79 88 93 98 107 116 121 129 138 145 155 161 170 179 184 194 200 209 218 225 234 248 253 259 268"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">depicted in the service diagram in </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3057,238)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 11 17 26 35 42 51 56 66 76 81"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">Figure 27.1</tspan></text>
+        <path
+           d="m 3057,239.5 h 90 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path58" />
+        <text
+           xml:space="preserve"
+           transform="translate(3148,238)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0 5 10 19 26 35 40 50 59 66 75 80 90 99 105 114 123 130 139 149 155 164 169 174 184 189 198 207 222 227 233 242 251 256 265 272 281 289 294 299 308 317"
+             y="0"
+             sodipodi:role="line"
+             id="tspan60">, are very vulnerable to new features that</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,261)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 9 18 23 28 37 46 53 63 71 79 84 93 99 105 110 115 124 134 142 151 156 162 171 180 189 194 200 210 219 228 234 239 249 258 267 276 286 292 302 309 317"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">cut across all those functional behaviors.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,331)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text70"><tspan
+             x="0"
+             y="0"
+             id="tspan68">O</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2810,331)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text74"><tspan
+             x="0 22 39 61 85 107 125 133 154 180 188 210 236"
+             y="0"
+             sodipodi:role="line"
+             id="tspan72">BJECTS TO THE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3076,331)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0"
+             y="0"
+             id="tspan76">R</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3100,331)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text82"><tspan
+             x="0 22 40 64 88"
+             y="0"
+             sodipodi:role="line"
+             id="tspan80">ESCUE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,376)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 14 24 39 44 59 69 78 84 94 99 114 123 128 137 146 156 165 170 178 188 194 204 213 223 228 233 242 248 256 261 271 278 288 298 304 313 327 332 338 347 352 361 366 375 385 399 409 419 428 437 446 451 458 468 477 485 494 504 509 518 525 534 543 549 554 563 572 577 586 593 602 611 616 629 638 645 654 660 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">How would we have solved this problem in a component-based architecture? Careful</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,399)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text90"><tspan
+             x="0 9 19 28 36 42 52 61 68 77 82 88 98 107 112 122 128 133 138 147 156 161 172 186 197 203 217 222 232 241 249 255 264 273 278 288 295 301 310 319 325 335 341 350 358 363 378 388 397 403 413 418 427 436 446 455 460 470 477 487 501 511 516 525 535 540 549 557 562 567 577 582 591 598 607 616 621 630 635 644 649 657 666 671 676 686"
+             y="0"
+             sodipodi:role="line"
+             id="tspan88">consideration of the SOLID design principles would have prompted us to create a set of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,422)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text94"><tspan
+             x="0 9 15 24 32 40 49 57 62 67 76 85 90 95 104 114 123 129 139 144 154 163 168 178 188 194 203 217 227 234 244 253 259 268 277 283 289 298 303 312 321 326 335 344 354 363 373 378 383 393 398 407 416 425 435 441 450 455 464 473 488 493 499 508 517 522 531 538 547 555"
+             y="0"
+             sodipodi:role="line"
+             id="tspan92">classes that could be polymorphically extended to handle new features.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,465)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 12 21 30 35 45 51 60 69 76 85 99 104 110 119"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">The diagram in </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2908,465)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text102"><tspan
+             x="0 11 17 26 35 42 51 56 66 76 81"
+             y="0"
+             sodipodi:role="line"
+             id="tspan100">Figure 27.2</tspan></text>
+        <path
+           d="m 2908,466.5 h 90 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path104" />
+        <text
+           xml:space="preserve"
+           transform="translate(3004,465)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 8 17 27 42 50 55 60 69 78 83 91 96 103 112 117 126 135 143 148 153 165 174 183 188 197 203 212 220 228 237 245 250 256 265 270 275 284 290 298 303 313 319 328 337 344 353 367 372 379 389 398 407 416 422"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">shows the strategy. The classes in this diagram roughly</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,488)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 9 19 26 33 42 50 60 70 79 89 94 99 109 114 119 128 137 142 150 159 166 176 182 191 200 208 213 221 230 240 255 264 269 275 284"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">correspond to the services shown in </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3073,488)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 11 17 26 35 42 51 56 66 76 81"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">Figure 27.1</tspan></text>
+        <path
+           d="m 3073,489.5 h 90 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path118" />
+        <text
+           xml:space="preserve"
+           transform="translate(3164,488)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 5 10 24 34 49 58 68 77 83 88 93 102 112 117 126 131 136 145 154 159 169 179 188 197 207 216 223 229 238 246 251 256 270 280 285"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">. However, note the boundaries. Note</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,511)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 9 15 23 33 38 43 52 61 66 71 76 85 94 99 109 118 128 137 146 156 165 174 183 189 198 206 211 217 227 233 239 249 264 269 274 283 292 297 311 320 330 339 348 358 367 376 385 394 399 412 421 427 436"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">also that the dependencies follow the Dependency Rule.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,554)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 17 26 35 44 49 59 65 70 75 84 93 98 104 114 123 129 138 143 153 159 164 169 178 187 192 202 209 215 224 230 239 248 254 259 267 276 283 293 299 308 317 325 330 336 344 349 359 366 375 383 392 399 409 418 428 433 448 454 459 468 474 483 488 493 502 511 516 526 535 543 552 557 566 572 581 589 597 606 614 619 629 635 640 645 654"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">Much of the logic of the original services is preserved within the base classes of the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,577)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 10 20 26 35 44 49 54 68 78 88 97 103 108 113 127 137 152 161 171 180 186 191 196 201 210 219 224 229 239 249 256 261 267 277 286 291 301 307 312 317 326 335 340 346 356 365 371 380 385 390 399 408 413 418 433 442 450 455 463 473 482 491 497 503 509 518 523 528 538"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">object model. However, that portion of the logic that was specific to </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3327,577)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 7 13 23 32"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">rides</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3372,577)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 9 18 26 31 41 50 59"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">has been</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,600)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 9 18 23 30 39 48 53 62 72 77 83 92 97 107 112 121"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">extracted into a </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2910,600)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 10 20 30 40"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">Rides</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2965,600)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 9 19 33 43 53 62 71 80 85 90 95 107 116 125 130 139 148 163 168 174 183 192 197 206 213 222 227 233 243 250 255 264 270 275 280 289 298 306 311 320 329 337 342 352 361 370 379 384 394 400 409 418 427 437 442 448 457 462 472 477"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">component. The new feature for kittens has been placed into a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,623)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 10 20 30 40 50 60"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">Kittens</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2859,623)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 9 19 33 43 53 62 71 80 85 90 95 107 116 125 133 142 147 152 167 177 182 191 201 215 225 235 244 253 262 267 275 280 290 300 309 316 323 329 339 348 353 358 367 376 381 390 400 408 413 420 429 438 443 448 458 467 475 484 489 498 504 513 521 529 538 546 551 557 566 571 576 585"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">component. These two components override the abstract base classes in the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,646)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 10 17 23 32 38 47 56 62 67 76 86 100 110 120 129 138 147 152 160 165 174 182 188 197 206 211 220 225 235 244 249 254 263 270 279 284 292 301 310 319 324 333 341"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">original components using a pattern such as </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3130,646)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 10 19 33 43 49 58 63 72 77 94 103 108 117 127 137 142 152 159 164 175 180 187 196 201 210 219"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">Template Method or Strategy</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3358,646)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0"
+             y="0"
+             id="tspan172">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,689)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 14 24 29 38 43 52 61 70 76 85 90 95 104 113 118 123 128 137 146 151 156 171 181 186 195 204 219 224 233 243 257 267 277 286 295 304 309 317 322"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">Note again that the two new components, </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3111,689)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 10 20 30 40"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">Rides</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3166,689)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 9 18 28"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">and </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3199,689)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 10 20 30 40 50 60"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">Kittens</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3269,689)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 5 10 16 26 32 38 48 63 68 73 82 91 96 110 119 129 138 147 157 166 175 184"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">, follow the Dependency</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,712)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text198"><tspan
+             x="0 13 22 28 37 42 47 61 71 76 85 90 99 105 113 123 128 133 142 151 156 161 166 175 184 189 198 204 213 221 229 238 246 251 256 265 274 279 284 290 304 314 320 329 343 352 361 366 371 376 385 395 403 412 417 423 432 441 446 455 462 471 479 484 493 500 509 514 523 530 539 548 553 562 572 577 587 596 601 607 616 625 630 640 647 653 662"
+             y="0"
+             sodipodi:role="line"
+             id="tspan196">Rule. Note also that the classes that implement those features are created by factories</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,735)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text202"><tspan
+             x="0 9 18 28 37 44 49 54 63 72 77 86 96 105 110 117 127 133 138 148 154 159 164 173 182 187 200 206"
+             y="0"
+             sodipodi:role="line"
+             id="tspan200">under the control of the UI.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,778)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text206"><tspan
+             x="0 13 19 28 37 44 50 58 63 68 74 83 88 93 102 108 116 121 129 138 147 156 170 179 184 189 204 213 222 231 236 241 250 259 264 278 284 289 294 303 308 314 323 332 337 346 353 362 367 373 381 386 392 406 416 422 431 445 454 463 468 477 487 492 497 502 511 520"
+             y="0"
+             sodipodi:role="line"
+             id="tspan204">Clearly, in this scheme, when the Kitty feature is implemented, the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3309,778)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text210"><tspan
+             x="0 10 20 30 40 50"
+             y="0"
+             sodipodi:role="line"
+             id="tspan208">TaxiUI</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(3374,778)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text214"><tspan
+             x="0 14 23 31 36 41 50 59 68 77 86 95"
+             y="0"
+             sodipodi:role="line"
+             id="tspan212">must change.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,801)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text218"><tspan
+             x="0 13 22 27 32 41 51 56 65 71 80 89 94 103 109 117 126 131 140 149 158 168 176 181 186 196 201 211 220 225 234 243 252 261 270 279 289 294 299 312 321 326 335 344 350 355 360 369 374 383 392 407 412 418 427 434 439 445 451 457 466 471 476 486 493 498 512 521 535 540 545 555 562 567 581 592 602 607 613 621 626 635 645 655 664 674 679 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan216">But nothing else needs to be changed. Rather, a new jar file, or Gem, or DLL is added to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,824)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text222"><tspan
+             x="0 5 14 23 28 36 45 53 58 67 81 86 95 104 114 119 129 138 147 156 170 176 185 194 200 206 215 220 226 236 245 255 264 274 279 288 293 298 305 314 323 328 334 348 357"
+             y="0"
+             sodipodi:role="line"
+             id="tspan220">the system and dynamically loaded at runtime.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2784,867)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text226"><tspan
+             x="0 12 21 30 38 43 48 57 66 71 85 91 96 101 110 115 121 130 139 144 153 160 169 174 180 188 193 203 212 221 231 240 250 256 265 275 280 285 294 303 313 318 324 333 343 352 362 371 380 390 399 408 413 419 428 433 443 452 462 471 477 487 497 506 516 522 531 536 545 554 564 569 579 588 598 604 614 623 632 642 648 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan224">Thus the Kitty feature is decoupled, and independently developable and deployable.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

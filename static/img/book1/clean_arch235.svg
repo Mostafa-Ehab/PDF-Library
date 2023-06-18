@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 2088,0 h 696 V 1056 H 2088 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 2088,66 h 696 V 996 H 2088 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-2088)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-2088)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(2088,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 17 26 35 44 49 59 65 70 75 84 93 98 107 121 131 140 150 160 169 179 184 192 201 209 214 223 237 245 250 258 268 274 279 294 303 310 319 324 329 338 347 352 357 363 368 376 385 394 399 405 414 419 424 433 442 447 462 468 474 484 489 497 506 515 529 537 542 547 557 562 571 580 590 599 604 614 623 632"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">Much of the embedded systems software that I see in the wild seems to have been</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 15 22 28 33 38 47 56 61 76 82 87 96 101 110 127 136 145 154 159 165 170 175 190 200 207 216 225 230 236 245 250 264 270 279 289 309 318 327 337 342 352 361 368 377 386 396 404 409 418 424 432 442 447 462 468 473 482 487 496 505"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">written with “Make it work” in mind—and perhaps also with an </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2598,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 10 20 28 37 45 53 59 69 78 83 89 99 106 111 116 125"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">obsession for the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 9 26 35 44 53 58 64 69 74 80 89 97 102 111 116 125 135 144 150 155 160 169 178 187 193 202 212 221 231 236 246 255 260 269 279 289 295 304 313 318 332 338 347 354 364 371 381 391 396 402 416 422 430 439 444 450 460 469 477 482 491 496 501 510 520 529 536 545 550 560 570 580 590 597 602 611 620 626 631 639 644 649 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">“Make it fast” goal, achieved by adding micro-optimizations at every opportunity. In</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 12 21 30 35 52 61 66 75 81 90 99 105 110 127 136 145 152 169 179 188 193"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">The Mythical Man-Month</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2290,152)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 5 10 21 28 37 47 52 65 72 82 92 101 109 114 122 131 140 149 158 166 171 179 184 199 208 213 222 232 238 247 256 261 266 276 281 286 295 302 312 327 332 342 351 360 365 374 389 398 406 411 420 425 439 448 457"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">, Fred Brooks suggests we “plan to throw one away.” Kent</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,175)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 9 18 28 33 44 51 60 70 75 84 91 100 105 114 120 130 136 145 154 159 169 175 182 187 196 205 211 217 226 231 236 245 254 259 267 276 290 299 304 313 323 333 339 348 357 363 368 379 388 397 404 413 418 433 442 451 456 461 476 486 493 502 510 515 520 525 534 543 552 557 571 580 589 598 603 612 617 627 636 641 646 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">and Fred are giving virtually the same advice: Learn what works, then make a better</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,198)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 8 18 24 33 38 44 54 63"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">solution.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 12 26 36 45 55 65 74 84 89 97 107 113 118 133 142 149 158 163 169 177 182 191 201 206 211 219 229 238 247 253 262 268 273 288 297 306 315 320 326 331 336 345 355 369 378 386 391 396 406 411 416 425 434 442 451 456 466 473 483 493 499 508 522 530 535 540 557 567 575 580 585 594 604 613"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">Embedded software is not special when it comes to these problems. Most non-</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,264)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 9 23 33 42 52 62 71 81 86 95 105 115 123 128 137 144 153 158 168 177 183 189 194 199 205 214 222 227 232 237 247 252 267 277 284 293 298 303 318 324 329 338 343 349 355 360 365 371 380 385 392 401 410 419 426 436 441 446 456 461 475 484 493 499 508 517 522 527 536 545 550 559 569 579 588 593 600 606 615 624 629 634 640 650 657 662"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">embedded apps are built just to work, with little regard to making the code right for a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,287)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 6 16 25 34 39 48 56 65 71 80 86 91 97 103 109 118"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">long useful life.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,330)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 14 23 28 33 39 48 57 62 71 80 85 94 104 114 119 124 134 139 154 164 171 180 185 191 199 204 219 228 237 242 247 253 258 267 276 282 288 293 298 307 316"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">Getting an app to work is what I call the </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2409,330)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 14 24 34 41 46 52 57 66 76 85 90 95 104 112"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">App-titude test</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2531,330)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 6 16 23 28 37 42 52 59 69 78 85 94 108 122 131 137"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">for a programmer.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,353)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 11 18 28 37 44 53 67 81 90 97 105 110 115 124 138 148 157 167 177 186 196 201 211 218 223 232 242 247 252 257 272 281 291 296 302 311 319 324 329 338 348 357 366 375 382 391 396 401 410 419 433 441 450 456 466 475 483 488 503 509 514 523 528 537 546 551 556 562 571 580 585 590 599 608 614 621 626 635 645 655 660 665"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">Programmers, embedded or not, who just concern themselves with getting their app to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,376)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 15 25 32 41 46 55 62 71 76 86 96 102 111 120 125 130 139 148 154 161 166 176 183 193 203 212 221 226 234 239 248 257 267 272 281 295 305 311 321 330 339 346 354 359 368 373 383 389 397 405 414 421 431 437 446 455 460 465 477 486 495 502 511 516 522 530 535 549 558 567 576 581 595 605 612 621 626 631"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">work are doing their products and employers a disservice. There is much more to</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,399)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 10 17 27 36 43 52 66 80 86 95 104 109 114 123 132 141 146 152 161 169 174 179 188 197 202 207 213 222 231 236 245 254 259 268 278 288 293 298 308 313 328 338 345 354"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">programming than just getting an app to work.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,442)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 14 22 27 36 45 50 59 68 77 91 101 107 116 121 131 137 142 151 161 171 180 185 195 202 212 222 231 240 249 259 264 279 288 294 300 309 314 324 333 341 349 355 364 373 378 383 392 401 406 420 430 440 447 452 458 463 472 482 491 496 501 510 518 523 528 533 542 551 560 569 578 583 593 602 607 612 617 626 635 643"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">As an example of code produced while passing the App-titude test, check out these</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,465)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 6 15 24 33 38 44 54 63 71 76 82 92 101 110 115 124 134 139 145 154 159 169 178 187 192 198 204 210 219 224 234 240 245 254 259 267 281 290 296 302 307 316 330 340 349 359 369 378 388 393 401 410 418 423 432 446"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">functions located in one file of a small embedded system:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,505)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">Click here to view code image</tspan></text>
+        <path
+           d="m 2088,506.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path110" />
+        <text
+           xml:space="preserve"
+           transform="translate(2089,544.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text114"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">ISR(TIMER1_vect) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,561.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text118"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189"
+             y="0"
+             sodipodi:role="line"
+             id="tspan116">ISR(INT2_vect) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,578.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">void btn_Handler(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,595.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text126"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243"
+             y="0"
+             sodipodi:role="line"
+             id="tspan124">float calc_RPM(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,612.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333"
+             y="0"
+             sodipodi:role="line"
+             id="tspan128">static char Read_RawData(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,629.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">void Do_Average(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,646.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">void Get_Next_Measurement(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,663.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">void Zero_Sensor_1(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,680.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">void Zero_Sensor_2(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,697.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351 360"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">void Dev_Control(char Activation) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,714.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306"
+             y="0"
+             sodipodi:role="line"
+             id="tspan152">char Load_FLASH_Setup(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,731.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">void Save_FLASH_Setup(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,748.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">void Store_DataSet(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,765.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288 297 306 315 324 333 342 351"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">float bytes2float(char bytes[4]) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,782.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261 270 279 288"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">void Recall_DataSet(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,799.5)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234 243 252 261"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">void Sensor_init(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,817)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0 9 18 27 36 45 54 63 72 81 90 99 108 117 126 135 144 153 162 171 180 189 198 207 216 225 234"
+             y="0"
+             sodipodi:role="line"
+             id="tspan176">void uC_Sleep(void) { ... }</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,865)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 12 21 30 35 40 46 52 60 65 70 80 86 91 97 106 115 124 129 135 145 154 162 167 173 181 186 192 201 206 211 220 229 234 244 251 261 270 277 282 288 293 299 309 318 327 337 342 347 356 365 379 384 390 399 404 409 418 427 432 440 450 459 466 475 484 489 495 501 507 516 521 526 540 550 565 570 576 583 589 595 600 608 617 627 636 643 652 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">That list of functions is in the order I found them in the source file. Now I’ll separate</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,888)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0 5 14 23 37 42 51 60 70 75 84 91 101 110 120 125 130 139 148 162 167 177 186 191 200 210 219 228 237 244 253"
+             y="0"
+             sodipodi:role="line"
+             id="tspan184">them and group them by concern:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2089,931)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 7 12 23 32 41 50 55 61 71 80 88 93 98 107 116 121 126 135 144 154 163 168 178 188 202 211 217 226 231 237 247 256 262"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">• Functions that have domain logic</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(2088,959)"
+           style="font-variant:normal;font-weight:bold;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 11 15 19 26 35 39 47 55 61 69 73 78 86 90 98 102 110 120 124 131 139 147 155 159 163 175 182 190"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">Click here to view code image</tspan></text>
+        <path
+           d="m 2088,960.5 h 197 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path196" />
+        <text
+           xml:space="preserve"
+           transform="translate(2099,982)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'Courier New';-inkscape-font-specification:CourierNewPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160 170 180 190 200 210 220 230 240 250 260 270"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">float calc_RPM(void) { ... }</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

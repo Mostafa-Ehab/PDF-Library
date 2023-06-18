@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 10440,0 h 696 v 1056 h -696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 10440,66 h 696 v 930 h -696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-10440)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-10440)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(10440,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 12 21 30 35 46 60 70 75 84 93 103 108 113 122 131 136 147 161 171 176 185 195 209 219 225 234 243 253 258 267 281 291 300 309 314 319 324 334 339 344 353 362 367 381 387 397 402 408 418 425 430 439 449 463 473 483 492 501 510 515 523 528 533 545 554 560 568 573 579 587 592 597 604 613 622 627 637 646 655 664 673 681"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">The SAP and the SDP combined amount to the DIP for components. This is true because</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 5 14 23 28 39 53 63 68 76 85 94 102 107 112 121 130 135 140 150 159 169 178 187 197 206 215 224 230 239 247 252 260 269 279 288 294 304 309 316 325 334 339 345 354 359 364 373 382 387 397 403 410 419 428 433 439 449 458 463 473 479 484 492 497 506 516 522 528 534 539 547 552 557 566 575 585 590 595 604 613 618 629 643 653 658 666 675 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">the SDP says that dependencies should run in the direction of stability, and the SAP says</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 5 14 23 28 33 41 46 55 65 71 77 83 88 97 102 108 122 132 138 144 153 161 166 175 185 193 198 205 214 223 228 234 244 253 258 263 275 284 293 301"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">that stability implies abstraction. Thus </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10746,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 10 19 29 38 47 57 66 75 84 90 99 107 112 119 128 137 142 148 157 162 167 176 185 190 200 206 213 222 231 236 242 252 261 266 276 282 287 296 306 314 319 326 335 344 349 355 365 374"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">dependencies run in the direction of abstraction.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,172)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 12 21 30 35 49 55 64 69 74 83 93 108 117 127 136 142 147 152 158 166 171 180 185 195 202 208 217 226 232 242 248 257 262 267 276 285 290 295 305 314 323 329 337 342 357 363 368 377 382 391 397 406 414 422 431 439 459 468 477 487 492 507 513 518 527 532 541 547 556 564 572 581 589 594 599 608 617 624 633 638 647 654 663 668 677"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">The DIP, however, is a principle that deals with classes—and with classes there are no</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 8 17 26 36 45 53 58 68 74 79 88 95 104 112 117 122 134 140 145 154 163 170 175 184 189 198 204 213 221 229 234 240 248 253 262 272 280 285 292 301 310 315 320 330 337 342 348 353 358 364 372 377 386 396 401 406 411 423 432 441 446 455 465 479 489 495 504 513 518 524 534 543 548 558 564 569 574 583 592 597 608 622 632 637 646 655 665 670 675 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">shades of gray. Either a class is abstract or it is not. The combination of the SDP and the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,218)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 11 25 35 40 50 59 68 74 82 87 102 108 113 122 127 136 146 160 170 180 189 198 207 212 220 225 230 239 248 258 263 272 278 284 294 309 317 322 327 336 345 350 355 364 369 378 388 402 412 422 431 440 449 454 459 468 477 486 491 501 510 515 525 534 541 546 552 561 567 573 582 587 596 606 614 619 626 635 644 649 654 663 672"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">SAP deals with components, and allows that a component can be partially abstract and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,241)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 10 19 26 31 37 46 52 58 67 72 80 85 94 104 110 119"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">partially stable.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,291)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0"
+             y="0"
+             id="tspan62">M</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10463,291)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 15 31 44 61 78 87 104"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">EASURING</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10591,291)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0"
+             y="0"
+             id="tspan70">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10607,291)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 16 29 44 61 77 94 109 118 136"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">BSTRACTION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,334)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 12 21 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">The </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10475,334)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0"
+             y="0"
+             id="tspan82">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10494,334)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 14 23 28 35 41 50 55 61 69 74 83 88 102 111 120 128 137 144 153 158 168 174 179 184 193 202 207 216 226 234 239 246 255 264 269 278 287 295 303 308 318 324 329 338 343 352 362 376 386 396 405 414 423 428 433 438 444 449 457 462 472 481 487 496 505 510 516 524 529 537 543 557 567 573 582 587 592 601"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">metric is a measure of the abstractness of a component. Its value is simply the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,357)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 7 16 21 27 37 42 52 58 63 69 78 83 92 99 105 114 123 132 140 145 154 163 173 178 187 197 205 210 217 226 235 240 245 254 260 269 277 285 294 302 307 313 322 327 336 341 350 360 374 384 394 403 412 421 426 431 436 446 451 456 465 474 479 484 494 499 508 514 519 528 537 551 561 570 577 582 592 598 603 612 618 627 635 643 652 660 665 671"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">ratio of interfaces and abstract classes in a component to the total number of classes in</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,380)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 5 14 23 28 37 47 61 71 81 90 99 108 113"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">the component.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10441,423)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 7"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">• </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10453,423)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 14 23"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">Nc:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10487,423)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 12 21 30 35 44 53 67 77 86 93 98 108 114 119 128 134 143 151 159 168 176 181 187 196 201 206 215 224 229 238 248 262 272 282 291 300 309 314"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">The number of classes in the component.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10441,451)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 7"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">• </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10453,451)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 14 23"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">Na:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10487,451)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 12 21 30 35 44 53 67 77 86 93 98 108 114 119 128 138 146 151 158 167 176 181 186 195 201 210 218 226 235 243 248 257 266 276 281 287 296 301 310 317 323 332 341 350 358 363 369 378 383 388 397 406 411 420 430 444 454 464 473 482 491 496"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">The number of abstract classes and interfaces in the component.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10441,479)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 7"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">• </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10453,479)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 14"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">A:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10478,479)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 14 24 32 37 44 53 62 67 76 85 93 101 106"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">Abstractness. </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10589,479)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0"
+             y="0"
+             id="tspan134">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10608,479)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 11"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">= </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10624,479)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 14"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">Na</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10652,479)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 11"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">÷ </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10668,479)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 14 23"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">Nc.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,522)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 12 21 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">The </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10475,522)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0"
+             y="0"
+             id="tspan158">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10494,522)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 14 23 28 35 41 50 55 62 71 80 89 98 106 111 117 124 134 148 153 163 168 173 183 188 198 203 208 221 226 236 245 251 260 269 274 284 290 295 305 310 316 330 340 346 352 361 369 374 379 388 397 402 407 412 421 430 435 444 454 468 478 488 497 506 515 520 525 534 543 551 556 565"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">metric ranges from 0 to 1. A value of 0 implies that the component has no</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,545)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 9 19 27 32 39 48 57 62 67 76 82 91 99 107 116 124 129 138 143 148 157 163 169 174 179 192 197 207 216 222 231 240 245 255 261 266 276 281 287 301 311 317 323 332 340 345 350 359 368 373 378 383 392 401 406 415 425 439 449 459 468 477 486 491 496 505 515 524 529 538 544 553 561 566 575 585 590 599 605 614 623 628 638 647"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">abstract classes at all. A value of 1 implies that the component contains nothing but</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,568)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 9 19 27 32 39 48 57 62 67 76 82 91 99 107 116 124"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">abstract classes.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,618)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0"
+             y="0"
+             id="tspan174">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10455,618)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text180"><tspan
+             x="0 18"
+             y="0"
+             sodipodi:role="line"
+             id="tspan178">HE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10494,618)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text184"><tspan
+             x="0"
+             y="0"
+             id="tspan182">M</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10517,618)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 16 25"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">AIN</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10565,618)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text192"><tspan
+             x="0"
+             y="0"
+             id="tspan190">S</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10578,618)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text196"><tspan
+             x="0 15 33 50 65 82 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan194">EQUENCE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,661)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 16 25 30 39 46 55 60 69 79 94 99 105 114 119 128 133 143 153 161 167 172 178 188 197 202 207 217 222 232 241 247 253 262 271 276 281 290 299 304 311 320 326 335 340 346 356 365 373 382 388 398 403 413 422 427 442 451 460 469 474 482 487 496 506 512 518 524 529 538 543"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">We are now in a position to define the relationship between stability (</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10990,661)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text204"><tspan
+             x="0"
+             y="0"
+             id="tspan202">I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10996,661)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text208"><tspan
+             x="0 7 12 21 30"
+             y="0"
+             sodipodi:role="line"
+             id="tspan206">) and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,684)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text212"><tspan
+             x="0 9 19 27 32 39 48 57 62 71 80 88 96 101"
+             y="0"
+             sodipodi:role="line"
+             id="tspan210">abstractness (</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10548,684)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text216"><tspan
+             x="0"
+             y="0"
+             id="tspan214">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10562,684)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text220"><tspan
+             x="0 7 12 17 27 37 42 52 62 67 75 85 90 95 110 119 124 133 140 149 158 163 172 177 186 191 200 207 216 226 235 240 255 261 266 275"
+             y="0"
+             sodipodi:role="line"
+             id="tspan218">). To do so, we create a graph with </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10842,684)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text224"><tspan
+             x="0"
+             y="0"
+             id="tspan222">A</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10861,684)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text228"><tspan
+             x="0 10 19 24 29 38 47 52 62 71 78 83 89 98 107 113 118 127 136 142 150 155 164 173 183"
+             y="0"
+             sodipodi:role="line"
+             id="tspan226">on the vertical axis and </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11049,684)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text232"><tspan
+             x="0"
+             y="0"
+             id="tspan230">I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(11060,684)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text236"><tspan
+             x="0 10 19 24 29 38"
+             y="0"
+             sodipodi:role="line"
+             id="tspan234">on the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,707)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text240"><tspan
+             x="0 9 19 26 32 40 50 59 64 73 79 84 93 102 108 116 121"
+             y="0"
+             sodipodi:role="line"
+             id="tspan238">horizontal axis (</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10568,707)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text244"><tspan
+             x="0 11 17 26 35 42 51 56 66 76 81 91"
+             y="0"
+             sodipodi:role="line"
+             id="tspan242">Figure 14.12</tspan></text>
+        <path
+           d="m 10568,708.5 h 100 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path246" />
+        <text
+           xml:space="preserve"
+           transform="translate(10669,707)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text250"><tspan
+             x="0 7 12 17 23 29 34 49 58 63 73 79 89 94 99 104 113 122 127 132 147 157 162 171 180 190 200 210 219 224 233 239 248 258 266 271 281 287 292 301 311 325 335 345 354 363 372 377 385 390 400 409 414 419 428 434"
+             y="0"
+             sodipodi:role="line"
+             id="tspan248">). If we plot the two “good” kinds of components on this</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,730)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text254"><tspan
+             x="0 9 16 25 35 44 49 54 69 78 83 98 104 110 116 121 127 133 142 152 157 162 171 180 185 194 204 218 228 238 247 256 265 270 278 283 288 297 306 311 316 325 332 341 346 360 369 378 384 398 407 413 419 428 433 441 446 455 465 471 480 485 494 503 513 518 527 537 545 550 557 566 575 580 585 594 599 604 609 618 627 632 641 651 661 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan252">graph, we will find the components that are maximally stable and abstract at the upper</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,753)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text258"><tspan
+             x="0 6 15 21 26 31 40 45 50 57 67 72 77 87 94 99 104 116 125 134 139 148 158 172 182 192 201 210 219 224 232 237 242 251 260 265 270 279 286 295 300 314 323 332 338 352 361 367 373 382 387 396 405 413 418 427 437 443 452 457 466 475 485 490 499 509 518 527 534 543 548 557 562 571 578 587 592 601 606 611 616 625 634 639 645 655 670 679"
+             y="0"
+             sodipodi:role="line"
+             id="tspan256">left at (0, 1). The components that are maximally unstable and concrete are at the lower</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(10440,776)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text262"><tspan
+             x="0 7 13 22 31 36 41 50 55 60 67 77 82 87 97 104"
+             y="0"
+             sodipodi:role="line"
+             id="tspan260">right at (1, 0).</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

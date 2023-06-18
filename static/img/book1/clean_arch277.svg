@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 5568,0 h 696 V 1056 H 5568 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 5568,66 h 696 V 996 H 5568 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-5568)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-5568)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(5568,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 10 16 21 30 39 44 53 62 68 74 83 93 98 107"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">often called a </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5680,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 7 16 22 31 40 49 59 64 70 79 88 97 104 113 123 128 137 144 153 162 168 173 182 191 196 205 212"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">relaxed layered architecture</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5901,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 5 10 19 27 32 38 47 56 65 72 80 85 94 101 110 115 124 130 136 146 161 170 180 185 190 200 205 213 222 228 238 243 252 259 269 278 287 297 302 307 316 325 331"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">, as layers are allowed to skip around their</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 9 19 25 34 43 52 61 66 71 80 89 95 104 113 123 133 140 147 155 162 167 172 178 187 192 200 210 224 233 238 246 252 257 266 275 280 286 296 305 313 318 323 328 337 343 351 356 362 370 375 380 389 398 403 409 418 423 432 441 451 460 470 475 485 494 499 508 518 532 541 561 567 573 578 587 597 606 613 620 629 634 639 646 655 661 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">adjacent neighbor(s). In some situations, this is the intended outcome—if you’re trying</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,132)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 5 15 20 26 36 42 48 58 73 78 83 92 101 106 119 133 146"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">to follow the CQRS</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5725,125)"
+           style="font-variant:normal;font-weight:normal;font-size:15px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0"
+             y="0"
+             id="tspan50">5</tspan></text>
+        <path
+           d="m 5725,126.5 h 6 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path54" />
+        <text
+           xml:space="preserve"
+           transform="translate(5737,132)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text58"><tspan
+             x="0 10 19 24 29 38 45 54 59 64 70 80 87 92 101 110 119 133 143 149 158 163 168 174 183 188 202 211 220 229 234 244 249 258 267 274 279 288 297 305 314 322 327 332 342 351 361 370 378 386 392 401 410 415 420 429 438 443 453 462 470 476 485 494 502"
+             y="0"
+             sodipodi:role="line"
+             id="tspan56">pattern, for example. In many other cases, bypassing the business</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,155)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0 6 16 25 31 40 45 51 60 69 78 85 90 96 104 109 118 127 137 146 154 160 167 176 186 192 201 206 211 220 228 238 247 256 262 271 277 283 292 297 303 309 314 319 328 337 342 347 357 366 374 380 389 398 406 414 419 425 435 444 450 459 464 470 478 483 490 499 507 517 527 536 544 550 560 566 575 580 586 596 603 608 617 626 634 643 650 656 665"
+             y="0"
+             sodipodi:role="line"
+             id="tspan60">logic layer is undesirable, especially if that business logic is responsible for ensuring</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,178)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text66"><tspan
+             x="0 9 18 23 32 42 49 55 63 72 82 87 96 105 114 123 131 139 144 149 159 164 170 179 189 195 205 211 221 230 239 245 250 257 266 275 285 292 302 310 315 320 326 336 343 348 357 366 375 389 399 405 414"
+             y="0"
+             sodipodi:role="line"
+             id="tspan64">authorized access to individual records, for example.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,221)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text70"><tspan
+             x="0 18 27 33 39 48 53 58 67 76 81 90 99 114 119 128 136 145 150 159 168 176 185 190 205 215 222 231 239 244 249 255 260 266 274 279 289 298 305 314 323 333 341 346 355 365 370 375 381 395 405 411 420 434 443 452 457 466 476 481 487 496 501 506 515 524 529 544 553 562 567 572 581 590 595 600 615 624 629 644 653 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan68">While the new use case works, it’s perhaps not implemented in the way that we were</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,244)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text74"><tspan
+             x="0 9 18 28 37 46 51 57 66 75 80 85 91 96 104 113 122 127 132 141 147 155 160 169 178 188 198 207 216 221 230 235 241 251 256 261 276 282 287 296 301 306 315 324 338 346 351 356 365 374 379 384 390 395 405 411 419 425 430 435 444 452 457 466 471 480 490 499 507 516 522 527 536 545 550 555 560 569 578 588 593 599 604 610 618 623 632 640 649 658 664 670"
+             y="0"
+             sodipodi:role="line"
+             id="tspan72">expecting. I see this happen a lot with teams that I visit as a consultant, and it’s usually</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,267)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text78"><tspan
+             x="0 7 16 26 35 44 50 59 69 74 89 98 107 116 121 126 135 144 158 166 171 179 184 193 200 205 210 215 225 230 240 246 254 263 272 278 284 292 301 306 321 330 339 344 349 354 363 372 378 385 390 399 409 419 428 433 443 452 460 469 474 481 490 499 505 511 520 525 531 541 551 560 568 573 579 585 594 603 608 613 623 629 634 643 652 657 663 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan76">revealed when teams start to visualize what their code base really looks like, often for</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(5568,290)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text82"><tspan
+             x="0 5 14 23 28 34 40 47 55 60 65 70 76 90 99"
+             y="0"
+             sodipodi:role="line"
+             id="tspan80">the first time.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

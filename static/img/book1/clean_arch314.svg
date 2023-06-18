@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 17400,0 h 696 v 1056 h -696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 17400,66 h 696 v 930 h -696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-17400)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-17400)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(17400,83.5)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 10 19 25 31 41 50 57 65 70 75 84 93 102 111 116 126 132 137 152 161 171 185 190 200 209 215 221 231 239 244 253 262 267 276 285 290 296 303 312 317 327 334 344 354 363 372 377"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">builders, each of whom builds an entire product.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,126)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 14 19 24 29 38 47 52 57 63 77 86 91 97 102 107 116 126 135 144 153 158 163 177 186 191 200 207 216 225 231 236 245 254 259 268 275 284 289 304 313 321 326 334 343 353 362 369 375 385 391 396 401 418 424 433 442 447 452 462 468 473 482 492 501 508 516 525 530 535 540 549 559 568 577 586 591 596 605 611 619 624 639 648"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">At the time I thought my architecture was superior. Mike, of course, thought his was</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,149)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0 10 19 24 29 38 44 49 54 70 79 84 93 102 112 117 131 140 149 158 163 172 181 186 195 202 207 216 222 231 237 246 255 260 270 276 284 293 302 310 318 324 334 343 351 356 365 375 385 394 399 404 409 418 424 432 437 442 448 457 462 467 476 485 490 499 508 518 523 528 538 544 549 558 568 577 584 592 601 606 611 621 631 636"
+             y="0"
+             sodipodi:role="line"
+             id="tspan38">better. We had many entertaining discussions about this. In the end, of course, both</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,172)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 15 25 32 41 50 60 65 75 84 90 95 104 109 124 133 139 145 150 155 169 178 188 193 199 204 219 228 236 241 247 256 262 267 272 287 293 298 307 312 317 326 335 340 347 356 365 371 377 385 394 399 405 415 424 429 434 443 452 457 462 470 480 486 491 506 515 522 531 536 545 552 561 570 576 581 590 599 604 613 620 629 637 642 651 660 669 674 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">worked quite well. And I was left with the realization that software architectures can be</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,195)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 15 21 27 37 43 52 57 67 73 79 85 94 101 110 119 124 129 134 143 152 157 162 171 181 190 199 205 211 220 225 234 240 246 255 264 269 275 285 294"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">wildly different, yet equally effective.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,265)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 23 47"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">VRS</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,310)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 14 22 27 32 41 50 55 65 75 85 95 103 108 118 125 135 144 151 160 168 176 185 195 200 205 214 223 238 247 254 259 268 277 287 292 301 310 325 334 341 346 351 360 369 378 387 397 403 413 422 428 437 445 450 459 469 479 488 497 504 513 523 528 533 547 556 565 570 580 586 591 596 605 615 623"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">As the 1980s progressed, newer and newer technologies appeared. One of those</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 5 14 23 32 41 51 57 67 76 82 91 99 104 119 128 136 141 146 155 164 169 178 188 202 212 221 226 235 242 247 256 266 275 280 287 297 303 308 318 324"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">technologies was the computer control of </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17729,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 10 20 26 35"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">voice</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17773,333)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0"
+             y="0"
+             id="tspan66">.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,376)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 14 23 32 37 47 53 58 63 72 81 86 92 101 110 115 124 131 140 148 153 163 169 174 179 188 197 202 212 219 229 238 244 249 257 266 274 279 288 302 307 322 331 339 344 349 358 367 372 381 391 397 403 409 414 423 428 438 444 449 454 463 472 477 486 493 502 508 513 521 535 544 553 558 563 573 578 584 594 603 612 617 626 631 640 645 651 660 669 675"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">One of the features of the 4-Tel system was the ability of the craftsman to locate a fault</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,399)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 6 15 20 29 34 43 52 62 68 77 82 87 99 108 117 122 132 139 149 158 167 177 186 193 202 207 222 231 239 244 253 261 266 272 282 288 294 304 319 327"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">in a cable. The procedure was as follows:</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17401,442)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 7 12 24 33 42 47 52 61 69 74 83 89 94 99 105 114 119 124 133 142 147 156 165 174 179 186 195 201 206 216 222 228 234 243 252 257 262 277 287 296 302 312 317 326 334 343 348 358 367 374 379 387 396 404 409 418 432 437 442 452 457 467 476 481 490 497 511 517 526 535 540 545 554 563 568 577 587 597 604 614 623 629 643 652 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">• The tester, in the central office, would use our system to determine the approximate</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17413,465)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 10 16 24 29 38 47 56 65 70 75 81 90 95 101 110 119 124 129 134 139 149 154 159 168 177 182 188 197 206 212 217 222 227 239 248 254 262 267 282 292 301 307 317 322 332 341 346 355 364 373 382 389 398 403 412 417 422 432 437 452 458 463 472 478 487 492 502 512 529 534 544 551 556 564 574 579 584 596 605 614 619 624 633 641 646 655"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">distance, in feet, to the fault. This would be accurate to within 20% or so. The tester</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17413,488)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 15 25 34 40 50 55 65 71 79 89 98 103 112 121 126 135 140 149 158 168 174 183 188 195 204 214 223 229 236 241 250 257 266 272 277 285 299 308 317 322 327 337 342 351 360 365 374 384 394 401 411 421 428 434 443 448 457 462 471 480 489 498 506 514 519 529 539 545 554 559 564 573 582 591 598 603 608 617 626"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">would dispatch a cable repair craftsman to an appropriate access point near that</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17413,511)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 10 20 28 34 39 45 55 64"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">position.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17401,540)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 7 12 24 33 42 47 56 65 75 81 90 95 102 111 121 130 136 143 148 157 164 173 179 184 192 206 215 224 229 234 243 253 263 272 277 286 293 300 306 316 325 331 336 341 356 366 375 381 391 396 405 414 420 426 431 436 445 454 459 464 473 481 486 495 502 507 516 525 535 540 549 557 566 571 576 586 591 601 610 619 625 634 639 644 653"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">• The cable repair craftsman, upon arrival, would call the tester and ask to begin the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17413,563)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 6 15 24 30 35 40 46 56 65 74 79 85 95 104 109 119 126 136 145 154 162 170 175 180 192 201 210 215 220 229 237 242 251 258 263 278 288 297 303 313 318 324 333 343 353 362 371 376 381 390 399 404 410 419 428 434 439 444 450 460 469 478 483 489 499 508 513 519 528 537 542 551 558 567 572 582 588 593 598 607 616 621 631 638 648 657"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">fault location process. The tester would invoke the fault location feature of the 4-Tel</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17413,586)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 8 17 25 30 39 53 58 63 75 84 93 98 106 115 123 128 137 151 156 171 181 190 196 206 211 221 230 239 245 254 259 273 282 291 299 308 315 321 330 339 344 349 358 367 372 381 387 396 405 410 417 427 436 442 451 456 465 474 483 490 499 508 513 522 529 535 543 548 554 563 571 576 586 592 597 602 611 620 625 630 636 645 654 660 665"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">system. The system would begin measuring the electronic characteristics of that faulty</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17413,609)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 6 12 21 30 35 40 49 58 68 73 88 98 107 113 123 128 138 145 151 160 165 170 184 193 201 209 218 227 236 244 249 259 268 273 278 287 296 301 309 318 325 334 343 352 357 364 373 383 392 401 409 414 420 429 438 443 448 457 466 471 476 485 494 501 506 515 521 530 535 545 555 564 571 580 585 591 601 610 618 623 633"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">line, and would print messages on the screen requesting that certain operations be</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17413,632)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 10 19 26 32 42 49 63 72 82 87 92 100 109 118 127 132 141 149 154 164 174 183 192 198 207 216 221 226 235 244 249 258 267 277 283 292 297 307 314 319 327 336 346 353 358 364 373 382 387 392 401 410 415 424 433 443 449 458"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">performed, such as opening the cable or shorting the cable.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17401,660)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 7 12 24 33 42 47 52 61 69 74 83 90 95 110 120 129 135 145 150 155 164 170 176 181 186 195 204 209 218 225 234 240 245 253 267 276 285 290 305 314 320 329 338 343 353 363 372 379 388 393 399 409 418 426 431 436 445 454 459 467 476 484 489 498 512 517 532 541 550 555 564 574 579 584 593 602 612 617 622 631"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">• The tester would tell the craftsman which operations the system wanted, and the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17413,683)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 9 16 25 31 36 44 58 67 76 81 96 106 115 121 131 136 141 150 156 162 167 172 181 190 195 200 209 217 222 231 238 243 258 267 276 285 290 295 304 313 318 328 338 347 354 363 368 374 384 393 398 413 422 430 435 444 454 468 478 484 493 498 507 512 517 529 538 547 552 557 566 574 579 588 595 600 615 625 634 640"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">craftsman would tell the tester when the operation was complete. The tester would</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17413,706)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 5 14 23 32 37 42 51 57 63 68 73 82 91 96 104 113 121 126 135 149 154 159 168 177 182 187 192 201 210 215 225 235 244 251 260 265 271 281 290 295 310 319 327 332 341 351 365 375 381 390 395 404 409 414 423 432 442 447 452 461 470 475 483 492 500 505 514 528 533 548 558 567 573 583 588 597 607 616 621 627 636 645"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">then tell the system that the operation was complete, and the system would continue</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17413,729)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 15 21 26 35 40 45 54 63 68 73 82 90 95"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">with the test.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17401,757)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 7 12 26 32 37 46 53 58 63 78 88 93 103 110 115 120 129 136 145 154 159 167 176 185 194 199 205 214 219 228 235 244 253 258 264 274 283 291 296 301 306 315 324 329 337 346 354 359 368 382 387 402 412 421 427 437 442 451 460 466 475 484 490 499 504 513 518 527 532 541 550 565 570 580 586 594 599 608 617 626 635 640 645 655 660 665 674"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">• After two or three such interactions, the system would calculate a new distance to the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17413,780)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 6 15 24 30 35 40 45 57 66 75 80 89 98 108 114 123 128 137 144 153 159 164 172 186 195 204 209 224 234 243 249 259 264 269 278 287 296 301 311 318 324 334 343 348 353 363 368 373 382 391 396 401 407 417 426 435 440 446 456 465 470 479 488 498 503 513 522 531 537 546 551 556 565 574 579 589 596 606 615 624 632"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">fault. The cable craftsman would then drive to that location and begin the process</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17413,803)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 9 18 27 33 42"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">again.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,846)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 6 20 29 38 44 53 62 67 76 86 101 106 120 129 138 147 152 162 171 176 181 190 197 202 207 216 225 230 235 250 260 269 275 285 290 300 309 314 320 326 331 336 345 354 359 368 377 387 393 402 407 416 423 432 438 443 451 465 474 483 488 493 502 512 517 527 536 541 546 555 564 569 579 589 595 604 609 619"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">Imagine how much better that would be if the cable craftsmen, up on the pole or</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,869)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 8 13 22 31 41 47 56 65 70 79 84 89 98 103 113 122 132 141 149 154 163 169 174 179 188 198 207 213 223 228 238 248 257 264 273 278 287 292 297 306 315 320 328 337 345 350 359 373 378 383 392 401 415 423 432 438 448 457 465 470 475 489 498 508 513 518 527 536 541 546 552 560 565 574 583 592 601 606 612 621 626 641 650 659 664 669 674 683"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">standing at a pedestal, could operate the system themselves. And that is exactly what the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,892)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 9 18 33 38 48 58 64 73 82 87 92 101 110 119 128 138 144 154 163 169 178 186 191 200 206 212 222 237 246 256 261 270 278 283 288 298 303 313 323 328 333 345 354 363 368 377 386 396 402 411 416 425 432 441 447 452 460 474 483 492 497 506 516 525 531 541 546 555 564 570 576 581 591 597 604 613 622 627 633 642 647 653 662 667"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">new voice technologies allowed us to do. The cable craftsmen could call directly into</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,915)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 10 19 26 31 39 48 56 61 70 84 89 94 104 110 117 126 135 140 145 150 159 168 173 181 190 198 203 212 226 231 246 252 257 266 271 276 286 295 304 313 318 323 333 342 351 359 364 369 378 387 397 402 408 414 422 427 436 445 450 455 465 470 475 484 493 498 505 514 522 531 537 542 550 555 565 574 580 589 598 603 610 619 628 638 643 653 662 671"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">our system, direct the system with touch tones, and listen to the results being read back</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,938)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 5 15 20 25 34 43 57 62 68 77 82 91 96 106 112 121 130 138 147 156 161 166 176 186 192 201 210"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">to them in a pleasant voice.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17400,988)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0"
+             y="0"
+             id="tspan162">T</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17415,988)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 18"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">HE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17454,988)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0"
+             y="0"
+             id="tspan170">N</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(17471,988)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 16 39"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">AME</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
