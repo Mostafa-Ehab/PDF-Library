@@ -142,64 +142,70 @@ body {
 
         /* Start Main Section */
         .main {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 16px 30px;
-            padding: 30px 16px;
-
-            .item {
-                width: 150px;
-                background-color: var(--bg-color);
-                box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2), 0 0 10px 0 rgba(0, 0, 0, 0.19);
-                position: relative;
-                border-radius: var(--item-border);
-                padding: 5px;
-                overflow: hidden;
-                transition: var(--trans-duraion);
-
-                a {
-                    text-decoration: none;
-                    color: var(--nav-color);
-                    display: block;
-
-                    .img {
-                        width: 100%;
-                        height: 150px;
-                        border-radius: var(--item-border) var(--item-border) 0 0;
-                        display: block;
-                    }
-
-                    .title {
-                        padding: 5px 10px 0 0;
-
-                        p {
-                            width: 110px;
-                            height: 36px;
-                            font-size: 14px;
-                            overflow: hidden;
-                        }
-                    }
-                }
-
-                .bookmark {
-                    position: absolute;
-                    right: 0;
-                    top: 150px;
-                    border: none;
-                    outline: none;
-                    background-color: transparent;
-                    padding: 15px 10px;
-                    transition: var(--trans-duraion);
-                }
-
-                .bookmark:hover {
-                    transform: scale(1.2);
-                    cursor: pointer;
-                }
+            h1 {
+                padding: 15px 16px;
             }
 
-            .item:hover {
-                transform: scale(1.05);
+            .flex {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 16px 30px;
+                padding: 30px 16px;
+
+                .item {
+                    width: 150px;
+                    background-color: var(--bg-color);
+                    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2), 0 0 10px 0 rgba(0, 0, 0, 0.19);
+                    position: relative;
+                    border-radius: var(--item-border);
+                    padding: 5px;
+                    overflow: hidden;
+                    transition: var(--trans-duraion);
+
+                    a {
+                        text-decoration: none;
+                        color: var(--nav-color);
+                        display: block;
+
+                        .img {
+                            width: 100%;
+                            height: 150px;
+                            border-radius: var(--item-border) var(--item-border) 0 0;
+                            display: block;
+                        }
+
+                        .title {
+                            padding: 5px 10px 0 0;
+
+                            p {
+                                width: 110px;
+                                height: 36px;
+                                font-size: 14px;
+                                overflow: hidden;
+                            }
+                        }
+                    }
+
+                    .bookmark {
+                        position: absolute;
+                        right: 0;
+                        top: 150px;
+                        border: none;
+                        outline: none;
+                        background-color: transparent;
+                        padding: 15px 10px;
+                        transition: var(--trans-duraion);
+                    }
+
+                    .bookmark:hover {
+                        transform: scale(1.2);
+                        cursor: pointer;
+                    }
+                }
+
+                .item:hover {
+                    transform: scale(1.05);
+                }
             }
         }
 

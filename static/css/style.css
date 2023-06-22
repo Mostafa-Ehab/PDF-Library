@@ -120,13 +120,16 @@ body {
 .home-page .container .search form:hover .text {
   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 0 120px 0 rgba(0, 0, 0, 0.1);
 }
-.home-page .container .main {
+.home-page .container .main h1 {
+  padding: 15px 16px;
+}
+.home-page .container .main .flex {
   display: flex;
   flex-wrap: wrap;
   gap: 16px 30px;
   padding: 30px 16px;
 }
-.home-page .container .main .item {
+.home-page .container .main .flex .item {
   width: 150px;
   background-color: var(--bg-color);
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2), 0 0 10px 0 rgba(0, 0, 0, 0.19);
@@ -136,27 +139,27 @@ body {
   overflow: hidden;
   transition: var(--trans-duraion);
 }
-.home-page .container .main .item a {
+.home-page .container .main .flex .item a {
   text-decoration: none;
   color: var(--nav-color);
   display: block;
 }
-.home-page .container .main .item a .img {
+.home-page .container .main .flex .item a .img {
   width: 100%;
   height: 150px;
   border-radius: var(--item-border) var(--item-border) 0 0;
   display: block;
 }
-.home-page .container .main .item a .title {
+.home-page .container .main .flex .item a .title {
   padding: 5px 10px 0 0;
 }
-.home-page .container .main .item a .title p {
+.home-page .container .main .flex .item a .title p {
   width: 110px;
   height: 36px;
   font-size: 14px;
   overflow: hidden;
 }
-.home-page .container .main .item .bookmark {
+.home-page .container .main .flex .item .bookmark {
   position: absolute;
   right: 0;
   top: 150px;
@@ -166,11 +169,11 @@ body {
   padding: 15px 10px;
   transition: var(--trans-duraion);
 }
-.home-page .container .main .item .bookmark:hover {
+.home-page .container .main .flex .item .bookmark:hover {
   transform: scale(1.2);
   cursor: pointer;
 }
-.home-page .container .main .item:hover {
+.home-page .container .main .flex .item:hover {
   transform: scale(1.05);
 }
 
