@@ -74,6 +74,11 @@ body {
 .dashboard .container {
   margin-top: 80px;
   /* Start Side Bar */
+  /* End Side Bar */
+  /*Start Main Section */
+  /* End Main Section */
+  /* Start Secondary Side Bar */
+  /* End Secondary Side Bar */
 }
 .dashboard .container .side-bar {
   position: fixed;
@@ -102,6 +107,9 @@ body {
   padding: 20px;
   transition-duration: var(--trans-duraion);
 }
+.dashboard .container .side-bar ul a i {
+  padding-right: 10px;
+}
 .dashboard .container .side-bar ul li a:hover,
 .dashboard .container .side-bar ul li.active a {
   background-color: var(--bg-color);
@@ -112,33 +120,53 @@ body {
 }
 .dashboard .container .main {
   margin-left: 300px;
+  margin-right: 400px;
+  /* Start Search Bar*/
+  /* End Search Bar */
+  /* Start Main Table */
+  /* End Main Table */
 }
-.dashboard .container .main .head {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+.dashboard .container .main .search {
+  position: sticky;
+  top: 68px;
+  background-color: var(--bg-color);
+  border-bottom: var(--nav-color) solid 1px;
+  padding: 20px;
+  z-index: 10;
 }
-.dashboard .container .main .head h1 {
-  padding: 15px 16px;
+.dashboard .container .main .search form {
+  position: relative;
+  width: 80%;
+  max-width: 500px;
+  margin: 0 auto;
 }
-.dashboard .container .main .head .add {
-  padding: 15px 16px;
-}
-.dashboard .container .main .head .add button {
+.dashboard .container .main .search form .text {
+  width: 100%;
+  height: 32px;
+  padding: 0 40px 0 16px;
   background-color: var(--bg-color);
   color: var(--nav-color);
-  border: var(--nav-color) solid 2px;
-  border-radius: var(--item-border);
-  padding: 10px 15px;
+  border: var(--nav-color) 2px solid;
+  border-radius: 24px;
   transition: var(--trans-duraion);
 }
-.dashboard .container .main .head .add button i {
-  padding-left: 10px;
+.dashboard .container .main .search form .text:focus {
+  outline: none;
 }
-.dashboard .container .main .head .add button:hover {
-  background-color: var(--nav-color);
-  color: var(--text-color);
-  transform: scale(1.1);
+.dashboard .container .main .search form .submit {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translatey(-50%);
+  background-color: transparent;
+  border: none;
+  outline: none;
+  border-left: var(--nav-color) solid 2px;
+  padding: 8px 16px 8px 10px;
+  color: var(--nav-color);
+}
+.dashboard .container .main .search form:hover .text {
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 0 120px 0 rgba(0, 0, 0, 0.1);
 }
 .dashboard .container .main .grid {
   display: grid;
@@ -155,7 +183,7 @@ body {
   padding: 10px 20px;
   color: var(--outline-color);
   overflow: hidden;
-  text-wrap: nowrap;
+  height: 40px;
 }
 .dashboard .container .main .grid div button {
   background-color: var(--bg-color);
@@ -163,7 +191,235 @@ body {
   display: block;
   margin: 0 auto;
 }
+.dashboard .container .sec-bar {
+  position: fixed;
+  top: 68px;
+  right: 0;
+  bottom: 0;
+  width: 400px;
+  box-shadow: -5px 5px 5px 0 rgba(0, 0, 0, 0.5), -5px 10px 10px 0 rgba(0, 0, 0, 0.19);
+  background-color: var(--bg-color);
+  color: var(--nav-color);
+  padding: 20px;
+  z-index: 100;
+}
+.dashboard .container .sec-bar .item {
+  padding-bottom: 10px;
+  border-bottom: var(--sec-color) solid 2px;
+}
+.dashboard .container .sec-bar .item .close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 20px;
+  background-color: var(--bg-color);
+  color: var(--nav-color);
+  border: none;
+  font-size: 1.2rem;
+}
+.dashboard .container .sec-bar .item img {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 0 5%;
+}
+.dashboard .container .sec-bar .item .title {
+  height: 1.2em;
+  overflow: hidden;
+  font-size: 1.2rem;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+.dashboard .container .sec-bar .item table tr td {
+  padding-bottom: 5px;
+}
+.dashboard .container .sec-bar .item table tr td:first-child {
+  font-weight: 900;
+}
+.dashboard .container .sec-bar .item .desc {
+  overflow: hidden;
+  height: 6em;
+  line-height: 1.2em;
+}
 
 /* End Dashboard */
+/* Start Add Page */
+.add .container {
+  margin-top: 80px;
+  /* Start Side Bar */
+  /* End Side Bar */
+  /* Start Main Section */
+  /* End Main Section */
+  /* Start Secondary Side Bar */
+  /* End Secondary Side Bar */
+}
+.add .container .side-bar {
+  position: fixed;
+  width: 300px;
+  top: 68px;
+  bottom: 0;
+  box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.5), 5px 10px 10px 0 rgba(0, 0, 0, 0.19);
+  background-color: var(--nav-color);
+  color: var(--text-color);
+  z-index: 100;
+}
+.add .container .side-bar .main-head {
+  font-size: 1.2rem;
+}
+.add .container .side-bar ul {
+  list-style: none;
+}
+.add .container .side-bar ul li {
+  border-bottom: var(--nav-color) solid 1px;
+}
+.add .container .side-bar ul a {
+  font-size: initial;
+  color: var(--text-color);
+  text-decoration: none;
+  display: block;
+  padding: 20px;
+  transition-duration: var(--trans-duraion);
+}
+.add .container .side-bar ul a i {
+  padding-right: 10px;
+}
+.add .container .side-bar ul li a:hover,
+.add .container .side-bar ul li.active a {
+  background-color: var(--bg-color);
+  color: var(--nav-color);
+  border-radius: 20px 0 0 20px;
+  margin-left: 10px;
+  margin-right: -15px;
+}
+.add .container .main {
+  margin-left: 300px;
+  margin-right: 400px;
+}
+.add .container .main h1 {
+  padding: 15px 16px;
+}
+.add .container .main .head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* Start Recently added*/
+  /* End Recently Added */
+  /* Start Add button */
+  padding: 15px 16px;
+  /* End Add Button */
+}
+.add .container .main .head h1 {
+  padding: 15px 16px;
+}
+.add .container .main .head label {
+  background-color: var(--bg-color);
+  color: var(--nav-color);
+  border: var(--nav-color) solid 2px;
+  border-radius: var(--item-border);
+  padding: 10px 15px;
+  transition: var(--trans-duraion);
+}
+.add .container .main .head label i {
+  padding-right: 10px;
+}
+.add .container .main .head label:hover {
+  background-color: var(--nav-color);
+  color: var(--text-color);
+  transform: scale(1.1);
+}
+.add .container .main .head input {
+  display: none;
+}
+.add .container .main .form {
+  padding: 30px 16px;
+}
+.add .container .main .form table {
+  width: 100%;
+}
+.add .container .main .form table td {
+  padding: 0 20px 10px;
+  align-items: end;
+}
+.add .container .main .form table tr td:nth-child(1) {
+  width: 1%;
+  white-space: nowrap;
+}
+.add .container .main .form table tr td:last-child {
+  width: 100%;
+}
+.add .container .main .form table .form-input {
+  border-radius: var(--item-border);
+  padding: 5px 10px;
+  line-height: 1.5em;
+  width: 100%;
+  border: var(--sec-color) solid 3px;
+}
+.add .container .main .form table input:focus {
+  border: var(--nav-color) solid 3px;
+}
+.add .container .main .form table .submit {
+  background-color: var(--bg-color);
+  color: var(--nav-color);
+  padding: 5px 10px;
+  border-radius: var(--item-border);
+  float: right;
+  transition: var(--trans-duraion);
+  outline: none;
+  border: var(--nav-color) solid 2px;
+}
+.add .container .main .form table .submit:hover {
+  background-color: var(--nav-color);
+  color: var(--text-color);
+}
+.add .container .sec-bar {
+  position: fixed;
+  top: 68px;
+  right: 0;
+  bottom: 0;
+  width: 400px;
+  box-shadow: -5px 5px 5px 0 rgba(0, 0, 0, 0.5), -5px 10px 10px 0 rgba(0, 0, 0, 0.19);
+  background-color: var(--bg-color);
+  color: var(--nav-color);
+  padding: 20px;
+  z-index: 100;
+}
+.add .container .sec-bar .item {
+  padding-bottom: 10px;
+  border-bottom: var(--sec-color) solid 2px;
+}
+.add .container .sec-bar .item .close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 20px;
+  background-color: var(--bg-color);
+  color: var(--nav-color);
+  border: none;
+  font-size: 1.2rem;
+}
+.add .container .sec-bar .item img {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 0 5%;
+}
+.add .container .sec-bar .item .title {
+  height: 1.2em;
+  overflow: hidden;
+  font-size: 1.2rem;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+.add .container .sec-bar .item table tr td {
+  padding-bottom: 5px;
+}
+.add .container .sec-bar .item table tr td:first-child {
+  font-weight: 900;
+}
+.add .container .sec-bar .item .desc {
+  overflow: hidden;
+  height: 6em;
+  line-height: 1.2em;
+}
+
+/* End Add Page */
 
 /*# sourceMappingURL=admin.css.map */

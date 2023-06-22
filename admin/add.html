@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin</title>
+    <link rel="stylesheet" href="/static/css/admin.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/21ee534458.js" crossorigin="anonymous"></script>
+    <!-- <script type="text/javascript" src='https://cdn.tiny.cloud/1/no-api-key/tinymce/6/tinymce.min.js'
+        referrerpolicy="origin"> -->
+    <script src="https://cdn.tiny.cloud/1/6xd1oiw5jc0c5lsph7zssigzgnj5jd8cwtj645isx58ygv5d/tinymce/6/tinymce.min.js"
+        referrerpolicy="origin"></script>
+    </script>
+</head>
+
+<body class="add">
+    <div class="navbar">
+        <div class="logo">
+            <a href="/">
+                PDFs
+            </a>
+        </div>
+        <div></div>
+        <div class="btn-container">
+            <!-- <a href="#">Login</a>
+            <a href="#">Register</a> -->
+        </div>
+    </div>
+    <div class="container">
+        <div class="side-bar">
+            <ul>
+                <li>
+                    <a href="/admin/index.html">
+                        <i class="fa-solid fa-gauge"></i>Dashboard
+                    </a>
+                </li>
+                <li class="active">
+                    <a href="/admin/add.html">
+                        <i class="fa-solid fa-plus"></i>Add book
+                    </a>
+                </li>
+                <li><a href="#">Item 2</a></li>
+                <li><a href="#">Item 3</a></li>
+            </ul>
+        </div>
+        <div class="main">
+            <form class="form">
+                <div class="head">
+                    <h1>Add book</h1>
+                    <label for="file">
+                        <i class="fa-solid fa-upload"></i>Upload file
+                    </label>
+                    <input type="file" name="file" id="file">
+                </div>
+                <table>
+                    <tr>
+                        <td>
+                            <label for="title">Title</label>
+                        </td>
+                        <td>
+                            <input type="text" class="form-input" name="title" id="title"
+                                placeholder="Enter the book title">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="author">Author</label>
+                        </td>
+                        <td>
+                            <input type="text" class="form-input" name="author" id="author"
+                                placeholder="Enter the book author">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="date">Publication Date</label>
+                        </td>
+                        <td>
+                            <input type="date" class="form-input" name="date" id="date">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="version">Version</label>
+                        </td>
+                        <td>
+                            <input type="text" class="form-input" name="version" id="version">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="lang">Language</label>
+                        </td>
+                        <td>
+                            <input type="text" class="form-input" name="version" id="version">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="category">Category</label>
+                        </td>
+                        <td>
+                            <select disabled class="form-input">
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label for="description">Description</label>
+                        </td>
+                        <td>
+                            <textarea name="description" class="form-input" id="description">
+                            </textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <!-- <label for="description">Description</label> -->
+                        </td>
+                        <td>
+                            <button type="submit" class="submit">Save</button>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+        <div class="sec-bar">
+            <div class="item">
+                <div class="title">Clean Code A handbook of Agile Software Craftsmanship</div>
+                <button class="close">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+                <img src="/static/img/book1/clean_arch1.svg">
+                <table class="details">
+                    <tr>
+                        <td>Author</td>
+                        <td>: Robert C. Martin</td>
+                    </tr>
+                    <tr>
+                        <td>Language</td>
+                        <td>: English</td>
+                    </tr>
+                    <tr>
+                        <td>Number of pages</td>
+                        <td>: 140 Page</td>
+                    </tr>
+                    <tr>
+                        <td>Publication date</td>
+                        <td>: June 2018</td>
+                    </tr>
+                    <tr>
+                        <td>Version</td>
+                        <td>: 4.2</td>
+                    </tr>
+                </table>
+                <div class="author"></div>
+            </div>
+            <div class="item">
+                <div class="title">Clean Code A handbook of Agile Software Craftsmanship</div>
+                <button class="close">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+                <img src="/static/img/book1/clean_arch1.svg">
+                <table class="details">
+                    <tr>
+                        <td>Author</td>
+                        <td>: Robert C. Martin</td>
+                    </tr>
+                    <tr>
+                        <td>Language</td>
+                        <td>: English</td>
+                    </tr>
+                    <tr>
+                        <td>Number of pages</td>
+                        <td>: 140 Page</td>
+                    </tr>
+                    <tr>
+                        <td>Publication date</td>
+                        <td>: June 2018</td>
+                    </tr>
+                    <tr>
+                        <td>Version</td>
+                        <td>: 4.2</td>
+                    </tr>
+                </table>
+                <div class="author"></div>
+            </div>
+            <div class="item">
+                <div class="title">Clean Code A handbook of Agile Software Craftsmanship</div>
+                <button class="close">
+                    <i class="fa-solid fa-xmark"></i>
+                </button>
+                <img src="/static/img/book1/clean_arch1.svg">
+                <table class="details">
+                    <tr>
+                        <td>Author</td>
+                        <td>: Robert C. Martin</td>
+                    </tr>
+                    <tr>
+                        <td>Language</td>
+                        <td>: English</td>
+                    </tr>
+                    <tr>
+                        <td>Number of pages</td>
+                        <td>: 140 Page</td>
+                    </tr>
+                    <tr>
+                        <td>Publication date</td>
+                        <td>: June 2018</td>
+                    </tr>
+                    <tr>
+                        <td>Version</td>
+                        <td>: 4.2</td>
+                    </tr>
+                </table>
+                <div class="author"></div>
+            </div>
+        </div>
+    </div>
+    <script src="/static/js/script.js"></script>
+
+</body>
+
+</html>
