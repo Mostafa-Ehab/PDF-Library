@@ -1,0 +1,433 @@
+/* ----------------- Variables & global Settings ----------------- */
+:root {
+  --bg-color: #F1F6F9;
+  --sec-color: #9BA4B4;
+  --text-color: #14274E;
+  --btn-color: #fff;
+  --blue-color: #0d6efd;
+  --green-color: #28a745;
+  --red-color: #dc3545;
+  --img-radius: 10px;
+  --block-radius: 20px;
+  --duration: 0.3s;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: var(--sec-color);
+  color: var(--text-color);
+}
+
+.fixed-block {
+  background-color: var(--bg-color);
+  padding: 20px;
+  -ms-overflow-style: none;
+  /* Internet Explorer 10+ */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+.fixed-block::-webkit-scrollbar {
+  display: none;
+  /* Safari and Chrome */
+}
+
+.hr {
+  width: 100%;
+  background-color: var(--sec-color);
+  height: 3px;
+  margin: 20px 0;
+}
+
+/* --------------- End Variables & global Settings --------------- */
+/* -------------------------- Buttons ---------------------------- */
+/* Start Global Buttons */
+.btn {
+  background-color: var(--bg-color);
+  outline: none;
+  border: none;
+  border-radius: var(--img-radius);
+  color: var(--btn-color);
+  padding: 10px 15px;
+  text-decoration: none;
+  transition: var(--duration);
+}
+.btn i {
+  padding-right: 10px;
+}
+
+.btn:hover {
+  scale: 1.05;
+}
+
+/* Start Primary Buttons */
+.btn-blue {
+  background-color: var(--blue-color);
+}
+
+.btn-green {
+  background-color: var(--green-color);
+}
+
+.btn-red {
+  background-color: var(--red-color);
+}
+
+/* Start Primary Buttons Hover Effect */
+.btn-blue:hover {
+  background-color: var(--bg-color);
+  color: var(--blue-color);
+  border: var(--blue-color) solid 2px;
+}
+
+.btn-green:hover {
+  background-color: var(--bg-color);
+  color: var(--green-color);
+  border: var(--green-color) solid 2px;
+}
+
+.btn-red:hover {
+  background-color: var(--bg-color);
+  color: var(--red-color);
+  border: var(--red-color) solid 2px;
+}
+
+/* Start Secondary Buttons */
+.btn-sec-blue {
+  color: var(--blue-color);
+  border: var(--blue-color) solid 2px;
+}
+
+.btn-sec-green {
+  color: var(--green-color);
+  border: var(--green-color) solid 2px;
+}
+
+.btn-sec-red {
+  color: var(--red-color);
+  border: var(--red-color) solid 2px;
+}
+
+/* Start Secondary Buttons hover Effect */
+.btn-sec-blue:hover {
+  background-color: var(--blue-color);
+  color: var(--btn-color);
+}
+
+.btn-sec-green:hover {
+  background-color: var(--green-color);
+  color: var(--btn-color);
+}
+
+.btn-sec-red:hover {
+  background-color: var(--red-color);
+  color: var(--btn-color);
+}
+
+/* ------------------------ End Buttons -------------------------- */
+/* --------------------------- Inputs ---------------------------- */
+.input {
+  border: var(--sec-color) solid 3px;
+  border-radius: var(--img-radius);
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  outline: none;
+  padding: 5px 10px;
+  line-height: 1.5em;
+  width: 100%;
+}
+
+.search-bar {
+  position: relative;
+  margin: 0 auto;
+  max-width: 500px;
+}
+.search-bar button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: auto;
+  background-color: var(--bg-color);
+  color: var(--sec-color);
+}
+
+/* ------------------------- End Inputs -------------------------- */
+/* ------------------------ Text Classes ------------------------- */
+.header {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+/* ---------------------- End Text Classes ----------------------- */
+/* ---------------------------- List ----------------------------- */
+.list li {
+  list-style: none;
+  padding: 10px 15px 0;
+}
+.list .list-expand {
+  margin-top: 10px;
+}
+.list .list-expand button {
+  margin: 0 auto;
+  display: block;
+}
+
+/* -------------------------- End List --------------------------- */
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 10px;
+  right: 10px;
+  background-color: var(--bg-color);
+  border-radius: 0 0 20px 20px;
+  box-shadow: 0 8px 3px 0 var(--sec-color);
+  display: grid;
+  grid-template-columns: max-content auto max-content;
+  padding: 15px;
+  z-index: 100;
+}
+.navbar .logo {
+  color: var(--text-color);
+  font-size: 2rem;
+  font-weight: 900;
+}
+.navbar .logo a {
+  color: var(--text-color);
+  text-decoration: none;
+}
+.navbar .middle .book-title {
+  text-align: center;
+  color: var(--text-color);
+  font-size: 1.2rem;
+  padding: 6px 0;
+}
+
+/* ------------------------- Main Side Bar ----------------------- */
+.main-side-bar {
+  position: fixed;
+  top: 78px;
+  left: 10px;
+  bottom: 10px;
+  width: 300px;
+  border-radius: var(--block-radius);
+  z-index: 80;
+  /* Content List in Book Page */
+}
+.main-side-bar .content .main-head {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.main-side-bar .content .sub-head {
+  font-weight: normal;
+  font-size: 1rem;
+}
+
+/* ----------------------- End Main Side Bar --------------------- */
+/* --------------------------- Main Bar -------------------------- */
+.main {
+  position: absolute;
+  top: 78px;
+  right: 420px;
+  left: 320px;
+  overflow: hidden;
+  border-radius: var(--block-radius);
+  /* Main Page Gallery */
+  /* Book Page */
+}
+.main .gallary {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 30px 16px;
+  gap: 16px 30px;
+}
+.main .gallary .gallery-view {
+  width: 150px;
+  border: var(--sec-color) solid 3px;
+  position: relative;
+  border-radius: var(--img-radius);
+  padding: 5px;
+  overflow: hidden;
+  transition: var(--duration);
+}
+.main .gallary .gallery-view a {
+  text-decoration: none;
+  color: var(--text-color);
+  display: block;
+}
+.main .gallary .gallery-view a .img {
+  width: 100%;
+  height: 150px;
+  border-radius: var(--img-radius) var(--img-radius) 0 0;
+  display: block;
+}
+.main .gallary .gallery-view a .title {
+  padding: 5px 10px 0 0;
+}
+.main .gallary .gallery-view a .title p {
+  width: 110px;
+  height: 2em;
+  font-size: 14px;
+  overflow: hidden;
+  line-height: 1em;
+}
+.main .gallary .gallery-view .bookmark {
+  position: absolute;
+  right: 0;
+  top: 150px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  color: var(--text-color);
+  padding: 15px 10px;
+  transition: var(--trans-duraion);
+}
+.main .gallary .gallery-view .bookmark:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+.main .book {
+  position: fixed;
+  top: 78px;
+  bottom: 0;
+  left: 320px;
+  right: 420px;
+  padding-top: 0;
+  overflow: scroll;
+  border-radius: var(--block-radius) var(--block-radius) 0 0;
+  /* Tool Bar in Book Page */
+  /* Book Preview in Book Page*/
+}
+.main .book .tool-bar {
+  position: sticky;
+  top: 0;
+  display: grid;
+  grid-template-columns: repeat(4, max-content) auto max-content;
+  gap: 25px;
+  padding: 15px 0;
+  border-bottom: var(--sec-color) solid 1px;
+  background-color: var(--bg-color);
+}
+.main .book .tool-bar button {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  padding: 5px 8px;
+  border: none;
+  position: relative;
+}
+.main .book .tool-bar .page-num {
+  text-align: center;
+  position: relative;
+}
+.main .book .tool-bar .page-num input {
+  height: 32px;
+  width: 36px;
+  border: var(--sec-color) solid 2px;
+  border-radius: 5px;
+}
+.main .book .tool-bar button::after,
+.main .book .tool-bar .page-num::after {
+  content: "";
+  display: block;
+  width: 2px;
+  height: 100%;
+  background-color: var(--sec-color);
+  position: absolute;
+  top: 0;
+  right: -12.5px;
+}
+.main .book .tool-bar button:last-child::after {
+  content: none;
+}
+.main .book .preview {
+  overflow-x: scroll;
+}
+.main .book .preview img {
+  margin-bottom: 10px;
+  width: 100%;
+  border: var(--sec-color) solid 2px;
+  background-color: #fff;
+  transform: scale(1.5);
+}
+
+/* ------------------------- End Main Bar ------------------------ */
+/* ---------------------- Secondary Side Bar --------------------- */
+.sec-side-bar {
+  position: fixed;
+  top: 78px;
+  right: 10px;
+  bottom: 10px;
+  width: 400px;
+  border-radius: var(--block-radius);
+  z-index: 80;
+  /* List View in History and Wishlist */
+  /* Details View on Secondary Side Bar */
+}
+.sec-side-bar .list .list-view {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  padding: 0 5px 10px;
+  grid-gap: 10px;
+  border-bottom: var(--sec-color) solid 1px;
+  overflow: hidden;
+}
+.sec-side-bar .list .list-view img {
+  width: 100%;
+  height: 100%;
+  border-radius: var(--img-radius);
+}
+.sec-side-bar .list .list-view table td {
+  white-space: nowrap;
+  overflow: hidden;
+}
+.sec-side-bar .list .list-view table td:first-child {
+  font-weight: bold;
+  width: 1%;
+}
+.sec-side-bar .list li:last-of-type .list-view {
+  border-bottom: none;
+}
+.sec-side-bar .detail-view img {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 0 5%;
+}
+.sec-side-bar .detail-view .title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0 30px 20px 0;
+}
+.sec-side-bar .detail-view table {
+  width: 100%;
+}
+.sec-side-bar .detail-view table tr td {
+  padding-bottom: 5px;
+}
+.sec-side-bar .detail-view table tr td:first-child {
+  font-weight: bold;
+  white-space: nowrap;
+}
+.sec-side-bar .detail-view .download {
+  float: right;
+}
+.sec-side-bar .detail-view .close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 20px;
+  background-color: var(--bg-color);
+  color: var(--nav-color);
+  border: none;
+  font-size: 1.2rem;
+  border-radius: var(--block-radius);
+}
+
+/* -------------------- End Secondary Side Bar ------------------- */
+
+/*# sourceMappingURL=style.css.map */

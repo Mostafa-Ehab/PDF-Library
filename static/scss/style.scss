@@ -1,0 +1,280 @@
+@import "templates/global.scss";
+@import "templates/navbar.scss";
+
+@import "viewport/large.scss";
+@import "viewport/medium.scss";
+@import "viewport/small.scss";
+@import "viewport/xsmall.scss";
+
+/* ------------------------- Main Side Bar ----------------------- */
+.main-side-bar {
+    position: fixed;
+    top: 78px;
+    left: 10px;
+    bottom: 10px;
+    width: 300px;
+
+    border-radius: var(--block-radius);
+    // box-shadow: 12px 0 12px 0 var(--sec-color);
+
+    z-index: 80;
+
+    /* Content List in Book Page */
+    .content {
+        .main-head {
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+        .sub-head {
+            font-weight: normal;
+            font-size: 1rem;
+        }
+    }
+}
+
+/* ----------------------- End Main Side Bar --------------------- */
+
+/* --------------------------- Main Bar -------------------------- */
+.main {
+    position: absolute;
+    top: 78px;
+    right: 420px;
+    left: 320px;
+    overflow: hidden;
+
+    border-radius: var(--block-radius);
+
+    /* Main Page Gallery */
+    .gallary {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        padding: 30px 16px;
+        gap: 16px 30px;
+
+        .gallery-view {
+            width: 150px;
+            // background-color: var(--bg-color);
+            // box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2), 0 0 10px 0 rgba(0, 0, 0, 0.19);
+            border: var(--sec-color) solid 3px;
+            position: relative;
+            border-radius: var(--img-radius);
+            padding: 5px;
+            overflow: hidden;
+            transition: var(--duration);
+
+            a {
+                text-decoration: none;
+                color: var(--text-color);
+                display: block;
+
+                .img {
+                    width: 100%;
+                    height: 150px;
+                    border-radius: var(--img-radius) var(--img-radius) 0 0;
+                    display: block;
+                }
+
+                .title {
+                    padding: 5px 10px 0 0;
+
+                    p {
+                        width: 110px;
+                        height: 2em;
+                        font-size: 14px;
+                        overflow: hidden;
+                        line-height: 1em;
+                    }
+                }
+            }
+
+            .bookmark {
+                position: absolute;
+                right: 0;
+                top: 150px;
+                border: none;
+                outline: none;
+                background-color: transparent;
+                color: var(--text-color);
+                padding: 15px 10px;
+                transition: var(--trans-duraion);
+            }
+
+            .bookmark:hover {
+                transform: scale(1.2);
+                cursor: pointer;
+            }
+        }
+    }
+
+    /* Book Page */
+    .book {
+        position: fixed;
+        top: 78px;
+        bottom: 0;
+        left: 320px;
+        right: 420px;
+        padding-top: 0;
+        overflow: scroll;
+        border-radius: var(--block-radius) var(--block-radius) 0 0;
+
+        /* Tool Bar in Book Page */
+        .tool-bar {
+            position: sticky;
+            top: 0;
+            display: grid;
+            grid-template-columns: repeat(4, max-content) auto max-content;
+            gap: 25px;
+            padding: 15px 0;
+            border-bottom: var(--sec-color) solid 1px;
+            background-color: var(--bg-color);
+
+            button {
+                background-color: var(--bg-color);
+                color: var(--text-color);
+                padding: 5px 8px;
+                border: none;
+                position: relative;
+            }
+
+            .page-num {
+                text-align: center;
+                position: relative;
+
+                input {
+                    height: 32px;
+                    width: 36px;
+                    border: var(--sec-color) solid 2px;
+                    border-radius: 5px;
+                }
+            }
+
+            button::after,
+            .page-num::after {
+                content: "";
+                display: block;
+                width: 2px;
+                height: 100%;
+                background-color: var(--sec-color);
+                position: absolute;
+                top: 0;
+                right: -12.5px;
+            }
+
+            button:last-child::after {
+                content: none;
+            }
+        }
+
+        /* Book Preview in Book Page*/
+        .preview {
+            overflow-x: scroll;
+
+            img {
+                margin-bottom: 10px;
+                width: 100%;
+                border: var(--sec-color) solid 2px;
+                background-color: #fff;
+                transform: scale(1.5);
+            }
+        }
+    }
+}
+
+/* ------------------------- End Main Bar ------------------------ */
+
+/* ---------------------- Secondary Side Bar --------------------- */
+.sec-side-bar {
+    position: fixed;
+    top: 78px;
+    right: 10px;
+    bottom: 10px;
+    width: 400px;
+
+    border-radius: var(--block-radius);
+    // box-shadow: -12px 0 12px 0 var(--sec-color);
+    z-index: 80;
+
+    /* List View in History and Wishlist */
+    .list {
+        .list-view {
+            display: grid;
+            grid-template-columns: 25% 75%;
+            padding: 0 5px 10px;
+            grid-gap: 10px;
+            border-bottom: var(--sec-color) solid 1px;
+            overflow: hidden;
+
+            img {
+                width: 100%;
+                height: 100%;
+                border-radius: var(--img-radius);
+            }
+
+            table {
+                td {
+                    white-space: nowrap;
+                    overflow: hidden;
+                }
+
+                td:first-child {
+                    font-weight: bold;
+                    width: 1%;
+                }
+            }
+        }
+
+        li:last-of-type .list-view {
+            border-bottom: none;
+        }
+    }
+
+    /* Details View on Secondary Side Bar */
+    .detail-view {
+        img {
+            width: 100%;
+            margin-bottom: 20px;
+            padding: 0 5%;
+        }
+
+        .title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin: 0 30px 20px 0;
+        }
+
+        table {
+            width: 100%;
+
+            tr {
+                td {
+                    padding-bottom: 5px;
+                }
+
+                td:first-child {
+                    font-weight: bold;
+                    white-space: nowrap;
+                }
+            }
+        }
+
+        .download {
+            float: right;
+        }
+
+        .close {
+            position: absolute;
+            top: 0;
+            right: 0;
+            padding: 20px;
+            background-color: var(--bg-color);
+            color: var(--nav-color);
+            border: none;
+            font-size: 1.2rem;
+            border-radius: var(--block-radius);
+        }
+    }
+}
+
+/* -------------------- End Secondary Side Bar ------------------- */

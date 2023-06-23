@@ -1,0 +1,134 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+{{ title }}
+{% endblock %}
+
+{% block navbar %}
+<div class="middle">
+    <p class="book-title">
+        Clean Architecture
+        A CRAFTSMAN'S GUIDE TO SOFTWARE STRUCTURE AND
+        DESIGN
+    </p>
+</div>
+<div class="right">
+    <button class="btn btn-blue">Login</button>
+    <button class="btn btn-red">Sign up</button>
+</div>
+{% endblock %}
+
+{% block main_side_bar %}
+<p class="header">Contents</p>
+<ul class="list content">
+    <li class="main-head">Introduction</li>
+    <li class="main-head">Section 1
+        <ul>
+            <li class="sub-head">Sec 1.1</li>
+            <li class="sub-head">Sec 1.2</li>
+            <li class="sub-head">Sec 1.3</li>
+            <li class="sub-head">Sec 1.4</li>
+        </ul>
+    </li>
+    <li class="main-head">Section 2
+        <ul>
+            <li class="sub-head">Sec 2.1</li>
+            <li class="sub-head">Sec 2.2</li>
+            <li class="sub-head">Sec 2.3</li>
+            <li class="sub-head">Sec 2.4</li>
+            <li class="sub-head">Sec 2.5</li>
+        </ul>
+    </li>
+    <li class="main-head">Section 3
+        <ul>
+            <li class="sub-head">Sec 3.1</li>
+            <li class="sub-head">Sec 3.2</li>
+            <li class="sub-head">Sec 3.3</li>
+            <li class="sub-head">Sec 3.4</li>
+        </ul>
+    </li>
+    <li class="main-head">Section 4
+        <ul>
+            <li class="sub-head">Sec 4.1</li>
+            <li class="sub-head">Sec 4.2</li>
+            <li class="sub-head">Sec 4.3</li>
+        </ul>
+    </li>
+</ul>
+{% endblock %}
+
+{% block main %}
+<div class="book fixed-block">
+    <div class="tool-bar">
+        <!-- <div> -->
+        <button class="highlight">
+            <i class="fa-solid fa-highlighter"></i>
+        </button>
+        <button class="pen">
+            <i class="fa-solid fa-pen"></i>
+        </button>
+        <button class="text">
+            <i class="fa-solid fa-t"></i>
+        </button>
+        <button class="erase">
+            <i class="fa-solid fa-eraser"></i>
+        </button>
+        <div class="page-num">
+            <input type="text" value="1" class="input"> of 422
+        </div>
+        <button class="maximize">
+            <i class="fa-solid fa-up-right-and-down-left-from-center"></i>
+        </button>
+    </div>
+    <div class="preview">
+        <!-- <object type="image/svg+xml" data="/static/img/book1/clean_arch1.svg"></object> -->
+        <img src="/static/img/book/clean_arch1.svg">
+        <img src="/static/img/book/clean_arch2.svg">
+        <img src="/static/img/book/clean_arch3.svg">
+        <img src="/static/img/book/clean_arch4.svg">
+        <img src="/static/img/book/clean_arch5.svg">
+        <img src="/static/img/book/clean_arch6.svg">
+    </div>
+</div>
+{% endblock %}
+
+{% block sec_side_bar %}
+<div class="detail-view">
+    <div class="title">Clean Code A handbook of Agile Software Craftsmanship</div>
+    <img src="/static/img/book/clean_arch1.svg">
+    <table class="details">
+        <tr>
+            <td>Title</td>
+            <td>
+                : Clean Code A handbook of Agile Software Craftsmanship
+            </td>
+        </tr>
+        <tr>
+            <td>Author</td>
+            <td>: Robert C. Martin</td>
+        </tr>
+        <tr>
+            <td>Language</td>
+            <td>: English</td>
+        </tr>
+        <tr>
+            <td>Number of pages</td>
+            <td>: 140 Page</td>
+        </tr>
+        <tr>
+            <td>Publication date</td>
+            <td>: June 2018</td>
+        </tr>
+        <tr>
+            <td>Version</td>
+            <td>: 4.2</td>
+        </tr>
+    </table>
+    <button class="btn btn-green download">
+        <i class="fa-solid fa-download"></i>Download
+    </button>
+    <button class="close">
+        <i class="fa-solid fa-xmark"></i>
+    </button>
+</div>
+{% endblock %}

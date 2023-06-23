@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="clean_arch.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,0 H 696 V 1056 H 0 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="M 0,66 H 696 V 996 H 0 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath44">
+      <path
+         d="M 0,66 H 696 V 996 H 0 V 66"
+         clip-rule="evenodd"
+         id="path42" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="clean_arch"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <g
+           id="g30">
+          <path
+             d="m 0,66 h 696 v 3 H 0 Z"
+             style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" />
+        </g>
+        <g
+           id="g34">
+          <path
+             d="m 0,286 h 696 v 3 H 0 Z"
+             style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path36" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g38">
+      <g
+         id="g40"
+         clip-path="url(#clipPath44)">
+        <text
+           xml:space="preserve"
+           transform="translate(186.5,146)"
+           style="font-variant:normal;font-weight:bold;font-size:40px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0 29 40 58 78 99 109 138 155 173 194 205 218 236 254 267 288 305"
+             y="0"
+             sodipodi:role="line"
+             id="tspan46">Clean Architecture</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(12.5,192)"
+           style="font-variant:normal;font-weight:bold;font-size:28px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 18 25"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">A C</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(57.5,192)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 17 33 48 63 76 99 115 132 140"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">RAFTSMAN’S</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(217.5,192)"
+           style="font-variant:normal;font-weight:bold;font-size:28px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0"
+             y="0"
+             id="tspan58">G</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(239.5,192)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 17 26 43 58 64 79"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">UIDE TO</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(343.5,192)"
+           style="font-variant:normal;font-weight:bold;font-size:28px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0"
+             y="0"
+             id="tspan66">S</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(359.5,192)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 18 33 48 67 83 100"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">OFTWARE</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(481.5,192)"
+           style="font-variant:normal;font-weight:bold;font-size:28px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0"
+             y="0"
+             id="tspan74">S</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(497.5,192)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 15 32 49 66 81 98 115 130 136 152 169"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">TRUCTURE AND</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(303.5,220)"
+           style="font-variant:normal;font-weight:bold;font-size:23px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 17 32 45 54 72"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">DESIGN</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(252,344)"
+           style="font-variant:normal;font-weight:normal;font-size:28px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 19 33 47 59 68 76 83 102 109 116 141 153 162 170 178"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">Robert C. Martin</tspan></text>
+        <g
+           id="g90"
+           transform="matrix(57,0,0,-50,320,467)">
+          <image
+             width="1"
+             height="1"
+             style="image-rendering:optimizeSpeed"
+             preserveAspectRatio="none"
+             transform="matrix(1,0,0,-1,0,1)"
+             xlink:href="data:image/png;base64,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"
+             id="image92" />
+        </g>
+        <text
+           xml:space="preserve"
+           transform="translate(19,494)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 13 23 31 36 46 55 60 67 72 85 95 101 110 124 134 143 151 156 163 168 174 183 193 199 208 217 226 236 246 252 258 266 271 278 283 297 306 321 326 338 348 355 364 369 376 381 392 401 410 415 426 433 442 451 460 466 474 483 493 498 505 510 524 538 546 551 560 567 577 586 600 605 612 617 630 639 649"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">Boston • Columbus • Indianapolis • New York • San Francisco • Amsterdam • Cape</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(4.5,517)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 10 20 35 44 49 63 72 82 91 97 102 109 114 125 135 144 154 164 173 178 185 190 207 216 226 233 239 249 254 261 266 283 289 295 304 313 318 325 330 347 356 365 371 380 389 394 401 406 417 426 433 439 447 452 459 464 481 491 500 505 512 521 530 536 541 548 553 563 573 580 590 599 604 614 619 626 631 645 654 660 669 675 680"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">Town Dubai • London • Madrid • Milan • Munich • Paris • Montreal • Toronto • Delhi •</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(21,540)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 17 26 35 41 50 60 65 78 84 89 98 103 114 123 133 138 149 158 167 173 183 188 195 200 211 220 230 239 248 257 262 269 274 288 298 307 316 321 335 345 354 363 368 375 380 391 400 410 419 425 430 437 442 453 459 468 477 486 496 506 513 522 527 534 539 549 558 564 574 583 589 594 601 606 616 626 635 644"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">Mexico City São Paulo • Sydney • Hong Kong • Seoul • Singapore • Taipei • Tokyo</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

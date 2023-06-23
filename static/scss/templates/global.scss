@@ -1,0 +1,206 @@
+/* ----------------- Variables & global Settings ----------------- */
+:root {
+    // --bg-color: #fff;
+    // --sec-color: #ddd;
+    // --text-color: #000;
+    --bg-color: #F1F6F9;
+    --sec-color: #9BA4B4;
+    --text-color: #14274E;
+    --btn-color: #fff;
+
+    // --bg-color: #242424;
+    // --sec-color: #2B2B2B;
+    // --text-color: #9BA4B4;
+    // --btn-color: #fff;
+
+    --blue-color: #0d6efd;
+    --green-color: #28a745;
+    --red-color: #dc3545;
+
+    --img-radius: 10px;
+    --block-radius: 20px;
+    --duration: 0.3s;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: var(--sec-color);
+    color: var(--text-color);
+}
+
+.fixed-block {
+    background-color: var(--bg-color);
+    padding: 20px;
+
+    -ms-overflow-style: none;
+    /* Internet Explorer 10+ */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.fixed-block::-webkit-scrollbar {
+    display: none;
+    /* Safari and Chrome */
+}
+
+.hr {
+    width: 100%;
+    background-color: var(--sec-color);
+    height: 3px;
+    margin: 20px 0;
+}
+
+/* --------------- End Variables & global Settings --------------- */
+
+/* -------------------------- Buttons ---------------------------- */
+/* Start Global Buttons */
+.btn {
+    background-color: var(--bg-color);
+    outline: none;
+    border: none;
+    border-radius: var(--img-radius);
+    color: var(--btn-color);
+    padding: 10px 15px;
+    text-decoration: none;
+    transition: var(--duration);
+
+    i {
+        padding-right: 10px;
+    }
+}
+
+.btn:hover {
+    scale: 1.05;
+}
+
+/* Start Primary Buttons */
+
+.btn-blue {
+    background-color: var(--blue-color);
+
+}
+
+.btn-green {
+    background-color: var(--green-color);
+
+}
+
+.btn-red {
+    background-color: var(--red-color);
+
+}
+
+/* Start Primary Buttons Hover Effect */
+.btn-blue:hover {
+    background-color: var(--bg-color);
+    color: var(--blue-color);
+    border: var(--blue-color) solid 2px;
+}
+
+.btn-green:hover {
+    background-color: var(--bg-color);
+    color: var(--green-color);
+    border: var(--green-color) solid 2px;
+}
+
+.btn-red:hover {
+    background-color: var(--bg-color);
+    color: var(--red-color);
+    border: var(--red-color) solid 2px;
+}
+
+/* Start Secondary Buttons */
+.btn-sec-blue {
+    color: var(--blue-color);
+    border: var(--blue-color) solid 2px;
+}
+
+.btn-sec-green {
+    color: var(--green-color);
+    border: var(--green-color) solid 2px;
+}
+
+.btn-sec-red {
+    color: var(--red-color);
+    border: var(--red-color) solid 2px;
+}
+
+/* Start Secondary Buttons hover Effect */
+.btn-sec-blue:hover {
+    background-color: var(--blue-color);
+    color: var(--btn-color);
+}
+
+.btn-sec-green:hover {
+    background-color: var(--green-color);
+    color: var(--btn-color);
+}
+
+.btn-sec-red:hover {
+    background-color: var(--red-color);
+    color: var(--btn-color);
+}
+
+/* ------------------------ End Buttons -------------------------- */
+
+/* --------------------------- Inputs ---------------------------- */
+.input {
+    border: var(--sec-color) solid 3px;
+    border-radius: var(--img-radius);
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    outline: none;
+    padding: 5px 10px;
+    line-height: 1.5em;
+    width: 100%;
+}
+
+.search-bar {
+    position: relative;
+    margin: 0 auto;
+    max-width: 500px;
+
+    button {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: auto;
+        background-color: var(--bg-color);
+        color: var(--sec-color);
+    }
+}
+
+/* ------------------------- End Inputs -------------------------- */
+
+/* ------------------------ Text Classes ------------------------- */
+.header {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+/* ---------------------- End Text Classes ----------------------- */
+
+/* ---------------------------- List ----------------------------- */
+.list {
+    li {
+        list-style: none;
+        padding: 10px 15px 0;
+    }
+
+    .list-expand {
+        margin-top: 10px;
+
+        button {
+            margin: 0 auto;
+            display: block;
+        }
+    }
+}
+
+/* -------------------------- End List --------------------------- */

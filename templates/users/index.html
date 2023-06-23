@@ -1,0 +1,92 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+Homepage
+{% endblock %}
+
+{% block navbar %}
+<div class="middle">
+    <form>
+        <div class="search-bar">
+            <input type="text" class="input" placeholder="Search" name="q">
+            <button type="submit" class="input">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </button>
+        </div>
+    </form>
+</div>
+<div class="right">
+    <button class="btn btn-blue">Login</button>
+    <button class="btn btn-red">Sign up</button>
+</div>
+{% endblock %}
+
+{% block main_side_bar %}
+<p class="header"> Categories </p>
+<ul class="list">
+    <li>Category 1</li>
+    <li>Category 2</li>
+    <li>Category 3</li>
+    <li>Category 4</li>
+</ul>
+{% endblock %}
+
+{% block main %}
+<div class="gallary">
+    {% for i in range(20) %}
+    <div class="gallery-view">
+        <a href="/book/hello">
+            <img class="img" src="https://picsum.photos/{{i * 100}}/{{i * 100}}">
+            <div class="title">
+                <p>This is an awesome book title</p>
+            </div>
+        </a>
+        <button class="bookmark">
+            <i class="fa-regular fa-bookmark"></i>
+        </button>
+    </div>
+    {% endfor %}
+</div>
+{% endblock %}
+
+{% block sec_side_bar %}
+<p class="header">Wishlist</p>
+<ul class="list">
+    <!-- <li>Your wishlist is empty</li> -->
+    {% for i in range(3) %}
+    <li>
+        <div class="list-view">
+            <img src="https://picsum.photos/{{i * 150}}/{{i * 100}}">
+            <table>
+                <tr>
+                    <td>
+                        Title
+                    </td>
+                    <td>
+                        : Clean Code
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Author
+                    </td>
+                    <td>
+                        : Robert C. Martin
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </li>
+    {% endfor %}
+    <div class="list-expand">
+        <button class="btn btn-sec-blue">
+            See more
+        </button>
+    </div>
+</ul>
+<div class="hr"></div>
+<p class="header">History</p>
+<ul class="list">
+    <li>Your hisoty is empty</li>
+</ul>
+{% endblock %}

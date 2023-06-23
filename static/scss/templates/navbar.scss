@@ -1,0 +1,37 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 10px;
+    right: 10px;
+
+    background-color: var(--bg-color);
+    border-radius: 0 0 20px 20px;
+    box-shadow: 0 8px 3px 0 var(--sec-color);
+
+    display: grid;
+    grid-template-columns: max-content auto max-content;
+
+    padding: 15px;
+    z-index: 100;
+
+    .logo {
+        color: var(--text-color);
+        font-size: 2rem;
+        font-weight: 900;
+
+        a {
+            color: var(--text-color);
+            text-decoration: none;
+        }
+    }
+
+    .middle {
+        .book-title {
+            text-align: center;
+            color: var(--text-color);
+            // font-weight: bold;
+            font-size: 1.2rem;
+            padding: 6px 0;
+        }
+    }
+}
