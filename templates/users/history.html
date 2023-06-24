@@ -4,6 +4,8 @@
 History
 {% endblock %}
 
+<!-- ------------------------------------------------------------ -->
+
 {% block navbar %}
 <div class="middle">
     <form>
@@ -20,9 +22,13 @@ History
 </div>
 {% endblock %}
 
+<!-- ------------------------------------------------------------ -->
+
 {% block main_side_bar %}
 {% include 'components/sidebar.html' %}
 {% endblock %}
+
+<!-- ------------------------------------------------------------ -->
 
 {% block main %}
 <div class="history">
@@ -33,46 +39,20 @@ History
         <li>
             <a href="#" class="list-view">
                 <img src="https://picsum.photos/{{i * 150}}/{{i * 100}}" class="main-view">
-                <table>
-                    <tr>
-                        <td>
-                            Title
-                        </td>
-                        <td>
-                            : Clean Code
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Author
-                        </td>
-                        <td>
-                            : Robert C. Martin
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Language
-                        </td>
-                        <td>
-                            : English
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            Pub. Date
-                        </td>
-                        <td>
-                            : June 2018
-                        </td>
-                    </tr>
-                </table>
+                <div class="details">
+                    <p class="title">Clean Code A handbook of Agile Software Craftsmanship</p>
+                    <p><span>By: </span>Robert C. Martin</p>
+                    <p>140 Page</p>
+                    <p>June 2018</p>
+                </div>
             </a>
         </li>
         {% endfor %}
     </ul>
 </div>
 {% endblock %}
+
+<!-- ------------------------------------------------------------ -->
 
 {% block sec_side_bar %}
 <form class="search-history">

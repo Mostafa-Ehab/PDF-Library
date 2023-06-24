@@ -1,5 +1,5 @@
 /* --------------------- Search bar Component -------------------- */
-/* Global Search Bar */
+/* Global Input Bar: Login & Register Form */
 .input-bar {
     position: relative;
     margin: 0 auto;
@@ -28,7 +28,7 @@
     box-shadow: 0 0 5px var(--blue-color);
 }
 
-/* Global Search Bar */
+/* Global Search Bar: Navbar Search */
 .search-bar {
     position: relative;
     margin: 0 auto;
@@ -48,11 +48,10 @@
 }
 
 .search-bar:hover {
-    // transform: scale(1.05);
     box-shadow: 0 0 5px var(--sec-color);
 }
 
-/* Secondary Search Bar: History & Wishlist */
+/* Secondary Search Bar: History & Wishlist Search */
 .search-sec-bar {
     max-width: 250px;
     margin: 0;
@@ -76,15 +75,16 @@
 /* ------------------- End Search bar Component ------------------ */
 
 /* ------------------------ List Component ----------------------- */
+/* Global List Styling */
 .list {
 
     /* Global List Items */
     li {
         list-style: none;
-        padding: 5px 15px;
+        padding: 3px 15px;
     }
 
-    /* Center List Expand Button */
+    /* Center List Expand Button: Homepage History and Wishlist preview */
     .list-expand {
         a {
             margin: 0 auto;
@@ -93,14 +93,15 @@
         }
     }
 
+    /* Main and Sub headers in List: Main Side Bar Navigation and Content Table */
     .main-head {
         font-weight: bold;
-        font-size: 1.2rem;
+        // font-size: 1.2rem;
     }
 
     .sub-head {
         font-weight: normal;
-        font-size: 1rem;
+        // font-size: 1rem;
     }
 
     /* List View: History & Wishlist */
@@ -110,30 +111,41 @@
         padding: 0 5px 10px;
         grid-gap: 10px;
         border-bottom: var(--sec-color) solid 1px;
-        overflow: hidden;
         max-width: 500px;
 
+        /* Homapage History and Wishlist */
         img.side-view {
             width: 100%;
-            height: 65px;
+            height: 80px;
             border-radius: var(--img-radius);
         }
 
+        /* History and Wishlist Page*/
         img.main-view {
             width: 100%;
             height: 85px;
             border-radius: var(--img-radius);
         }
 
-        table {
-            td {
+        /* Global List view details */
+        .details {
+            p {
                 white-space: nowrap;
+                text-overflow: ellipsis;
                 overflow: hidden;
+                font-size: 80%;
+
+                /* Bold 'By: '*/
+                span {
+                    font-weight: bold;
+                }
             }
 
-            td:first-child {
+            /* Book Title */
+            .title {
                 font-weight: bold;
-                width: 1%;
+                font-size: 1.2rem;
+                margin-bottom: 10px;
             }
         }
     }

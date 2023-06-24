@@ -2,7 +2,6 @@
 .login {
     position: fixed;
     top: 50%;
-    // bottom: 10px;
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: var(--block-radius);
@@ -11,6 +10,14 @@
 
     .header {
         margin-bottom: 25px;
+        position: relative;
+
+        .back {
+            position: absolute;
+            top: -16px;
+            right: 0;
+
+        }
     }
 
     div {

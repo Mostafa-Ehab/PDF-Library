@@ -1,9 +1,12 @@
 /* ----------------- Variables & global Settings ----------------- */
 :root {
+  /* Light Mode */
   --bg-color: #F1F6F9;
   --sec-color: #9BA4B4;
   --text-color: #14274E;
   --btn-color: #fff;
+  /* Dark Mode */
+  /* Buttons and Input Fields Colors */
   --blue-color: #0d6efd;
   --green-color: #28a745;
   --red-color: #dc3545;
@@ -23,7 +26,6 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: var(--sec-color);
   color: var(--text-color);
-  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 a {
@@ -42,11 +44,13 @@ a {
   /* Firefox */
 }
 
-.fixed-block::-webkit-scrollbar {
+.fixed-block::-webkit-scrollbar,
+.preview::-webkit-scrollbar {
   display: none;
   /* Safari and Chrome */
 }
 
+/* Horizontal Line: Homepage Secondary Side Bar */
 .hr {
   width: 100%;
   background-color: var(--sec-color);
@@ -76,6 +80,7 @@ a {
   scale: 1.05;
 }
 
+/* Icon Buttons: Close and Open Side Bars */
 .btn-icon {
   color: var(--text-color);
   font-size: 1.2rem;
@@ -84,6 +89,12 @@ a {
   background-color: transparent;
 }
 .btn-icon i {
+  padding: 0;
+}
+
+/* List Button: Main side Bar items */
+.btn-list {
+  color: var(--text-color);
   padding: 0;
 }
 
@@ -103,7 +114,6 @@ a {
   border: var(--red-color) solid 2px;
 }
 
-/* Start Primary Buttons Hover Effect */
 /* Start Secondary Buttons */
 .btn-sec-blue {
   color: var(--blue-color);
@@ -138,6 +148,7 @@ a {
 
 /* ------------------------ End Buttons -------------------------- */
 /* --------------------------- Inputs ---------------------------- */
+/* Global Input Field */
 .input {
   border: var(--sec-color) solid 3px;
   border-radius: var(--img-radius);
@@ -155,7 +166,7 @@ a {
 .header {
   font-weight: bold;
   font-size: 1.5em;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 /* ---------------------- End Text Classes ----------------------- */
@@ -174,22 +185,28 @@ a {
 }
 .navbar .logo {
   color: var(--text-color);
-  font-size: 2rem;
   font-weight: 900;
 }
 .navbar .logo a {
   color: var(--text-color);
   text-decoration: none;
+  font-size: 2rem;
+}
+.navbar .middle {
+  display: contents;
 }
 .navbar .middle .book-title {
   text-align: center;
   color: var(--text-color);
   font-size: 1.2rem;
-  padding: 6px 0;
+  padding: 6px 30px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 
 /* --------------------- Search bar Component -------------------- */
-/* Global Search Bar */
+/* Global Input Bar: Login & Register Form */
 .input-bar {
   position: relative;
   margin: 0 auto;
@@ -216,7 +233,7 @@ a {
   box-shadow: 0 0 5px var(--blue-color);
 }
 
-/* Global Search Bar */
+/* Global Search Bar: Navbar Search */
 .search-bar {
   position: relative;
   margin: 0 auto;
@@ -238,7 +255,7 @@ a {
   box-shadow: 0 0 5px var(--sec-color);
 }
 
-/* Secondary Search Bar: History & Wishlist */
+/* Secondary Search Bar: History & Wishlist Search */
 .search-sec-bar {
   max-width: 250px;
   margin: 0;
@@ -259,14 +276,16 @@ a {
 
 /* ------------------- End Search bar Component ------------------ */
 /* ------------------------ List Component ----------------------- */
+/* Global List Styling */
 .list {
   /* Global List Items */
-  /* Center List Expand Button */
+  /* Center List Expand Button: Homepage History and Wishlist preview */
+  /* Main and Sub headers in List: Main Side Bar Navigation and Content Table */
   /* List View: History & Wishlist */
 }
 .list li {
   list-style: none;
-  padding: 5px 15px;
+  padding: 3px 15px;
 }
 .list .list-expand a {
   margin: 0 auto;
@@ -275,11 +294,9 @@ a {
 }
 .list .main-head {
   font-weight: bold;
-  font-size: 1.2rem;
 }
 .list .sub-head {
   font-weight: normal;
-  font-size: 1rem;
 }
 .list .list-view {
   display: grid;
@@ -287,12 +304,14 @@ a {
   padding: 0 5px 10px;
   grid-gap: 10px;
   border-bottom: var(--sec-color) solid 1px;
-  overflow: hidden;
   max-width: 500px;
+  /* Homapage History and Wishlist */
+  /* History and Wishlist Page*/
+  /* Global List view details */
 }
 .list .list-view img.side-view {
   width: 100%;
-  height: 65px;
+  height: 80px;
   border-radius: var(--img-radius);
 }
 .list .list-view img.main-view {
@@ -300,13 +319,23 @@ a {
   height: 85px;
   border-radius: var(--img-radius);
 }
-.list .list-view table td {
-  white-space: nowrap;
-  overflow: hidden;
+.list .list-view .details {
+  /* Book Title */
 }
-.list .list-view table td:first-child {
+.list .list-view .details p {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  font-size: 80%;
+  /* Bold 'By: '*/
+}
+.list .list-view .details p span {
   font-weight: bold;
-  width: 1%;
+}
+.list .list-view .details .title {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
 }
 .list li:last-of-type .list-view {
   border-bottom: none;
@@ -325,6 +354,12 @@ a {
 }
 .login .header {
   margin-bottom: 25px;
+  position: relative;
+}
+.login .header .back {
+  position: absolute;
+  top: -16px;
+  right: 0;
 }
 .login div {
   margin-bottom: 10px;
@@ -357,9 +392,7 @@ a {
   /* Close Buttons */
 }
 .main-side-bar .close {
-  position: absolute;
-  top: 0;
-  right: 0;
+  display: none;
 }
 .main-side-bar .open {
   position: fixed;
@@ -371,7 +404,17 @@ a {
   content: "";
   position: absolute;
   top: 0;
-  left: 0%;
+  right: 100%;
+  width: 100%;
+  height: 100%;
+  background-color: var(--bg-color);
+  z-index: -1;
+}
+.main-side-bar .open::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
   background-color: var(--bg-color);
@@ -379,36 +422,27 @@ a {
   border-radius: 0 50% 50% 0;
   box-shadow: 0px 0px 5px rgb(0, 0, 0);
 }
-.main-side-bar .open::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 100%;
-  width: 100%;
-  height: 100%;
-  background-color: var(--bg-color);
-  z-index: -1;
-}
 
 /* ----------------------- End Main Side Bar --------------------- */
-/* --------------------------- Main Bar -------------------------- */
+/* ------------------------- Main Section ------------------------ */
 .main {
   position: absolute;
   top: 78px;
-  right: 410px;
+  right: 10px;
   left: 220px;
   overflow: hidden;
   border-radius: var(--block-radius);
   transition: var(--duration);
   /* Main Page Gallery */
   /* Book Page */
+  /* Control Book Full Screen */
   /* History & Wishlist Page */
 }
 .main .gallary {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  padding: 30px 16px;
+  padding: 15px 16px;
   gap: 16px 30px;
 }
 .main .gallary .gallery-view {
@@ -456,12 +490,11 @@ a {
 }
 .main .book {
   position: fixed;
-  top: 78px;
+  top: inherit;
   bottom: 0;
   left: inherit;
   right: inherit;
   padding-top: 0;
-  overflow: scroll;
   border-radius: var(--block-radius) var(--block-radius) 0 0;
   /* Tool Bar in Book Page */
   /* Book Preview in Book Page*/
@@ -473,8 +506,9 @@ a {
   grid-template-columns: repeat(4, max-content) auto max-content;
   gap: 25px;
   padding: 15px 0;
-  border-bottom: var(--sec-color) solid 1px;
+  border-bottom: var(--sec-color) solid 2px;
   background-color: var(--bg-color);
+  /* Toggle Maximize & Minimize Buttons */
 }
 .main .book .tool-bar button {
   background-color: var(--bg-color);
@@ -508,11 +542,39 @@ a {
 .main .book .tool-bar button:last-child::after {
   content: none;
 }
-.main .book .preview img {
-  margin-bottom: 10px;
+.main .book .tool-bar .maximize i:first-child {
+  display: block;
+}
+.main .book .tool-bar .maximize i:nth-child(2) {
+  display: none;
+}
+.main .book .tool-bar .maximize.active i:first-child {
+  display: none;
+}
+.main .book .tool-bar .maximize.active i:nth-child(2) {
+  display: block;
+}
+.main .book .preview {
   width: 100%;
+  overflow: scroll;
+  -ms-overflow-style: none;
+  /* Internet Explorer 10+ */
+  scrollbar-width: none;
+  /* Firefox */
+}
+.main .book .preview img {
+  margin: 0 auto 10px;
+  display: block;
+  width: 50%;
   border: var(--sec-color) solid 2px;
   background-color: #fff;
+}
+.main .book.active {
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 200;
+  border-radius: 0;
 }
 .main .history,
 .main .wishlist {
@@ -520,18 +582,20 @@ a {
   width: max-content;
 }
 
-/* ------------------------- End Main Bar ------------------------ */
+/* ----------------------- End Main Section ---------------------- */
 /* ---------------------- Secondary Side Bar --------------------- */
 .sec-side-bar {
   position: fixed;
   top: 78px;
-  right: 0;
+  right: -355px;
   bottom: 10px;
-  width: 400px;
+  width: 350px;
   border-radius: var(--block-radius) 0 0 var(--block-radius);
+  box-shadow: 0 0 5px #000;
   z-index: 80;
   transition: var(--duration);
   /* Close Buttons */
+  /* List view */
   /* Details View on Secondary Side Bar */
   /* History & Wishlist Page */
 }
@@ -568,6 +632,9 @@ a {
   background-color: var(--bg-color);
   z-index: -1;
 }
+.sec-side-bar .list li {
+  padding: 5px 0;
+}
 .sec-side-bar .detail-view img {
   width: 100%;
   margin-bottom: 20px;
@@ -587,6 +654,8 @@ a {
 .sec-side-bar .detail-view table tr td:first-child {
   font-weight: bold;
   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .sec-side-bar .detail-view .download {
   display: block;
@@ -597,6 +666,140 @@ a {
   margin-bottom: 50px;
 }
 
+.sec-side-bar.active {
+  right: 0;
+}
+
 /* -------------------- End Secondary Side Bar ------------------- */
+@media screen and (max-width: 992px) {
+  /* ----------------------- Components ------------------------ */
+  /* Search Bar */
+  .search-bar {
+    max-width: 250px;
+  }
+}
+@media screen and (max-width: 768px) {
+  /* --------------------- Global Settings --------------------- */
+  .fixed-block {
+    padding: 15px;
+  }
+  /* ----------------------- Components ------------------------ */
+  /* Search Bar */
+  .search-bar {
+    max-width: 200px;
+  }
+  /* ---------------------- Main Side Bar ---------------------- */
+  .main-side-bar {
+    width: 160px;
+  }
+  /* -------------------------- Main --------------------------- */
+  .main {
+    left: 180px;
+    /* Book Page */
+  }
+  .main .gallary {
+    gap: 16px 5px;
+    padding: 15px 10px;
+  }
+  .main .book .tool-bar {
+    gap: 20px;
+    padding: 10px 0;
+  }
+  .main .book .tool-bar button {
+    padding: 5px;
+  }
+  .main .book .tool-bar button::after,
+  .main .book .tool-bar .page-num::after {
+    right: -10px;
+  }
+  .main .history,
+  .main .wishlist {
+    width: 100%;
+  }
+  /* ---------------------- Secondary Side Bar --------------------- */
+  .sec-side-bar {
+    width: fit-content;
+    max-width: 350px;
+  }
+  /* ----------------------- Login & Register ---------------------- */
+  .login {
+    width: 60%;
+  }
+}
+@media screen and (max-width: 576px) {
+  /* ----------------------- Components ------------------------ */
+  /* Global List */
+  .list .list-view {
+    padding: 5px;
+  }
+  /* ------------------------- Navbar -------------------------- */
+  .navbar {
+    left: 0;
+    right: 0;
+    padding: 10px 60px;
+    border-radius: 0;
+  }
+  .navbar .middle,
+  .navbar .right {
+    display: none;
+  }
+  .login-page .navbar {
+    padding: 10px 20px;
+  }
+  /* ---------------------- Main Side Bar ---------------------- */
+  .main-side-bar {
+    top: 63px;
+    left: -165px;
+    bottom: 5px;
+    z-index: 100;
+    border-radius: 0 var(--block-radius) var(--block-radius) 0;
+    box-shadow: 0 0 5px #000;
+    padding-left: 0;
+  }
+  .main-side-bar .close {
+    display: none;
+    position: fixed;
+    background-color: var(--bg-color);
+    height: 50px;
+    border-radius: 0;
+    top: 0;
+    left: 0;
+  }
+  .main-side-bar .open {
+    top: 0;
+    left: 0;
+  }
+  .main-side-bar .open::before {
+    content: none;
+    top: 80%;
+    left: 0;
+  }
+  .main-side-bar .open::after {
+    border-radius: 0;
+    box-shadow: none;
+    height: 50px;
+  }
+  .main-side-bar.active {
+    left: 0;
+  }
+  /* ----------------------- Main Section ------------------------ */
+  .main {
+    left: 5px;
+    right: 5px;
+    top: 68px;
+    /* Book Page */
+  }
+  .main .gallary {
+    gap: 16px 0;
+    padding: 5px 0;
+  }
+  .main .book .tool-bar button {
+    padding: 0;
+  }
+  /* ----------------------- Login & Register ---------------------- */
+  .login {
+    width: 90%;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */

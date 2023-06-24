@@ -4,9 +4,14 @@
 Login
 {% endblock %}
 
+<!-- ------------------------------------------------------------ -->
+
 {% block form %}
-<div class="header">Login</div>
+<div class="header">
+    Login <a href="/" class="btn btn-icon back"><i class="fa-solid fa-angle-left"></i></a>
+</div>
 <form>
+    <!-- Username Field -->
     <div>
         <label for="username">Username</label>
     </div>
@@ -14,6 +19,8 @@ Login
         <label for="username" class="input"><i class="fa-solid fa-user"></i></label>
         <input type="text" class="input" id="username" name="username" placeholder="E-mail or Username">
     </div>
+
+    <!-- Password Field -->
     <div>
         <label for="password">Password</label>
     </div>
@@ -21,11 +28,15 @@ Login
         <label for="password" class="input"><i class="fa-solid fa-key"></i></label>
         <input type="password" class="input" id="password" name="password" placeholder="Password">
     </div>
+
+    <!-- Login Button -->
     <div>
         <button type="submit" class="btn btn-blue">
             <i class="fa-solid fa-user"></i>Login
         </button>
     </div>
+
+    <!-- Links -->
     <div class="center">
         <a href="#">Forget password?</a>
         <a href="/register">Don't have account?</a>

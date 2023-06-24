@@ -3,16 +3,20 @@
     // --bg-color: #fff;
     // --sec-color: #ddd;
     // --text-color: #000;
+
+    /* Light Mode */
     --bg-color: #F1F6F9;
     --sec-color: #9BA4B4;
     --text-color: #14274E;
     --btn-color: #fff;
 
+    /* Dark Mode */
     // --bg-color: #242424;
     // --sec-color: #2B2B2B;
     // --text-color: #9BA4B4;
     // --btn-color: #fff;
 
+    /* Buttons and Input Fields Colors */
     --blue-color: #0d6efd;
     --green-color: #28a745;
     --red-color: #dc3545;
@@ -33,7 +37,6 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: var(--sec-color);
     color: var(--text-color);
-    -webkit-font-smoothing: subpixel-antialiased;
 }
 
 a {
@@ -53,11 +56,14 @@ a {
     /* Firefox */
 }
 
-.fixed-block::-webkit-scrollbar {
+.fixed-block::-webkit-scrollbar,
+/* Book Preview */
+.preview::-webkit-scrollbar {
     display: none;
     /* Safari and Chrome */
 }
 
+/* Horizontal Line: Homepage Secondary Side Bar */
 .hr {
     width: 100%;
     background-color: var(--sec-color);
@@ -89,6 +95,7 @@ a {
     scale: 1.05;
 }
 
+/* Icon Buttons: Close and Open Side Bars */
 .btn-icon {
     color: var(--text-color);
     font-size: 1.2rem;
@@ -101,12 +108,13 @@ a {
     }
 }
 
-// .btn-icon:hover {
-//     scale: 1.2;
-// }
+/* List Button: Main side Bar items */
+.btn-list {
+    color: var(--text-color);
+    padding: 0;
+}
 
 /* Start Primary Buttons */
-
 .btn-blue {
     background-color: var(--blue-color);
     border: var(--blue-color) solid 2px;
@@ -122,25 +130,6 @@ a {
     background-color: var(--red-color);
     border: var(--red-color) solid 2px;
 }
-
-/* Start Primary Buttons Hover Effect */
-// .btn-blue:hover {
-//     background-color: var(--bg-color);
-//     color: var(--blue-color);
-//     border: var(--blue-color) solid 2px;
-// }
-
-// .btn-green:hover {
-//     background-color: var(--bg-color);
-//     color: var(--green-color);
-//     border: var(--green-color) solid 2px;
-// }
-
-// .btn-red:hover {
-//     background-color: var(--bg-color);
-//     color: var(--red-color);
-//     border: var(--red-color) solid 2px;
-// }
 
 /* Start Secondary Buttons */
 .btn-sec-blue {
@@ -177,6 +166,7 @@ a {
 /* ------------------------ End Buttons -------------------------- */
 
 /* --------------------------- Inputs ---------------------------- */
+/* Global Input Field */
 .input {
     border: var(--sec-color) solid 3px;
     border-radius: var(--img-radius);
@@ -195,7 +185,7 @@ a {
 .header {
     font-weight: bold;
     font-size: 1.5em;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 /* ---------------------- End Text Classes ----------------------- */

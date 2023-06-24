@@ -2,32 +2,55 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
+# Home Page
 @app.route("/")
 def index():
     return render_template("users/index.html")
 
-@app.route("/book/<sid>")
-def book(sid):
-    print(sid)
-    return render_template("users/book.html", title="Hello world!")
+# Login Page
+
+
+@app.route("/login")
+def login():
+    return render_template("users/login.html")
+
+# Register Page
+
+
+@app.route("/register")
+def register():
+    return render_template("users/register.html")
+
+# History Page
+
 
 @app.route("/history")
 def history():
     return render_template("users/history.html")
+
+# Wishlist Page
 
 
 @app.route("/wishlist")
 def wishlist():
     return render_template("users/wishlist.html")
 
-@app.route("/login")
-def login():
-    return render_template("users/login.html")
+# Books Page
+@app.route("/book/<sid>")
+def book(sid):
+    print(sid)
+    return render_template("users/book.html", title="Hello world!", book=True)
 
+# Admin Home Page
+@app.route("/admin")
+def admin():
+    return render_template("admin/index.html")
 
-@app.route("/register")
-def register():
-    return render_template("users/register.html")
+# Admin login Page
+@app.route("/admin/login")
+def admin_login():
+    return render_template("admin/login.html")
+
 
 
 if __name__ == "__main__":

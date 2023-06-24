@@ -1,0 +1,95 @@
+@media screen and (max-width: 576px) {
+
+    /* ----------------------- Components ------------------------ */
+    /* Global List */
+    .list {
+        .list-view {
+            padding: 5px;
+        }
+    }
+
+    /* ------------------------- Navbar -------------------------- */
+    .navbar {
+        left: 0;
+        right: 0;
+        padding: 10px 60px;
+        border-radius: 0;
+
+        .middle,
+        .right {
+            display: none;
+        }
+    }
+
+    .login-page .navbar {
+        padding: 10px 20px;
+    }
+
+    /* ---------------------- Main Side Bar ---------------------- */
+    .main-side-bar {
+        top: 63px;
+        left: -165px;
+        bottom: 5px;
+        z-index: 100;
+        border-radius: 0 var(--block-radius) var(--block-radius) 0;
+        box-shadow: 0 0 5px #000;
+        padding-left: 0;
+
+        .close {
+            display: none;
+            position: fixed;
+            background-color: var(--bg-color);
+            height: 50px;
+            border-radius: 0;
+            top: 0;
+            left: 0;
+        }
+
+        .open {
+            top: 0;
+            left: 0;
+        }
+
+        .open::before {
+            content: none;
+            top: 80%;
+            left: 0;
+        }
+
+        .open::after {
+            border-radius: 0;
+            box-shadow: none;
+            height: 50px;
+        }
+    }
+
+    .main-side-bar.active {
+        left: 0;
+    }
+
+    /* ----------------------- Main Section ------------------------ */
+    .main {
+        left: 5px;
+        right: 5px;
+        top: 68px;
+
+        .gallary {
+            gap: 16px 0;
+            padding: 5px 0;
+        }
+
+        /* Book Page */
+        .book {
+            .tool-bar {
+                button {
+                    padding: 0;
+                }
+            }
+        }
+    }
+
+    /* ----------------------- Login & Register ---------------------- */
+    .login {
+        width: 90%;
+    }
+}

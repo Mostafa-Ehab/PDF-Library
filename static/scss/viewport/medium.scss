@@ -1,0 +1,61 @@
+@media screen and (max-width: 768px) {
+
+    /* --------------------- Global Settings --------------------- */
+    .fixed-block {
+        padding: 15px;
+    }
+
+    /* ----------------------- Components ------------------------ */
+    /* Search Bar */
+    .search-bar {
+        max-width: 200px;
+    }
+
+    /* ---------------------- Main Side Bar ---------------------- */
+    .main-side-bar {
+        width: 160px;
+    }
+
+    /* -------------------------- Main --------------------------- */
+    .main {
+        left: 180px;
+
+        .gallary {
+            gap: 16px 5px;
+            padding: 15px 10px;
+        }
+
+        /* Book Page */
+        .book {
+            .tool-bar {
+                gap: 20px;
+                padding: 10px 0;
+
+                button {
+                    padding: 5px;
+                }
+
+                button::after,
+                .page-num::after {
+                    right: -10px;
+                }
+            }
+        }
+
+        .history,
+        .wishlist {
+            width: 100%;
+        }
+    }
+
+    /* ---------------------- Secondary Side Bar --------------------- */
+    .sec-side-bar {
+        width: fit-content;
+        max-width: 350px;
+    }
+
+    /* ----------------------- Login & Register ---------------------- */
+    .login {
+        width: 60%;
+    }
+}
