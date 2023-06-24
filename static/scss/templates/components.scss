@@ -4,9 +4,12 @@
     position: relative;
     margin: 0 auto;
     max-width: 500px;
+    border-radius: var(--img-radius);
+    transition: var(--duration);
 
     input {
         padding-left: 45px;
+        border-color: var(--blue-color);
     }
 
     label {
@@ -14,10 +17,15 @@
         top: 0;
         left: 0;
         width: auto;
-        background-color: var(--sec-color);
+        background-color: var(--blue-color);
         color: var(--bg-color);
+        border-color: var(--blue-color);
         border-radius: var(--img-radius) 0 0 var(--img-radius);
     }
+}
+
+.input-bar:hover {
+    box-shadow: 0 0 5px var(--blue-color);
 }
 
 /* Global Search Bar */
@@ -25,6 +33,8 @@
     position: relative;
     margin: 0 auto;
     max-width: 500px;
+    border-radius: var(--img-radius);
+    transition: var(--duration);
 
     button {
         position: absolute;
@@ -38,7 +48,8 @@
 }
 
 .search-bar:hover {
-    transform: scale(1.05);
+    // transform: scale(1.05);
+    box-shadow: 0 0 5px var(--sec-color);
 }
 
 /* Secondary Search Bar: History & Wishlist */

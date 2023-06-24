@@ -1,0 +1,36 @@
+/* Login & Register */
+.login {
+    position: fixed;
+    top: 50%;
+    // bottom: 10px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: var(--block-radius);
+    padding: 50px;
+    width: 500px;
+
+    .header {
+        margin-bottom: 25px;
+    }
+
+    div {
+        margin-bottom: 10px;
+    }
+
+    .center {
+        text-align: center;
+        margin: 0;
+
+        a {
+            display: block;
+            margin: 5px auto 0;
+            width: fit-content;
+            color: var(--blue-color);
+            transition: var(--duration);
+        }
+
+        a:hover {
+            transform: scale(1.05);
+        }
+    }
+}

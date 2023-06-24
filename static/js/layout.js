@@ -31,21 +31,23 @@ document.querySelector("#close-sec").addEventListener("click", (event) => {
 
 /* Open Secondary Side Bar */
 document.querySelector("#open-sec").addEventListener("click", (event) => {
-    secSideBar.style.right = "10px"
-    mainSection.style.right = "420px"
+    secSideBar.style.right = "0"
+    mainSection.style.right = "410px"
 
     document.querySelector("#open-sec").style.right = "-100px";
 })
 
 /*
+    ** Deprecated **
+    Since I Made Custom Layout for Login & Signup Pages
     Delete Secondary Side Bar in Login/Register Pages
 */
-// document.addEventListener("load", (event) => {
+// // document.addEventListener("load", (event) => {
 
-if (secSideBar.getAttribute("data-del")) {
-    console.log("not found")
-    secSideBar.style.right = "-400px";
-    mainSection.style.right = "10px";
-}
+// if (secSideBar.getAttribute("data-del")) {
+//     console.log("not found")
+//     secSideBar.style.right = "-400px";
+//     mainSection.style.right = "10px";
+// }
 
 

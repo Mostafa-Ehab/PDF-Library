@@ -104,24 +104,6 @@ a {
 }
 
 /* Start Primary Buttons Hover Effect */
-.btn-blue:hover {
-  background-color: var(--bg-color);
-  color: var(--blue-color);
-  border: var(--blue-color) solid 2px;
-}
-
-.btn-green:hover {
-  background-color: var(--bg-color);
-  color: var(--green-color);
-  border: var(--green-color) solid 2px;
-}
-
-.btn-red:hover {
-  background-color: var(--bg-color);
-  color: var(--red-color);
-  border: var(--red-color) solid 2px;
-}
-
 /* Start Secondary Buttons */
 .btn-sec-blue {
   color: var(--blue-color);
@@ -212,18 +194,26 @@ a {
   position: relative;
   margin: 0 auto;
   max-width: 500px;
+  border-radius: var(--img-radius);
+  transition: var(--duration);
 }
 .input-bar input {
   padding-left: 45px;
+  border-color: var(--blue-color);
 }
 .input-bar label {
   position: absolute;
   top: 0;
   left: 0;
   width: auto;
-  background-color: var(--sec-color);
+  background-color: var(--blue-color);
   color: var(--bg-color);
+  border-color: var(--blue-color);
   border-radius: var(--img-radius) 0 0 var(--img-radius);
+}
+
+.input-bar:hover {
+  box-shadow: 0 0 5px var(--blue-color);
 }
 
 /* Global Search Bar */
@@ -231,6 +221,8 @@ a {
   position: relative;
   margin: 0 auto;
   max-width: 500px;
+  border-radius: var(--img-radius);
+  transition: var(--duration);
 }
 .search-bar button {
   position: absolute;
@@ -243,7 +235,7 @@ a {
 }
 
 .search-bar:hover {
-  transform: scale(1.05);
+  box-shadow: 0 0 5px var(--sec-color);
 }
 
 /* Secondary Search Bar: History & Wishlist */
@@ -321,6 +313,37 @@ a {
 }
 
 /* ---------------------- End List Component --------------------- */
+/* Login & Register */
+.login {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: var(--block-radius);
+  padding: 50px;
+  width: 500px;
+}
+.login .header {
+  margin-bottom: 25px;
+}
+.login div {
+  margin-bottom: 10px;
+}
+.login .center {
+  text-align: center;
+  margin: 0;
+}
+.login .center a {
+  display: block;
+  margin: 5px auto 0;
+  width: fit-content;
+  color: var(--blue-color);
+  transition: var(--duration);
+}
+.login .center a:hover {
+  transform: scale(1.05);
+}
+
 /* ------------------------- Main Side Bar ----------------------- */
 .main-side-bar {
   position: fixed;
@@ -372,7 +395,7 @@ a {
 .main {
   position: absolute;
   top: 78px;
-  right: 420px;
+  right: 410px;
   left: 220px;
   overflow: hidden;
   border-radius: var(--block-radius);
@@ -380,7 +403,6 @@ a {
   /* Main Page Gallery */
   /* Book Page */
   /* History & Wishlist Page */
-  /* Login & Register */
 }
 .main .gallary {
   display: flex;
@@ -497,27 +519,16 @@ a {
   margin: 0 auto;
   width: max-content;
 }
-.main .login {
-  margin: 10% 10%;
-  max-width: 250px;
-}
-.main .login div {
-  margin-bottom: 10px;
-}
-.main .login button {
-  display: block;
-  margin: 0 5% 0 0;
-}
 
 /* ------------------------- End Main Bar ------------------------ */
 /* ---------------------- Secondary Side Bar --------------------- */
 .sec-side-bar {
   position: fixed;
   top: 78px;
-  right: 10px;
+  right: 0;
   bottom: 10px;
   width: 400px;
-  border-radius: var(--block-radius);
+  border-radius: var(--block-radius) 0 0 var(--block-radius);
   z-index: 80;
   transition: var(--duration);
   /* Close Buttons */

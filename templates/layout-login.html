@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/21ee534458.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="logo">
+            <a href="/">
+                PDFs
+            </a>
+        </div>
+        <div class="middle"></div>
+        <div class="right">
+            {% include 'components/login-btns.html' %}
+        </div>
+    </div>
+    <div class="container">
+        <div class="login fixed-block">
+            {% block form %}
+            {% endblock %}
+        </div>
+    </div>
+</body>
+
+</html>

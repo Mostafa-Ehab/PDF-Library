@@ -22,7 +22,12 @@ def wishlist():
 
 @app.route("/login")
 def login():
-    return render_template("users/login.html", del_sec_side_bar=True)
+    return render_template("users/login.html")
+
+
+@app.route("/register")
+def register():
+    return render_template("users/register.html")
 
 
 if __name__ == "__main__":

@@ -1,40 +1,34 @@
-{% extends 'layout.html' %}
+{% extends 'layout-login.html' %}
 
 {% block title %}
 Login
 {% endblock %}
 
-{% block navbar %}
-<div class="middle"></div>
-<div class="right">
-    {% include 'components/login-btns.html' %}
-</div>
-{% endblock %}
-
-{% block main_side_bar %}
-{% include 'components/sidebar.html' %}
-{% endblock %}
-
-{% block main %}
-<div class="login">
-    <form>
-        <div class="header">Login</div>
-        <div class="input-bar">
-            <label for="username" class="input"><i class="fa-solid fa-user"></i></label>
-            <input type="text" class="input" id="username" name="username" placeholder="E-mail or Username">
-        </div>
-        <div class="input-bar">
-            <label for="password" class="input"><i class="fa-solid fa-key"></i></label>
-            <input type="password" class="input" id="password" name="password" placeholder="E-mail or Username">
-        </div>
-        <div>
-            <button type="submit" class="btn btn-blue">
-                <i class="fa-solid fa-user"></i>Login
-            </button>
-        </div>
-        <div>
-            <a href="/register">Don't have account?</a>
-        </div>
-    </form>
-</div>
+{% block form %}
+<div class="header">Login</div>
+<form>
+    <div>
+        <label for="username">Username</label>
+    </div>
+    <div class="input-bar">
+        <label for="username" class="input"><i class="fa-solid fa-user"></i></label>
+        <input type="text" class="input" id="username" name="username" placeholder="E-mail or Username">
+    </div>
+    <div>
+        <label for="password">Password</label>
+    </div>
+    <div class="input-bar">
+        <label for="password" class="input"><i class="fa-solid fa-key"></i></label>
+        <input type="password" class="input" id="password" name="password" placeholder="Password">
+    </div>
+    <div>
+        <button type="submit" class="btn btn-blue">
+            <i class="fa-solid fa-user"></i>Login
+        </button>
+    </div>
+    <div class="center">
+        <a href="#">Forget password?</a>
+        <a href="/register">Don't have account?</a>
+    </div>
+</form>
 {% endblock %}

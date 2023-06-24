@@ -1,0 +1,47 @@
+{% extends 'layout-login.html' %}
+
+{% block title %}
+Register
+{% endblock %}
+
+{% block form %}
+<div class="header">Register</div>
+<form>
+    <div>
+        <label for="username">Username</label>
+    </div>
+    <div class="input-bar">
+        <label for="username" class="input"><i class="fa-solid fa-user"></i></label>
+        <input type="text" class="input" id="username" name="username" placeholder="Username">
+    </div>
+    <div>
+        <label for="username">Email</label>
+    </div>
+    <div class="input-bar">
+        <label for="email" class="input"><i class="fa-solid fa-at"></i></label>
+        <input type="email" class="input" id="email" name="email" placeholder="E-mail">
+    </div>
+    <div>
+        <label for="password">Password</label>
+    </div>
+    <div class="input-bar">
+        <label for="password" class="input"><i class="fa-solid fa-unlock"></i></label>
+        <input type="password" class="input" id="password" name="password" placeholder="Password">
+    </div>
+    <div>
+        <label for="password">Confirm Password</label>
+    </div>
+    <div class="input-bar">
+        <label for="password-conf" class="input"><i class="fa-solid fa-lock"></i></label>
+        <input type="password" class="input" id="password-conf" name="password-conf" placeholder="Confirm Password">
+    </div>
+    <div>
+        <button type="submit" class="btn btn-red">
+            <i class="fa-solid fa-right-to-bracket"></i>Register
+        </button>
+    </div>
+    <div class="center">
+        <a href="/login">Already have account?</a>
+    </div>
+</form>
+{% endblock %}
