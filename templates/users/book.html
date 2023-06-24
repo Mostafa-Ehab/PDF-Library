@@ -13,13 +13,12 @@
     </p>
 </div>
 <div class="right">
-    <button class="btn btn-blue">Login</button>
-    <button class="btn btn-red">Sign up</button>
+    {% include 'components/login-btns.html' %}
 </div>
 {% endblock %}
 
 {% block main_side_bar %}
-<p class="header">Contents</p>
+<!-- <p class="header">Contents</p> -->
 <ul class="list content">
     <li class="main-head">Introduction</li>
     <li class="main-head">Section 1
@@ -126,9 +125,6 @@
     </table>
     <button class="btn btn-green download">
         <i class="fa-solid fa-download"></i>Download
-    </button>
-    <button class="close">
-        <i class="fa-solid fa-xmark"></i>
     </button>
 </div>
 {% endblock %}

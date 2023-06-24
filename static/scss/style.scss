@@ -1,5 +1,6 @@
 @import "templates/global.scss";
 @import "templates/navbar.scss";
+@import "templates/components.scss";
 
 @import "viewport/large.scss";
 @import "viewport/medium.scss";
@@ -12,24 +13,50 @@
     top: 78px;
     left: 10px;
     bottom: 10px;
-    width: 300px;
+    width: 200px;
 
     border-radius: var(--block-radius);
     // box-shadow: 12px 0 12px 0 var(--sec-color);
 
     z-index: 80;
+    transition: var(--duration);
 
-    /* Content List in Book Page */
-    .content {
-        .main-head {
-            font-weight: bold;
-            font-size: 1.2rem;
-        }
+    /* Close Buttons */
+    .close {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
 
-        .sub-head {
-            font-weight: normal;
-            font-size: 1rem;
-        }
+    .open {
+        position: fixed;
+        top: 178px;
+        left: -150px;
+        transition: var(--duration);
+    }
+
+    .open::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0%;
+        width: 100%;
+        height: 100%;
+        background-color: var(--bg-color);
+        z-index: -1;
+        border-radius: 0 50% 50% 0;
+        box-shadow: 0px 0px 5px rgba(0, 0, 0, 1);
+    }
+
+    .open::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 100%;
+        width: 100%;
+        height: 100%;
+        background-color: var(--bg-color);
+        z-index: -1;
     }
 }
 
@@ -40,10 +67,11 @@
     position: absolute;
     top: 78px;
     right: 420px;
-    left: 320px;
+    left: 220px;
     overflow: hidden;
 
     border-radius: var(--block-radius);
+    transition: var(--duration);
 
     /* Main Page Gallery */
     .gallary {
@@ -65,8 +93,6 @@
             transition: var(--duration);
 
             a {
-                text-decoration: none;
-                color: var(--text-color);
                 display: block;
 
                 .img {
@@ -113,8 +139,10 @@
         position: fixed;
         top: 78px;
         bottom: 0;
-        left: 320px;
-        right: 420px;
+        // left: 320px;
+        // right: 420px;
+        left: inherit;
+        right: inherit;
         padding-top: 0;
         overflow: scroll;
         border-radius: var(--block-radius) var(--block-radius) 0 0;
@@ -133,9 +161,10 @@
             button {
                 background-color: var(--bg-color);
                 color: var(--text-color);
-                padding: 5px 8px;
                 border: none;
+                padding: 5px 8px;
                 position: relative;
+                font-size: 1rem;
             }
 
             .page-num {
@@ -169,15 +198,34 @@
 
         /* Book Preview in Book Page*/
         .preview {
-            overflow-x: scroll;
-
             img {
                 margin-bottom: 10px;
                 width: 100%;
                 border: var(--sec-color) solid 2px;
                 background-color: #fff;
-                transform: scale(1.5);
             }
+        }
+    }
+
+    /* History & Wishlist Page */
+    .history,
+    .wishlist {
+        margin: 0 auto;
+        width: max-content;
+    }
+
+    /* Login & Register */
+    .login {
+        margin: 10% 10%;
+        max-width: 250px;
+
+        div {
+            margin-bottom: 10px;
+        }
+
+        button {
+            display: block;
+            margin: 0 5% 0 0;
         }
     }
 }
@@ -195,39 +243,44 @@
     border-radius: var(--block-radius);
     // box-shadow: -12px 0 12px 0 var(--sec-color);
     z-index: 80;
+    transition: var(--duration);
 
-    /* List View in History and Wishlist */
-    .list {
-        .list-view {
-            display: grid;
-            grid-template-columns: 25% 75%;
-            padding: 0 5px 10px;
-            grid-gap: 10px;
-            border-bottom: var(--sec-color) solid 1px;
-            overflow: hidden;
+    /* Close Buttons */
+    .close {
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
 
-            img {
-                width: 100%;
-                height: 100%;
-                border-radius: var(--img-radius);
-            }
+    .open {
+        position: fixed;
+        top: 178px;
+        right: -100px;
+        transition: var(--duration);
+    }
 
-            table {
-                td {
-                    white-space: nowrap;
-                    overflow: hidden;
-                }
+    .open::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: var(--bg-color);
+        z-index: -1;
+        border-radius: 50% 0 0 50%;
+        box-shadow: 0px 0px 5px rgba(0, 0, 0, 1);
+    }
 
-                td:first-child {
-                    font-weight: bold;
-                    width: 1%;
-                }
-            }
-        }
-
-        li:last-of-type .list-view {
-            border-bottom: none;
-        }
+    .open::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 100%;
+        width: 100%;
+        height: 100%;
+        background-color: var(--bg-color);
+        z-index: -1;
     }
 
     /* Details View on Secondary Side Bar */
@@ -260,20 +313,15 @@
         }
 
         .download {
-            float: right;
+            display: block;
+            margin: 0 0 0 auto;
         }
+    }
 
-        .close {
-            position: absolute;
-            top: 0;
-            right: 0;
-            padding: 20px;
-            background-color: var(--bg-color);
-            color: var(--nav-color);
-            border: none;
-            font-size: 1.2rem;
-            border-radius: var(--block-radius);
-        }
+    /* History & Wishlist Page */
+    .search-history,
+    .search-wishlist {
+        margin-bottom: 50px;
     }
 }
 

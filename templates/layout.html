@@ -26,16 +26,33 @@
         <div class="main-side-bar fixed-block">
             {% block main_side_bar %}
             {% endblock %}
+            <!-- Close Button -->
+            <!-- <button class="btn btn-icon open" id="open-main">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+            <button class="btn btn-icon close" id="close-main">
+                <i class="fa-solid fa-xmark"></i>
+            </button> -->
+            <!-- End Close Buttons -->
         </div>
         <div class="main fixed-block">
             {% block main %}
             {% endblock %}
         </div>
-        <div class="sec-side-bar fixed-block">
+        <div class="sec-side-bar fixed-block" data-del="{{ del_sec_side_bar }}">
             {% block sec_side_bar %}
             {% endblock %}
+            <!-- Close Button -->
+            <button class="btn btn-icon open" id="open-sec">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+            <button class="btn btn-icon close" id="close-sec">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+            <!-- End Close Buttons -->
         </div>
     </div>
+    <script src="/static/js/layout.js"></Script>
 </body>
 
 </html>

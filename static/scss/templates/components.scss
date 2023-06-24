@@ -1,0 +1,135 @@
+/* --------------------- Search bar Component -------------------- */
+/* Global Search Bar */
+.input-bar {
+    position: relative;
+    margin: 0 auto;
+    max-width: 500px;
+
+    input {
+        padding-left: 45px;
+    }
+
+    label {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: auto;
+        background-color: var(--sec-color);
+        color: var(--bg-color);
+        border-radius: var(--img-radius) 0 0 var(--img-radius);
+    }
+}
+
+/* Global Search Bar */
+.search-bar {
+    position: relative;
+    margin: 0 auto;
+    max-width: 500px;
+
+    button {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: auto;
+        background-color: var(--sec-color);
+        color: var(--bg-color);
+        border-radius: 0 var(--img-radius) var(--img-radius) 0;
+    }
+}
+
+.search-bar:hover {
+    transform: scale(1.05);
+}
+
+/* Secondary Search Bar: History & Wishlist */
+.search-sec-bar {
+    max-width: 250px;
+    margin: 0;
+
+    input {
+        border: none;
+        border-bottom: var(--sec-color) solid 2px;
+        border-radius: 0 0 0 var(--img-radius);
+        padding-left: 45px;
+        margin-top: 2px;
+    }
+
+    button {
+        left: 0;
+        right: auto;
+        border-width: 2px;
+        border-radius: var(--img-radius) 0 0 var(--img-radius);
+    }
+}
+
+/* ------------------- End Search bar Component ------------------ */
+
+/* ------------------------ List Component ----------------------- */
+.list {
+
+    /* Global List Items */
+    li {
+        list-style: none;
+        padding: 5px 15px;
+    }
+
+    /* Center List Expand Button */
+    .list-expand {
+        a {
+            margin: 0 auto;
+            display: block;
+            width: fit-content;
+        }
+    }
+
+    .main-head {
+        font-weight: bold;
+        font-size: 1.2rem;
+    }
+
+    .sub-head {
+        font-weight: normal;
+        font-size: 1rem;
+    }
+
+    /* List View: History & Wishlist */
+    .list-view {
+        display: grid;
+        grid-template-columns: 25% 75%;
+        padding: 0 5px 10px;
+        grid-gap: 10px;
+        border-bottom: var(--sec-color) solid 1px;
+        overflow: hidden;
+        max-width: 500px;
+
+        img.side-view {
+            width: 100%;
+            height: 65px;
+            border-radius: var(--img-radius);
+        }
+
+        img.main-view {
+            width: 100%;
+            height: 85px;
+            border-radius: var(--img-radius);
+        }
+
+        table {
+            td {
+                white-space: nowrap;
+                overflow: hidden;
+            }
+
+            td:first-child {
+                font-weight: bold;
+                width: 1%;
+            }
+        }
+    }
+
+    li:last-of-type .list-view {
+        border-bottom: none;
+    }
+}
+
+/* ---------------------- End List Component --------------------- */

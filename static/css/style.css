@@ -16,17 +16,26 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-size: 100%;
 }
 
 body {
   font-family: "Roboto", sans-serif;
   background-color: var(--sec-color);
   color: var(--text-color);
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+a {
+  text-decoration: none;
+  color: var(--text-color);
+  display: inline-block;
 }
 
 .fixed-block {
   background-color: var(--bg-color);
   padding: 20px;
+  overflow: scroll;
   -ms-overflow-style: none;
   /* Internet Explorer 10+ */
   scrollbar-width: none;
@@ -57,6 +66,7 @@ body {
   padding: 10px 15px;
   text-decoration: none;
   transition: var(--duration);
+  font-size: 80%;
 }
 .btn i {
   padding-right: 10px;
@@ -66,17 +76,31 @@ body {
   scale: 1.05;
 }
 
+.btn-icon {
+  color: var(--text-color);
+  font-size: 1.2rem;
+  padding: 20px;
+  border-radius: var(--block-radius);
+  background-color: transparent;
+}
+.btn-icon i {
+  padding: 0;
+}
+
 /* Start Primary Buttons */
 .btn-blue {
   background-color: var(--blue-color);
+  border: var(--blue-color) solid 2px;
 }
 
 .btn-green {
   background-color: var(--green-color);
+  border: var(--green-color) solid 2px;
 }
 
 .btn-red {
   background-color: var(--red-color);
+  border: var(--red-color) solid 2px;
 }
 
 /* Start Primary Buttons Hover Effect */
@@ -141,20 +165,7 @@ body {
   padding: 5px 10px;
   line-height: 1.5em;
   width: 100%;
-}
-
-.search-bar {
-  position: relative;
-  margin: 0 auto;
-  max-width: 500px;
-}
-.search-bar button {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: auto;
-  background-color: var(--bg-color);
-  color: var(--sec-color);
+  font-size: 80%;
 }
 
 /* ------------------------- End Inputs -------------------------- */
@@ -162,23 +173,10 @@ body {
 .header {
   font-weight: bold;
   font-size: 1.5em;
+  margin-bottom: 20px;
 }
 
 /* ---------------------- End Text Classes ----------------------- */
-/* ---------------------------- List ----------------------------- */
-.list li {
-  list-style: none;
-  padding: 10px 15px 0;
-}
-.list .list-expand {
-  margin-top: 10px;
-}
-.list .list-expand button {
-  margin: 0 auto;
-  display: block;
-}
-
-/* -------------------------- End List --------------------------- */
 .navbar {
   position: fixed;
   top: 0;
@@ -208,24 +206,165 @@ body {
   padding: 6px 0;
 }
 
+/* --------------------- Search bar Component -------------------- */
+/* Global Search Bar */
+.input-bar {
+  position: relative;
+  margin: 0 auto;
+  max-width: 500px;
+}
+.input-bar input {
+  padding-left: 45px;
+}
+.input-bar label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: auto;
+  background-color: var(--sec-color);
+  color: var(--bg-color);
+  border-radius: var(--img-radius) 0 0 var(--img-radius);
+}
+
+/* Global Search Bar */
+.search-bar {
+  position: relative;
+  margin: 0 auto;
+  max-width: 500px;
+}
+.search-bar button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: auto;
+  background-color: var(--sec-color);
+  color: var(--bg-color);
+  border-radius: 0 var(--img-radius) var(--img-radius) 0;
+}
+
+.search-bar:hover {
+  transform: scale(1.05);
+}
+
+/* Secondary Search Bar: History & Wishlist */
+.search-sec-bar {
+  max-width: 250px;
+  margin: 0;
+}
+.search-sec-bar input {
+  border: none;
+  border-bottom: var(--sec-color) solid 2px;
+  border-radius: 0 0 0 var(--img-radius);
+  padding-left: 45px;
+  margin-top: 2px;
+}
+.search-sec-bar button {
+  left: 0;
+  right: auto;
+  border-width: 2px;
+  border-radius: var(--img-radius) 0 0 var(--img-radius);
+}
+
+/* ------------------- End Search bar Component ------------------ */
+/* ------------------------ List Component ----------------------- */
+.list {
+  /* Global List Items */
+  /* Center List Expand Button */
+  /* List View: History & Wishlist */
+}
+.list li {
+  list-style: none;
+  padding: 5px 15px;
+}
+.list .list-expand a {
+  margin: 0 auto;
+  display: block;
+  width: fit-content;
+}
+.list .main-head {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+.list .sub-head {
+  font-weight: normal;
+  font-size: 1rem;
+}
+.list .list-view {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  padding: 0 5px 10px;
+  grid-gap: 10px;
+  border-bottom: var(--sec-color) solid 1px;
+  overflow: hidden;
+  max-width: 500px;
+}
+.list .list-view img.side-view {
+  width: 100%;
+  height: 65px;
+  border-radius: var(--img-radius);
+}
+.list .list-view img.main-view {
+  width: 100%;
+  height: 85px;
+  border-radius: var(--img-radius);
+}
+.list .list-view table td {
+  white-space: nowrap;
+  overflow: hidden;
+}
+.list .list-view table td:first-child {
+  font-weight: bold;
+  width: 1%;
+}
+.list li:last-of-type .list-view {
+  border-bottom: none;
+}
+
+/* ---------------------- End List Component --------------------- */
 /* ------------------------- Main Side Bar ----------------------- */
 .main-side-bar {
   position: fixed;
   top: 78px;
   left: 10px;
   bottom: 10px;
-  width: 300px;
+  width: 200px;
   border-radius: var(--block-radius);
   z-index: 80;
-  /* Content List in Book Page */
+  transition: var(--duration);
+  /* Close Buttons */
 }
-.main-side-bar .content .main-head {
-  font-weight: bold;
-  font-size: 1.2rem;
+.main-side-bar .close {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
-.main-side-bar .content .sub-head {
-  font-weight: normal;
-  font-size: 1rem;
+.main-side-bar .open {
+  position: fixed;
+  top: 178px;
+  left: -150px;
+  transition: var(--duration);
+}
+.main-side-bar .open::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  background-color: var(--bg-color);
+  z-index: -1;
+  border-radius: 0 50% 50% 0;
+  box-shadow: 0px 0px 5px rgb(0, 0, 0);
+}
+.main-side-bar .open::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 100%;
+  width: 100%;
+  height: 100%;
+  background-color: var(--bg-color);
+  z-index: -1;
 }
 
 /* ----------------------- End Main Side Bar --------------------- */
@@ -234,11 +373,14 @@ body {
   position: absolute;
   top: 78px;
   right: 420px;
-  left: 320px;
+  left: 220px;
   overflow: hidden;
   border-radius: var(--block-radius);
+  transition: var(--duration);
   /* Main Page Gallery */
   /* Book Page */
+  /* History & Wishlist Page */
+  /* Login & Register */
 }
 .main .gallary {
   display: flex;
@@ -257,8 +399,6 @@ body {
   transition: var(--duration);
 }
 .main .gallary .gallery-view a {
-  text-decoration: none;
-  color: var(--text-color);
   display: block;
 }
 .main .gallary .gallery-view a .img {
@@ -296,8 +436,8 @@ body {
   position: fixed;
   top: 78px;
   bottom: 0;
-  left: 320px;
-  right: 420px;
+  left: inherit;
+  right: inherit;
   padding-top: 0;
   overflow: scroll;
   border-radius: var(--block-radius) var(--block-radius) 0 0;
@@ -317,9 +457,10 @@ body {
 .main .book .tool-bar button {
   background-color: var(--bg-color);
   color: var(--text-color);
-  padding: 5px 8px;
   border: none;
+  padding: 5px 8px;
   position: relative;
+  font-size: 1rem;
 }
 .main .book .tool-bar .page-num {
   text-align: center;
@@ -345,15 +486,27 @@ body {
 .main .book .tool-bar button:last-child::after {
   content: none;
 }
-.main .book .preview {
-  overflow-x: scroll;
-}
 .main .book .preview img {
   margin-bottom: 10px;
   width: 100%;
   border: var(--sec-color) solid 2px;
   background-color: #fff;
-  transform: scale(1.5);
+}
+.main .history,
+.main .wishlist {
+  margin: 0 auto;
+  width: max-content;
+}
+.main .login {
+  margin: 10% 10%;
+  max-width: 250px;
+}
+.main .login div {
+  margin-bottom: 10px;
+}
+.main .login button {
+  display: block;
+  margin: 0 5% 0 0;
 }
 
 /* ------------------------- End Main Bar ------------------------ */
@@ -366,32 +519,43 @@ body {
   width: 400px;
   border-radius: var(--block-radius);
   z-index: 80;
-  /* List View in History and Wishlist */
+  transition: var(--duration);
+  /* Close Buttons */
   /* Details View on Secondary Side Bar */
+  /* History & Wishlist Page */
 }
-.sec-side-bar .list .list-view {
-  display: grid;
-  grid-template-columns: 25% 75%;
-  padding: 0 5px 10px;
-  grid-gap: 10px;
-  border-bottom: var(--sec-color) solid 1px;
-  overflow: hidden;
+.sec-side-bar .close {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
-.sec-side-bar .list .list-view img {
+.sec-side-bar .open {
+  position: fixed;
+  top: 178px;
+  right: -100px;
+  transition: var(--duration);
+}
+.sec-side-bar .open::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
-  border-radius: var(--img-radius);
+  background-color: var(--bg-color);
+  z-index: -1;
+  border-radius: 50% 0 0 50%;
+  box-shadow: 0px 0px 5px rgb(0, 0, 0);
 }
-.sec-side-bar .list .list-view table td {
-  white-space: nowrap;
-  overflow: hidden;
-}
-.sec-side-bar .list .list-view table td:first-child {
-  font-weight: bold;
-  width: 1%;
-}
-.sec-side-bar .list li:last-of-type .list-view {
-  border-bottom: none;
+.sec-side-bar .open::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 100%;
+  width: 100%;
+  height: 100%;
+  background-color: var(--bg-color);
+  z-index: -1;
 }
 .sec-side-bar .detail-view img {
   width: 100%;
@@ -414,18 +578,12 @@ body {
   white-space: nowrap;
 }
 .sec-side-bar .detail-view .download {
-  float: right;
+  display: block;
+  margin: 0 0 0 auto;
 }
-.sec-side-bar .detail-view .close {
-  position: absolute;
-  top: 0;
-  right: 0;
-  padding: 20px;
-  background-color: var(--bg-color);
-  color: var(--nav-color);
-  border: none;
-  font-size: 1.2rem;
-  border-radius: var(--block-radius);
+.sec-side-bar .search-history,
+.sec-side-bar .search-wishlist {
+  margin-bottom: 50px;
 }
 
 /* -------------------- End Secondary Side Bar ------------------- */

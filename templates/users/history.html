@@ -1,0 +1,100 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+History
+{% endblock %}
+
+{% block navbar %}
+<div class="middle">
+    <form>
+        <div class="search-bar">
+            <input type="text" class="input" placeholder="Search" name="q">
+            <button type="submit" class="input">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </button>
+        </div>
+    </form>
+</div>
+<div class="right">
+
+</div>
+{% endblock %}
+
+{% block main_side_bar %}
+{% include 'components/sidebar.html' %}
+{% endblock %}
+
+{% block main %}
+<div class="history">
+    <p class="header">History</p>
+    <ul class="list">
+        <!-- <li>Your history is empty</li> -->
+        {% for i in range(3) %}
+        <li>
+            <a href="#" class="list-view">
+                <img src="https://picsum.photos/{{i * 150}}/{{i * 100}}" class="main-view">
+                <table>
+                    <tr>
+                        <td>
+                            Title
+                        </td>
+                        <td>
+                            : Clean Code
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Author
+                        </td>
+                        <td>
+                            : Robert C. Martin
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Language
+                        </td>
+                        <td>
+                            : English
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Pub. Date
+                        </td>
+                        <td>
+                            : June 2018
+                        </td>
+                    </tr>
+                </table>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endblock %}
+
+{% block sec_side_bar %}
+<form class="search-history">
+    <div class="search-bar search-sec-bar">
+        <input type="text" class="input" placeholder="Search yout history" name="q">
+        <button type="submit" class="input">
+            <i class="fa-solid fa-magnifying-glass"></i>
+        </button>
+    </div>
+</form>
+
+<p class="header">History Options</p>
+<ul class="list">
+    <li>
+        <button class="btn btn-sec-red">
+            <i class="fa-solid fa-trash"></i> Clear all history
+        </button>
+    </li>
+    <li>
+        <button class="btn btn-sec-green">
+            <i class="fa-regular fa-circle-pause"></i> Pause history
+        </button>
+    </li>
+</ul>
+{% endblock %}

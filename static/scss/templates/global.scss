@@ -26,17 +26,26 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-size: 100%;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
     background-color: var(--sec-color);
     color: var(--text-color);
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+a {
+    text-decoration: none;
+    color: var(--text-color);
+    display: inline-block;
 }
 
 .fixed-block {
     background-color: var(--bg-color);
     padding: 20px;
+    overflow: scroll;
 
     -ms-overflow-style: none;
     /* Internet Explorer 10+ */
@@ -69,6 +78,7 @@ body {
     padding: 10px 15px;
     text-decoration: none;
     transition: var(--duration);
+    font-size: 80%;
 
     i {
         padding-right: 10px;
@@ -79,21 +89,38 @@ body {
     scale: 1.05;
 }
 
+.btn-icon {
+    color: var(--text-color);
+    font-size: 1.2rem;
+    padding: 20px;
+    border-radius: var(--block-radius);
+    background-color: transparent;
+
+    i {
+        padding: 0;
+    }
+}
+
+// .btn-icon:hover {
+//     scale: 1.2;
+// }
+
 /* Start Primary Buttons */
 
 .btn-blue {
     background-color: var(--blue-color);
+    border: var(--blue-color) solid 2px;
 
 }
 
 .btn-green {
     background-color: var(--green-color);
-
+    border: var(--green-color) solid 2px;
 }
 
 .btn-red {
     background-color: var(--red-color);
-
+    border: var(--red-color) solid 2px;
 }
 
 /* Start Primary Buttons Hover Effect */
@@ -159,21 +186,7 @@ body {
     padding: 5px 10px;
     line-height: 1.5em;
     width: 100%;
-}
-
-.search-bar {
-    position: relative;
-    margin: 0 auto;
-    max-width: 500px;
-
-    button {
-        position: absolute;
-        top: 0;
-        right: 0;
-        width: auto;
-        background-color: var(--bg-color);
-        color: var(--sec-color);
-    }
+    font-size: 80%;
 }
 
 /* ------------------------- End Inputs -------------------------- */
@@ -182,25 +195,7 @@ body {
 .header {
     font-weight: bold;
     font-size: 1.5em;
+    margin-bottom: 20px;
 }
 
 /* ---------------------- End Text Classes ----------------------- */
-
-/* ---------------------------- List ----------------------------- */
-.list {
-    li {
-        list-style: none;
-        padding: 10px 15px 0;
-    }
-
-    .list-expand {
-        margin-top: 10px;
-
-        button {
-            margin: 0 auto;
-            display: block;
-        }
-    }
-}
-
-/* -------------------------- End List --------------------------- */

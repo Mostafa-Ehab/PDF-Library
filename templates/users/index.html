@@ -16,19 +16,12 @@ Homepage
     </form>
 </div>
 <div class="right">
-    <button class="btn btn-blue">Login</button>
-    <button class="btn btn-red">Sign up</button>
+    {% include 'components/login-btns.html' %}
 </div>
 {% endblock %}
 
 {% block main_side_bar %}
-<p class="header"> Categories </p>
-<ul class="list">
-    <li>Category 1</li>
-    <li>Category 2</li>
-    <li>Category 3</li>
-    <li>Category 4</li>
-</ul>
+{% include 'components/sidebar.html' %}
 {% endblock %}
 
 {% block main %}
@@ -55,8 +48,8 @@ Homepage
     <!-- <li>Your wishlist is empty</li> -->
     {% for i in range(3) %}
     <li>
-        <div class="list-view">
-            <img src="https://picsum.photos/{{i * 150}}/{{i * 100}}">
+        <a href="#" class="list-view">
+            <img src="https://picsum.photos/{{i * 150}}/{{i * 100}}" class="side-view">
             <table>
                 <tr>
                     <td>
@@ -74,14 +67,22 @@ Homepage
                         : Robert C. Martin
                     </td>
                 </tr>
+                <tr>
+                    <td>
+                        Language
+                    </td>
+                    <td>
+                        : English
+                    </td>
+                </tr>
             </table>
-        </div>
+        </a>
     </li>
     {% endfor %}
     <div class="list-expand">
-        <button class="btn btn-sec-blue">
+        <a href="/wishlist" class="btn btn-sec-blue">
             See more
-        </button>
+        </a>
     </div>
 </ul>
 <div class="hr"></div>
