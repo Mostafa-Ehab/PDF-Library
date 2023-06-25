@@ -1,0 +1,196 @@
+/* --------------------------  Components ------------------------ */
+/* Global List Styleing */
+
+/* ------------------------- Main Section ------------------------ */
+.main {
+
+    /* List of Books in Dashboard Page */
+    .book-list {
+        display: grid;
+        grid-template-columns: max-content auto max-content max-content max-content;
+
+        div {
+            padding: 10px;
+            border-bottom: var(--sec-color) solid 1px;
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+        }
+
+        .head {
+            font-weight: bold;
+            border-bottom: var(--sec-color) solid 2px;
+        }
+
+        .edit {
+            padding: 0;
+
+            text-align: center;
+
+            a {
+                padding: 10px;
+                color: var(--green-color);
+
+                i {
+                    padding: 0;
+                }
+            }
+        }
+    }
+
+    /* Forms in Add and Edit Pages */
+    .edit,
+    .add {
+        display: grid;
+        grid-template-columns: 45% 45%;
+        gap: 10%;
+
+        /* Edit & Add Form */
+        .form-container {
+            position: relative;
+
+            .form table {
+                width: 100%;
+
+                td {
+                    padding: 10px;
+                }
+
+                .input {
+                    max-width: 500px;
+                }
+
+                td:first-child {
+                    font-weight: bold;
+                    width: 1%;
+                    white-space: nowrap;
+                }
+            }
+        }
+
+        /* Splitting line */
+        .form-container::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: -10%;
+            display: block;
+            height: 100%;
+            width: 3px;
+            background-color: var(--sec-color);
+        }
+
+        /* Book Side View: Edit */
+        .item-view {
+            img {
+                width: 80%;
+                border: var(--sec-color) solid 3px;
+                border-radius: var(--img-radius);
+            }
+        }
+
+        .upload-container {
+            position: relative;
+
+            input {
+                display: none;
+            }
+
+            label {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                text-align: center;
+                font-size: 2rem;
+                color: var(--blue-color);
+
+                i {
+                    font-size: 4rem;
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+}
+
+/* ------------------------ Media Queries ------------------------ */
+@media screen and (max-width: 992px) {
+    .main {
+
+        .edit,
+        .add {
+
+            /* Edit & Add Form */
+            .form-container .form table {
+                td {
+                    display: block;
+                    padding: 0;
+                }
+
+                td:first-child {
+                    padding: 20px 5px 5px;
+                }
+            }
+
+            /* Book Side View: Edit */
+            .item-view {
+                img {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .main {
+        .add .upload-container label {
+            font-size: 1.5rem;
+
+            i {
+                font-size: 3rem;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .main {
+        .edit {
+            display: block;
+
+            /* Edit & Add Form */
+            .form-container .form table {
+                width: fit-content;
+
+                .input {
+                    max-width: 350px;
+                }
+            }
+
+            .item-view {
+                display: none;
+            }
+        }
+
+        .add {
+            display: flex;
+            gap: 0;
+            flex-direction: column-reverse;
+
+            .upload-container {
+                position: static;
+                margin: 20px;
+
+                label {
+                    position: static;
+                    width: 100%;
+                    text-align: center;
+                    display: block;
+                    transform: translate(0);
+                }
+            }
+        }
+    }
+}

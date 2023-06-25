@@ -51,6 +51,17 @@ def admin():
 def admin_login():
     return render_template("admin/login.html")
 
+# Admin Add Book Page
+@app.route("/admin/add")
+def admin_add_book():
+    return render_template("admin/add.html")
+
+# Admin Edit Book Page
+@app.route("/admin/edit/<sid>")
+def admin_edit_book(sid):
+    print(sid)
+    return render_template("admin/edit.html")
+
 
 
 if __name__ == "__main__":

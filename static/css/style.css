@@ -161,6 +161,10 @@ a {
   font-size: 80%;
 }
 
+.input:hover {
+  box-shadow: 0 0 5px var(--sec-color);
+}
+
 /* ------------------------- End Inputs -------------------------- */
 /* ------------------------ Text Classes ------------------------- */
 .header {
@@ -263,9 +267,8 @@ a {
 .search-sec-bar input {
   border: none;
   border-bottom: var(--sec-color) solid 2px;
-  border-radius: 0 0 0 var(--img-radius);
   padding-left: 45px;
-  margin-top: 2px;
+  padding-top: 7px;
 }
 .search-sec-bar button {
   left: 0;

@@ -1,0 +1,56 @@
+{% extends 'admin-layout.html' %}
+
+{% block title %}
+Dashboard
+{% endblock %}
+
+<!-- ------------------------------------------------------------ -->
+
+{% block navbar %}
+<div class="middle">
+    <form>
+        <div class="search-bar">
+            <input type="text" class="input" placeholder="Search" name="q">
+            <button type="submit" class="input">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </button>
+        </div>
+    </form>
+</div>
+<div class="right">
+</div>
+{% endblock %}
+
+<!-- ------------------------------------------------------------ -->
+
+{% block main_side_bar %}
+{% include 'components/admin-sidebar.html' %}
+{% endblock %}
+
+<!-- ------------------------------------------------------------ -->
+
+{% block main %}
+<div class="book-list">
+    <div class="head">ID</div>
+    <div class="head">Name</div>
+    <div class="head">Date</div>
+    <div class="head">Size</div>
+    <div class="head">Edit</div>
+
+    <div>1</div>
+    <div>Clean code</div>
+    <div>June 2018</div>
+    <div>140 Page</div>
+    <div class="edit">
+        <a class="btn" href="/admin/edit/Hello-world">
+            <i class="fa-solid fa-pen-to-square"></i>
+        </a>
+    </div>
+</div>
+{% endblock %}
+
+<!-- ------------------------------------------------------------ -->
+
+{% block sec_side_bar %}
+
+{% endblock %}

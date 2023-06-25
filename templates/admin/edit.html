@@ -1,0 +1,118 @@
+{% extends 'admin-layout.html' %}
+
+{% block title %}
+Dashboard
+{% endblock %}
+
+<!-- ------------------------------------------------------------ -->
+
+{% block navbar %}
+<div class="middle">
+    <form>
+        <div class="search-bar">
+            <input type="text" class="input" placeholder="Search" name="q">
+            <button type="submit" class="input">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </button>
+        </div>
+    </form>
+</div>
+<div class="right">
+</div>
+{% endblock %}
+
+<!-- ------------------------------------------------------------ -->
+
+{% block main_side_bar %}
+{% include 'components/admin-sidebar.html' %}
+{% endblock %}
+
+<!-- ------------------------------------------------------------ -->
+
+{% block main %}
+<p class="header">Edit book</p>
+<div class="edit">
+    <div class="form-container">
+        <form class="form">
+            <table>
+                <tr>
+                    <td>
+                        <label for="title">Title</label>
+                    </td>
+                    <td>
+                        <input type="text" class="input" name="title" id="title" placeholder="Enter the book title">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="author">Author</label>
+                    </td>
+                    <td>
+                        <input type="text" class="input" name="author" id="author" placeholder="Enter the book author">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="date">Pub. Date</label>
+                    </td>
+                    <td>
+                        <input type="date" class="input" name="date" id="date">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="version">Version</label>
+                    </td>
+                    <td>
+                        <input type="text" class="input" name="version" id="version">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="lang">Language</label>
+                    </td>
+                    <td>
+                        <input type="text" class="input" name="version" id="version">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="category">Category</label>
+                    </td>
+                    <td>
+                        <select disabled class="input">
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="description">Description</label>
+                    </td>
+                    <td>
+                        <textarea name="description" class="input" id="description"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                    </td>
+                    <td>
+                        <button type="submit" class="btn btn-blue">Save</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+    <div>
+        <div class="item-view">
+            <p class="header">Clean Code</p>
+            <img src="/static/img/book/clean_arch1.svg">
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+<!-- ------------------------------------------------------------ -->
+
+{% block sec_side_bar %}
+
+{% endblock %}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="/static/css/admin.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/21ee534458.js" crossorigin="anonymous"></script>
+</head>
+
+<body class="admin-page">
+    <div class="navbar">
+        <div class="logo">
+            <a href="/admin" class="btn btn-list">
+                PDFs
+            </a>
+        </div>
+        {% block navbar %}
+        {% endblock %}
+    </div>
+    <div class="container">
+        <div class="main-side-bar fixed-block">
+            {% block main_side_bar %}
+            {% endblock %}
+            <!-- ** Deprecated ** -->
+            <!-- Close Button -->
+            <button class="btn btn-icon open" id="open-main">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+            <button class="btn btn-icon close" id="close-main">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+            <!-- End Close Buttons -->
+        </div>
+        <div class="main fixed-block">
+            {% block main %}
+            {% endblock %}
+        </div>
+    </div>
+    <script src="/static/js/layout.js"></Script>
+</body>
+
+</html>

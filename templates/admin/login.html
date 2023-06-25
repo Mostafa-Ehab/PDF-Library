@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin-login</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,900&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/21ee534458.js" crossorigin="anonymous"></script>
+</head>
+
+<body class="admin-page">
+    <div class="navbar">
+        <div class="logo">
+            <a href="/" class="btn btn-list">
+                PDFs
+            </a>
+        </div>
+        <div class="middle">
+            <div></div>
+        </div>
+        <div class="right">
+        </div>
+    </div>
+    <div class="container">
+        <div class="login fixed-block">
+            <div class="header">
+                Admin-Login
+            </div>
+            <form>
+                <!-- Username Field -->
+                <div>
+                    <label for="username">Username</label>
+                </div>
+                <div class="input-bar">
+                    <label for="username" class="input"><i class="fa-solid fa-user"></i></label>
+                    <input type="text" class="input" id="username" name="username" placeholder="E-mail or Username">
+                </div>
+
+                <!-- Password Field -->
+                <div>
+                    <label for="password">Password</label>
+                </div>
+                <div class="input-bar">
+                    <label for="password" class="input"><i class="fa-solid fa-key"></i></label>
+                    <input type="password" class="input" id="password" name="password" placeholder="Password">
+                </div>
+
+                <!-- Login Button -->
+                <div>
+                    <button type="submit" class="btn btn-blue">
+                        <i class="fa-solid fa-user"></i>Login
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script src="/static/js/layout.js"></Script>
+</body>
+
+</html>

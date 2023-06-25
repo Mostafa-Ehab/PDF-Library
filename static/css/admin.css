@@ -1,0 +1,167 @@
+/* --------------------------  Components ------------------------ */
+/* Global List Styleing */
+/* ------------------------- Main Section ------------------------ */
+.main {
+  /* List of Books in Dashboard Page */
+  /* Forms in Add and Edit Pages */
+}
+.main .book-list {
+  display: grid;
+  grid-template-columns: max-content auto max-content max-content max-content;
+}
+.main .book-list div {
+  padding: 10px;
+  border-bottom: var(--sec-color) solid 1px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.main .book-list .head {
+  font-weight: bold;
+  border-bottom: var(--sec-color) solid 2px;
+}
+.main .book-list .edit {
+  padding: 0;
+  text-align: center;
+}
+.main .book-list .edit a {
+  padding: 10px;
+  color: var(--green-color);
+}
+.main .book-list .edit a i {
+  padding: 0;
+}
+.main .edit,
+.main .add {
+  display: grid;
+  grid-template-columns: 45% 45%;
+  gap: 10%;
+  /* Edit & Add Form */
+  /* Splitting line */
+  /* Book Side View: Edit */
+}
+.main .edit .form-container,
+.main .add .form-container {
+  position: relative;
+}
+.main .edit .form-container .form table,
+.main .add .form-container .form table {
+  width: 100%;
+}
+.main .edit .form-container .form table td,
+.main .add .form-container .form table td {
+  padding: 10px;
+}
+.main .edit .form-container .form table .input,
+.main .add .form-container .form table .input {
+  max-width: 500px;
+}
+.main .edit .form-container .form table td:first-child,
+.main .add .form-container .form table td:first-child {
+  font-weight: bold;
+  width: 1%;
+  white-space: nowrap;
+}
+.main .edit .form-container::after,
+.main .add .form-container::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -10%;
+  display: block;
+  height: 100%;
+  width: 3px;
+  background-color: var(--sec-color);
+}
+.main .edit .item-view img,
+.main .add .item-view img {
+  width: 80%;
+  border: var(--sec-color) solid 3px;
+  border-radius: var(--img-radius);
+}
+.main .edit .upload-container,
+.main .add .upload-container {
+  position: relative;
+}
+.main .edit .upload-container input,
+.main .add .upload-container input {
+  display: none;
+}
+.main .edit .upload-container label,
+.main .add .upload-container label {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 2rem;
+  color: var(--blue-color);
+}
+.main .edit .upload-container label i,
+.main .add .upload-container label i {
+  font-size: 4rem;
+  margin-bottom: 20px;
+}
+
+/* ------------------------ Media Queries ------------------------ */
+@media screen and (max-width: 992px) {
+  .main .edit,
+  .main .add {
+    /* Edit & Add Form */
+    /* Book Side View: Edit */
+  }
+  .main .edit .form-container .form table td,
+  .main .add .form-container .form table td {
+    display: block;
+    padding: 0;
+  }
+  .main .edit .form-container .form table td:first-child,
+  .main .add .form-container .form table td:first-child {
+    padding: 20px 5px 5px;
+  }
+  .main .edit .item-view img,
+  .main .add .item-view img {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .main .add .upload-container label {
+    font-size: 1.5rem;
+  }
+  .main .add .upload-container label i {
+    font-size: 3rem;
+  }
+}
+@media screen and (max-width: 576px) {
+  .main .edit {
+    display: block;
+    /* Edit & Add Form */
+  }
+  .main .edit .form-container .form table {
+    width: fit-content;
+  }
+  .main .edit .form-container .form table .input {
+    max-width: 350px;
+  }
+  .main .edit .item-view {
+    display: none;
+  }
+  .main .add {
+    display: flex;
+    gap: 0;
+    flex-direction: column-reverse;
+  }
+  .main .add .upload-container {
+    position: static;
+    margin: 20px;
+  }
+  .main .add .upload-container label {
+    position: static;
+    width: 100%;
+    text-align: center;
+    display: block;
+    transform: translate(0);
+  }
+}
+
+/*# sourceMappingURL=admin.css.map */
