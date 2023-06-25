@@ -10,6 +10,7 @@
   --blue-color: #0d6efd;
   --green-color: #28a745;
   --red-color: #dc3545;
+  --yellow-color: #ffc107;
   --img-radius: 10px;
   --block-radius: 20px;
   --duration: 0.3s;
@@ -354,6 +355,7 @@ a {
   border-radius: var(--block-radius);
   padding: 50px;
   width: 500px;
+  /* Incorrect Inputs: Not exist by Default */
 }
 .login .header {
   margin-bottom: 25px;
@@ -380,6 +382,10 @@ a {
 }
 .login .center a:hover {
   transform: scale(1.05);
+}
+.login .error {
+  text-align: center;
+  color: var(--red-color);
 }
 
 /* ------------------------- Main Side Bar ----------------------- */

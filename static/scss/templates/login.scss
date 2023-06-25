@@ -40,4 +40,10 @@
             transform: scale(1.05);
         }
     }
+
+    /* Incorrect Inputs: Not exist by Default */
+    .error {
+        text-align: center;
+        color: var(--red-color);
+    }
 }

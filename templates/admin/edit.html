@@ -33,7 +33,10 @@ Dashboard
 <p class="header">Edit book</p>
 <div class="edit">
     <div class="form-container">
-        <form class="form">
+        <form class="form" action="/admin/edit/hello" method="post">
+            <!-- CSRF Token -->
+            <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+
             <table>
                 <tr>
                     <td>
@@ -96,7 +99,7 @@ Dashboard
                     <td>
                     </td>
                     <td>
-                        <button type="submit" class="btn btn-blue">Save</button>
+                        <button type="submit" class="btn btn-blue" disabled>Save</button>
                     </td>
                 </tr>
             </table>

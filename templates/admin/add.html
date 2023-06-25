@@ -33,7 +33,11 @@ Dashboard
 <p class="header">Edit book</p>
 <div class="add">
     <div class="form-container">
-        <form class="form">
+        <form class="form" action="/admin/add" method="post" id="form">
+            <!-- CSRF Token -->
+            <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" id="csrf" />
+
+            <input type="hidden" name="sid" id="sid">
             <table>
                 <tr>
                     <td>
@@ -96,7 +100,7 @@ Dashboard
                     <td>
                     </td>
                     <td>
-                        <button type="submit" class="btn btn-blue">Save</button>
+                        <button class="btn btn-blue disabled" id="submit">Save</button>
                     </td>
                 </tr>
             </table>
@@ -108,9 +112,45 @@ Dashboard
                 <i class="fa-solid fa-arrow-up-from-bracket"></i>
                 <p>Upload file</p>
             </label>
-            <input type="file" id="file" name="file">
+            <input type="file" id="file" name="file" accept=".pdf">
+            <div class="confirm-file-upload">
+                <p class="filename"></p>
+                <button class="btn btn-blue file-upload">Upload</button>
+            </div>
         </form>
+        <div class="upload-animation">
+            <div class="btn upload-icon">
+                <i class="fa-solid fa-arrow-up-from-bracket"></i>
+                <span>Uploading...</span>
+                <!-- <p>0/100</p> -->
+            </div>
+            <div class="upload-bar">
+                <span></span>
+            </div>
+
+            <div class="btn processing-icon">
+                <i class="fa-solid fa-gears"></i>
+                <span>Processing</span>
+                <!-- <p>0/100</p> -->
+            </div>
+            <div class="processing-bar">
+                <span></span>
+            </div>
+
+            <div class="btn done-icon">
+                <i class="fa-regular fa-circle-check"></i>
+                <span>Done</span>
+                <!-- <p>0/100</p> -->
+            </div>
+            <div class="done-bar">
+                <span></span>
+            </div>
+        </div>
     </div>
+</div>
+
+<div class="error">
+    <p></p>
 </div>
 {% endblock %}
 
@@ -118,4 +158,8 @@ Dashboard
 
 {% block sec_side_bar %}
 
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/add-book.js"></script>
 {% endblock %}

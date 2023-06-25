@@ -22,7 +22,7 @@
             border-bottom: var(--sec-color) solid 2px;
         }
 
-        .edit {
+        .btn-edit {
             padding: 0;
 
             text-align: center;
@@ -54,6 +54,11 @@
 
                 td {
                     padding: 10px;
+
+                    button.disabled {
+                        opacity: 0;
+                        transition: var(--duration);
+                    }
                 }
 
                 .input {
@@ -96,22 +101,117 @@
                 display: none;
             }
 
-            label {
+            form {
                 position: absolute;
                 top: 50%;
                 left: 50%;
                 transform: translate(-50%, -50%);
                 text-align: center;
-                font-size: 2rem;
-                color: var(--blue-color);
 
-                i {
-                    font-size: 4rem;
-                    margin-bottom: 20px;
+                label {
+                    font-size: 1.7rem;
+                    color: var(--blue-color);
+                    margin-bottom: 50px;
+                    display: block;
+
+                    i {
+                        font-size: 3rem;
+                        margin-bottom: 20px;
+                    }
+                }
+
+                .confirm-file-upload {
+                    display: none;
+
+                    .filename {
+                        margin-bottom: 10px;
+                    }
+                }
+            }
+
+            /* Uploading Animations */
+            .upload-animation {
+                display: none;
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                width: 80%;
+                margin: 0 auto;
+
+                div {
+                    color: var(--sec-color);
+                }
+
+                p {
+                    display: inline;
+                    float: right;
+                    margin-right: -50px;
+                }
+
+                .upload-bar,
+                .processing-bar,
+                .done-bar {
+                    position: relative;
+                    width: 100%;
+                    height: 4px;
+                    margin-left: 35px;
+                    background-color: var(--sec-color);
+
+                    span {
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        display: block;
+                        height: 4px;
+                        width: 0;
+                        transition: 2s;
+                    }
+                }
+
+                .upload-bar span {
+                    background-color: var(--blue-color);
+                }
+
+                .processing-bar span {
+                    background-color: var(--red-color);
+                }
+
+                .done-bar span {
+                    background-color: var(--green-color);
                 }
             }
         }
     }
+}
+
+/* ---------------------- Secondary Side Bar --------------------- */
+.sec-side-bar {
+    display: none;
+}
+
+/* ------------------------ Error Messages ----------------------- */
+.error {
+    position: fixed;
+    top: -50px;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    z-index: 200;
+    transition: 0.5s;
+
+    p {
+        background-color: var(--red-color);
+        color: var(--btn-color);
+        border-radius: var(--img-radius);
+        margin: 0 auto;
+        width: fit-content;
+        padding: 10px 20px;
+    }
+}
+
+.error.show {
+    top: 100px;
+    opacity: 0.8;
 }
 
 /* ------------------------ Media Queries ------------------------ */
@@ -183,12 +283,18 @@
                 position: static;
                 margin: 20px;
 
-                label {
+                form {
                     position: static;
                     width: 100%;
                     text-align: center;
                     display: block;
                     transform: translate(0);
+                }
+
+                .upload-animation {
+                    position: static;
+                    transform: translate(0);
+                    margin: 0;
                 }
             }
         }

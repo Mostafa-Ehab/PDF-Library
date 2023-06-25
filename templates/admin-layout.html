@@ -41,8 +41,22 @@
             {% block main %}
             {% endblock %}
         </div>
+        <div class="sec-side-bar fixed-block">
+            {% block sec_side_bar %}
+            {% endblock %}
+            <!-- Close Button -->
+            <button class="btn btn-icon open" id="open-sec">
+                <i class="fa-solid fa-bars"></i>
+            </button>
+            <button class="btn btn-icon close" id="close-sec">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+            <!-- End Close Buttons -->
+        </div>
     </div>
-    <script src="/static/js/layout.js"></Script>
+    <script src="/static/js/layout.js"></script>
+    {% block scripts %}
+    {% endblock %}
 </body>
 
 </html>

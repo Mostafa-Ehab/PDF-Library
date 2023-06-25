@@ -20,15 +20,15 @@
   font-weight: bold;
   border-bottom: var(--sec-color) solid 2px;
 }
-.main .book-list .edit {
+.main .book-list .btn-edit {
   padding: 0;
   text-align: center;
 }
-.main .book-list .edit a {
+.main .book-list .btn-edit a {
   padding: 10px;
   color: var(--green-color);
 }
-.main .book-list .edit a i {
+.main .book-list .btn-edit a i {
   padding: 0;
 }
 .main .edit,
@@ -51,6 +51,11 @@
 .main .edit .form-container .form table td,
 .main .add .form-container .form table td {
   padding: 10px;
+}
+.main .edit .form-container .form table td button.disabled,
+.main .add .form-container .form table td button.disabled {
+  opacity: 0;
+  transition: var(--duration);
 }
 .main .edit .form-container .form table .input,
 .main .add .form-container .form table .input {
@@ -82,25 +87,125 @@
 .main .edit .upload-container,
 .main .add .upload-container {
   position: relative;
+  /* Uploading Animations */
 }
 .main .edit .upload-container input,
 .main .add .upload-container input {
   display: none;
 }
-.main .edit .upload-container label,
-.main .add .upload-container label {
+.main .edit .upload-container form,
+.main .add .upload-container form {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
-  font-size: 2rem;
-  color: var(--blue-color);
 }
-.main .edit .upload-container label i,
-.main .add .upload-container label i {
-  font-size: 4rem;
+.main .edit .upload-container form label,
+.main .add .upload-container form label {
+  font-size: 1.7rem;
+  color: var(--blue-color);
+  margin-bottom: 50px;
+  display: block;
+}
+.main .edit .upload-container form label i,
+.main .add .upload-container form label i {
+  font-size: 3rem;
   margin-bottom: 20px;
+}
+.main .edit .upload-container form .confirm-file-upload,
+.main .add .upload-container form .confirm-file-upload {
+  display: none;
+}
+.main .edit .upload-container form .confirm-file-upload .filename,
+.main .add .upload-container form .confirm-file-upload .filename {
+  margin-bottom: 10px;
+}
+.main .edit .upload-container .upload-animation,
+.main .add .upload-container .upload-animation {
+  display: none;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 80%;
+  margin: 0 auto;
+}
+.main .edit .upload-container .upload-animation div,
+.main .add .upload-container .upload-animation div {
+  color: var(--sec-color);
+}
+.main .edit .upload-container .upload-animation p,
+.main .add .upload-container .upload-animation p {
+  display: inline;
+  float: right;
+  margin-right: -50px;
+}
+.main .edit .upload-container .upload-animation .upload-bar,
+.main .edit .upload-container .upload-animation .processing-bar,
+.main .edit .upload-container .upload-animation .done-bar,
+.main .add .upload-container .upload-animation .upload-bar,
+.main .add .upload-container .upload-animation .processing-bar,
+.main .add .upload-container .upload-animation .done-bar {
+  position: relative;
+  width: 100%;
+  height: 4px;
+  margin-left: 35px;
+  background-color: var(--sec-color);
+}
+.main .edit .upload-container .upload-animation .upload-bar span,
+.main .edit .upload-container .upload-animation .processing-bar span,
+.main .edit .upload-container .upload-animation .done-bar span,
+.main .add .upload-container .upload-animation .upload-bar span,
+.main .add .upload-container .upload-animation .processing-bar span,
+.main .add .upload-container .upload-animation .done-bar span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  height: 4px;
+  width: 0;
+  transition: 2s;
+}
+.main .edit .upload-container .upload-animation .upload-bar span,
+.main .add .upload-container .upload-animation .upload-bar span {
+  background-color: var(--blue-color);
+}
+.main .edit .upload-container .upload-animation .processing-bar span,
+.main .add .upload-container .upload-animation .processing-bar span {
+  background-color: var(--red-color);
+}
+.main .edit .upload-container .upload-animation .done-bar span,
+.main .add .upload-container .upload-animation .done-bar span {
+  background-color: var(--green-color);
+}
+
+/* ---------------------- Secondary Side Bar --------------------- */
+.sec-side-bar {
+  display: none;
+}
+
+/* ------------------------ Error Messages ----------------------- */
+.error {
+  position: fixed;
+  top: -50px;
+  left: 0;
+  right: 0;
+  opacity: 0;
+  z-index: 200;
+  transition: 0.5s;
+}
+.error p {
+  background-color: var(--red-color);
+  color: var(--btn-color);
+  border-radius: var(--img-radius);
+  margin: 0 auto;
+  width: fit-content;
+  padding: 10px 20px;
+}
+
+.error.show {
+  top: 100px;
+  opacity: 0.8;
 }
 
 /* ------------------------ Media Queries ------------------------ */
@@ -155,12 +260,17 @@
     position: static;
     margin: 20px;
   }
-  .main .add .upload-container label {
+  .main .add .upload-container form {
     position: static;
     width: 100%;
     text-align: center;
     display: block;
     transform: translate(0);
+  }
+  .main .add .upload-container .upload-animation {
+    position: static;
+    transform: translate(0);
+    margin: 0;
   }
 }
 
