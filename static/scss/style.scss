@@ -67,7 +67,7 @@
     transition: var(--duration);
 
     /* Main Page Gallery */
-    .gallary {
+    .gallery {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
@@ -75,52 +75,35 @@
         gap: 16px 30px;
 
         .gallery-view {
-            width: 150px;
-            border: var(--sec-color) solid 3px;
-            position: relative;
+            width: 130px;
+            box-shadow: 0 0 5px #000;
             border-radius: var(--img-radius);
             padding: 5px;
-            overflow: hidden;
-            transition: var(--duration);
 
             a {
                 display: block;
+            }
 
-                .img {
-                    width: 100%;
-                    height: 150px;
-                    border-radius: var(--img-radius) var(--img-radius) 0 0;
-                    display: block;
-                }
+            img {
+                width: calc(100% - 30px);
+                border-radius: var(--img-radius);
+                display: block;
+                height: 130px;
+                margin: 15px 15px 5px;
+            }
 
+            .details {
                 .title {
-                    padding: 5px 10px 0 0;
-
-                    p {
-                        width: 110px;
-                        height: 2em;
-                        font-size: 14px;
-                        overflow: hidden;
-                        line-height: 1em;
-                    }
+                    font-weight: bold;
+                    overflow: hidden;
+                    white-space: nowrap;
+                    text-overflow: ellipsis;
+                    font-size: 1rem;
                 }
-            }
 
-            .bookmark {
-                position: absolute;
-                right: 0;
-                top: 150px;
-                border: none;
-                outline: none;
-                background-color: transparent;
-                color: var(--text-color);
-                padding: 15px 10px;
-                transition: var(--trans-duraion);
-            }
-
-            .bookmark:hover {
-                transform: scale(1.2);
-                cursor: pointer;
+                p:nth-child(2) {
+                    font-size: 0.7rem;
+                }
             }
         }
     }

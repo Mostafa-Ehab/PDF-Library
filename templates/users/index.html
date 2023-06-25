@@ -31,18 +31,20 @@ Homepage
 <!-- ------------------------------------------------------------ -->
 
 {% block main %}
-<div class="gallary">
-    {% for i in range(20) %}
+<div class="gallery">
+    {% for i in range(40) %}
     <div class="gallery-view">
         <a href="/book/hello">
             <img class="img" src="https://picsum.photos/{{i * 100}}/{{i * 100}}">
-            <div class="title">
-                <p>This is an awesome book title</p>
+            <div class="details">
+                <p class="title">
+                    This is an awesome book
+                </p>
+                <p>
+                    Robert C. Martin
+                </p>
             </div>
         </a>
-        <button class="bookmark">
-            <i class="fa-regular fa-bookmark"></i>
-        </button>
     </div>
     {% endfor %}
 </div>

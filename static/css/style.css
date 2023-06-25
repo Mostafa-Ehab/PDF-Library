@@ -441,55 +441,38 @@ a {
   /* Control Book Full Screen */
   /* History & Wishlist Page */
 }
-.main .gallary {
+.main .gallery {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   padding: 15px 16px;
   gap: 16px 30px;
 }
-.main .gallary .gallery-view {
-  width: 150px;
-  border: var(--sec-color) solid 3px;
-  position: relative;
+.main .gallery .gallery-view {
+  width: 130px;
+  box-shadow: 0 0 5px #000;
   border-radius: var(--img-radius);
   padding: 5px;
-  overflow: hidden;
-  transition: var(--duration);
 }
-.main .gallary .gallery-view a {
+.main .gallery .gallery-view a {
   display: block;
 }
-.main .gallary .gallery-view a .img {
-  width: 100%;
-  height: 150px;
-  border-radius: var(--img-radius) var(--img-radius) 0 0;
+.main .gallery .gallery-view img {
+  width: calc(100% - 30px);
+  border-radius: var(--img-radius);
   display: block;
+  height: 130px;
+  margin: 15px 15px 5px;
 }
-.main .gallary .gallery-view a .title {
-  padding: 5px 10px 0 0;
-}
-.main .gallary .gallery-view a .title p {
-  width: 110px;
-  height: 2em;
-  font-size: 14px;
+.main .gallery .gallery-view .details .title {
+  font-weight: bold;
   overflow: hidden;
-  line-height: 1em;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-size: 1rem;
 }
-.main .gallary .gallery-view .bookmark {
-  position: absolute;
-  right: 0;
-  top: 150px;
-  border: none;
-  outline: none;
-  background-color: transparent;
-  color: var(--text-color);
-  padding: 15px 10px;
-  transition: var(--trans-duraion);
-}
-.main .gallary .gallery-view .bookmark:hover {
-  transform: scale(1.2);
-  cursor: pointer;
+.main .gallery .gallery-view .details p:nth-child(2) {
+  font-size: 0.7rem;
 }
 .main .book {
   position: fixed;
@@ -700,7 +683,7 @@ a {
     left: 180px;
     /* Book Page */
   }
-  .main .gallary {
+  .main .gallery {
     gap: 16px 5px;
     padding: 15px 10px;
   }
@@ -792,8 +775,7 @@ a {
     top: 68px;
     /* Book Page */
   }
-  .main .gallary {
-    gap: 16px 0;
+  .main .gallery {
     padding: 5px 0;
   }
   .main .book .tool-bar button {
