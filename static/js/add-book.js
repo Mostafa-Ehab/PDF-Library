@@ -26,6 +26,11 @@ confirmFileUpload.querySelector(".file-upload").addEventListener("click", (event
     // Set Progress bar
     uploadAnimation(xhttp)
 
+    // Change Form Title
+    if (document.querySelector("#title").value == "") {
+        document.querySelector("#title").value = file.name.slice(0, -4)
+    }
+
     // Send data
     xhttp.setRequestHeader('X-CSRF-Token', csrf);
     xhttp.send(formData);
@@ -40,10 +45,14 @@ submit.addEventListener("click", (event) => {
     xhttp.open('POST', '/admin/add', true)
     xhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
-            if (this.responseText == 200) {
-                console.log(this.responseText)
-                showErrorMsg("Done (:")
-                // location.assign("/admin")
+            console.log(this.responseText)
+            if (this.responseText == "404") {
+                showErrorMsg("An Error has occured, check your Inputs (:")
+            } else {
+                showSuccessMsg("Book Added Successfully (:")
+                setTimeout(function () {
+                    location.assign("/admin")
+                }, 3000)
             }
         }
     }
@@ -57,6 +66,15 @@ function showErrorMsg(text) {
     let error = document.querySelector(".error")
     error.querySelector("p").innerHTML = text
     error.classList.add("show")
+
+    setTimeout(function () { error.classList.remove("show") }, 2000)
+}
+
+/* Show Success Message */
+function showSuccessMsg(text) {
+    let success = document.querySelector(".success")
+    success.querySelector("p").innerHTML = text
+    success.classList.add("show")
 
     setTimeout(function () { error.classList.remove("show") }, 2000)
 }

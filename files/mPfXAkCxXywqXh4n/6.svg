@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="mPfXAkCxXywqXh4n.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,0 H 696 V 1056 H 0 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="M 0,66 H 696 V 996 H 0 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="mPfXAkCxXywqXh4n"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(29,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 12 21 27 35 40 50 60 70 79 84 90 98 103 113 122 132 138 147 156 161 170 180 185 190 200 205 219 228 233 239 249 259 268 274 283 288 303 309 315 324 329 334 348 357 362 368 378 387 394 399 407 417 426 435 440 449 458 467 473 482 489 494 503 512 518 524 534 541 550 559 564 569 578 587 597 602 607 616 625 631"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">This book is dedicated to my lovely wife, my four spectacular children, and their</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(1.5,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 6 15 29 35 41 47 56 64 69 74 80 89 98 104 113 123 129 138 147 152 166 175 180 190 199 205 215 224 231 236 242 251 257 263 268 278 284 289 295 301 311 320 325 334 341 350 359 369 378 387 393 399 409 416 425 434 454 469 478 488 493 502 509 518 523 528 537 546 551 561 570 578 586 595 602 607 612 622 628 633 647 656 661 667 673 679 688"
+             y="0"
+             sodipodi:role="line"
+             id="tspan34">families, including my quiver full of five grandchildren—who are the dessert of my life.</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

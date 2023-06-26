@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="690.14398"
+   height="888.47998"
+   viewBox="0 0 690.14398 888.47998"
+   sodipodi:docname="4PmrqTPDrJV6cyWn.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath304">
+      <path
+         d="m 79.92,77.313 h 360 V 64.045 h -360 z"
+         id="path302" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath318">
+      <path
+         d="M 0,665.858 H 519.84 V 0 H 0 Z"
+         id="path316" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="4PmrqTPDrJV6cyWn"
+     transform="matrix(1.3333333,0,0,-1.3333333,-1.46,887.61333)">
+    <g
+       id="g10">
+      <g
+         id="g12">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,429.92,622.111)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text16"><tspan
+             x="0 5"
+             y="0"
+             sodipodi:role="line"
+             id="tspan14">25</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,79.92,622.111)"
+           style="font-variant:normal;font-weight:bold;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text20"><tspan
+             x="0 9.4399996 13.88 17.209999 22.77 27.77 33.330002 35.830002 43.049999 48.049999 56.380001 60.82"
+             y="0"
+             sodipodi:role="line"
+             id="tspan18">Method Names</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,79.92,583.445)"
+           style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text24"><tspan
+             x="0 8.7108002 15.2936 22.2936 26.1856 33.969601 37.469601 50.6856 56.9016 64.6856 69.347603 76.347603 80.239601 83.739601 96.955597 103.9556 111.7396 119.5236 123.4156 131.1996"
+             y="0"
+             sodipodi:role="line"
+             id="tspan22">Avoid Mental Mapping</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,79.92,560.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text36"><tspan
+             x="0 6.6700001 11.11 15.55 20.549999 24.99 28.32 32.209999 35.872002 39.762001 44.762001 49.762001 54.762001 57.542 62.542 67.542 70.374001 73.153999 76.816002 81.816002 85.906998 90.758003 95.197998 98.860001 101.64 106.64 110.302 118.082 122.522 127.522 130.302 134.742 137.522 140.05299 145.05299 148.715 151.495 154.825 159.265 164.265 168.155 170.935 175.375 178.155 182.595 186.257 191.05901 196.05901 201.05901 204.38901 208.05099 213.05099 217.491 225.271 229.711 233.601 237.263 240.043 245.043 247.823 252.823 256.48499 261.48499 264.26501 269.26501 273.70499 277.035 280.69699 285.69699 290.13699 297.91699 302.35699 306.24701 309.909 312.689 317.689 321.98001 326.98001 330.642 335.082 337.862 341.19199 345.63199 350.07199 355.07199"
+             y="0"
+             sodipodi:role="line"
+             id="tspan26">Readers shouldn’t have to mentally translate your names into other names they already</tspan><tspan
+             x="0 5 10 14.602 20.924 23.424 26.164 32.273998 37.273998 40.054001 43.944 47.181999 52.181999 55.512001 60.512001 65.314003 68.094002 72.533997 80.314003 83.552002 88.552002 92.991997 97.991997 102.432 105.762 110.202 112.982 115.513 120.513 123.751 128.19099 131.521 134.30099 138.19099 142.631 146.521 149.759 153.089 156.41901 161.41901 169.19901 172.437 176.877 180.11501 184.55499 189.55499 194.55499 197.33501 201.77499 206.215 209.453 212.233 217.233 220.47099 225.47099 229.36099 233.80099 237.039 242.039 246.479 249.259 252.039 257.039 261.479 264.80899 268.047 273.047 276.37701 281.37701 286.17899 288.95901 293.39899 301.17899 304.41699 309.41699 314.41699 322.19699 326.63699 329.41699 334.41699 337.655 340.435 344.875 348.40302 356.18301"
+             y="12"
+             sodipodi:role="line"
+             id="tspan28">know. This problem generally arises from a choice to use neither problem domain terms</tspan><tspan
+             x="0 5 10 13.33 15.83 19.719999 24.719999 27.5 32.5 35.279999 38.060001 43.060001 48.060001 50.560001 55.560001 60.560001 68.339996 72.779999 75.559998 80.559998 83.059998 85.839996 90.279999 93.807999 101.588 105.478"
+             y="24"
+             sodipodi:role="line"
+             id="tspan30">nor solution domain terms.</tspan><tspan
+             x="18 24.110001 29.110001 31.889999 35.779999 38.779999 41.560001 45.450001 48.450001 52.889999 55.889999 60.889999 64.220001 69.220001 74.022003 76.802002 81.241997 89.022003 92.022003 99.241997 102.022 104.802 109.802 112.802 116.692 119.472 124.472 129.472 132.252 136.692 140.022 142.802 147.242 150.022 152.802 157.242 160.57201 163.57201 168.323 172.763 176.093 178.873 183.313 188.11501 190.895 195.33501 198.33501 203.33501 207.77499 215.55499 219.995 223.88499 226.38499 229.38499 236.05499 240.495 244.02299 246.80299 251.243 254.02299 259.02301 261.55399 266.55399 269.55399 273.99399 276.99399 279.77399 284.77399 289.77399 294.77399 297.77399 302.21399 307.21399 312.21399 317.21399 319.99399 324.43399 327.76401 330.76401 338.54401 342.63501 347.63501 350.63501 355.63501"
+             y="39"
+             sodipodi:role="line"
+             id="tspan32">This is a problem with single-letter variable names. Certainly a loop counter may be</tspan><tspan
+             x="0 5 9.4399996 17.219999 21.66"
+             y="51"
+             sodipodi:role="line"
+             id="tspan34">named</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,109.237,509.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text40"><tspan
+             x="0"
+             y="0"
+             id="tspan38">i</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,116.211,509.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 5"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">or</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,127.201,509.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0"
+             y="0"
+             id="tspan46">j</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,134.174,509.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0 5"
+             y="0"
+             sodipodi:role="line"
+             id="tspan50">or</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,145.164,509.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0"
+             y="0"
+             id="tspan54">k</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,152.138,509.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 3.3299999 6.1100001 11.11 16.110001 21.110001 26.110001 31.110001 33.771999 38.771999 42.963001 47.813999 52.254002 55.584"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">(though never </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,210.374,509.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0"
+             y="0"
+             id="tspan62">l</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,214.686,509.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 3.3299999 6.6599998 9.3219995 12.102 15.432 18.094 20.874001 23.653999 27.544001 30.205999 34.096001 38.535999 43.535999 48.535999 52.976002 55.638 58.417999 62.307999 64.970001 69.820999 74.261002 77.789001 82.789001 85.450996 89.341003 97.121002 101.561 104.341 107.121 109.783 114.223 119.223 124.223 126.885 131.88499 136.88499 139.547 144.547 147.327 152.327 156.767 160.097 162.759 167.759 172.19901 179.979 184.41901 188.30901 190.97099 195.411 199.851 204.851 207.513 211.953 216.953 221.953"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">!) if its scope is very small and no other names can con-</tspan><tspan
+             x="-134.76601 -129.20599 -126.426 -121.986 -119.206 -115.397 -108.177 -105.397 -102.617 -97.616997 -93.807999 -91.028 -88.248001 -85.748001 -82.436996 -76.327003 -71.327003 -68.546997 -64.656998 -60.848 -58.068001 -54.178001 -50.368999 -45.368999 -40.929001 -36.488998 -32.049 -27.049 -23.159 -18.719 -14.91 -12.13 -7.1300001 -2.1300001 1.76 6.1999998 10.009 13.899 16.679001 21.679001 26.679001 29.459 33.898998 37.229 40.008999 44.449001 47.229 50.008999 54.449001 57.778999 61.588001 66.587997 71.028 78.807999 83.248001 87.138 90.946999 94.277 99.277 102.607 106.416 109.196 114.196 119.196 124.196 128.005 132.44501 137.44501 142.44501 147.44501 150.22501 154.66499 157.995 161.88499 165.694 170.134 173.464 177.90401 181.713 184.493 187.823 192.263 197.263 200.043 202.823 205.603 210.603 215.603 220.043 222.823"
+             y="12"
+             sodipodi:role="line"
+             id="tspan68">ﬂict with it. This is because those single-letter names for loop counters are traditional.</tspan><tspan
+             x="-134.76601 -127.546 -122.944 -116.073 -111.882 -107.031 -102.591 -99.658997 -97.158997 -93.294998 -90.514999 -85.514999 -81.651001 -73.871002 -68.871002 -64.981003 -62.201 -58.337002 -53.337002 -50.556999 -45.556999 -41.117001 -37.786999 -33.923 -29.483 -24.483 -19.483 -16.702999 -12.412 -7.4120002 -4.632 -0.74199998 3.122 7.5619998 11.426 15.316 18.096001 23.096001 28.096001 30.875999 35.316002 38.646 41.425999 45.866001 48.646 51.425999 55.866001 59.195999 63.060001 68.059998 72.5 80.279999 84.720001 88.584 91.363998 95.253998 99.117996 103.558 107.422 112.422 117.422 122.422 125.752 129.616 134.056 139.056 144.056 146.836 151.276 155.716 158.496 162.36 165.14 167.92 169.851 173.741 177.605 180.38499 185.38499 189.27499 192.05499 195.91901 200.35899 204.22301 209.22301 212.00301 216.44299 220.883"
+             y="24"
+             sodipodi:role="line"
+             id="tspan70">However, in most other contexts a single-letter name is a poor choice; it’s just a place</tspan><tspan
+             x="-134.76601 -129.76601 -124.766 -121.986 -116.986 -112.546 -109.216 -106.824 -104.044 -99.043999 -94.603996 -91.823997 -89.431999 -86.652 -81.652 -77.211998 -74.82 -71.489998 -67.050003 -62.610001 -57.610001 -53.169998 -49.84 -47.448002 -39.667999 -34.667999 -30.778 -27.997999 -25.606001 -17.826 -13.386 -8.3859997 -5.6059999 -1.166 1.614 4.145 9.1450005 11.537 19.316999 23.757 28.757 31.149 33.929001 38.929001 41.320999 44.101002 49.101002 53.541 55.932999 60.373001 64.813004 67.593002 72.593002 77.032997 79.813004 82.205002 86.644997 91.644997 96.644997 101.085 105.525 110.525 113.305 115.805 117.699 123.809 128.80901 133.24899 136.57899 141.019 143.411 147.851 152.291 157.291 159.683 164.683 169.123 171.515 176.515 181.515 183.907 190.729 195.729 199.05901 202.94901 207.38901 209.78101 213.11099 217.55099 221.991"
+             y="36"
+             sodipodi:role="line"
+             id="tspan72">holder that the reader must mentally map to the actual concept. There can be no worse rea-</tspan><tspan
+             x="-134.76601 -130.87601 -125.876 -120.876 -118.376 -115.046 -110.046 -106.716 -104.216 -99.216003 -95.325996 -92.545998 -87.545998 -82.545998 -80.045998 -77.265999 -72.265999 -67.825996 -65.325996 -60.326 -55.886002 -48.105999 -43.666"
+             y="48"
+             sodipodi:role="line"
+             id="tspan74">son for using the name </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,173.504,461.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0"
+             y="0"
+             id="tspan78">c</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,180.315,461.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 2.78 7.7800002 12.22 17.219999 19.719999 24.719999 29.16 33.599998 38.040001 43.040001 46.93 51.369999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">than because </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,234.175,461.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0"
+             y="0"
+             id="tspan86">a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,240.987,461.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 4.4400001 9.4399996 14.44"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">and </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,257.925,461.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0"
+             y="0"
+             id="tspan94">b</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,264.737,461.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text106"><tspan
+             x="0 6.8709998 11.311 14.641 19.080999 21.580999 26.021 28.801001 32.131001 36.570999 41.011002 46.011002 51.011002 53.511002 56.291 60.730999 65.633003 70.072998 75.072998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">were already taken.</tspan><tspan
+             x="-166.817 -163.487 -158.487 -156.23599 -151.23599 -146.79601 -141.79601 -137.356 -134.026 -129.586 -126.806 -124.555 -119.555 -116.225 -111.474 -106.276 -102.946 -98.505997 -90.725998 -82.945999 -78.505997 -75.176003 -71.286003 -69.035004 -64.595001 -61.264999 -56.825001 -54.574001 -49.574001 -46.243999 -41.804001 -39.023998 -36.243999 -31.243999 -28.993 -25.103001 -17.323 -12.883 -9.3549995 -6.5749998 -4.3239999 0.676 5.1160002 10.116 15.116 17.896 22.336 24.836 27.087 32.646999 40.426998 44.867001 48.395 51.174999 53.425999 58.425999 62.866001 67.865997 72.865997 75.646004 80.085999 82.336998 86.226997 91.226997 99.007004 103.447 106.227 109.007 116.787 121.227 125.117 127.368 130.14799 132.92799 137.83 142.27 144.521 147.30099 152.30099 154.552 158.442 163.442 168.04401"
+             y="14.999"
+             sodipodi:role="line"
+             id="tspan100">In general programmers are pretty smart people. Smart people sometimes like to show</tspan><tspan
+             x="-184.817 -179.817 -176.73599 -173.40601 -170.584 -167.804 -162.804 -158.364 -155.584 -152.254 -149.43201 -145.54201 -137.76199 -133.32201 -129.79401 -127.014 -123.124 -120.302 -115.551 -110.551 -107.729 -102.729 -98.289001 -90.509003 -85.509003 -80.509003 -76.619003 -73.838997 -70.509003 -66.069 -63.289001 -60.508999 -55.508999 -50.508999 -47.687 -44.907001 -39.907001 -35.466999 -32.687 -29.357 -26.535 -18.754999 -14.315 -9.3149996 -6.5349998 -2.095 0.685 3.507 6.2870002 11.287 16.287001 21.287001 24.066999 26.847 31.847 36.847 39.668999 44.109001 49.109001 51.889 54.668999 57.449001 60.229 63.008999 67.448997 71.338997 73.838997 76.112 83.332001 86.662003 89.442001 93.882004 97.211998 100.034 104.474 107.254 110.034 112.534 115.356 118.136 121.466 124.288 129.09 134.09 139.09 141.912 146.35201 150.79201 155.79201 158.614 161.944 166.384 169.164 171.944"
+             y="26.999001"
+             sodipodi:role="line"
+             id="tspan102">off their smarts by demonstrating their mental juggling abilities. After all, if you can reli-</tspan><tspan
+             x="-184.817 -180.377 -175.575 -173.04401 -168.04401 -163.701 -160.371 -155.931 -148.151 -143.711 -135.931 -130.931 -126.491 -123.161 -118.818 -116.038 -111.038 -106.598 -103.818"
+             y="38.999001"
+             sodipodi:role="line"
+             id="tspan104">ably remember that </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,165.241,422.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0"
+             y="0"
+             id="tspan108">r</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,173.896,422.112)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 2.78 6.6700001 11.013 13.793 18.792999 23.233 27.576 30.356001 34.958 41.828999 46.269001 49.401001 52.730999 57.171001 61.611 65.500999 69.941002 74.941002 79.283997 84.135002 88.574997 91.904999 95.794998 98.574997 103.575 108.575 112.918 117.918 121.248 125.591 128.371 133.371 137.811 142.15401 147.15401 150.48399 153.26401 157.60699 164.827 167.60699 170.38699 175.38699 179.73 182.50999 187.50999 191.95 196.293 201.293 206.293 210.183 212.963 217.306 221.746 226.746 231.746 236.089 239.979 244.41901 249.41901 253.85899 261.63901"
+             y="0"
+             sodipodi:role="line"
+             id="tspan112">is the lower-cased version of the url with the host and scheme</tspan><tspan
+             x="-93.975998 -90.646004 -86.206001 -78.426003 -73.875 -69.024002 -64.584 -60.181999 -57.681999 -55.181999 -52.402 -47.402 -42.962002 -37.962002 -35.462002 -30.66 -25.66 -20.66 -18.16 -10.38 -5.3800001 -1.49 1.29 3.79 8.2299995 11.01 15.45 19.889999 23.219999 25.750999 30.750999 33.250999 38.250999 42.691002 45.191002 50.042 54.481998 58.009998 63.009998 65.510002 69.400002 77.18 81.620003 85.148003 87.928001"
+             y="12"
+             sodipodi:role="line"
+             id="tspan114">removed, then you must clearly be very smart.</tspan><tspan
+             x="-75.975998 -68.755997 -63.756001 -59.316002 -55.941002 -50.941002 -48.160999 -45.080002 -41.75 -37.310001 -33.98 -29.540001 -24.540001 -20.1 -15.66 -12.285 -7.2849998 -2.845 -0.064999998 6.8060002 11.246 15.686 20.686001 24.061001 28.500999 31.875999 35.765999 43.546001 47.986 51.514 54.293999 57.668999 62.668999 65.999001 70.75 75.947998 79.278 83.718002 91.498001 99.278 103.718 107.048 110.423 114.863 119.863 124.863 128.23801 132.67799 136.05299 141.05299 144.383 149.383 152.713 157.153 161.043 164.933 167.713 172.713 177.713 182.153 184.933 188.308 193.308 196.638 201.38901 206.58701 209.91701 214.35699 222.13699 229.91701 234.35699 237.687 241.062 243.842 247.73199 251.10699 253.88699 258.88699 263.327"
+             y="27"
+             sodipodi:role="line"
+             id="tspan116">One difference between a smart programmer and a professional programmer is that</tspan><tspan
+             x="-93.975998 -91.195999 -86.195999 -81.755997 -78.496002 -73.496002 -70.166 -65.166 -61.835999 -57.396 -53.506001 -49.616001 -46.835999 -41.835999 -36.835999 -32.396 -29.615999 -26.356001 -21.356001 -16.356001 -11.356 -6.9159999 -3.586 0.30399999 3.0840001 7.5240002 12.524 17.524 21.414 24.674 27.454 32.453999 36.894001 39.674"
+             y="39"
+             sodipodi:role="line"
+             id="tspan118">the professional understands that </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,216.801,383.112)"
+           style="font-style:italic;font-variant:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-Italic;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 4.2420001 7.0219998 12.022 15.912 18.691999 21.472 25.912001 29.172001 31.952 35.841999 39.102001 43.542 46.321999 51.321999"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">clarity is king</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,273.11,383.112)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text130"><tspan
+             x="0 2.5 5.7600002 11.32 14.65 19.65 22.98 27.42 31.309999 35.200001 37.98 42.98 47.98 52.419998 55.200001 59.09 62.349998 67.349998 71.239998 75.68 78.940002 81.720001 86.720001 91.160004 93.940002 97.269997 100.53 105.53 110.132 117.003 121.443 124.773 128.66299 131.923 135.25301 140.25301 143.58299 146.843 151.843 156.843 161.843"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">. Professionals use their powers for good</tspan><tspan
+             x="-193.19 -188.75 -183.75 -178.75 -176.25 -169.03 -165.7 -162.92 -160.14 -155.7 -153.2 -148.75999 -143.75999 -138.75999 -134.32001 -131.82001 -129.03999 -124.04 -119.6 -116.82 -114.32 -109.32 -106.54 -101.54 -97.099998 -93.769997 -89.879997 -87.379997 -82.940002 -78.5 -73.5 -71 -66 -61 -56 -51.560001 -48.23 -44.34 -41.560001 -37.119999 -32.119999 -27.120001 -24.620001"
+             y="12"
+             sodipodi:role="line"
+             id="tspan128">and write code that others can understand. </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,79.92,338.445)"
+           style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 10.108 14 21 26.445999 31.892 35.391998 45.5 52.5 64.162003 70.377998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">Class Names</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,79.92,315.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text138"><tspan
+             x="0 6.6700001 9.4499998 13.89 17.780001 21.67 26.110001 30 34.445999 38.886002 43.886002 48.886002 53.332001 58.332001 63.332001 66.112 70.552002 74.991997 77.772003 81.662003 86.108002 89.998001 94.998001 99.998001 104.998 107.778 112.778 117.224 122.224 126.315 131.166 135.606 140.052 145.052 150.052 155.052 160.052 164.498 169.498 172.828 177.274 182.274 187.274 192.274 197.274 201.72 206.72 211.72 215.05 219.49001 223.38 227.82001 232.26601 237.26601 241.70599 249.48599 253.92599 257.81601 262.26199 265.04199 267.82199 272.724 277.164"
+             y="0"
+             sodipodi:role="line"
+             id="tspan136">Classes and objects should have noun or noun phrase names like </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,361.491,315.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text142"><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072 37.808399"
+             y="0"
+             sodipodi:role="line"
+             id="tspan140">Customer</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,395.982,315.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0"
+             y="0"
+             id="tspan144">,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,402.928,315.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text150"><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072 37.808399"
+             y="0"
+             sodipodi:role="line"
+             id="tspan148">WikiPage</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,437.42,315.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text154"><tspan
+             x="0"
+             y="0"
+             id="tspan152">,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,79.92,303.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">Account</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,110.1,303.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text162"><tspan
+             x="0 2.5 4.9070001 9.3470001 14.347 19.347"
+             y="0"
+             sodipodi:role="line"
+             id="tspan160">, and </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,131.853,303.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text166"><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072 37.808399 43.209599 48.610802 54.012001 59.4132 64.8144"
+             y="0"
+             sodipodi:role="line"
+             id="tspan164">AddressParser</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,187.902,303.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 2.5 4.3579998 10.479 15.281 20.281 23.061001 28.061001 30.468 37.290001 42.290001 45.619999 50.619999 54.509998 56.917 59.696999 62.477001 67.378998 71.819"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">. Avoid words like </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,262.117,303.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text174"><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072"
+             y="0"
+             sodipodi:role="line"
+             id="tspan172">Manager</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,292.297,303.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text178"><tspan
+             x="0"
+             y="0"
+             id="tspan176">,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,297.204,303.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072 37.808399 43.209599"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">Processor</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,336.007,303.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text186"><tspan
+             x="0"
+             y="0"
+             id="tspan184">,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,340.915,303.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text190"><tspan
+             x="0 5.4011998 10.8024 16.2036"
+             y="0"
+             sodipodi:role="line"
+             id="tspan188">Data</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,358.16,303.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 2.5 4.9070001 9.9069996 13.237"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">, or </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,373.802,303.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text198"><tspan
+             x="0 5.4011998 10.8024 16.2036"
+             y="0"
+             sodipodi:role="line"
+             id="tspan196">Info</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,393.455,303.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text204"><tspan
+             x="0 2.78 7.7800002 10.187 12.967 17.966999 22.407 24.813999 29.813999 34.254002 42.034"
+             y="0"
+             sodipodi:role="line"
+             id="tspan200">in the name</tspan><tspan
+             x="-313.535 -308.535 -305.20499 -302.70499 -298.26501 -295.76501 -291.32501 -288.54501 -284.10501 -280.215 -276.32501 -273.82501 -271.87399 -264.65399 -262.15399 -257.71399 -254.93401 -250.494 -246.604 -242.714 -240.214 -235.214 -230.774 -222.994 -218.554 -216.054 -212.164 -207.164 -202.164 -197.164 -194.384 -189.384 -186.884 -181.884 -176.884 -174.104 -171.604 -166.604 -162.164 -159.664 -155.224 -152.724 -147.873 -143.433 -140.103 -135.50101"
+             y="12"
+             sodipodi:role="line"
+             id="tspan202">of a class. A class name should not be a verb.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,79.92,258.445)"
+           style="font-variant:normal;font-weight:bold;font-size:14px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text208"><tspan
+             x="0 13.216 19.431999 24.094 31.878 38.877998 46.661999 50.161999 60.27 67.269997 78.931999 85.148003"
+             y="0"
+             sodipodi:role="line"
+             id="tspan206">Method Names</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,79.92,235.112)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text212"><tspan
+             x="0 8.8900003 13.33 16.110001 21.110001 26.110001 31.110001 35 38.854 42.743999 47.743999 52.743999 57.743999 60.523998 65.524002 69.377998 74.377998 78.469002 83.32 87.760002 91.613998 96.464996 100.905 104.235 109.235 113.089 118.089 121.419 125.273 130.12399 134.564 137.894 142.894 146.748 151.748 156.748 160.078 164.51801 168.408 172.84801 176.702 181.702 186.142 193.922 198.362 202.252 206.106 208.886 211.666 216.56799 221.008"
+             y="0"
+             sodipodi:role="line"
+             id="tspan210">Methods should have verb or verb phrase names like </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,304.744,235.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text216"><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072 37.808399 43.209599 48.610802 54.012001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan214">postPayment</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,352.17,235.112)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text220"><tspan
+             x="0"
+             y="0"
+             id="tspan218">,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,358.524,235.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text224"><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072 37.808399 43.209599 48.610802"
+             y="0"
+             sodipodi:role="line"
+             id="tspan222">deletePage</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,401.639,235.112)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text228"><tspan
+             x="0 2.5 6.3540001 11.354 14.684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan226">, or </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,420.174,235.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text232"><tspan
+             x="0 5.4011998 10.8024 16.2036"
+             y="0"
+             sodipodi:role="line"
+             id="tspan230">save</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,437.42,235.112)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text238"><tspan
+             x="0"
+             y="0"
+             id="tspan234">.</tspan><tspan
+             x="-357.5 -350.28 -345.84 -341.39999 -336.95999 -333.07001 -329.17999 -324.17999 -320.85001 -316.95999 -314.45999 -312.133 -304.353 -299.353 -296.573 -292.133 -289.353 -284.353 -281.02301 -277.133 -274.633 -272.306 -267.866 -262.866 -257.866 -255.539 -250.539 -247.209 -242.769 -237.769 -234.989 -230.549 -226.10899 -223.32899 -218.88901 -214.99899 -212.672 -208.782 -203.782 -198.782 -193.782 -191.002 -186.002 -183.675 -178.675 -174.235 -171.908 -166.908 -162.468 -154.688 -150.248 -145.248 -142.92101 -139.591 -134.591 -131.261 -128.93401 -126.154 -121.154 -116.714 -113.934 -110.604 -108.277 -103.526 -99.085999 -96.306 -91.306 -86.865997 -84.539001 -80.098999 -75.098999 -70.098999 -67.772003 -62.771999 -59.442001 -55.001999 -49.442001 -44.740002 -40.299999 -35.299999 -32.973 -25.753 -22.973 -20.193001 -15.193"
+             y="12"
+             sodipodi:role="line"
+             id="tspan236">Accessors, mutators, and predicates should be named for their value and preﬁxed with </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,424.485,223.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text242"><tspan
+             x="0 5.4011998 10.8024"
+             y="0"
+             sodipodi:role="line"
+             id="tspan240">get</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,437.42,223.112)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text246"><tspan
+             x="0"
+             y="0"
+             id="tspan244">,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,79.92,211.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text250"><tspan
+             x="0 5.4011998 10.8024"
+             y="0"
+             sodipodi:role="line"
+             id="tspan248">set</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,92.854,211.112)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text254"><tspan
+             x="0 2.5 5 9.4399996 14.44 19.440001"
+             y="0"
+             sodipodi:role="line"
+             id="tspan252">, and </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,114.793,211.112)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text258"><tspan
+             x="0 5.4011998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan256">is</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,125.916,211.112)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text262"><tspan
+             x="0 4.4400001 8.8800001 13.32 18.32 21.65 26.65 29.43 34.43 39.43 41.93 44.709999 49.709999 52.209999 54.990002 59.990002 64.43 66.93 69.709999 73.801003 78.552002 82.991997 87.991997 92.431999 96.872002 101.872 104.372 108.262 111.042 115.482 120.482 125.482 129.922 133.252 138.252"
+             y="0"
+             sodipodi:role="line"
+             id="tspan260">according to the javabean standard.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,266.638,215.1121)"
+           style="font-variant:normal;font-weight:normal;font-size:5.5px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text266"><tspan
+             x="0"
+             y="0"
+             id="tspan264">4</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,97.92,193.778)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text274"><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072 37.808399 43.209599 48.610802 54.012001 59.4132 64.8144 70.215599 75.616798 81.017998 86.419197 91.820396 97.221603 102.6228 108.024 113.4252 118.8264 124.2276 129.6288 135.03 140.4312 145.8324 151.2336 156.6348 162.036 167.43719 172.83839"
+             y="0"
+             sodipodi:role="line"
+             id="tspan268">string name = employee.getName();</tspan><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072 37.808399 43.209599 48.610802 54.012001 59.4132 64.8144 70.215599 75.616798 81.017998 86.419197 91.820396 97.221603 102.6228 108.024 113.4252 118.8264 124.2276 129.6288"
+             y="9.0001993"
+             sodipodi:role="line"
+             id="tspan270">customer.setName(&quot;mike&quot;);</tspan><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072 37.808399 43.209599 48.610802 54.012001 59.4132 64.8144 70.215599 75.616798 81.017998 86.419197 91.820396 97.221603 102.6228 108.024 113.4252 118.8264 124.2276 129.6288 135.03 140.4312"
+             y="18.000399"
+             sodipodi:role="line"
+             id="tspan272">if (paycheck.isPosted())...</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,97.92,160.112)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text280"><tspan
+             x="0 9.4399996 14.44 18.879999 23.879999 29.469 33.909 38.909 43.909 47.799 50.578999 54.106998 59.106998 63.547001 66.327003 71.327003 74.656998 78.546997 84.136002 88.575996 91.905998 96.346001 101.935 106.486 111.337 115.777 119.107 121.887 126.887 131.327 136.327 140.767 145.16901 147.66901 153.258 158.258 162.14799 166.588 172.177 176.067 178.847 183.287 186.067 188.847 193.287 198.87601 202.304 206.744 211.18401 213.964 218.964 222.492 227.492 233.08099 240.86099 245.30099 248.08099 253.08099 258.08099 263.08099 266.97101 272.56 279.78 282.56 285.34 290.34 295.92899 300.92899 305.36899 313.14899 317.58899 321.479 327.06799 329.84799 334.84799 339.28799"
+             y="0"
+             sodipodi:role="line"
+             id="tspan276">When constructors are overloaded, use static factory methods with names that</tspan><tspan
+             x="-18 -13 -8.5600004 -4.6700001 -0.23 3.0999999 5.8800001 10.88 15.32 17.82 20.6 25.6 30.040001 32.540001 36.98 40.132 45.132 50.132 57.911999 62.352001 67.351997 70.132004 74.022003 76.522003 79.022003 84.084 89.084 92.414001 94.914001 99.205002 104.205 108.645 116.425 121.425 124.205 128.645"
+             y="12"
+             sodipodi:role="line"
+             id="tspan278">describe the arguments. For example,</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,97.92,130.778)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text284"><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072 37.808399 43.209599 48.610802 54.012001 59.4132 64.8144 70.215599 75.616798 81.017998 86.419197 91.820396 97.221603 102.6228 108.024 113.4252 118.8264 124.2276 129.6288 135.03 140.4312 145.8324 151.2336 156.6348 162.036 167.43719 172.83839 178.23959 183.64079 189.04201 194.44321 199.84441 205.24561 210.6468 216.048 221.4492 226.8504 232.2516 237.6528 243.054 248.4552 253.8564 259.2576 264.65881 270.06 275.46121"
+             y="0"
+             sodipodi:role="line"
+             id="tspan282">Complex fulcrumPoint = Complex.FromRealNumber(23.0);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,79.92,115.112)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text288"><tspan
+             x="0 2.78 6.6700001 9.1700001 14.17 18.610001 23.610001 28.049999 31.379999 35.82 38.599998 41.131001 46.131001 48.631001 53.631001 58.070999 60.851002 63.631001 68.070999 71.401001 73.901001 76.681 81.681 86.121002"
+             y="0"
+             sodipodi:role="line"
+             id="tspan286">is generally better than</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.80015552,0,0,-1,97.92,97.778)"
+           style="font-variant:normal;font-weight:normal;font-size:9.002px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text292"><tspan
+             x="0 5.4011998 10.8024 16.2036 21.604799 27.006001 32.4072 37.808399 43.209599 48.610802 54.012001 59.4132 64.8144 70.215599 75.616798 81.017998 86.419197 91.820396 97.221603 102.6228 108.024 113.4252 118.8264 124.2276 129.6288 135.03 140.4312 145.8324 151.2336 156.6348 162.036 167.43719 172.83839 178.23959 183.64079 189.04201 194.44321 199.84441 205.24561 210.6468 216.048"
+             y="0"
+             sodipodi:role="line"
+             id="tspan290">Complex fulcrumPoint = new Complex(23.0);</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,79.92,82.112)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text296"><tspan
+             x="0 6.6700001 11.67 16.67 20.559999 23.34 28.34 32.779999 36.110001 38.610001 43.049999 48.049999 51.380001 56.380001 59.709999 64.150002 66.93 71.93 76.93 79.43 82.209999 87.209999 91.650002 94.43 97.760002 100.26 105.26 109.15 113.59 116.09 120.841 125.841 128.341 136.121 140.561 145.561 148.341 153.341 158.341 160.841 163.621 168.621 173.061 175.561 180.00101 185.00101 188.629 191.959 196.399 200.289 205.289 210.289 215.289 220.289 223.069 228.069 233.069 235.569 240.009 245.009 250.009 253.899 256.67899 260.207 265.207 269.647 272.427 277.427 280.75699 284.647 287.147 292.147 295.47699 298.008 302.759 307.19901 309.979 314.41901"
+             y="0"
+             sodipodi:role="line"
+             id="tspan294">Consider enforcing their use by making the corresponding constructors private.</tspan></text>
+        <g
+           id="g298">
+          <g
+             id="g300"
+             clip-path="url(#clipPath304)">
+            <path
+               d="m 88.92,63.98 h 144 m -144,0 h 144"
+               style="fill:none;stroke:#231f20;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path306" />
+          </g>
+        </g>
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,79.92,46.1111)"
+           style="font-variant:normal;font-weight:normal;font-size:7px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text310"><tspan
+             x="0 3.5 12.0057 15.5057 17.4517 19.397699 22.897699 24.8437 26.7897 28.735701 30.6817 33.545399 36.871799 39.979801 41.729801 44.452801 47.952801 51.452801 53.202801 56.310799 59.810799 65.256798 67.202797 70.702797 73.033798 76.533798 80.033798 83.533798 86.6418 88.587799 91.310799 93.256798 95.202797 98.0672 101.3936 104.5016 108.0016 111.1096 114.2176 117.7176 120.4406 122.3866 125.8866 129.3866 132.4946 135.21761 137.1636 139.8866 143.3866 146.4946 149.6026 151.3526 154.8526 156.7986 162.2446"
+             y="0"
+             sodipodi:role="line"
+             id="tspan308">4.http://java.sun.com/products/javabeans/docs/spec.html</tspan></text>
+        <g
+           id="g312">
+          <g
+             id="g314"
+             clip-path="url(#clipPath318)">
+            <path
+               d="m -37.08,664.778 h 36 m -36,-666 h 36 m 522,0 h 36 m -36,666 h 36 m -549,45 v -36 m 504,36 v -36 m 0,-684 v -36 m -504,36 v -36"
+               style="fill:none;stroke:#ffffff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path320" />
+            <path
+               d="m -37.08,664.778 h 36 m -36,-666 h 36 m 522,0 h 36 m -36,666 h 36 m -549,45 v -36 m 504,36 v -36 m 0,-684 v -36 m -504,36 v -36 m -12,378 c 0,3.312 -2.688,6 -6,6 -3.312,0 -6,-2.688 -6,-6 0,-3.312 2.688,-6 6,-6 3.312,0 6,2.688 6,6 z m -24,0 h 27 m -9,24 v -48 m 545.94,24 c 0,3.312 -2.688,6 -6,6 -3.312,0 -6,-2.688 -6,-6 0,-3.312 2.688,-6 6,-6 3.312,0 6,2.688 6,6 z m -14.94,0 h 27 m -18,24 v -48 m -534,345 c 0,3.312 -2.688,6 -6,6 -3.312,0 -6,-2.688 -6,-6 0,-3.312 2.688,-6 6,-6 3.312,0 6,2.688 6,6 z m -24,0 h 27 m -9,9 v -33 m 6,-618 c 0,3.312 -2.688,6 -6,6 -3.312,0 -6,-2.688 -6,-6 0,-3.312 2.688,-6 6,-6 3.312,0 6,2.688 6,6 z m -24,0 h 27 m -9,24 v -33 m 545.94,651 c 0,3.312 -2.688,6 -6,6 -3.312,0 -6,-2.688 -6,-6 0,-3.312 2.688,-6 6,-6 3.312,0 6,2.688 6,6 z m -14.94,0 h 27 m -18,9 v -33 m 5.94,-618 c 0,3.312 -2.688,6 -6,6 -3.312,0 -6,-2.688 -6,-6 0,-3.312 2.688,-6 6,-6 3.312,0 6,2.688 6,6 z m -14.94,0 h 27 m -18,24 v -33"
+               style="fill:none;stroke:#000000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               id="path322" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g324">
+      <g
+         id="g326"
+         transform="translate(218,6.56)">
+        <text
+           xml:space="preserve"
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text330"><tspan
+             x="0 7.2199998 14.44 21.66 24.440001 26.66 29.440001 32.77 38.330002 43.889999 49.450001 55.009998 60.009998 65.010002 67.790001 70.010002 75.57 78.349998"
+             y="0"
+             sodipodi:role="line"
+             id="tspan328">www.it-ebooks.info</tspan></text>
+        <g
+           id="g332"
+           transform="translate(-218,-6.56)" />
+      </g>
+    </g>
+  </g>
+</svg>

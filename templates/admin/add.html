@@ -44,7 +44,8 @@ Dashboard
                         <label for="title">Title</label>
                     </td>
                     <td>
-                        <input type="text" class="input" name="title" id="title" placeholder="Enter the book title">
+                        <input type="text" class="input" name="title" id="title" placeholder="Enter the book title"
+                            required>
                     </td>
                 </tr>
                 <tr>
@@ -52,7 +53,8 @@ Dashboard
                         <label for="author">Author</label>
                     </td>
                     <td>
-                        <input type="text" class="input" name="author" id="author" placeholder="Enter the book author">
+                        <input type="text" class="input" name="author" id="author" placeholder="Enter the book author"
+                            required>
                     </td>
                 </tr>
                 <tr>
@@ -60,7 +62,7 @@ Dashboard
                         <label for="date">Pub. Date</label>
                     </td>
                     <td>
-                        <input type="date" class="input" name="date" id="date">
+                        <input type="date" class="input" name="date" id="date" required>
                     </td>
                 </tr>
                 <tr>
@@ -76,7 +78,7 @@ Dashboard
                         <label for="lang">Language</label>
                     </td>
                     <td>
-                        <input type="text" class="input" name="version" id="version">
+                        <input type="text" class="input" name="lang" id="lang">
                     </td>
                 </tr>
                 <tr>
@@ -150,6 +152,9 @@ Dashboard
 </div>
 
 <div class="error">
+    <p></p>
+</div>
+<div class="success">
     <p></p>
 </div>
 {% endblock %}

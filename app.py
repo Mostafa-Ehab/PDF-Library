@@ -146,21 +146,57 @@ def admin_add_book():
                 mkdir(f"files/{sid}")
                 file.save(f"files/{sid}/{sid}.pdf")
 
-                
+                # Check File Type
                 if get_pages_num(sid) == 0:
                     time.sleep(1)
                     shutil.rmtree(f"files/{sid}")
                     return "404"
 
+                # Start Converting
                 convert = threading.Thread(target=pdf_convert, args=(sid,))
                 convert.start()
-                
                 return sid
+            
             # User sent Details form
             else:
-                print("This is not a file")
-                return "200"
+                sid = request.form.get("sid")
+                title = request.form.get("title")
+                author = request.form.get("author")
+                date = request.form.get("date")
+                version = request.form.get("version")
+                lang = request.form.get("lang")
+                desc = request.form.get("description")
+
+                # Check SID Validity
+                pages_num = get_pages_num(sid)
+                sql.execute("SELECT * FROM books WHERE sid = %s", sid)
+                row = sql.fetchall()
+                if pages_num == 0 or len(row) != 0:
+                    return "404"
+                
+                # Get file Size
+                file_size = get_file_size(sid)
+                
+                # Check Data And Send to Database
+                if title and author and date:
+                    version = 0 if version == "" else version
+                    lang = 0 if lang == "" else lang
+                    desc = "No description Available" if desc == "" else desc
+
+                    sql.execute("INSERT INTO books (sid, name, author, version, pub_date, lang, size, pages, admin) \
+                                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)",
+                                [sid, title, author, version, date, lang, file_size, pages_num, session["user_id"]])
+                    
+                    db.commit()
+
+                    with open(f"files/{sid}/desc.txt", "w") as desc_file:
+                        desc_file.write(desc)
+
+                    return "200"
+                else:
+                    return "404"
         else:
+            # GET Method
             return render_template("admin/add.html")
     else:
         return redirect("/admin/login")
@@ -170,7 +206,32 @@ def admin_add_book():
 def admin_edit_book(sid):
     if session.get("user_id"):
         if request.method == "POST":
-            return redirect("/admin")
+            title = request.form.get("title")
+            author = request.form.get("author")
+            date = request.form.get("date")
+            version = request.form.get("version")
+            lang = request.form.get("lang")
+            desc = request.form.get("description")
+
+            # Check SID Validity
+            pages_num = get_pages_num(sid)
+            sql.execute("SELECT * FROM books WHERE sid = %s", sid)
+            row = sql.fetchone()
+            if row:
+                # Check Data And Send to Database
+                if title and author and date and version and lang and desc:
+                    sql.execute("UPDATE books SET (name, author, version, pub_date, lang) \
+                                = (%s, %s, %s, %s, %s) WHERE sid = %s",
+                                [title, author, version, date, lang, sid])
+
+                    db.commit()
+
+                    with open(f"files/{sid}/desc.txt", "w") as desc_file:
+                        desc_file.write(desc)
+
+                return "200"
+            else:
+                return "404"
         else:
             return render_template("admin/edit.html")
     else:
@@ -181,18 +242,15 @@ def admin_edit_book(sid):
 def admin_upload_progress():
     if is_admin(session):
         sid = request.args.get("sid")
-        print(sid)
         if path.exists(f"files/{sid}"):
             num = get_pages_num(sid)
-            print(num)
             count = 0
-            print(sid)
             for file in listdir(f"files/{sid}"):
                 # check if current path is a file
                 if path.isfile(path.join(f"files/{sid}", file)):
                     count += 1
-            print(count)
             return json.dumps([count-1, num])
+        
     return "404"
 
 

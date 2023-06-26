@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="mPfXAkCxXywqXh4n.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 3480,0 h 696 V 1056 H 3480 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 3480,66 h 696 V 996 H 3480 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="mPfXAkCxXywqXh4n"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-3480)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-3480)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(3588,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 11 20 26 36 41 46 55 64 69 80 89 97 102 107 118 123 132"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">Skip the Last Step</tspan></text>
+        <path
+           d="m 3588,84.5 h 141 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path34" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text38"><tspan
+             x="0 14 23 32 39 53 59 73 82 91 99 105 115 124 133 139 144 157 167 176 185 195 204 211 217 226"
+             y="0"
+             sodipodi:role="line"
+             id="tspan36">One-Dimensional Boundaries</tspan></text>
+        <path
+           d="m 3588,107.5 h 233 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path40" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 11 20 29 38 48 57"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">Facades</tspan></text>
+        <path
+           d="m 3588,130.5 h 64 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path46" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,153)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text50"><tspan
+             x="0 13 23 32 41 47 56 64 70 80"
+             y="0"
+             sodipodi:role="line"
+             id="tspan48">Conclusion</tspan></text>
+        <path
+           d="m 3588,154.5 h 88 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path52" />
+        <text
+           xml:space="preserve"
+           transform="translate(3480,201)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 14 24 34 44 51 61 69 74 84 94 109 122 132 142 152 160 168 173 183 193 203 208 221 231 241 251 261 271 279 284 294"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">Chapter 25 Layers and Boundaries</tspan></text>
+        <path
+           d="m 3480,202.5 h 301 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path58" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,228)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0 14 23 32 37 42 47 56 65 70 87 96 110 120 129"
+             y="0"
+             sodipodi:role="line"
+             id="tspan60">Hunt the Wumpus</tspan></text>
+        <path
+           d="m 3588,229.5 h 136 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path64" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,251)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 13 19 28 37 46 51 65 72 81 90 96 101 110 119 124 133 140 149"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">Clean Architecture?</tspan></text>
+        <path
+           d="m 3588,252.5 h 157 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path70" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,274)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text74"><tspan
+             x="0 13 20 30 38 46 52 61 70 75 80 89 98 103 114 119 126 135 144 158"
+             y="0"
+             sodipodi:role="line"
+             id="tspan72">Crossing the Streams</tspan></text>
+        <path
+           d="m 3588,275.5 h 165 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path76" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,297)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 11 21 27 33 38 43 49 58 67 72 77 86 95 100 111 116 123 132 141 155"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">Splitting the Streams</tspan></text>
+        <path
+           d="m 3588,298.5 h 162 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path82" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,320)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 13 23 32 41 47 56 64 70 80"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">Conclusion</tspan></text>
+        <path
+           d="m 3588,321.5 h 88 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path88" />
+        <text
+           xml:space="preserve"
+           transform="translate(3480,368)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 14 24 34 44 51 61 69 74 84 94 109 122 132 142 147 165 175 180 190 195 209 219 234 244 254 264 274 284"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">Chapter 26 The Main Component</tspan></text>
+        <path
+           d="m 3480,369.5 h 290 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path94" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,395)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 12 21 30 35 48 54 59 65 79 88 93 102 107 121 130 135 144 150"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">The Ultimate Detail</tspan></text>
+        <path
+           d="m 3588,396.5 h 155 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path100" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,419)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 13 23 32 41 47 56 64 70 80"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">Conclusion</tspan></text>
+        <path
+           d="m 3588,420.5 h 88 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path106" />
+        <text
+           xml:space="preserve"
+           transform="translate(3480,467)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 14 24 34 44 51 61 69 74 84 94 109 120 130 138 148 153 162 172 180 187 192 208 216 226 236 243 248 258 268 278 283 294 309 319 324"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">Chapter 27 Services: Great and Small</tspan></text>
+        <path
+           d="m 3480,468.5 h 328 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path112" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,494)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 11 20 27 37 43 52 61 66 80 87 96 105 111 116 125 134 139 148 155 164"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">Service Architecture?</tspan></text>
+        <path
+           d="m 3588,495.5 h 172 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path118" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,517)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 11 20 27 37 43 52 61 66 79 88 97 106 112 118 123 131"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">Service Benefits?</tspan></text>
+        <path
+           d="m 3588,518.5 h 139 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path124" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,540)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 12 21 30 35 49 55 60 65 74 79 90 97 107 117 123 132"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">The Kitty Problem</tspan></text>
+        <path
+           d="m 3588,541.5 h 145 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path130" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,563)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 14 24 30 39 48 53 61 66 71 81 86 91 100 109 114 127 136 144 153 162"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">Objects to the Rescue</tspan></text>
+        <path
+           d="m 3588,564.5 h 170 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path136" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,586)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 13 23 37 47 57 66 75 84 89 96 109 118 126 135 145 150 161 170 177 187 193 202 211"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">Component-Based Services</tspan></text>
+        <path
+           d="m 3588,587.5 h 218 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path142" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,609)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 13 20 30 38 46 53 66 75 80 85 91 100 109 114 127 137 146 155 164 171 180"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">Cross-Cutting Concerns</tspan></text>
+        <path
+           d="m 3588,610.5 h 187 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path148" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,633)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 13 23 32 41 47 56 64 70 80"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">Conclusion</tspan></text>
+        <path
+           d="m 3588,634.5 h 88 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path154" />
+        <text
+           xml:space="preserve"
+           transform="translate(3480,681)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 14 24 34 44 51 61 69 74 84 94 109 122 132 142 147 158 168 176 183 188 201 211 221 231 241 251 259"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">Chapter 28 The Test Boundary</tspan></text>
+        <path
+           d="m 3480,682.5 h 268 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path160" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,708)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 10 19 27 32 40 45 54 62 67 78 87 95 100 109 123 128 141 151 165 175 185 194 203 212 217"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">Tests as System Components</tspan></text>
+        <path
+           d="m 3588,709.5 h 224 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path166" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,731)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 14 23 31 37 46 55 60 66 76 83 88 98 107 115 120 129 139 145 151 157 162"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">Design for Testability</tspan></text>
+        <path
+           d="m 3588,732.5 h 170 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path172" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,754)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 12 21 30 35 45 54 62 67 73 82 91 96 110 121"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">The Testing API</tspan></text>
+        <path
+           d="m 3588,755.5 h 126 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path178" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,777)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 13 23 32 41 47 56 64 70 80"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">Conclusion</tspan></text>
+        <path
+           d="m 3588,778.5 h 88 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path184" />
+        <text
+           xml:space="preserve"
+           transform="translate(3480,825)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 14 24 34 44 51 61 69 74 84 94 109 123 128 138 148 158 163 176 191 201 211 221 231 241 251 256 270 278 287 297 302 309 319 328 335 345 353"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">Chapter 29 Clean Embedded Architecture</tspan></text>
+        <path
+           d="m 3480,826.5 h 362 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path190" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,852)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 14 24 34 41 46 52 57 66 76 85 90 100 109 117"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">App-titude Test</tspan></text>
+        <path
+           d="m 3588,853.5 h 121 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path196" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,875)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 12 21 30 35 45 54 61 70 79 84 91 105 114 121 131 146 155 162 171 176 189 199 204 209 215 224 233 242 251"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">The Target-Hardware Bottleneck</tspan></text>
+        <path
+           d="m 3588,876.5 h 259 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path202" />
+        <text
+           xml:space="preserve"
+           transform="translate(3588,899)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text206"><tspan
+             x="0 13 23 32 41 47 56 64 70 80"
+             y="0"
+             sodipodi:role="line"
+             id="tspan204">Conclusion</tspan></text>
+        <path
+           d="m 3588,900.5 h 88 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path208" />
+        <text
+           xml:space="preserve"
+           transform="translate(3480,947)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text212"><tspan
+             x="0 10 24 37 50 55 69 76 106 120 130 137 147 152 157"
+             y="0"
+             sodipodi:role="line"
+             id="tspan210">PART VI Details</tspan></text>
+        <path
+           d="m 3480,948.5 h 164 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path214" />
+      </g>
+    </g>
+  </g>
+</svg>

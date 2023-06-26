@@ -1,7 +1,7 @@
 import random
 import string
 import PyPDF2
-from os import system, path
+from os import system, path, stat
 
 # Define a function
 def generate_sid(length=16):
@@ -36,3 +36,8 @@ def get_pages_num(sid):
         except:
             return 0
     return 0
+
+def get_file_size(sid):
+    if path.exists(f"files/{sid}/{sid}.pdf"):
+        file_size = stat(f"files/{sid}/{sid}.pdf")
+        return file_size.st_size / (1024 * 1024)

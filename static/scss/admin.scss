@@ -190,7 +190,8 @@
 }
 
 /* ------------------------ Error Messages ----------------------- */
-.error {
+.error,
+.success {
     position: fixed;
     top: -50px;
     left: 0;
@@ -200,7 +201,6 @@
     transition: 0.5s;
 
     p {
-        background-color: var(--red-color);
         color: var(--btn-color);
         border-radius: var(--img-radius);
         margin: 0 auto;
@@ -209,9 +209,18 @@
     }
 }
 
-.error.show {
+.error.show,
+.success.show {
     top: 100px;
     opacity: 0.8;
+}
+
+.error p {
+    background-color: var(--red-color);
+}
+
+.success p {
+    background-color: var(--green-color);
 }
 
 /* ------------------------ Media Queries ------------------------ */

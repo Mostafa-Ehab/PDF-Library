@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="mPfXAkCxXywqXh4n.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="M 0,0 H 696 V 1056 H 0 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="M 0,66 H 696 V 996 H 0 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath44">
+      <path
+         d="M 0,66 H 696 V 996 H 0 V 66"
+         clip-rule="evenodd"
+         id="path42" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="mPfXAkCxXywqXh4n"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <g
+           id="g30">
+          <path
+             d="m 0,66 h 696 v 3 H 0 Z"
+             style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" />
+        </g>
+        <g
+           id="g34">
+          <path
+             d="m 0,234 h 696 v 3 H 0 Z"
+             style="fill:#a7a9ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path36" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g38">
+      <g
+         id="g40"
+         clip-path="url(#clipPath44)">
+        <text
+           xml:space="preserve"
+           transform="translate(340,142.6562)"
+           style="font-variant:normal;font-weight:bold;font-size:40px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#777988;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text48"><tspan
+             x="0"
+             y="0"
+             id="tspan46">I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(215,188.6562)"
+           style="font-variant:normal;font-weight:bold;font-size:37px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text52"><tspan
+             x="0"
+             y="0"
+             id="tspan50">I</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(228,188.6562)"
+           style="font-variant:normal;font-weight:bold;font-size:33px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 24 46 70 96 120 144 168 190 203 229"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">NTRODUCTION</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,328)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text60"><tspan
+             x="0 6 11 16 26 36 45 53 62 69 74 79 84 93 102 111 116 125 130 139 148 157 166 171 180 194 204 213 222 227 232 242 248 253 262 271 281 296 302 311 321 330 339 344 353 362 372 377 385 394 400 406 412 417 422 432 437 446 455 460 465 474 479 489 496 506 515 522 531 545 550 565 575 582 591 597 606 615 620 625 639 645 655 663 668 674"
+             y="0"
+             sodipodi:role="line"
+             id="tspan58">It doesn’t take a huge amount of knowledge and skill to get a program working. Kids in</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,351)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text64"><tspan
+             x="0 9 15 24 33 38 46 55 64 74 84 90 95 105 115 120 126 131 136 145 151 157 162 167 176 185 190 195 201 215 224 229 234 246 256 265 274 283 288 302 311 320 325 334 343 353 358 373 383 397 406 415 420 426 435 440 449 459 465 471 480 489 498 503 511 516 525 532 537 542 552 558 564 570 576 586 595 602 612 622 628 634 643"
+             y="0"
+             sodipodi:role="line"
+             id="tspan62">high school do it all the time. Young men and women in college start billion-dollar</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,374)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 10 19 27 33 42 51 59 67 76 84 89 99 108 116 125 135 140 150 159 164 172 181 188 197 207 217 223 229 238 247 252 257 267 276 285 290 299 308 315 320 329 334 340 349 364 369 375 381 390 399 407 412 422 428 433 444 458 468 473 483 490 495 508 517 527 535 540 545 559 569 578 585 595 603 608 618 624 629 635 644 653 659 669"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">businesses based on scrabbling together a few lines of PHP or Ruby. Hoards of junior</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,397)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text72"><tspan
+             x="0 10 17 27 36 43 52 66 80 89 96 104 109 115 124 129 138 147 157 166 171 177 186 193 207 215 220 229 236 246 255 264 274 279 284 293 302 307 322 332 339 345 355 360 368 374 384 393 398 403 412 419 429 438 447 456 461 475 484 492 500 506 516 525 530 537 546 556 565 571 578 587 601 610 619 624"
+             y="0"
+             sodipodi:role="line"
+             id="tspan70">programmers in cube farms around the world slog through massive requirements</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,420)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text76"><tspan
+             x="0 10 20 29 38 52 61 70 75 83 88 97 106 112 122 127 133 142 147 156 165 174 183 188 194 202 210 219 228 233 238 245 254 263 272 278 287 296 301 309 318 326 331 340 354 362 367 372 382 387 396 405 410 415 420 429 438 444 451 456 464 473 481 486 495 509 517 522 527 537 542 551 566 576 583 592 601 606 616 625 630 635 644"
+             y="0"
+             sodipodi:role="line"
+             id="tspan74">documents held in huge issue tracking systems to get their systems to “work” by the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,443)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 8 17 26 35 42 47 57 64 73 78 87 92 98 108 115 124 133 138 148 154"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">sheer brute force of </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(159,443)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text84"><tspan
+             x="0 15 21 27"
+             y="0"
+             sodipodi:role="line"
+             id="tspan82">will</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(192,443)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text88"><tspan
+             x="0 5 10 22 31 40 45 54 64 74 83 88 93 102 111 120 125 135 142 152 162 171 180 189 194 208 217 226 231 240 250 255 260 270 279 284 294 301 310 315 320 329 334 339 349 358 363 368 374 379 384 399 409 416 425 433 438 443 449"
+             y="0"
+             sodipodi:role="line"
+             id="tspan86">. The code they produce may not be pretty; but it works. It</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,466)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 15 25 32 41 49 54 64 73 82 91 100 108 117 122 131 140 145 150 156 165 174 179 187 197 211 220 225 234 240 249 258 263 268 278 283 298 308 315 324 344 354 363 372 381 401 407 416 424 429 434 440 448 457 464 469 474 479 488 497 502 507 516 525 532 542"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">works because getting something to work—once—just isn’t that hard.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,509)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text96"><tspan
+             x="0 14 23 28 33 39 48 57 62 68 73 78 85 91 100 109 114 119 125 133 138 147 156 166 171 180 189 196 201 215 224 229 234 243 250 255 264 273 278 284 291 300 306 314 319 324 338 347 352 357 363 372 381 386 394 404 410 415 430 439 446 455 460 467 473 482 491 496 501 507 515"
+             y="0"
+             sodipodi:role="line"
+             id="tspan94">Getting it right is another matter entirely. Getting software right is </tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(520,509)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text100"><tspan
+             x="0 9 18 25"
+             y="0"
+             sodipodi:role="line"
+             id="tspan98">hard</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(555,509)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 5 10 16 21 26 31 40 49 58"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">. It takes</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,532)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text108"><tspan
+             x="0 9 18 28 43 49 58 68 77 86 91 100 109 119 124 132 141 147 153 159 167 172 177 186 195 200 205 219 229 237 242 247 256 266 275 284 293 298 308 315 325 334 341 350 364 378 387 394 402 407 416 425 435 444 453 460 465 470 479 488 493 498 507 516 526 535 541 548 557 567 572 577 583 588 593 600 609 619 628 634 641 650"
+             y="0"
+             sodipodi:role="line"
+             id="tspan106">knowledge and skills that most young programmers haven’t yet acquired. It requires</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,555)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text112"><tspan
+             x="0 5 14 24 33 42 51 56 61 70 79 89 94 100 109 117 123 132 141 146 151 156 165 174 179 184 198 208 216 221 226 236 243 253 262 269 278 292 306 315 322 330 335 345 355 364 371 376 381 386 395 404 413 418 423 432 441 446 451 457 471 480 485 490 500 505 515 524 534 543 549 559 569 574 579 585 590 595 602 611 621 630 636 643 652 660 665"
+             y="0"
+             sodipodi:role="line"
+             id="tspan110">thought and insight that most programmers don’t take the time to develop. It requires a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,578)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 6 15 25 34 40 45 55 61 66 76 82 90 99 105 115 121 127 136 145 150 159 168 178 183 193 202 212 218 227 236 241 247 257 266 271 276 285 294 299 304 318 328 336 341 346 356 363 373 382 389 398 412 426 435 442 450 455 464 473 483 492 499 504 514 521 530 539 553 562 572 577 582 591 600 609 616 626 631 640 649 658 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">level of discipline and dedication that most programmers never dreamed they’d need.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,601)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text120"><tspan
+             x="0 17 27 35 40 46 54 59 64 70 75 80 85 94 103 112 120 125 134 139 149 158 166 174 180 190 199 204 210 220 227 232 237 246 255 260 269 276 285 291 296 301 310 319 329 334 339 348 357 362 372 381 389 395 402 411 416 421 431 436 446 455 460 469 474 484 491 501 507 516 524 532 538 548 557 566 572"
+             y="0"
+             sodipodi:role="line"
+             id="tspan118">Mostly, it takes a passion for the craft and the desire to be a professional.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,644)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text124"><tspan
+             x="0 14 23 33 38 53 62 71 80 85 94 104 113 118 127 136 141 146 154 164 170 175 190 199 206 215 220 227 233 242 251 256 261 266 274 284 298 307 312 321 327 336 345 350 364 373 382 388 397 406 412 417 426 435 445 455 464 473 481 487 492 504 514 523 528 538 548 557 564 569 574 583 592 601 611 616 625 635 642 652 661 669 674 684"
+             y="0"
+             sodipodi:role="line"
+             id="tspan122">And when you get software right, something magical happens: You don’t need hordes of</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,667)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 10 17 27 36 43 52 66 80 89 96 104 109 114 124 129 138 147 156 166 171 177 182 187 202 212 219 228 234 243 252 257 262 274 284 293 298 308 318 327 334 339 344 353 362 371 381 386 400 409 417 425 431 441 450 455 462 471 481 490 496 503 512 526 535 544 549 557 562 572 582 591 600 614 623 632 637 645 650 659 668"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">programmers to keep it working. You don’t need massive requirements documents and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,690)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text132"><tspan
+             x="0 9 18 27 36 41 47 55 63 72 81 86 91 98 107 116 125 131 140 149 154 162 171 179 184 193 207 215 220 225 237 247 256 261 271 281 290 297 302 307 316 325 334 344 349 358 364 374 384 393 399 404 413 422 432 441 446 452 461 468 482 490 495 504 513 523 528 538 548 554 564 569 579 586 596 605 612 621 635 649 655 664 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan130">huge issue tracking systems. You don’t need global cube farms and 24/7 programming.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,733)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text136"><tspan
+             x="0 18 27 36 45 50 58 68 74 79 94 103 110 119 124 130 138 143 153 163 172 181 186 193 199 208 217 222 227 232 238 243 248 255 264 274 283 289 296 305 313 318 327 332 338 345 354 363 368 374 384 393 398 408 414 419 424 433 442 447 456 465 479 488 497 502 509 518 526 536 545 552 561 570 578 583 588 598 603 612 619 628 637 642 651 656 665 674"
+             y="0"
+             sodipodi:role="line"
+             id="tspan134">When software is done right, it requires a fraction of the human resources to create and</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,756)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 14 23 29 38 43 52 58 67 72 77 90 99 108 117 126 135 143 148 157 164 173 178 186 192 206 216 222 231 236 245 254 264 269 276 285 295 301 311 316 321 335 344 350 359 368 373 381 386 395 402 411 416 422 431 446 451 460 469 479 484 490 499 506 511 521 530 535 550 559 568 577 582 587 599 605 611 621 628 633 638 644"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">maintain. Changes are simple and rapid. Defects are few and far between. Effort is</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,779)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text144"><tspan
+             x="0 14 20 29 35 49 55 63 72 82 87 92 101 110 120 125 131 140 149 158 163 169 179 188 197 203 209 214 223 228 237 246 256 261 267 273 282 291 297 307 313 319 325 330 339 344 353 360 369 374 388 397 406 412 426 432 440 449 459"
+             y="0"
+             sodipodi:role="line"
+             id="tspan142">minimized, and functionality and flexibility are maximized.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,822)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text148"><tspan
+             x="0 12 21 29 34 39 44 53 59 67 72 82 88 96 102 112 121 126 134 144 153 162 172 180 185 194 199 209 215 220 225 234 239 249 259 265 274 283 288 293 306 315 320 325 331 338 348 357 362 372 381 390 399 404 409 418 427 434 443 448 453 459 466 476 485 490 498 507 516 525 530 536 541 546 555 564 574 584 593 602 607 612 618 625 635"
+             y="0"
+             sodipodi:role="line"
+             id="tspan146">Yes, this vision sounds a bit utopian. But I’ve been there; I’ve seen it happen. I’ve</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,845)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 15 25 32 41 50 60 65 71 80 85 95 102 112 118 127 136 141 149 154 169 178 187 194 203 208 213 222 231 236 246 255 263 269 278 287 292 301 310 320 325 334 341 350 359 365 370 379 388 393 402 409 418 423 433 439 444 449 458 467 472 480 489 497 502 511 525 530 544 553 563 572 577 583 588 593 602 611 619 628 633 638 648 653 668 675 681 686"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">worked in projects where the design and architecture of the system made it easy to write</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,868)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text156"><tspan
+             x="0 9 18 28 33 42 51 59 68 73 78 88 93 107 116 122 131 136 145 151 160 165 170 176 183 193 202 207 216 225 235 244 251 257 266 275 284 293 303 308 318 325 335 341 350 359 364 372 377 382 391 400 405 410 417 426 436 445 451 458 467 477 482 491 496 502 509 518 527 532 538 548 557 562 572 578 583 588 597"
+             y="0"
+             sodipodi:role="line"
+             id="tspan154">and easy to maintain. I’ve experienced projects that required a fraction of the</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,891)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text160"><tspan
+             x="0 9 18 23 29 38 44 54 63 68 77 87 92 101 110 124 133 142 147 154 163 171 181 190 197 206 215 223 228 233 239 246 256 265 270 285 295 302 311 320 330 335 345 354 359 367 376 384 389 398 412 420 425 430 439 448 453 458 467 476 486 491 500 509 514 521 530 544 553 559 568 573 579 589 604 609 619 628 634 643 652"
+             y="0"
+             sodipodi:role="line"
+             id="tspan158">anticipated human resources. I’ve worked on systems that had extremely low defect</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,914)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 7 16 21 30 38 43 48 54 61 71 80 85 93 102 111 120 125 130 139 148 153 162 171 176 183 192 202 209 219 225 234 243 250 259 264 273 279 285 294 303 308 313 318 327 336 341 346 355 365 375 385 390 398 408 414 419 434 443 450 459 464 473 480 489 498 504 509 518 527 532 541 548 557 562 571 580 589 594 603 612 622 631 636 646 655 660"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">rates. I’ve seen the extraordinary effect that good software architecture can have on a</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,937)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text168"><tspan
+             x="0 8 17 25 30 39 53 58 63 72 77 87 94 104 110 119 128 133 138 143 152 161 171 176 185 190 195 204 213 227 232 237 243 250 260 269 274 284 293 302 311 316 321 331 336 341 350 359 364 374 381 391 405 411 419 428 438 443 449 458 467 477"
+             y="0"
+             sodipodi:role="line"
+             id="tspan166">system, a project, and a team. I’ve been to the promised land.</tspan></text>
+        <text
+           xml:space="preserve"
+           transform="translate(0,980)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text172"><tspan
+             x="0 13 22 27 32 42 52 61 68 73 78 83 92 101 110 115 129 138 143 158 168 175 185 190 196 206 213 218 224 229 234 239 250 260 270 279 284 293 298 303 312 322 331 338 343 353 368 377 382 391 400 410 419 426 432 441 450 459 468 473 478 492 501 511 520 525 534 544 553 558 567 576 586 595 602 608 617 626 635 644 654 659 664 673"
+             y="0"
+             sodipodi:role="line"
+             id="tspan170">But don’t take my word for it. Look at your own experience. Have you experienced the</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

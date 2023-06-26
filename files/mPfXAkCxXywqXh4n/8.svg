@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="816"
+   height="1056"
+   viewBox="0 0 816 1056"
+   sodipodi:docname="mPfXAkCxXywqXh4n.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18">
+      <path
+         d="m 696,0 h 696 V 1056 H 696 V 0"
+         clip-rule="evenodd"
+         id="path16" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <path
+         d="m 696,66 h 696 V 996 H 696 V 66"
+         clip-rule="evenodd"
+         id="path26" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="mPfXAkCxXywqXh4n"
+     transform="translate(59.999999,2.64e-5)">
+    <g
+       id="g10" />
+    <g
+       id="g12"
+       transform="translate(-696)">
+      <g
+         id="g14"
+         clip-path="url(#clipPath18)">
+        <g
+           id="g20" />
+      </g>
+    </g>
+    <g
+       id="g22"
+       transform="translate(-696)">
+      <g
+         id="g24"
+         clip-path="url(#clipPath28)">
+        <text
+           xml:space="preserve"
+           transform="translate(804,83)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text32"><tspan
+             x="0 11 18 28 38"
+             y="0"
+             sodipodi:role="line"
+             id="tspan30">Proof</tspan></text>
+        <path
+           d="m 804,84.5 h 43 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path34" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,106)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text38"><tspan
+             x="0 13 18 32 41 48 62 68 77 83 88 99 106 116 125 131 140 154 163 168 174 184"
+             y="0"
+             sodipodi:role="line"
+             id="tspan36">A Harmful Proclamation</tspan></text>
+        <path
+           d="M 804,107.5 H 996 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path40" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,129)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text44"><tspan
+             x="0 11 20 29 38 43 49 59 68 77 83 88 102 111 120 130 144 154 164 172 178 183 189 199"
+             y="0"
+             sodipodi:role="line"
+             id="tspan42">Functional Decomposition</tspan></text>
+        <path
+           d="m 804,130.5 h 207 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path46" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,153)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text50"><tspan
+             x="0 14 24 29 40 50 57 71 80 86 91 102 109 119 129 135"
+             y="0"
+             sodipodi:role="line"
+             id="tspan48">No Formal Proofs</tspan></text>
+        <path
+           d="M 804,154.5 H 946 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path52" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,176)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text56"><tspan
+             x="0 11 20 26 35 44 53 62 67 72 82 87 92 101 110 115 128 137 145 154 163"
+             y="0"
+             sodipodi:role="line"
+             id="tspan54">Science to the Rescue</tspan></text>
+        <path
+           d="M 804,177.5 H 975 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path58" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,199)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text62"><tspan
+             x="0 10 19 27 32"
+             y="0"
+             sodipodi:role="line"
+             id="tspan60">Tests</tspan></text>
+        <path
+           d="m 804,200.5 h 39 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path64" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,222)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text68"><tspan
+             x="0 13 23 32 41 47 56 64 70 80"
+             y="0"
+             sodipodi:role="line"
+             id="tspan66">Conclusion</tspan></text>
+        <path
+           d="m 804,223.5 h 88 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path70" />
+        <text
+           xml:space="preserve"
+           transform="translate(696,270)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text74"><tspan
+             x="0 14 24 34 44 51 61 69 74 84 109 125 135 142 152 161 168 175 191 199 204 214 224 231 241 251 256 268 276 286 296 304 314 329 344 349 359"
+             y="0"
+             sodipodi:role="line"
+             id="tspan72">Chapter 5 Object-Oriented Programming</tspan></text>
+        <path
+           d="m 696,271.5 h 368 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path76" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,297)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text80"><tspan
+             x="0 12 21 30 39 49 57 66 72 81 86 92 102 111"
+             y="0"
+             sodipodi:role="line"
+             id="tspan78">Encapsulation?</tspan></text>
+        <path
+           d="M 804,298.5 H 923 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path82" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,320)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text86"><tspan
+             x="0 6 15 24 33 40 46 51 60 69 78 87"
+             y="0"
+             sodipodi:role="line"
+             id="tspan84">Inheritance?</tspan></text>
+        <path
+           d="m 804,321.5 h 95 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path88" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,344)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text92"><tspan
+             x="0 11 21 27 36 50 60 67 77 86 92 100 114"
+             y="0"
+             sodipodi:role="line"
+             id="tspan90">Polymorphism?</tspan></text>
+        <path
+           d="M 804,345.5 H 926 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path94" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,367)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text98"><tspan
+             x="0 13 23 32 41 47 56 64 70 80"
+             y="0"
+             sodipodi:role="line"
+             id="tspan96">Conclusion</tspan></text>
+        <path
+           d="m 804,368.5 h 88 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path100" />
+        <text
+           xml:space="preserve"
+           transform="translate(696,415)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text104"><tspan
+             x="0 14 24 34 44 51 61 69 74 84 109 120 130 140 149 156 161 171 181 191 196 201 213 221 231 241 249 259 274 289 294 304"
+             y="0"
+             sodipodi:role="line"
+             id="tspan102">Chapter 6 Functional Programming</tspan></text>
+        <path
+           d="m 696,416.5 h 313 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path106" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,442)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text110"><tspan
+             x="0 11 21 30 39 46 55 63 68 78 84 89 95 104 109 118 127 136 143"
+             y="0"
+             sodipodi:role="line"
+             id="tspan108">Squares of Integers</tspan></text>
+        <path
+           d="M 804,443.5 H 954 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path112" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,465)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text116"><tspan
+             x="0 6 20 34 43 48 57 67 73 79 85 90 99 104 113 122 132 137 151 158 167 176 182 187 196 205 210 219 226"
+             y="0"
+             sodipodi:role="line"
+             id="tspan114">Immutability and Architecture</tspan></text>
+        <path
+           d="m 804,466.5 h 234 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path118" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,488)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text122"><tspan
+             x="0 11 20 29 36 45 54 63 68 74 84 93 98 108 114 119 136 145 150 159 169 175 181 187 192"
+             y="0"
+             sodipodi:role="line"
+             id="tspan120">Segregation of Mutability</tspan></text>
+        <path
+           d="m 804,489.5 h 200 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path124" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,511)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text128"><tspan
+             x="0 12 22 31 40 45 50 61 71 80 87 96 102 111"
+             y="0"
+             sodipodi:role="line"
+             id="tspan126">Event Sourcing</tspan></text>
+        <path
+           d="M 804,512.5 H 923 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path130" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,534)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text134"><tspan
+             x="0 13 23 32 41 47 56 64 70 80"
+             y="0"
+             sodipodi:role="line"
+             id="tspan132">Conclusion</tspan></text>
+        <path
+           d="m 804,535.5 h 88 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path136" />
+        <text
+           xml:space="preserve"
+           transform="translate(696,582)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text140"><tspan
+             x="0 10 24 37 50 55 62 69 76 106 120 130 138 143 153 163 168 180 188 193 203 212 217 227 232 242"
+             y="0"
+             sodipodi:role="line"
+             id="tspan138">PART III Design Principles</tspan></text>
+        <path
+           d="M 696,583.5 H 945 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path142" />
+        <text
+           xml:space="preserve"
+           transform="translate(696,630)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text146"><tspan
+             x="0 14 24 34 44 51 61 69 74 84 109 120 134 146 153 158 171 181 191 196 207 212 222 232 237 247 252 266 276 284 294 304 314 322 327 337 342 347 352 359 369 374 386 394 399 409 418 423 433 438"
+             y="0"
+             sodipodi:role="line"
+             id="tspan144">Chapter 7 SRP: The Single Responsibility Principle</tspan></text>
+        <path
+           d="m 696,631.5 h 447 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path148" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,657)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text152"><tspan
+             x="0 11 20 34 44 49 59 73 78 88 94 99 113 122 131 137 147 156 165 170 179 185 190 204 213 223 229 235 244 253 258 264 274"
+             y="0"
+             sodipodi:role="line"
+             id="tspan150">Symptom 1: Accidental Duplication</tspan></text>
+        <path
+           d="m 804,658.5 h 282 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path154" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,681)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text158"><tspan
+             x="0 11 20 34 44 49 59 73 78 88 94 99 116 125 132 141 150"
+             y="0"
+             sodipodi:role="line"
+             id="tspan156">Symptom 2: Merges</tspan></text>
+        <path
+           d="M 804,682.5 H 961 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path160" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,704)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text164"><tspan
+             x="0 11 21 27 36 41 47 57 66"
+             y="0"
+             sodipodi:role="line"
+             id="tspan162">Solutions</tspan></text>
+        <path
+           d="m 804,705.5 h 73 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path166" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,727)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text170"><tspan
+             x="0 13 23 32 41 47 56 64 70 80"
+             y="0"
+             sodipodi:role="line"
+             id="tspan168">Conclusion</tspan></text>
+        <path
+           d="m 804,728.5 h 88 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path172" />
+        <text
+           xml:space="preserve"
+           transform="translate(696,775)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text176"><tspan
+             x="0 14 24 34 44 51 61 69 74 84 109 125 139 151 158 163 176 186 196 201 217 227 237 247 254 268 273 283 291 301 311 316 328 336 341 351 360 365 375 380"
+             y="0"
+             sodipodi:role="line"
+             id="tspan174">Chapter 8 OCP: The Open-Closed Principle</tspan></text>
+        <path
+           d="m 696,776.5 h 389 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path178" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,802)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text182"><tspan
+             x="0 13 18 30 39 49 58 67 76 81 86 98 107 117 126 133 139 153 162 171"
+             y="0"
+             sodipodi:role="line"
+             id="tspan180">A Thought Experiment</tspan></text>
+        <path
+           d="M 804,803.5 H 979 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path184" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,825)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text188"><tspan
+             x="0 14 20 27 36 45 50 56 66 75 84 90 95 108 118 127 132 139 149"
+             y="0"
+             sodipodi:role="line"
+             id="tspan186">Directional Control</tspan></text>
+        <path
+           d="M 804,826.5 H 958 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path190" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,848)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text194"><tspan
+             x="0 6 15 21 31 38 52 61 66 72 82 91 96 110 116 126 132 141"
+             y="0"
+             sodipodi:role="line"
+             id="tspan192">Information Hiding</tspan></text>
+        <path
+           d="M 804,849.5 H 953 Z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path196" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,872)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text200"><tspan
+             x="0 13 23 32 41 47 56 64 70 80"
+             y="0"
+             sodipodi:role="line"
+             id="tspan198">Conclusion</tspan></text>
+        <path
+           d="m 804,873.5 h 88 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path202" />
+        <text
+           xml:space="preserve"
+           transform="translate(696,920)"
+           style="font-variant:normal;font-weight:bold;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPS-BoldMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text206"><tspan
+             x="0 14 24 34 44 51 61 69 74 84 109 122 133 145 152 157 170 180 190 195 208 213 221 232 242 252 257 268 278 288 296 303 308 315 325 332 337 347 357 362 374 382 387 397 406 411 421 426"
+             y="0"
+             sodipodi:role="line"
+             id="tspan204">Chapter 9 LSP: The Liskov Substitution Principle</tspan></text>
+        <path
+           d="m 696,921.5 h 435 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path208" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,947)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text212"><tspan
+             x="0 14 23 29 39 45 54 63 68 73 82 91 96 109 117 126 131 141 147 152 158 167 176 185 192 198 203 212 221 230"
+             y="0"
+             sodipodi:role="line"
+             id="tspan210">Guiding the Use of Inheritance</tspan></text>
+        <path
+           d="m 804,948.5 h 238 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path214" />
+        <text
+           xml:space="preserve"
+           transform="translate(804,970)"
+           style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'Times New Roman';-inkscape-font-specification:TimesNewRomanPSMT;writing-mode:lr-tb;fill:#0000ee;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text218"><tspan
+             x="0 12 21 30 35 46 56 65 74 81 90 96 109 118 127 132 141 150 159 165 174 179 190 197 207 217 223 232"
+             y="0"
+             sodipodi:role="line"
+             id="tspan216">The Square/Rectangle Problem</tspan></text>
+        <path
+           d="m 804,971.5 h 245 z"
+           style="fill:none;stroke:#0000ee;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path220" />
+      </g>
+    </g>
+  </g>
+</svg>
