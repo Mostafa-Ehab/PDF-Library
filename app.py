@@ -1,4 +1,4 @@
-from flask import Flask, render_template, session, redirect, request
+from flask import Flask, render_template, session, redirect, request, abort, send_file
 from flask_session import Session
 from tempfile import mkdtemp
 from flask_wtf.csrf import CSRFProtect
@@ -41,7 +41,9 @@ sql = db.cursor(dictionary=True)
 # Home Page
 @app.route("/")
 def index():
-    return render_template("users/index.html")
+    sql.execute("SELECT * FROM books")
+    data = sql.fetchall()
+    return render_template("users/index.html", data=data)
 
 # Login Page
 @app.route("/login", methods=["GET", "POST"])
@@ -93,14 +95,37 @@ def wishlist():
 # Books Page
 @app.route("/book/<sid>")
 def book(sid):
-    print(sid)
-    return render_template("users/book.html", title="Hello world!", book=True)
+    if Check.sid(sid, sql, "edit"):
+        sql.execute("SELECT * FROM books WHERE sid = %s", [sid])
+        row = sql.fetchone()
+        return render_template("users/book.html", data=row, book=True)
+    return abort(404)
+
+@app.route("/book/<sid>/<num>.svg")
+def book_img(sid, num):
+    file_name = f"files/{sid}/{num}.svg"
+    if path.exists(file_name):
+        return send_file(file_name)
+    return abort(404)
+    
+
+@app.route("/book/<sid>/<name>.pdf")
+def book_pdf(sid, name):
+    file_name = f"files/{sid}/{sid}.pdf"
+    if path.exists(file_name):
+        sql.execute("SELECT name FROM books WHERE sid = %s", [sid])
+        row = sql.fetchone()
+        if name == row["name"]:
+            return send_file(file_name, download_name=f"{name}.pdf" ,as_attachment=True)
+    return abort(404)
 
 # Admin Home Page
 @app.route("/admin")
 def admin():
     if session.get("user_id"):
-        return render_template("admin/index.html")
+        sql.execute("SELECT * FROM books")
+        data = sql.fetchall()
+        return render_template("admin/index.html", data=data)
     else:
         return redirect("/admin/login")
 
@@ -211,8 +236,8 @@ def admin_edit_book(sid):
             if Check.sid(sid, sql, "edit") and Check.title(title) and \
                 Check.author(author) and Check.date(date) and \
                 Check.version(version) and Check.version(lang) and Check.version(desc):
-                    sql.execute("UPDATE books SET (name, author, version, pub_date, lang) \
-                                = (%s, %s, %s, %s, %s) WHERE sid = %s",
+                    sql.execute("UPDATE books SET name = %s, author = %s, version = %s, \
+                                pub_date = %s, lang = %s WHERE sid = %s",
                                 [title, author, version, date, lang, sid])
 
                     db.commit()
@@ -220,10 +245,16 @@ def admin_edit_book(sid):
                     with open(f"files/{sid}/desc.txt", "w") as desc_file:
                         desc_file.write(desc)
 
-                    return "200"
-            
-            return "404"
-        return render_template("admin/edit.html")
+                    return redirect("/admin")
+            return abort(404)
+        else:
+            if Check.sid(sid, sql, "edit"):
+                sql.execute("SELECT * FROM books WHERE sid = %s", [sid])
+                row = sql.fetchone()
+                row['desc'] = open(f"files/{sid}/desc.txt", "r").read()
+
+                return render_template("admin/edit.html", data=row)
+            return abort(404)
     return redirect("/admin/login")
 
 # Converting Progress

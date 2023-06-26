@@ -56,7 +56,7 @@ class Check:
         
         # There is data in database
         elif action == "edit":
-            sql.execute("SELECT * FROM books WHERE sid = %s", sid)
+            sql.execute("SELECT * FROM books WHERE sid = %s", [sid])
             if sql.fetchone():
                 return True
             return  False

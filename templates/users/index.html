@@ -32,20 +32,22 @@ Homepage
 
 {% block main %}
 <div class="gallery">
-    {% for i in range(40) %}
+    {% for row in data %}
     <div class="gallery-view">
-        <a href="/book/hello">
-            <img class="img" src="https://picsum.photos/{{i * 100}}/{{i * 100}}">
+        <a href="/book/{{ row['sid'] }}">
+            <img class="img" src="/book/{{ row['sid'] }}/1.svg">
             <div class="details">
                 <p class="title">
-                    This is an awesome book
+                    {{ row['name'] }}
                 </p>
                 <p>
-                    Robert C. Martin
+                    {{ row['author'] }}
                 </p>
             </div>
         </a>
     </div>
+    {% else %}
+    <div> No data Available, Please Add some books </div>
     {% endfor %}
 </div>
 {% endblock %}
@@ -56,8 +58,8 @@ Homepage
 <!-- Wishlist  Page -->
 <p class="header">Wishlist</p>
 <ul class="list">
-    <!-- <li>Your wishlist is empty</li> -->
-    {% for i in range(3) %}
+    <li>Your wishlist is empty</li>
+    <!-- {% for i in range(3) %}
     <li>
         <a href="#" class="list-view">
             <img src="https://picsum.photos/{{i * 150}}/{{i * 100}}" class="side-view">
@@ -74,7 +76,7 @@ Homepage
         <a href="/wishlist" class="btn btn-sec-blue">
             See more
         </a>
-    </div>
+    </div> -->
 </ul>
 <div class="hr"></div>
 

@@ -1,15 +1,13 @@
 {% extends 'layout.html' %}
 
 {% block title %}
-{{ title }}
+{{ data['name'] }}
 {% endblock %}
 
 {% block navbar %}
 <div class="middle">
     <p class="book-title">
-        Clean Architecture
-        A CRAFTSMAN'S GUIDE TO SOFTWARE STRUCTURE AND
-        DESIGN
+        {{ data['name'] }}
     </p>
 </div>
 <div class="right">
@@ -18,7 +16,6 @@
 {% endblock %}
 
 {% block main_side_bar %}
-<!-- <p class="header">Contents</p> -->
 <ul class="list content">
     <li class="main-head">Introduction</li>
     <li class="main-head">Section 1
@@ -73,59 +70,60 @@
             <i class="fa-solid fa-eraser"></i>
         </button>
         <div class="page-num">
-            <input type="text" value="1" class="input"> of 422
+            <input type="text" value="1" class="input"> of {{ data['pages'] }}
         </div>
         <button class="maximize">
             <i class="fa-solid fa-up-right-and-down-left-from-center"></i>
             <i class="fa-solid fa-down-left-and-up-right-to-center"></i>
         </button>
     </div>
-    <div class="preview">
-        <!-- <object type="image/svg+xml" data="/static/img/book1/clean_arch1.svg"></object> -->
-        <img src="/static/img/book/clean_arch1.svg">
-        <img src="/static/img/book/clean_arch2.svg">
-        <img src="/static/img/book/clean_arch3.svg">
-        <img src="/static/img/book/clean_arch4.svg">
-        <img src="/static/img/book/clean_arch5.svg">
-        <img src="/static/img/book/clean_arch6.svg">
+    <div class="preview" data-num="{{ data['pages'] }}" data-sid="{{ data['sid'] }}">
+        {% for i in range(data['pages']) %}
+        {% if i < 5 %} <div>
+            <img src="/book/{{ data['sid'] }}/{{ i + 1 }}.svg">
     </div>
+    {% else %}
+    <div></div>
+    {% endif %}
+    {% endfor %}
+</div>
 </div>
 {% endblock %}
 
 {% block sec_side_bar %}
 <div class="detail-view">
-    <div class="title">Clean Code A handbook of Agile Software Craftsmanship</div>
+    <div class="title">{{ data['name'] }}</div>
     <img src="/static/img/book/clean_arch1.svg">
     <table class="details">
         <tr>
             <td>Title</td>
             <td>
-                : Clean Code A handbook of Agile Software Craftsmanship
+                : {{ data['name'] }}
             </td>
         </tr>
         <tr>
             <td>Author</td>
-            <td>: Robert C. Martin</td>
+            <td>: {{ data['author'] }}</td>
         </tr>
         <tr>
             <td>Language</td>
-            <td>: English</td>
+            <td>: {{ data['lang'] }}</td>
         </tr>
         <tr>
             <td>Number of pages</td>
-            <td>: 140 Page</td>
+            <td>: {{ data['pag_num'] }} Page</td>
         </tr>
         <tr>
             <td>Publication date</td>
-            <td>: June 2018</td>
+            <td>: {{ data['pub_date'] }}</td>
         </tr>
         <tr>
             <td>Version</td>
-            <td>: 4.2</td>
+            <td>: {{ data['version'] }}</td>
         </tr>
     </table>
-    <button class="btn btn-green download">
+    <a class="btn btn-green download" href="/book/{{ data['sid'] }}/{{ data['name'] }}.pdf">
         <i class="fa-solid fa-download"></i>Download
-    </button>
+    </a>
 </div>
 {% endblock %}

@@ -96,7 +96,8 @@ a {
 /* List Button: Main side Bar items */
 .btn-list {
   color: var(--text-color);
-  padding: 0;
+  font-size: 100%;
+  padding: 5px 0;
 }
 
 /* Start Primary Buttons */
@@ -162,6 +163,11 @@ a {
   font-size: 80%;
 }
 
+.input[type=date],
+textarea.input {
+  font-size: 100%;
+}
+
 .input:hover {
   box-shadow: 0 0 5px var(--sec-color);
 }
@@ -196,6 +202,7 @@ a {
   color: var(--text-color);
   text-decoration: none;
   font-size: 2rem;
+  padding: 0;
 }
 .navbar .middle {
   display: contents;
@@ -651,6 +658,7 @@ a {
 }
 .sec-side-bar .detail-view .download {
   display: block;
+  width: fit-content;
   margin: 0 0 0 auto;
 }
 .sec-side-bar .search-history,

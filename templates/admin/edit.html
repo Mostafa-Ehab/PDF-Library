@@ -33,7 +33,7 @@ Dashboard
 <p class="header">Edit book</p>
 <div class="edit">
     <div class="form-container">
-        <form class="form" action="/admin/edit/hello" method="post">
+        <form class="form" action="/admin/edit/{{ data['sid'] }}" method="post">
             <!-- CSRF Token -->
             <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
 
@@ -43,7 +43,8 @@ Dashboard
                         <label for="title">Title</label>
                     </td>
                     <td>
-                        <input type="text" class="input" name="title" id="title" placeholder="Enter the book title">
+                        <input type="text" class="input" name="title" id="title" placeholder="Enter the book title"
+                            value="{{ data['name'] }}" required>
                     </td>
                 </tr>
                 <tr>
@@ -51,7 +52,8 @@ Dashboard
                         <label for="author">Author</label>
                     </td>
                     <td>
-                        <input type="text" class="input" name="author" id="author" placeholder="Enter the book author">
+                        <input type="text" class="input" name="author" id="author" placeholder="Enter the book author"
+                            value="{{ data['author'] }}" required>
                     </td>
                 </tr>
                 <tr>
@@ -59,7 +61,7 @@ Dashboard
                         <label for="date">Pub. Date</label>
                     </td>
                     <td>
-                        <input type="date" class="input" name="date" id="date">
+                        <input type="date" class="input" name="date" id="date" value="{{ data['pub_date'] }}" required>
                     </td>
                 </tr>
                 <tr>
@@ -67,7 +69,8 @@ Dashboard
                         <label for="version">Version</label>
                     </td>
                     <td>
-                        <input type="text" class="input" name="version" id="version">
+                        <input type="text" class="input" name="version" id="version" value="{{ data['version'] }}"
+                            required>
                     </td>
                 </tr>
                 <tr>
@@ -75,7 +78,7 @@ Dashboard
                         <label for="lang">Language</label>
                     </td>
                     <td>
-                        <input type="text" class="input" name="version" id="version">
+                        <input type="text" class="input" name="lang" id="lang" value="{{ data['lang'] }}" required>
                     </td>
                 </tr>
                 <tr>
@@ -92,14 +95,15 @@ Dashboard
                         <label for="description">Description</label>
                     </td>
                     <td>
-                        <textarea name="description" class="input" id="description"></textarea>
+                        <textarea name="description" class="input" id="description"
+                            required>{{ data['desc'] }}</textarea>
                     </td>
                 </tr>
                 <tr>
                     <td>
                     </td>
                     <td>
-                        <button type="submit" class="btn btn-blue" disabled>Save</button>
+                        <button type="submit" class="btn btn-blue">Save</button>
                     </td>
                 </tr>
             </table>
@@ -108,7 +112,7 @@ Dashboard
     <div>
         <div class="item-view">
             <p class="header">Clean Code</p>
-            <img src="/static/img/book/clean_arch1.svg">
+            <img src="/book/{{ data['sid'] }}/1.svg">
         </div>
     </div>
 </div>

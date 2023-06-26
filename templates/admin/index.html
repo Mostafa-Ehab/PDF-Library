@@ -36,16 +36,19 @@ Dashboard
     <div class="head">Date</div>
     <div class="head">Size</div>
     <div class="head">Edit</div>
-
-    <div>1</div>
-    <div>Clean code</div>
-    <div>June 2018</div>
-    <div>140 Page</div>
+    {% for row in data %}
+    <div>{{ loop.index }}</div>
+    <div>{{ row['name'] }}</div>
+    <div>{{ row['pub_date'] }}</div>
+    <div>{{ row['pages'] }} Page</div>
     <div class="btn-edit">
-        <a class="btn" href="/admin/edit/Hello-world">
+        <a class="btn" href="/admin/edit/{{ row['sid'] }}">
             <i class="fa-solid fa-pen-to-square"></i>
         </a>
     </div>
+    {% else %}
+    <div> No data Available, Please Add some books </div>
+    {% endfor %}
 </div>
 {% endblock %}
 
