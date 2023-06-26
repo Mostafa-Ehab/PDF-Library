@@ -144,7 +144,6 @@ function uploadAnimation(xhttp) {
                 xhttp2.setRequestHeader('X-CSRF-Token', csrf)
                 xhttp2.send()
             }, 2000)
-
         }
     }
 }

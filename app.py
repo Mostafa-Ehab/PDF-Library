@@ -168,20 +168,18 @@ def admin_add_book():
                 desc = request.form.get("description")
 
                 # Check SID Validity
-                pages_num = get_pages_num(sid)
-                sql.execute("SELECT * FROM books WHERE sid = %s", sid)
-                row = sql.fetchall()
-                if pages_num == 0 or len(row) != 0:
+                if not Check.sid(sid, sql, "add"):
                     return "404"
                 
                 # Get file Size
+                pages_num = get_pages_num(sid)
                 file_size = get_file_size(sid)
                 
                 # Check Data And Send to Database
-                if title and author and date:
-                    version = 0 if version == "" else version
-                    lang = 0 if lang == "" else lang
-                    desc = "No description Available" if desc == "" else desc
+                if Check.title(title) and Check.author(author) and Check.date(date):
+                    version = 0 if not Check.version(version) else version
+                    lang = 0 if not Check.lang(lang) else lang
+                    desc = "No description Available" if not Check.desc(desc) else desc
 
                     sql.execute("INSERT INTO books (sid, name, author, version, pub_date, lang, size, pages, admin) \
                                 VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)",
@@ -193,13 +191,9 @@ def admin_add_book():
                         desc_file.write(desc)
 
                     return "200"
-                else:
-                    return "404"
-        else:
-            # GET Method
-            return render_template("admin/add.html")
-    else:
-        return redirect("/admin/login")
+                return "404"
+        return render_template("admin/add.html")
+    return redirect("/admin/login")
 
 # Admin Edit Book Page
 @app.route("/admin/edit/<sid>", methods=["GET", "POST"])
@@ -213,13 +207,10 @@ def admin_edit_book(sid):
             lang = request.form.get("lang")
             desc = request.form.get("description")
 
-            # Check SID Validity
-            pages_num = get_pages_num(sid)
-            sql.execute("SELECT * FROM books WHERE sid = %s", sid)
-            row = sql.fetchone()
-            if row:
-                # Check Data And Send to Database
-                if title and author and date and version and lang and desc:
+            # Check Data validity
+            if Check.sid(sid, sql, "edit") and Check.title(title) and \
+                Check.author(author) and Check.date(date) and \
+                Check.version(version) and Check.version(lang) and Check.version(desc):
                     sql.execute("UPDATE books SET (name, author, version, pub_date, lang) \
                                 = (%s, %s, %s, %s, %s) WHERE sid = %s",
                                 [title, author, version, date, lang, sid])
@@ -229,13 +220,11 @@ def admin_edit_book(sid):
                     with open(f"files/{sid}/desc.txt", "w") as desc_file:
                         desc_file.write(desc)
 
-                return "200"
-            else:
-                return "404"
-        else:
-            return render_template("admin/edit.html")
-    else:
-        return redirect("/admin/login")
+                    return "200"
+            
+            return "404"
+        return render_template("admin/edit.html")
+    return redirect("/admin/login")
 
 # Converting Progress
 @app.route("/admin/progress")
@@ -247,7 +236,7 @@ def admin_upload_progress():
             count = 0
             for file in listdir(f"files/{sid}"):
                 # check if current path is a file
-                if path.isfile(path.join(f"files/{sid}", file)):
+                if path.isfile(path.join(f"files/{sid}", file)) and ".svg" in file:
                     count += 1
             return json.dumps([count-1, num])
         
