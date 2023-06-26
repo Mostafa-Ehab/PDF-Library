@@ -35,7 +35,8 @@ a {
   display: inline-block;
 }
 
-.fixed-block {
+.fixed-block,
+.preview {
   background-color: var(--bg-color);
   padding: 20px;
   overflow: scroll;
@@ -45,8 +46,8 @@ a {
   /* Firefox */
 }
 
-.fixed-block::-webkit-scrollbar,
-.preview::-webkit-scrollbar {
+.preview::-webkit-scrollbar,
+.fixed-block::-webkit-scrollbar {
   display: none;
   /* Safari and Chrome */
 }
@@ -215,6 +216,15 @@ textarea.input {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+}
+.navbar .avatar {
+  padding: 0;
+}
+.navbar .avatar img {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  border: var(--sec-color) solid 2px;
 }
 
 /* --------------------- Search bar Component -------------------- */
@@ -395,6 +405,15 @@ textarea.input {
   color: var(--red-color);
 }
 
+/* Change Register form colors */
+.register .input-bar input {
+  border-color: var(--red-color);
+}
+.register .input-bar label {
+  background-color: var(--red-color);
+  border-color: var(--red-color);
+}
+
 /* ------------------------- Main Side Bar ----------------------- */
 .main-side-bar {
   position: fixed;
@@ -452,6 +471,9 @@ textarea.input {
   /* Main Page Gallery */
   /* Book Page */
   /* Control Book Full Screen */
+  /* width */
+  /* Track */
+  /* Handle */
   /* History & Wishlist Page */
 }
 .main .gallery {
@@ -490,11 +512,16 @@ textarea.input {
 .main .book {
   position: fixed;
   top: inherit;
-  bottom: 0;
+  bottom: -20px;
   left: inherit;
   right: inherit;
   padding-top: 0;
   border-radius: var(--block-radius) var(--block-radius) 0 0;
+  transition: var(--duration);
+  -ms-overflow-style: auto;
+  /* Internet Explorer 10+ */
+  scrollbar-width: auto;
+  /* Firefox */
   /* Tool Bar in Book Page */
   /* Book Preview in Book Page*/
 }
@@ -523,7 +550,8 @@ textarea.input {
 }
 .main .book .tool-bar .page-num input {
   height: 32px;
-  width: 36px;
+  width: 50px;
+  text-align: center;
   border: var(--sec-color) solid 2px;
   border-radius: 5px;
 }
@@ -555,11 +583,9 @@ textarea.input {
 }
 .main .book .preview {
   width: 100%;
-  overflow: scroll;
-  -ms-overflow-style: none;
-  /* Internet Explorer 10+ */
-  scrollbar-width: none;
-  /* Firefox */
+}
+.main .book .preview div {
+  min-height: 200px;
 }
 .main .book .preview img {
   margin: 0 auto 10px;
@@ -574,6 +600,22 @@ textarea.input {
   right: 0;
   z-index: 200;
   border-radius: 0;
+}
+.main .book::-webkit-scrollbar {
+  display: block;
+  width: 15px;
+}
+.main .book::-webkit-scrollbar-track {
+  background-color: var(--sec-color);
+  box-shadow: inset 0 0 5px #000;
+  border-radius: var(--img-radius);
+  background: #f1f1f1;
+}
+.main .book::-webkit-scrollbar-thumb {
+  background: var(--bg-color);
+  border-radius: var(--img-radius);
+  border: var(--sec-color) solid 3px;
+  width: 150%;
 }
 .main .history,
 .main .wishlist {

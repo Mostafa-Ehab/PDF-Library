@@ -47,3 +47,17 @@
         color: var(--red-color);
     }
 }
+
+/* Change Register form colors */
+.register {
+    .input-bar {
+        input {
+            border-color: var(--red-color);
+        }
+
+        label {
+            background-color: var(--red-color);
+            border-color: var(--red-color);
+        }
+    }
+}

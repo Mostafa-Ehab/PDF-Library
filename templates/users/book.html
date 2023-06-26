@@ -11,7 +11,11 @@
     </p>
 </div>
 <div class="right">
+    {% if logged_in %}
+    {% include 'components/user-btns.html' %}
+    {% else %}
     {% include 'components/login-btns.html' %}
+    {% endif %}
 </div>
 {% endblock %}
 
@@ -79,7 +83,7 @@
     </div>
     <div class="preview" data-num="{{ data['pages'] }}" data-sid="{{ data['sid'] }}">
         {% for i in range(data['pages']) %}
-        {% if i < 5 %} <div>
+        {% if i < 10 %} <div>
             <img src="/book/{{ data['sid'] }}/{{ i + 1 }}.svg">
     </div>
     {% else %}

@@ -4,11 +4,10 @@ from tempfile import mkdtemp
 from flask_wtf.csrf import CSRFProtect
 from flask_bcrypt import Bcrypt
 from helper import *
-from os import mkdir, listdir, path, rmdir
+from os import mkdir, listdir, path
 import json
 import threading
 import mysql.connector
-import PyPDF2
 import shutil
 import time
 
@@ -43,7 +42,7 @@ sql = db.cursor(dictionary=True)
 def index():
     sql.execute("SELECT * FROM books")
     data = sql.fetchall()
-    return render_template("users/index.html", data=data)
+    return render_template("users/index.html", data=data, logged_in=is_logged_in(session))
 
 # Login Page
 @app.route("/login", methods=["GET", "POST"])
@@ -54,7 +53,7 @@ def login():
         password = request.form.get("password")
 
         sql.execute(
-            "SELECT * FROM users WHERE username = %s", (username, ))
+            "SELECT * FROM users WHERE username = %s", [username])
         row = sql.fetchone()
 
         if row:
@@ -63,7 +62,7 @@ def login():
                 session["user_id"] = 1
                 session["is_admin"] = int(row["admin"])
                 if session["is_admin"]:
-                    print("Yes")
+                    print("This user is admin")
                 return redirect("/")
 
         # Incorrect Credintials
@@ -80,17 +79,17 @@ def login():
 # Register Page
 @app.route("/register")
 def register():
-    return render_template("users/register.html")
+    return render_template("users/register.html", logged_in=is_logged_in(session))
 
 # History Page
 @app.route("/history")
 def history():
-    return render_template("users/history.html")
+    return render_template("users/history.html", logged_in=is_logged_in(session))
 
 # Wishlist Page
 @app.route("/wishlist")
 def wishlist():
-    return render_template("users/wishlist.html")
+    return render_template("users/wishlist.html", logged_in=is_logged_in(session))
 
 # Books Page
 @app.route("/book/<sid>")
@@ -98,7 +97,7 @@ def book(sid):
     if Check.sid(sid, sql, "edit"):
         sql.execute("SELECT * FROM books WHERE sid = %s", [sid])
         row = sql.fetchone()
-        return render_template("users/book.html", data=row, book=True)
+        return render_template("users/book.html", data=row, book=True, logged_in=is_logged_in(session))
     return abort(404)
 
 @app.route("/book/<sid>/<num>.svg")
@@ -122,7 +121,7 @@ def book_pdf(sid, name):
 # Admin Home Page
 @app.route("/admin")
 def admin():
-    if session.get("user_id"):
+    if is_admin(session):
         sql.execute("SELECT * FROM books")
         data = sql.fetchall()
         return render_template("admin/index.html", data=data)
@@ -223,7 +222,7 @@ def admin_add_book():
 # Admin Edit Book Page
 @app.route("/admin/edit/<sid>", methods=["GET", "POST"])
 def admin_edit_book(sid):
-    if session.get("user_id"):
+    if is_admin(session):
         if request.method == "POST":
             title = request.form.get("title")
             author = request.form.get("author")

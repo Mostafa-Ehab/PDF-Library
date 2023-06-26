@@ -18,7 +18,11 @@ History
     </form>
 </div>
 <div class="right">
-
+    {% if logged_in %}
+    {% include 'components/user-btns.html' %}
+    {% else %}
+    {% include 'components/login-btns.html' %}
+    {% endif %}
 </div>
 {% endblock %}
 
@@ -34,8 +38,8 @@ History
 <div class="history">
     <p class="header">History</p>
     <ul class="list">
-        <!-- <li>Your history is empty</li> -->
-        {% for i in range(3) %}
+        <li>Your history is empty</li>
+        <!-- {% for i in range(3) %}
         <li>
             <a href="#" class="list-view">
                 <img src="https://picsum.photos/{{i * 150}}/{{i * 100}}" class="main-view">
@@ -47,7 +51,7 @@ History
                 </div>
             </a>
         </li>
-        {% endfor %}
+        {% endfor %} -->
     </ul>
 </div>
 {% endblock %}

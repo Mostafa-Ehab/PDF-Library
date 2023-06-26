@@ -18,7 +18,11 @@ Homepage
     </form>
 </div>
 <div class="right">
+    {% if logged_in %}
+    {% include 'components/user-btns.html' %}
+    {% else %}
     {% include 'components/login-btns.html' %}
+    {% endif %}
 </div>
 {% endblock %}
 

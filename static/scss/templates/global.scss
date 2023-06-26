@@ -46,20 +46,19 @@ a {
     display: inline-block;
 }
 
-.fixed-block {
+.fixed-block,
+.preview {
     background-color: var(--bg-color);
     padding: 20px;
     overflow: scroll;
-
     -ms-overflow-style: none;
     /* Internet Explorer 10+ */
     scrollbar-width: none;
     /* Firefox */
 }
 
-.fixed-block::-webkit-scrollbar,
-/* Book Preview */
-.preview::-webkit-scrollbar {
+.preview::-webkit-scrollbar,
+.fixed-block::-webkit-scrollbar {
     display: none;
     /* Safari and Chrome */
 }

@@ -13,8 +13,14 @@ def generate_sid(length=16):
     # Set the return value to the generated string
     return random_string
 
-def is_admin(session):
+def is_logged_in(session):
     if session.get("user_id"):
+        return True
+
+    return False
+
+def is_admin(session):
+    if is_logged_in(session):
         if session["is_admin"]:
             return True
     

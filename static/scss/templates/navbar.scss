@@ -39,4 +39,15 @@
             text-overflow: ellipsis;
         }
     }
+
+    .avatar {
+        padding: 0;
+
+        img {
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            border: var(--sec-color) solid 2px;
+        }
+    }
 }

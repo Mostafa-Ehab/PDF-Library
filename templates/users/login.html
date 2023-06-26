@@ -10,14 +10,24 @@ Login
 <div class="header">
     Login <a href="/" class="btn btn-icon back"><i class="fa-solid fa-angle-left"></i></a>
 </div>
-<form>
+<form action="/login" method="POST">
+    <!-- CSRF Token -->
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" />
+
+    <!-- Incorrect credentials error message -->
+    {% if error %}
+    <div>
+        <p class="error">Incorrect username or Password</p>
+    </div>
+    {% endif %}
+
     <!-- Username Field -->
     <div>
         <label for="username">Username</label>
     </div>
     <div class="input-bar">
         <label for="username" class="input"><i class="fa-solid fa-user"></i></label>
-        <input type="text" class="input" id="username" name="username" placeholder="E-mail or Username">
+        <input type="text" class="input" id="username" name="username" placeholder="E-mail or Username" required>
     </div>
 
     <!-- Password Field -->
@@ -26,7 +36,7 @@ Login
     </div>
     <div class="input-bar">
         <label for="password" class="input"><i class="fa-solid fa-key"></i></label>
-        <input type="password" class="input" id="password" name="password" placeholder="Password">
+        <input type="password" class="input" id="password" name="password" placeholder="Password" required>
     </div>
 
     <!-- Login Button -->
