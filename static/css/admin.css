@@ -231,6 +231,12 @@ body {
 }
 .dashboard .container .sec-bar .item table tr td {
   padding-bottom: 5px;
+  white-space: nowrap;
+}
+.dashboard .container .sec-bar .item table tr td p {
+  overflow: hidden;
+  display: inline-block;
+  height: 1em;
 }
 .dashboard .container .sec-bar .item table tr td:first-child {
   font-weight: 900;
@@ -376,6 +382,7 @@ body {
   right: 0;
   bottom: 0;
   width: 400px;
+  overflow: scroll;
   box-shadow: -5px 5px 5px 0 rgba(0, 0, 0, 0.5), -5px 10px 10px 0 rgba(0, 0, 0, 0.19);
   background-color: var(--bg-color);
   color: var(--nav-color);
@@ -408,11 +415,19 @@ body {
   font-weight: 900;
   margin-bottom: 20px;
 }
+.add .container .sec-bar .item table {
+  width: 100%;
+}
 .add .container .sec-bar .item table tr td {
   padding-bottom: 5px;
 }
+.add .container .sec-bar .item table tr td p {
+  overflow: hidden;
+  display: inline-block;
+}
 .add .container .sec-bar .item table tr td:first-child {
   font-weight: 900;
+  white-space: nowrap;
 }
 .add .container .sec-bar .item .desc {
   overflow: hidden;

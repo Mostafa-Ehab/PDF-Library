@@ -275,6 +275,13 @@ body {
                 table tr {
                     td {
                         padding-bottom: 5px;
+                        white-space: nowrap;
+
+                        p {
+                            overflow: hidden;
+                            display: inline-block;
+                            height: 1em;
+                        }
                     }
 
                     td:first-child {
@@ -468,6 +475,7 @@ body {
             right: 0;
             bottom: 0;
             width: 400px;
+            overflow: scroll;
 
             box-shadow: -5px 5px 5px 0 rgba(0, 0, 0, 0.5), -5px 10px 10px 0 rgba(0, 0, 0, 0.19);
             background-color: var(--bg-color);
@@ -505,13 +513,25 @@ body {
                     margin-bottom: 20px;
                 }
 
-                table tr {
-                    td {
-                        padding-bottom: 5px;
-                    }
+                table {
+                    width: 100%;
 
-                    td:first-child {
-                        font-weight: 900;
+                    tr {
+                        td {
+                            padding-bottom: 5px;
+                            // white-space: nowrap;
+
+                            p {
+                                overflow: hidden;
+                                display: inline-block;
+                                // height: 1em;
+                            }
+                        }
+
+                        td:first-child {
+                            font-weight: 900;
+                            white-space: nowrap;
+                        }
                     }
                 }
 
