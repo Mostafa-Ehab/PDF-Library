@@ -13,8 +13,16 @@
     /* Dark Mode */
     // --bg-color: #242424;
     // --sec-color: #2B2B2B;
-    // --text-color: #9BA4B4;
+    // // --text-color: #9BA4B4;
+    // --text-color: #ddd;
     // --btn-color: #fff;
+
+    // --bg-color: #333533;
+    // --sec-color: #000;
+    // --text-color: #ddd;
+    // --btn-color: #fff;
+
+    // --blue-color: #0abab5;
 
     /* Buttons and Input Fields Colors */
     --blue-color: #0d6efd;
@@ -69,6 +77,10 @@ a {
     background-color: var(--sec-color);
     height: 3px;
     margin: 20px 0;
+}
+
+.rtl {
+    direction: rtl;
 }
 
 /* --------------- End Variables & global Settings --------------- */

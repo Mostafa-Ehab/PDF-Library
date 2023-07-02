@@ -10,6 +10,7 @@
     input {
         padding-left: 45px;
         border-color: var(--blue-color);
+        background-color: var(--bg-color);
     }
 
     label {
@@ -18,7 +19,7 @@
         left: 0;
         width: auto;
         background-color: var(--blue-color);
-        color: var(--bg-color);
+        color: var(--btn-color);
         border-color: var(--blue-color);
         border-radius: var(--img-radius) 0 0 var(--img-radius);
     }
@@ -42,7 +43,7 @@
         right: 0;
         width: auto;
         background-color: var(--sec-color);
-        color: var(--bg-color);
+        color: var(--btn-color);
         border-radius: 0 var(--img-radius) var(--img-radius) 0;
     }
 }

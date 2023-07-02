@@ -3,6 +3,7 @@ import string
 import PyPDF2
 from datetime import datetime
 from os import system, path, stat
+import re
 
 # Define a function
 def generate_sid(length=16):
@@ -12,6 +13,14 @@ def generate_sid(length=16):
     random_string = ''.join(random.choice(characters) for _ in range(length))
     # Set the return value to the generated string
     return random_string
+
+
+def check_email(s):
+    pat = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,7}\b'
+    if re.match(pat, s):
+        return True
+    else:
+        return False
 
 def is_logged_in(session):
     if session.get("user_id"):
@@ -29,9 +38,9 @@ def is_admin(session):
 def pdf_convert(sid):
     num = get_pages_num(sid)
     for i in range(num):
-        print("Converting")
+        print(f"Converting {sid}: {i + 1} of {num}")
         system(
-            f'inkscape "files/{sid}/{sid}.pdf" --pdf-page={i+1} --export-type="svg" -o "files/{sid}/{i+1}.svg"')
+            f'inkscape "files/{sid}/{sid}.pdf" --pdf-poppler --pdf-page={i+1} --export-type="svg" -o "files/{sid}/{i+1}.svg"')
         
 def get_pages_num(sid):
     if path.exists(f"files/{sid}/{sid}.pdf"):
@@ -84,10 +93,10 @@ class Check:
 
     def date(date):
         try:
-            datetime.strptime(date, "%Y-%m-%d").timestamp()
+            datetime.strptime(date, "%Y-%m-%d")
         except:
             return False
-        if datetime.strptime(date, "%Y-%m-%d").timestamp() > datetime.now().timestamp():
+        if datetime.strptime(date, "%Y-%m-%d") > datetime.now():
             return  False
         return True
 

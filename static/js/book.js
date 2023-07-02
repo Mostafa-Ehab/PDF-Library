@@ -22,6 +22,11 @@ currrentInput.addEventListener("change", function (event) {
     let x = image[currentPage - 1].offsetLeft
     let y = image[currrentInput.value - 1].offsetTop
     book.scrollTo(x, y)
+    setTimeout(function () {
+        let x = image[currentPage - 1].offsetLeft
+        let y = image[currrentInput.value - 1].offsetTop
+        book.scrollTo(x, y)
+    }, 2000)
     currentPage = currrentInput.value
 })
 
@@ -45,6 +50,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
                         }
                     }
                 }
+                break
             }
         }
     })
@@ -60,7 +66,7 @@ function inViewport(el) {
     return (
         rect.top >= 0 &&
         rect.left >= 0 &&
-        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && /* or $(window).height() */
+        rect.top <= (window.innerHeight || document.documentElement.clientHeight) / 2 && /* or $(window).height() */
         rect.right <= (window.innerWidth || document.documentElement.clientWidth) /* or $(window).width() */
     );
 }

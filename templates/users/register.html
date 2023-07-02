@@ -10,14 +10,22 @@ Register
 <div class="header">
     Register <a href="/" class="btn btn-icon back"><i class="fa-solid fa-angle-left"></i></a>
 </div>
-<form class="register">
+<form class="register" action="/register" method="POST">
+    <!-- CSRF Token -->
+    <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" id="csrf" />
+
+    <!-- Incorrect credentials error message -->
+    <div>
+        <p class="error"></p>
+    </div>
+
     <!-- Username Field -->
     <div>
         <label for="username">Username</label>
     </div>
     <div class="input-bar">
         <label for="username" class="input"><i class="fa-solid fa-user"></i></label>
-        <input type="text" class="input" id="username" name="username" placeholder="Username">
+        <input type="text" class="input" id="username" name="username" placeholder="Username (optional)">
     </div>
 
     <!-- Email Field -->
@@ -26,7 +34,7 @@ Register
     </div>
     <div class="input-bar">
         <label for="email" class="input"><i class="fa-solid fa-at"></i></label>
-        <input type="email" class="input" id="email" name="email" placeholder="E-mail">
+        <input type="email" class="input" id="email" name="email" placeholder="E-mail (optional)">
     </div>
 
     <!-- Password Field -->
@@ -38,7 +46,7 @@ Register
         <input type="password" class="input" id="password" name="password" placeholder="Password">
     </div>
 
-    <!-- COnfirm Password Field -->
+    <!-- Confirm Password Field -->
     <div>
         <label for="password">Confirm Password</label>
     </div>
@@ -49,7 +57,7 @@ Register
 
     <!-- Submit Button -->
     <div>
-        <button type="submit" class="btn btn-red">
+        <button type="submit" class="btn btn-red submit">
             <i class="fa-solid fa-right-to-bracket"></i>Register
         </button>
     </div>

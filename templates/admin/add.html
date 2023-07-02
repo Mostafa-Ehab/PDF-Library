@@ -30,7 +30,7 @@ Dashboard
 <!-- ------------------------------------------------------------ -->
 
 {% block main %}
-<p class="header">Edit book</p>
+<p class="header">Add book</p>
 <div class="add">
     <div class="form-container">
         <form class="form" action="/admin/add" method="post" id="form">
@@ -78,7 +78,13 @@ Dashboard
                         <label for="lang">Language</label>
                     </td>
                     <td>
-                        <input type="text" class="input" name="lang" id="lang">
+                        <!-- <input type="text" class="input" name="lang" id="lang"> -->
+                        <select name="lang" id="lang" class="input">
+                            <option value="0" selected></option>
+                            {% for lang in languages %}
+                            <option value="{{ lang['id'] }}">{{ lang['lang'] }}</option>
+                            {% endfor %}
+                        </select>
                     </td>
                 </tr>
                 <tr>

@@ -60,6 +60,10 @@ a {
   margin: 20px 0;
 }
 
+.rtl {
+  direction: rtl;
+}
+
 /* --------------- End Variables & global Settings --------------- */
 /* -------------------------- Buttons ---------------------------- */
 /* Start Global Buttons */
@@ -239,6 +243,7 @@ textarea.input {
 .input-bar input {
   padding-left: 45px;
   border-color: var(--blue-color);
+  background-color: var(--bg-color);
 }
 .input-bar label {
   position: absolute;
@@ -246,7 +251,7 @@ textarea.input {
   left: 0;
   width: auto;
   background-color: var(--blue-color);
-  color: var(--bg-color);
+  color: var(--btn-color);
   border-color: var(--blue-color);
   border-radius: var(--img-radius) 0 0 var(--img-radius);
 }
@@ -269,7 +274,7 @@ textarea.input {
   right: 0;
   width: auto;
   background-color: var(--sec-color);
-  color: var(--bg-color);
+  color: var(--btn-color);
   border-radius: 0 var(--img-radius) var(--img-radius) 0;
 }
 
@@ -412,6 +417,9 @@ textarea.input {
 .register .input-bar label {
   background-color: var(--red-color);
   border-color: var(--red-color);
+}
+.register .input-bar:hover {
+  box-shadow: 0 0 5px var(--red-color);
 }
 
 /* ------------------------- Main Side Bar ----------------------- */

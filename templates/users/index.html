@@ -37,7 +37,7 @@ Homepage
 {% block main %}
 <div class="gallery">
     {% for row in data %}
-    <div class="gallery-view">
+    <div class="gallery-view {% if row['lang'] == 2 %} rtl {% endif %}">
         <a href="/book/{{ row['sid'] }}">
             <img class="img" src="/book/{{ row['sid'] }}/1.svg">
             <div class="details">

@@ -4,6 +4,7 @@ from tempfile import mkdtemp
 from flask_wtf.csrf import CSRFProtect
 from flask_bcrypt import Bcrypt
 from helper import *
+from modules.register import Register
 from os import mkdir, listdir, path
 import json
 import threading
@@ -66,7 +67,7 @@ def login():
                 return redirect("/")
 
         # Incorrect Credintials
-        return render_template("users/login.html", error=True)
+        return render_template("users/login.html", error=True, msg="Incorrect username or Password")
     # Login Page
     else:
         # If not Logged in
@@ -77,9 +78,10 @@ def login():
             return redirect("/")
 
 # Register Page
-@app.route("/register")
+@app.route("/register", methods=["GET", "POST"])
 def register():
-    return render_template("users/register.html", logged_in=is_logged_in(session))
+    register = Register(sql, db, bcrypt)
+    return register.register()
 
 # History Page
 @app.route("/history")
@@ -216,7 +218,10 @@ def admin_add_book():
 
                     return "200"
                 return "404"
-        return render_template("admin/add.html")
+        else:
+            sql.execute("SELECT * FROM languages")
+            languages = sql.fetchall()
+            return render_template("admin/add.html", languages=languages)
     return redirect("/admin/login")
 
 # Admin Edit Book Page

@@ -3,7 +3,7 @@ const fileInput = document.querySelector("#file")
 const submit = document.querySelector("#submit")
 const form = document.querySelector("#form")
 const sid = document.querySelector("#sid")
-const csrf = document.querySelector("#csrf").getAttribute("value")
+const csrf = document.querySelector("#csrf").value
 const confirmFileUpload = document.querySelector(".confirm-file-upload")
 
 fileInput.addEventListener("change", (event) => {
