@@ -80,7 +80,6 @@ Dashboard
                     <td>
                         <!-- <input type="text" class="input" name="lang" id="lang"> -->
                         <select name="lang" id="lang" class="input">
-                            <option value="0" selected></option>
                             {% for lang in languages %}
                             <option value="{{ lang['id'] }}">{{ lang['lang'] }}</option>
                             {% endfor %}
@@ -92,8 +91,24 @@ Dashboard
                         <label for="category">Category</label>
                     </td>
                     <td>
-                        <select disabled class="input">
-                        </select>
+                        <div class="category">
+                            <select class="input">
+                                <option>Select later</option>
+                                <i class="fa-solid fa-angle-down"></i>
+                            </select>
+                            <button class="input"></button>
+                            <ul class="input">
+                                {% for category in categories %}
+                                <li>
+                                    <label for="cat-{{ category['id'] }}">{{ category['name'] }}</label>
+                                    <input type="checkbox" id="cat-{{ category['id'] }}" name="category"
+                                        value="{{ category['id'] }}">
+                                </li>
+                                {% else %}
+                                <li> Please add some categories first </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
                     </td>
                 </tr>
                 <tr>

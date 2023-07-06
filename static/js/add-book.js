@@ -36,6 +36,11 @@ confirmFileUpload.querySelector(".file-upload").addEventListener("click", (event
     xhttp.send(formData);
 })
 
+document.querySelector(".category button").addEventListener("click", function (event) {
+    event.preventDefault()
+    document.querySelector(".category ul").classList.toggle("active")
+})
+
 /* Submit Data Form */
 submit.addEventListener("click", (event) => {
     event.preventDefault()
@@ -60,24 +65,6 @@ submit.addEventListener("click", (event) => {
     xhttp.setRequestHeader('X-CSRF-Token', csrf)
     xhttp.send(formData)
 })
-
-/* Show Error Messages */
-function showErrorMsg(text) {
-    let error = document.querySelector(".error")
-    error.querySelector("p").innerHTML = text
-    error.classList.add("show")
-
-    setTimeout(function () { error.classList.remove("show") }, 2000)
-}
-
-/* Show Success Message */
-function showSuccessMsg(text) {
-    let success = document.querySelector(".success")
-    success.querySelector("p").innerHTML = text
-    success.classList.add("show")
-
-    setTimeout(function () { error.classList.remove("show") }, 2000)
-}
 
 function uploadAnimation(xhttp) {
     let animationContainer = document.querySelector(".upload-animation")

@@ -5,9 +5,21 @@
         </a>
     </li>
     <li class="main-head">
-        <a href="#" class="btn btn-list">
+        <a href="/admin/category" class="btn btn-list">
             <i class="fa-solid fa-industry"></i>Categories
         </a>
+        <ul class="list">
+            {% for category in categories %}
+            <li class="sub-head">
+                <a href="/admin/category/{{ category['id'] }}" class="btn btn-list">{{ category['name'] }}</a>
+            </li>
+            {% endfor %}
+            <li class="sub-head">
+                <a href="/admin/category/add" class="btn btn-list">
+                    <i class="fa-solid fa-plus"></i>Add
+                </a>
+            </li>
+        </ul>
     </li>
     <li class="main-head">
         <a href="/admin/add" class="btn btn-list">

@@ -4,7 +4,12 @@
             <i class="fa-solid fa-house"></i>Home
         </a>
         <ul class="list">
+            {% for category in categories %}
             <li class="sub-head">
+                <a href="/category/{{ category['id'] }}" class="btn btn-list">{{ category['name'] }}</a>
+            </li>
+            {% endfor %}
+            <!-- <li class="sub-head">
                 <a href="#" class="btn btn-list">Category 1</a>
             </li>
             <li class="sub-head">
@@ -15,7 +20,7 @@
             </li>
             <li class="sub-head">
                 <a href="#" class="btn btn-list">Category 4</a>
-            </li>
+            </li> -->
         </ul>
     </li>
     <li class="main-head">

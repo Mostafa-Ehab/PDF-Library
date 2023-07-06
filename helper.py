@@ -35,6 +35,11 @@ def is_admin(session):
     
     return False
 
+def add_history(db, sql, user_id, book_id):
+    print(datetime.now().timestamp())
+    sql.execute("INSERT INTO history VALUES (%s, %s, %s)", [user_id, book_id, datetime.now()])
+    db.commit()
+
 def pdf_convert(sid):
     num = get_pages_num(sid)
     for i in range(num):

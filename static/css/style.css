@@ -223,12 +223,8 @@ textarea.input {
 }
 .navbar .avatar {
   padding: 0;
-}
-.navbar .avatar img {
-  width: 35px;
-  height: 35px;
-  border-radius: 50%;
-  border: var(--sec-color) solid 2px;
+  font-size: 2rem;
+  color: var(--text-color);
 }
 
 /* --------------------- Search bar Component -------------------- */
@@ -323,6 +319,9 @@ textarea.input {
 }
 .list .sub-head {
   font-weight: normal;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
 }
 .list .list-view {
   display: grid;
@@ -429,6 +428,7 @@ textarea.input {
   left: 10px;
   bottom: 10px;
   width: 200px;
+  padding: 20px 5px;
   border-radius: var(--block-radius);
   z-index: 80;
   transition: var(--duration);

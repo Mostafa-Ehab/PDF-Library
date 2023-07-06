@@ -1,0 +1,92 @@
+{% extends 'admin-layout.html' %}
+
+{% block title %}
+Dashboard
+{% endblock %}
+
+<!-- ------------------------------------------------------------ -->
+
+{% block navbar %}
+<div class="middle">
+    <form>
+        <div class="search-bar">
+            <input type="text" class="input" placeholder="Search" name="q">
+            <button type="submit" class="input">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </button>
+        </div>
+    </form>
+</div>
+<div class="right">
+</div>
+{% endblock %}
+
+<!-- ------------------------------------------------------------ -->
+
+{% block main_side_bar %}
+{% include 'components/admin-sidebar.html' %}
+{% endblock %}
+
+<!-- ------------------------------------------------------------ -->
+
+{% block main %}
+<p class="header">Add Category</p>
+<div class="add-category">
+    <form class="form" action="/admin/category/add" method="post" id="form">
+        <!-- CSRF Token -->
+        <input type="hidden" name="csrf_token" value="{{ csrf_token() }}" id="csrf" />
+
+        <table>
+            <tr>
+                <td>
+                    <label for="name">Name</label>
+                </td>
+                <td>
+                    <input type="text" class="input" name="name" id="name" placeholder="Enter category name" required>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td>
+                    <button class="btn btn-blue" id="submit">Save</button>
+                </td>
+            </tr>
+        </table>
+        <div class="hr"></div>
+        <div class="book-list">
+            <div class="head">ID</div>
+            <div class="head">Name</div>
+            <div class="head">Date</div>
+            <div class="head">ِAdd</div>
+            {% for row in data %}
+            <div><label for="{{ row['sid'] }}">{{ loop.index }}</label></div>
+            <div><label for="{{ row['sid'] }}">{{ row['name'] }}</label></div>
+            <div><label for="{{ row['sid'] }}">{{ row['pub_date'] }}</label></div>
+            <div class="btn-action">
+                <input type="checkbox" value="{{ row['id'] }}" name="add" class="input" id="{{ row['sid'] }}">
+            </div>
+            {% else %}
+            <div> No data Available, Please Add some books </div>
+            {% endfor %}
+        </div>
+    </form>
+</div>
+
+<div class="error">
+    <p></p>
+</div>
+<div class="success">
+    <p></p>
+</div>
+{% endblock %}
+
+<!-- ------------------------------------------------------------ -->
+
+{% block sec_side_bar %}
+
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/add-category.js"></script>
+{% endblock %}

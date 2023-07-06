@@ -1,41 +1,45 @@
 /* --------------------------  Components ------------------------ */
 /* Global List Styleing */
+/* Global List of books: override grid-template-columns*/
+.book-list {
+    display: grid;
+    grid-template-columns: max-content auto max-content max-content max-content;
+
+    div {
+        padding: 10px;
+        border-bottom: var(--sec-color) solid 1px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .head {
+        font-weight: bold;
+        border-bottom: var(--sec-color) solid 2px;
+    }
+
+    .btn-action {
+        padding: 0;
+
+        text-align: center;
+
+        a {
+            padding: 10px;
+            color: var(--green-color);
+
+            i {
+                padding: 0;
+            }
+        }
+    }
+}
 
 /* ------------------------- Main Section ------------------------ */
 .main {
 
-    /* List of Books in Dashboard Page */
-    .book-list {
-        display: grid;
-        grid-template-columns: max-content auto max-content max-content max-content;
-
-        div {
-            padding: 10px;
-            border-bottom: var(--sec-color) solid 1px;
-            overflow: hidden;
-            white-space: nowrap;
-            text-overflow: ellipsis;
-        }
-
-        .head {
-            font-weight: bold;
-            border-bottom: var(--sec-color) solid 2px;
-        }
-
-        .btn-edit {
-            padding: 0;
-
-            text-align: center;
-
-            a {
-                padding: 10px;
-                color: var(--green-color);
-
-                i {
-                    padding: 0;
-                }
-            }
-        }
+    /* List of Categories in Category Page */
+    .category-list {
+        grid-template-columns: max-content auto max-content;
     }
 
     /* Forms in Add and Edit Pages */
@@ -61,6 +65,43 @@
                     }
                 }
 
+                .category {
+                    position: relative;
+
+                    select:disabled {
+                        opacity: 1;
+                    }
+
+                    button {
+                        position: absolute;
+                        top: 0;
+                        left: 0;
+                        background-color: transparent;
+                        height: 33px;
+                    }
+
+                    ul {
+                        display: none;
+                        height: 0;
+                    }
+
+                    ul.active {
+                        display: block;
+                        height: fit-content;
+                    }
+
+                    li {
+                        display: grid;
+                        grid-template-columns: auto max-content;
+                        border-bottom: var(--sec-color) solid 2px;
+                        padding: 5px 0;
+                    }
+
+                    li:last-child {
+                        border-bottom: none;
+                    }
+                }
+
                 .input {
                     max-width: 500px;
                 }
@@ -69,6 +110,12 @@
                     font-weight: bold;
                     width: 1%;
                     white-space: nowrap;
+                }
+
+                .btn-container {
+                    display: grid;
+                    grid-template-columns: max-content auto max-content;
+                    max-width: 500px;
                 }
             }
         }
@@ -182,6 +229,43 @@
             }
         }
     }
+
+    .add-category,
+    .edit-category {
+        .form table {
+            width: 100%;
+
+            td {
+                padding: 10px;
+            }
+
+            .input {
+                max-width: 500px;
+            }
+
+            td:first-child {
+                font-weight: bold;
+                width: 1%;
+                white-space: nowrap;
+            }
+        }
+
+        .book-list {
+            grid-template-columns: max-content auto max-content max-content;
+
+            .btn-action {
+                padding: 10px;
+            }
+
+            .input:hover {
+                box-shadow: none;
+            }
+        }
+    }
+
+    .all-categories-list {
+        grid-template-columns: max-content auto max-content max-content;
+    }
 }
 
 /* ---------------------- Secondary Side Bar --------------------- */
@@ -221,6 +305,47 @@
 
 .success p {
     background-color: var(--green-color);
+}
+
+/* --------------------------- Modals -----------------------------*/
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.7);
+    z-index: 250;
+    display: none;
+
+    .modal-container {
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border-radius: var(--block-radius);
+        background-color: var(--bg-color);
+        padding: 30px;
+        width: fit-content;
+
+        .text-container {
+            padding-bottom: 40px;
+
+            p {
+                font-size: 1.5rem;
+            }
+        }
+
+        .btn-container {
+            display: grid;
+            grid-template-columns: max-content auto max-content;
+            margin: 0 5%;
+        }
+    }
+}
+
+.modal.active {
+    display: block;
 }
 
 /* ------------------------ Media Queries ------------------------ */

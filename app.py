@@ -43,7 +43,9 @@ sql = db.cursor(dictionary=True)
 def index():
     sql.execute("SELECT * FROM books")
     data = sql.fetchall()
-    return render_template("users/index.html", data=data, logged_in=is_logged_in(session))
+    sql.execute("SELECT * FROM categories")
+    categories = sql.fetchall()
+    return render_template("users/index.html", data=data, categories=categories, logged_in=is_logged_in(session))
 
 # Login Page
 @app.route("/login", methods=["GET", "POST"])
@@ -71,7 +73,7 @@ def login():
     # Login Page
     else:
         # If not Logged in
-        if session.get("user_id") is None:
+        if not is_logged_in(session):
             return render_template("users/login.html")
         # User already Logged in
         else:
@@ -86,12 +88,23 @@ def register():
 # History Page
 @app.route("/history")
 def history():
-    return render_template("users/history.html", logged_in=is_logged_in(session))
+    if is_logged_in(session):
+        sql.execute("SELECT books.* FROM books RIGHT JOIN history ON books.id = history.book_id WHERE \
+                    history.user_id = %s ORDER BY history.last_date DESC", [session['user_id']])
+        data = sql.fetchall()
+    else:
+        data = []
+
+    sql.execute("SELECT * FROM categories")
+    categories = sql.fetchall()
+    return render_template("users/history.html", data=data, categories=categories, logged_in=is_logged_in(session))
 
 # Wishlist Page
 @app.route("/wishlist")
 def wishlist():
-    return render_template("users/wishlist.html", logged_in=is_logged_in(session))
+    sql.execute("SELECT * FROM categories")
+    categories = sql.fetchall()
+    return render_template("users/wishlist.html", categories=categories, logged_in=is_logged_in(session))
 
 # Books Page
 @app.route("/book/<sid>")
@@ -99,6 +112,10 @@ def book(sid):
     if Check.sid(sid, sql, "edit"):
         sql.execute("SELECT * FROM books WHERE sid = %s", [sid])
         row = sql.fetchone()
+
+        if is_logged_in(session):
+            add_history(db, sql, session["user_id"], row['id'])
+
         return render_template("users/book.html", data=row, book=True, logged_in=is_logged_in(session))
     return abort(404)
 
@@ -114,11 +131,21 @@ def book_img(sid, num):
 def book_pdf(sid, name):
     file_name = f"files/{sid}/{sid}.pdf"
     if path.exists(file_name):
-        sql.execute("SELECT name FROM books WHERE sid = %s", [sid])
-        row = sql.fetchone()
-        if name == row["name"]:
-            return send_file(file_name, download_name=f"{name}.pdf" ,as_attachment=True)
+        return send_file(file_name, download_name=f"{name}.pdf" ,as_attachment=True)
     return abort(404)
+
+@app.route("/category/<category_id>")
+def category(category_id):
+    sql.execute("SELECT * FROM categories WHERE id = %s", [category_id])
+    row = sql.fetchone()
+    if row:
+        sql.execute("SELECT * FROM books WHERE id IN (SELECT book_id FROM \
+                    classification WHERE category_id = %s)", [category_id])
+        data = sql.fetchall()
+
+        sql.execute("SELECT * FROM categories")
+        categories = sql.fetchall()
+        return render_template("users/index.html", data=data, categories=categories, logged_in=is_logged_in(session))
 
 # Admin Home Page
 @app.route("/admin")
@@ -126,7 +153,11 @@ def admin():
     if is_admin(session):
         sql.execute("SELECT * FROM books")
         data = sql.fetchall()
-        return render_template("admin/index.html", data=data)
+
+        sql.execute("SELECT * FROM categories")
+        categories = sql.fetchall()
+
+        return render_template("admin/index.html", data=data, categories=categories)
     else:
         return redirect("/admin/login")
 
@@ -153,7 +184,8 @@ def admin_login():
     # Login Page
     else:
         # If not Logged in
-        if session.get("user_id") is None:
+        if not is_admin(session):
+            session.clear()
             return render_template("admin/login.html")
         # User already Logged in
         else:
@@ -191,6 +223,7 @@ def admin_add_book():
                 date = request.form.get("date")
                 version = request.form.get("version")
                 lang = request.form.get("lang")
+                category = request.form.getlist("category")
                 desc = request.form.get("description")
 
                 # Check SID Validity
@@ -212,6 +245,16 @@ def admin_add_book():
                                 [sid, title, author, version, date, lang, file_size, pages_num, session["user_id"]])
                     
                     db.commit()
+                    
+                    book_id = sql.lastrowid
+
+                    for cat in category:
+                        sql.execute("SELECT * FROM categories WHERE id = %s", [cat])
+                        if sql.fetchone():
+                            sql.execute("INSERT INTO classification VALUES (%s, %s)", [book_id, cat])
+                            db.commit()
+                        else:
+                            return "404"
 
                     with open(f"files/{sid}/desc.txt", "w") as desc_file:
                         desc_file.write(desc)
@@ -221,7 +264,11 @@ def admin_add_book():
         else:
             sql.execute("SELECT * FROM languages")
             languages = sql.fetchall()
-            return render_template("admin/add.html", languages=languages)
+
+            sql.execute("SELECT * FROM categories")
+            categories = sql.fetchall()
+
+            return render_template("admin/add-book.html", languages=languages, categories=categories)
     return redirect("/admin/login")
 
 # Admin Edit Book Page
@@ -234,12 +281,35 @@ def admin_edit_book(sid):
             date = request.form.get("date")
             version = request.form.get("version")
             lang = request.form.get("lang")
+            category = request.form.getlist("category")
             desc = request.form.get("description")
 
             # Check Data validity
             if Check.sid(sid, sql, "edit") and Check.title(title) and \
                 Check.author(author) and Check.date(date) and \
                 Check.version(version) and Check.version(lang) and Check.version(desc):
+                    sql.execute("SELECT id FROM books WHERE sid = %s", [sid])
+                    book_id = sql.fetchone()['id']
+
+                    category = [int(i) for i in category]
+                    
+                    sql.execute("SELECT category_id FROM classification WHERE book_id = %s", [book_id])
+                    old_categories = sql.fetchall()
+                    old_categories = [int(i['category_id']) for i in old_categories]
+
+                    print(category)
+                    print(old_categories)
+
+                    add = [i for i in category if i not in old_categories]
+                    for i in add:
+                        sql.execute("INSERT INTO classification VALUES (%s, %s)", [book_id, i])
+                        db.commit()
+
+                    remove = [i for i in old_categories if i not in category]
+                    for i in remove:
+                        sql.execute("DELETE FROM classification WHERE book_id = %s AND category_id = %s", [book_id, i])
+                        db.commit()
+
                     sql.execute("UPDATE books SET name = %s, author = %s, version = %s, \
                                 pub_date = %s, lang = %s WHERE sid = %s",
                                 [title, author, version, date, lang, sid])
@@ -257,9 +327,137 @@ def admin_edit_book(sid):
                 row = sql.fetchone()
                 row['desc'] = open(f"files/{sid}/desc.txt", "r").read()
 
-                return render_template("admin/edit.html", data=row)
+                sql.execute("SELECT * FROM categories")
+                categories = sql.fetchall()
+
+                sql.execute("SELECT category_id FROM classification WHERE book_id = %s", [row['id']])
+                selected = [i['category_id'] for i in sql.fetchall()]
+
+                return render_template("admin/edit.html", data=row, categories=categories, selected=selected)
             return abort(404)
     return redirect("/admin/login")
+
+@app.route("/admin/delete/<sid>")
+def delete_book(sid):
+    if is_admin(session):
+        if Check.sid(sid, sql, "edit"):
+            sql.execute("DELETE FROM books WHERE sid = %s", [sid])
+            db.commit()
+            shutil.rmtree(f"files/{sid}")
+
+            return redirect("/admin")
+        else:
+            return abort(404)
+    else:
+        return abort(404)
+
+@app.route("/admin/category")
+def admin_categories():
+    if is_admin(session):
+        sql.execute("SELECT categories.*, COUNT(classification.book_id) AS num FROM categories JOIN classification ON categories.id = classification.category_id GROUP BY (classification.category_id)")
+        data = sql.fetchall()
+        print(data)
+
+        return render_template("admin/categories.html", data=data, categories=data)
+    else:
+        return redirect("/admin/login")
+
+@app.route("/admin/category/add", methods=["POST", "GET"])
+def admin_add_category():
+    if is_admin(session):
+        if request.method == "POST":
+            name = request.form.get("name")
+            books = request.form.getlist("add")
+
+            if not name:
+                return "Please Check your inputs"
+            
+            sql.execute("SELECT * from categories WHERE name = %s", [name])
+            row = sql.fetchone()
+
+            if row:
+                return "This category already exist, please go to categories page"
+            
+            sql.execute("INSERT INTO categories (name) VALUES (%s)", [name])
+            db.commit()
+
+            category_id = sql.lastrowid
+            print(category_id)
+
+            for book_id in books:
+                sql.execute("INSERT INTO classification VALUES (%s, %s)",
+                            [book_id, category_id])
+                db.commit()
+
+            return "200"
+        else:
+            sql.execute("SELECT * FROM books")
+            data = sql.fetchall()
+
+            sql.execute("SELECT * FROM categories")
+            categories = sql.fetchall()
+
+            return render_template("admin/add-category.html", data=data, categories=categories)
+    else:
+        return redirect("/admin/login")
+
+@app.route("/admin/category/<category_id>", methods=["POST", "GET"])
+def admin_edit_category(category_id):
+    if is_admin(session):
+        sql.execute("SELECT * from categories WHERE id = %s", [category_id])
+        row = sql.fetchone()
+        if row:
+            if request.method == "POST":
+                name = request.form.get("name")
+                selected = request.form.getlist("add")
+                selected = [int(i) for i in selected]
+
+                if not name:
+                    return "Please Check your inputs"
+
+                sql.execute("SELECT * FROM categories WHERE name = %s", [name])
+
+                if len(sql.fetchall()) != 0 and name != row['name']:
+                    return "This category already exist, please go to categories page"
+                
+                else:
+                    sql.execute("UPDATE categories SET name = %s WHERE id = %s", [name, category_id])
+                    db.commit()
+
+                sql.execute("SELECT id FROM books WHERE id IN (SELECT book_id FROM \
+                            classification WHERE category_id = %s)", [category_id])
+                books = sql.fetchall()
+                books = [i['id'] for i in books]
+
+                add = [i for i in selected if i not in books]
+                for i in add:
+                    sql.execute("INSERT INTO classification VALUES (%s, %s)", [i, category_id])
+                    db.commit()
+
+                remove = [i for i in books if i not in selected]
+                for i in remove:
+                    sql.execute("DELETE FROM classification WHERE (book_id = %s AND category_id = %s)",
+                                [i, category_id])
+                    db.commit()
+                
+                return "200"
+            else:
+                sql.execute("SELECT * FROM books WHERE id IN (SELECT book_id FROM \
+                            classification WHERE category_id = %s)", [category_id])
+                selected = sql.fetchall()
+
+                sql.execute("SELECT * FROM books WHERE id NOT IN (SELECT book_id FROM \
+                            classification WHERE category_id = %s)", [category_id])
+                not_selected = sql.fetchall()
+
+                sql.execute("SELECT * FROM categories")
+                categories = sql.fetchall()
+
+                return render_template("admin/edit-category.html", category=row, selected=selected, not_selected=not_selected, categories=categories)
+        return abort(404)
+    else:
+        return redirect("/admin/login")
+
 
 # Converting Progress
 @app.route("/admin/progress")

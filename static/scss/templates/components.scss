@@ -102,6 +102,9 @@
     .sub-head {
         font-weight: normal;
         // font-size: 1rem;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
     }
 
     /* List View: History & Wishlist */

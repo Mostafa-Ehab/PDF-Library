@@ -38,20 +38,21 @@ History
 <div class="history">
     <p class="header">History</p>
     <ul class="list">
-        <li>Your history is empty</li>
-        <!-- {% for i in range(3) %}
+        {% for row in data %}
         <li>
-            <a href="#" class="list-view">
-                <img src="https://picsum.photos/{{i * 150}}/{{i * 100}}" class="main-view">
+            <a href="/book/{{ row['sid'] }}" class="list-view">
+                <img src="/book/{{ row['sid'] }}/1.svg" class="main-view">
                 <div class="details">
-                    <p class="title">Clean Code A handbook of Agile Software Craftsmanship</p>
-                    <p><span>By: </span>Robert C. Martin</p>
-                    <p>140 Page</p>
-                    <p>June 2018</p>
+                    <p class="title">{{ row['name'] }}</p>
+                    <p><span>By: </span>{{ row['author'] }}</p>
+                    <p>{{ row['pages'] }} Page</p>
+                    <p>{{ row['pub_date'] }}</p>
                 </div>
             </a>
         </li>
-        {% endfor %} -->
+        {% else %}
+        <li>Your history is empty</li>
+        {% endfor %}
     </ul>
 </div>
 {% endblock %}

@@ -1,35 +1,40 @@
 /* --------------------------  Components ------------------------ */
 /* Global List Styleing */
-/* ------------------------- Main Section ------------------------ */
-.main {
-  /* List of Books in Dashboard Page */
-  /* Forms in Add and Edit Pages */
-}
-.main .book-list {
+/* Global List of books: override grid-template-columns*/
+.book-list {
   display: grid;
   grid-template-columns: max-content auto max-content max-content max-content;
 }
-.main .book-list div {
+.book-list div {
   padding: 10px;
   border-bottom: var(--sec-color) solid 1px;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
 }
-.main .book-list .head {
+.book-list .head {
   font-weight: bold;
   border-bottom: var(--sec-color) solid 2px;
 }
-.main .book-list .btn-edit {
+.book-list .btn-action {
   padding: 0;
   text-align: center;
 }
-.main .book-list .btn-edit a {
+.book-list .btn-action a {
   padding: 10px;
   color: var(--green-color);
 }
-.main .book-list .btn-edit a i {
+.book-list .btn-action a i {
   padding: 0;
+}
+
+/* ------------------------- Main Section ------------------------ */
+.main {
+  /* List of Categories in Category Page */
+  /* Forms in Add and Edit Pages */
+}
+.main .category-list {
+  grid-template-columns: max-content auto max-content;
 }
 .main .edit,
 .main .add {
@@ -57,6 +62,43 @@
   opacity: 0;
   transition: var(--duration);
 }
+.main .edit .form-container .form table .category,
+.main .add .form-container .form table .category {
+  position: relative;
+}
+.main .edit .form-container .form table .category select:disabled,
+.main .add .form-container .form table .category select:disabled {
+  opacity: 1;
+}
+.main .edit .form-container .form table .category button,
+.main .add .form-container .form table .category button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  height: 33px;
+}
+.main .edit .form-container .form table .category ul,
+.main .add .form-container .form table .category ul {
+  display: none;
+  height: 0;
+}
+.main .edit .form-container .form table .category ul.active,
+.main .add .form-container .form table .category ul.active {
+  display: block;
+  height: fit-content;
+}
+.main .edit .form-container .form table .category li,
+.main .add .form-container .form table .category li {
+  display: grid;
+  grid-template-columns: auto max-content;
+  border-bottom: var(--sec-color) solid 2px;
+  padding: 5px 0;
+}
+.main .edit .form-container .form table .category li:last-child,
+.main .add .form-container .form table .category li:last-child {
+  border-bottom: none;
+}
 .main .edit .form-container .form table .input,
 .main .add .form-container .form table .input {
   max-width: 500px;
@@ -66,6 +108,12 @@
   font-weight: bold;
   width: 1%;
   white-space: nowrap;
+}
+.main .edit .form-container .form table .btn-container,
+.main .add .form-container .form table .btn-container {
+  display: grid;
+  grid-template-columns: max-content auto max-content;
+  max-width: 500px;
 }
 .main .edit .form-container::after,
 .main .add .form-container::after {
@@ -178,6 +226,39 @@
 .main .add .upload-container .upload-animation .done-bar span {
   background-color: var(--green-color);
 }
+.main .add-category .form table,
+.main .edit-category .form table {
+  width: 100%;
+}
+.main .add-category .form table td,
+.main .edit-category .form table td {
+  padding: 10px;
+}
+.main .add-category .form table .input,
+.main .edit-category .form table .input {
+  max-width: 500px;
+}
+.main .add-category .form table td:first-child,
+.main .edit-category .form table td:first-child {
+  font-weight: bold;
+  width: 1%;
+  white-space: nowrap;
+}
+.main .add-category .book-list,
+.main .edit-category .book-list {
+  grid-template-columns: max-content auto max-content max-content;
+}
+.main .add-category .book-list .btn-action,
+.main .edit-category .book-list .btn-action {
+  padding: 10px;
+}
+.main .add-category .book-list .input:hover,
+.main .edit-category .book-list .input:hover {
+  box-shadow: none;
+}
+.main .all-categories-list {
+  grid-template-columns: max-content auto max-content max-content;
+}
 
 /* ---------------------- Secondary Side Bar --------------------- */
 .sec-side-bar {
@@ -216,6 +297,43 @@
 
 .success p {
   background-color: var(--green-color);
+}
+
+/* --------------------------- Modals -----------------------------*/
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(255, 255, 255, 0.7);
+  z-index: 250;
+  display: none;
+}
+.modal .modal-container {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: var(--block-radius);
+  background-color: var(--bg-color);
+  padding: 30px;
+  width: fit-content;
+}
+.modal .modal-container .text-container {
+  padding-bottom: 40px;
+}
+.modal .modal-container .text-container p {
+  font-size: 1.5rem;
+}
+.modal .modal-container .btn-container {
+  display: grid;
+  grid-template-columns: max-content auto max-content;
+  margin: 0 5%;
+}
+
+.modal.active {
+  display: block;
 }
 
 /* ------------------------ Media Queries ------------------------ */

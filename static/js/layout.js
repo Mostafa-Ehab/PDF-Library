@@ -11,8 +11,6 @@ let secSideBar = document.querySelector(".sec-side-bar")
 ** Close Button have display None
 */
 document.querySelector("#close-main").addEventListener("click", (event) => {
-    // mainSideBar.style.left = "-200px"
-    // mainSection.style.left = "10px"
     mainSideBar.classList.remove("active")
 
     document.querySelector("#close-main").style.display = "none"
@@ -24,8 +22,6 @@ document.querySelector("#close-main").addEventListener("click", (event) => {
 ** Close Button have display None
 */
 document.querySelector("#open-main").addEventListener("click", (event) => {
-    // mainSideBar.style.left = "10px"
-    // mainSection.style.left = "220px"
     mainSideBar.classList.add("active")
 
     document.querySelector("#close-main").style.display = "block"
@@ -33,8 +29,6 @@ document.querySelector("#open-main").addEventListener("click", (event) => {
 
 /* Close Secondary Side Bar */
 document.querySelector("#close-sec").addEventListener("click", (event) => {
-    // secSideBar.style.right = "-350px"
-    // mainSection.style.right = "10px"
     secSideBar.classList.remove("active")
     mainSection.classList.add("expand")
 
@@ -49,9 +43,7 @@ document.querySelector("#open-sec").addEventListener("click", (event) => {
     document.querySelector("#open-sec").style.right = "-100px"
 })
 
+/* Close Secondary Side Bar By default */
 document.addEventListener("DOMContentLoaded", () => {
-    // secSideBar.classList.remove("active")
-    // mainSection.classList.add("expand")
-
     document.querySelector("#open-sec").style.right = "0"
 })
