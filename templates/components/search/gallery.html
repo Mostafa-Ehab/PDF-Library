@@ -1,0 +1,17 @@
+{% for row in data %}
+<div class="gallery-view {% if row['lang'] == 2 %} rtl {% endif %}">
+    <a href="/book/{{ row['sid'] }}">
+        <img class="img" src="/book/{{ row['sid'] }}/1.svg">
+        <div class="details">
+            <p class="title">
+                {{ row['name'] }}
+            </p>
+            <p>
+                {{ row['author'] }}
+            </p>
+        </div>
+    </a>
+</div>
+{% else %}
+<div> No data Available, Please Add some books </div>
+{% endfor %}

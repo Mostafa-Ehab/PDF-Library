@@ -41,11 +41,24 @@ sql = db.cursor(dictionary=True)
 # Home Page
 @app.route("/")
 def index():
-    sql.execute("SELECT * FROM books")
-    data = sql.fetchall()
-    sql.execute("SELECT * FROM categories")
-    categories = sql.fetchall()
-    return render_template("users/index.html", data=data, categories=categories, logged_in=is_logged_in(session))
+
+    q = request.args.get("q")
+    if q:
+        sql.execute("SELECT * FROM books WHERE name LIKE %s", ["%" + q + "%"])
+        data = sql.fetchall()
+        # sql.execute("SELECT * FROM books WHERE id IN (SELECT book_id FROM classification WHERE )")
+    else:
+        sql.execute("SELECT * FROM books")
+        data = sql.fetchall()
+
+    history = get_history(sql, q, session)[:3]
+
+    if request.args.get("no-render"):
+        return render_template("components/search/gallery.html", data=data)
+    else:
+        sql.execute("SELECT * FROM categories")
+        categories = sql.fetchall()
+        return render_template("users/index.html", data=data, categories=categories, history=history, logged_in=is_logged_in(session))
 
 # Login Page
 @app.route("/login", methods=["GET", "POST"])
@@ -88,16 +101,15 @@ def register():
 # History Page
 @app.route("/history")
 def history():
-    if is_logged_in(session):
-        sql.execute("SELECT books.* FROM books RIGHT JOIN history ON books.id = history.book_id WHERE \
-                    history.user_id = %s ORDER BY history.last_date DESC", [session['user_id']])
-        data = sql.fetchall()
-    else:
-        data = []
+    q = request.args.get("q")
+    data = get_history(sql, q, session)
 
-    sql.execute("SELECT * FROM categories")
-    categories = sql.fetchall()
-    return render_template("users/history.html", data=data, categories=categories, logged_in=is_logged_in(session))
+    if request.args.get("no-render"):
+        return render_template("components/search/list-item.html", data=data)
+    else:
+        sql.execute("SELECT * FROM categories")
+        categories = sql.fetchall()
+        return render_template("users/history.html", data=data, categories=categories, logged_in=is_logged_in(session))
 
 # Wishlist Page
 @app.route("/wishlist")
@@ -139,25 +151,45 @@ def category(category_id):
     sql.execute("SELECT * FROM categories WHERE id = %s", [category_id])
     row = sql.fetchone()
     if row:
-        sql.execute("SELECT * FROM books WHERE id IN (SELECT book_id FROM \
-                    classification WHERE category_id = %s)", [category_id])
-        data = sql.fetchall()
+        q = request.args.get("q")
+        if q:
+            sql.execute("SELECT * FROM books WHERE id IN (SELECT book_id FROM \
+                        classification WHERE category_id = %s) AND name LIKE %s", [category_id, "%" + q + "%"])
+            data = sql.fetchall()
+        else:
+            sql.execute("SELECT * FROM books WHERE id IN (SELECT book_id FROM \
+                        classification WHERE category_id = %s)", [category_id])
+            data = sql.fetchall()
 
-        sql.execute("SELECT * FROM categories")
-        categories = sql.fetchall()
-        return render_template("users/index.html", data=data, categories=categories, logged_in=is_logged_in(session))
+        if request.args.get("no-render"):
+            return render_template("components/search/gallery.html", data=data)
+        else:
+            sql.execute("SELECT * FROM categories")
+            categories = sql.fetchall()
+            return render_template("users/index.html", data=data, categories=categories, logged_in=is_logged_in(session))
+        
+    else:
+        return abort(404)
 
 # Admin Home Page
 @app.route("/admin")
 def admin():
     if is_admin(session):
-        sql.execute("SELECT * FROM books")
-        data = sql.fetchall()
+        q = request.args.get("q")
+        if q:
+            sql.execute("SELECT * FROM books WHERE name LIKE %s", ["%" + q + "%"])
+            data = sql.fetchall()
+        else:
+            sql.execute("SELECT * FROM books")
+            data = sql.fetchall()
 
-        sql.execute("SELECT * FROM categories")
-        categories = sql.fetchall()
-
-        return render_template("admin/index.html", data=data, categories=categories)
+        if request.args.get("no-render"):
+            return render_template("components/admin-search/book-list.html", data=data)
+        else:
+            sql.execute("SELECT * FROM categories")
+            categories = sql.fetchall()
+            
+            return render_template("admin/index.html", data=data, categories=categories)
     else:
         return redirect("/admin/login")
 
@@ -354,11 +386,24 @@ def delete_book(sid):
 @app.route("/admin/category")
 def admin_categories():
     if is_admin(session):
-        sql.execute("SELECT categories.*, COUNT(classification.book_id) AS num FROM categories JOIN classification ON categories.id = classification.category_id GROUP BY (classification.category_id)")
-        data = sql.fetchall()
-        print(data)
+        q = request.args.get("q")
+        if q:
+            sql.execute("SELECT categories.*, COUNT(classification.book_id) AS num FROM categories \
+                        JOIN classification ON categories.id = classification.category_id WHERE categories.name LIKE %s GROUP BY \
+                        (classification.category_id)", ["%" + q + "%"])
+            data = sql.fetchall()
+        else:
+            sql.execute("SELECT categories.*, COUNT(classification.book_id) AS num FROM categories \
+                        JOIN classification ON categories.id = classification.category_id GROUP BY \
+                        (classification.category_id)")
+            data = sql.fetchall()
 
-        return render_template("admin/categories.html", data=data, categories=data)
+        if request.args.get("no-render"):
+            return render_template("components/admin-search/category-list.html", data=data)
+        else:        
+            sql.execute("SELECT * FROM categories")
+            categories = sql.fetchall()
+            return render_template("admin/categories.html", data=data, categories=categories)
     else:
         return redirect("/admin/login")
 
@@ -391,13 +436,22 @@ def admin_add_category():
 
             return "200"
         else:
-            sql.execute("SELECT * FROM books")
-            data = sql.fetchall()
+            q = request.args.get("q")
+            if q:
+                sql.execute(
+                    "SELECT * FROM books WHERE name LIKE %s", ["%" + q + "%"])
+                data = sql.fetchall()
+            else:
+                sql.execute("SELECT * FROM books")
+                data = sql.fetchall()
+            
+            if request.args.get("no-render"):
+                return render_template("components/admin-search/category-books-list.html", data=data)
+            else:
+                sql.execute("SELECT * FROM categories")
+                categories = sql.fetchall()
 
-            sql.execute("SELECT * FROM categories")
-            categories = sql.fetchall()
-
-            return render_template("admin/add-category.html", data=data, categories=categories)
+                return render_template("admin/add-category.html", data=data, categories=categories)
     else:
         return redirect("/admin/login")
 
@@ -442,18 +496,27 @@ def admin_edit_category(category_id):
                 
                 return "200"
             else:
-                sql.execute("SELECT * FROM books WHERE id IN (SELECT book_id FROM \
+                q = request.args.get("q")
+                if q:
+                    sql.execute("SELECT * FROM books WHERE name LIKE %s", ["%" + q + "%"])
+                    data= sql.fetchall()
+                else:
+                    sql.execute("SELECT * FROM books")
+                    data = sql.fetchall()
+
+
+                sql.execute("SELECT id FROM books WHERE id IN (SELECT book_id FROM \
                             classification WHERE category_id = %s)", [category_id])
                 selected = sql.fetchall()
+                selected = [i['id'] for i in selected]
 
-                sql.execute("SELECT * FROM books WHERE id NOT IN (SELECT book_id FROM \
-                            classification WHERE category_id = %s)", [category_id])
-                not_selected = sql.fetchall()
+                if request.args.get("no-render"):
+                    return render_template("components/admin-search/category-books-list.html", data=data, selected=selected)
+                else:
+                    sql.execute("SELECT * FROM categories")
+                    categories = sql.fetchall()
 
-                sql.execute("SELECT * FROM categories")
-                categories = sql.fetchall()
-
-                return render_template("admin/edit-category.html", category=row, selected=selected, not_selected=not_selected, categories=categories)
+                    return render_template("admin/edit-category.html", category=row, data=data, selected=selected, categories=categories)
         return abort(404)
     else:
         return redirect("/admin/login")

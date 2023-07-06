@@ -8,14 +8,14 @@ Dashboard
 
 {% block navbar %}
 <div class="middle">
-    <form>
+    <!-- <form>
         <div class="search-bar">
             <input type="text" class="input" placeholder="Search" name="q">
             <button type="submit" class="input">
                 <i class="fa-solid fa-magnifying-glass"></i>
             </button>
         </div>
-    </form>
+    </form> -->
 </div>
 <div class="right">
 </div>
@@ -53,22 +53,18 @@ Dashboard
                 </td>
             </tr>
         </table>
+
         <div class="hr"></div>
-        <div class="book-list">
-            <div class="head">ID</div>
-            <div class="head">Name</div>
-            <div class="head">Date</div>
-            <div class="head">ِAdd</div>
-            {% for row in data %}
-            <div><label for="{{ row['sid'] }}">{{ loop.index }}</label></div>
-            <div><label for="{{ row['sid'] }}">{{ row['name'] }}</label></div>
-            <div><label for="{{ row['sid'] }}">{{ row['pub_date'] }}</label></div>
-            <div class="btn-action">
-                <input type="checkbox" value="{{ row['id'] }}" name="add" class="input" id="{{ row['sid'] }}">
-            </div>
-            {% else %}
-            <div> No data Available, Please Add some books </div>
-            {% endfor %}
+
+        <div class="search-bar search-sec-bar">
+            <input type="text" class="input" placeholder="Search for book" name="q" id="search">
+            <button type="button" class="input">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </button>
+        </div>
+
+        <div class="book-list" id="container">
+            {% include "components/admin-search/category-books-list.html" %}
         </div>
     </form>
 </div>

@@ -1,0 +1,16 @@
+<div class="head">ID</div>
+<div class="head">Category</div>
+<div class="head">Books</div>
+<div class="head">Edit</div>
+{% for row in data %}
+<div>{{ row['id'] }}</div>
+<div>{{ row['name'] }}</div>
+<div>{{ row['num'] }}</div>
+<div class="btn-action">
+    <a class="btn" href="/admin/category/{{ row['id'] }}">
+        <i class="fa-solid fa-pen-to-square"></i>
+    </a>
+</div>
+{% else %}
+<div> No data Available, Please Add some categories </div>
+{% endfor %}

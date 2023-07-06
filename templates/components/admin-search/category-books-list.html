@@ -1,0 +1,15 @@
+<div class="head">ID</div>
+<div class="head">Name</div>
+<div class="head">Date</div>
+<div class="head">ِAdd</div>
+{% for row in data %}
+<div><label for="{{ row['sid'] }}">{{ row['id'] }}</label></div>
+<div><label for="{{ row['sid'] }}">{{ row['name'] }}</label></div>
+<div><label for="{{ row['sid'] }}">{{ row['pub_date'] }}</label></div>
+<div class="btn-action">
+    <input type="checkbox" value="{{ row['id'] }}" name="add" class="input" id="{{ row['sid'] }}" {% if row['id'] in
+        selected %} checked {% endif %}>
+</div>
+{% else %}
+<div> No data Available, Please Add some books </div>
+{% endfor %}

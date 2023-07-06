@@ -10,7 +10,7 @@ Dashboard
 <div class="middle">
     <form>
         <div class="search-bar">
-            <input type="text" class="input" placeholder="Search" name="q">
+            <input type="text" class="input" placeholder="Search" name="q" id="search">
             <button type="submit" class="input">
                 <i class="fa-solid fa-magnifying-glass"></i>
             </button>
@@ -30,25 +30,8 @@ Dashboard
 <!-- ------------------------------------------------------------ -->
 
 {% block main %}
-<div class="book-list">
-    <div class="head">ID</div>
-    <div class="head">Name</div>
-    <div class="head">Date</div>
-    <div class="head">Size</div>
-    <div class="head">Edit</div>
-    {% for row in data %}
-    <div>{{ row['id'] }}</div>
-    <div>{{ row['name'] }}</div>
-    <div>{{ row['pub_date'] }}</div>
-    <div>{{ row['pages'] }} Page</div>
-    <div class="btn-action">
-        <a class="btn" href="/admin/edit/{{ row['sid'] }}">
-            <i class="fa-solid fa-pen-to-square"></i>
-        </a>
-    </div>
-    {% else %}
-    <div> No data Available, Please Add some books </div>
-    {% endfor %}
+<div class="book-list" id="container">
+    {% include 'components/admin-search/book-list.html' %}
 </div>
 {% endblock %}
 

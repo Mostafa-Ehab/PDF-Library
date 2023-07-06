@@ -10,7 +10,7 @@ History
 <div class="middle">
     <form>
         <div class="search-bar">
-            <input type="text" class="input" placeholder="Search" name="q">
+            <input type="text" class="input" placeholder="Search" name="q" id="search">
             <button type="submit" class="input">
                 <i class="fa-solid fa-magnifying-glass"></i>
             </button>
@@ -37,22 +37,8 @@ History
 {% block main %}
 <div class="history">
     <p class="header">History</p>
-    <ul class="list">
-        {% for row in data %}
-        <li>
-            <a href="/book/{{ row['sid'] }}" class="list-view">
-                <img src="/book/{{ row['sid'] }}/1.svg" class="main-view">
-                <div class="details">
-                    <p class="title">{{ row['name'] }}</p>
-                    <p><span>By: </span>{{ row['author'] }}</p>
-                    <p>{{ row['pages'] }} Page</p>
-                    <p>{{ row['pub_date'] }}</p>
-                </div>
-            </a>
-        </li>
-        {% else %}
-        <li>Your history is empty</li>
-        {% endfor %}
+    <ul class="list" id="container">
+        {% include 'components/search/list-item.html' %}
     </ul>
 </div>
 {% endblock %}
@@ -60,14 +46,14 @@ History
 <!-- ------------------------------------------------------------ -->
 
 {% block sec_side_bar %}
-<form class="search-history">
+<!-- <form class="search-history">
     <div class="search-bar search-sec-bar">
         <input type="text" class="input" placeholder="Search yout history" name="q">
         <button type="submit" class="input">
             <i class="fa-solid fa-magnifying-glass"></i>
         </button>
     </div>
-</form>
+</form> -->
 
 <p class="header">History Options</p>
 <ul class="list">

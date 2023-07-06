@@ -1,0 +1,15 @@
+{% for row in data %}
+<li>
+    <a href="/book/{{ row['sid'] }}" class="list-view">
+        <img src="/book/{{ row['sid'] }}/1.svg" class="main-view">
+        <div class="details">
+            <p class="title">{{ row['name'] }}</p>
+            <p><span>By: </span>{{ row['author'] }}</p>
+            <p>{{ row['pages'] }} Page</p>
+            <p>{{ row['pub_date'] }}</p>
+        </div>
+    </a>
+</li>
+{% else %}
+<li>Your history is empty</li>
+{% endfor %}

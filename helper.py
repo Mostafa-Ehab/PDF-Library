@@ -40,6 +40,23 @@ def add_history(db, sql, user_id, book_id):
     sql.execute("INSERT INTO history VALUES (%s, %s, %s)", [user_id, book_id, datetime.now()])
     db.commit()
 
+def get_history(sql, q, session):
+    if is_logged_in(session):
+        if q:
+            print(q)
+            sql.execute("SELECT books.* FROM books RIGHT JOIN history ON books.id = history.book_id WHERE \
+                    history.user_id = %s AND books.name LIKE %s ORDER BY history.last_date DESC", [session['user_id'], "%" + q + "%"])
+            data = sql.fetchall()
+            print(data)
+        else:
+            sql.execute("SELECT books.* FROM books RIGHT JOIN history ON books.id = history.book_id WHERE \
+                    history.user_id = %s ORDER BY history.last_date DESC", [session['user_id']])
+            data = sql.fetchall()
+    else:
+        data = []
+
+    return data
+
 def pdf_convert(sid):
     num = get_pages_num(sid)
     for i in range(num):

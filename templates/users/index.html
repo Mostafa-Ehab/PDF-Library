@@ -35,24 +35,8 @@ Homepage
 <!-- ------------------------------------------------------------ -->
 
 {% block main %}
-<div class="gallery">
-    {% for row in data %}
-    <div class="gallery-view {% if row['lang'] == 2 %} rtl {% endif %}">
-        <a href="/book/{{ row['sid'] }}">
-            <img class="img" src="/book/{{ row['sid'] }}/1.svg">
-            <div class="details">
-                <p class="title">
-                    {{ row['name'] }}
-                </p>
-                <p>
-                    {{ row['author'] }}
-                </p>
-            </div>
-        </a>
-    </div>
-    {% else %}
-    <div> No data Available, Please Add some books </div>
-    {% endfor %}
+<div class="gallery" id="container">
+    {% include 'components/search/gallery.html' %}
 </div>
 {% endblock %}
 
@@ -69,6 +53,27 @@ Homepage
 <!-- History Page -->
 <p class="header">History</p>
 <ul class="list">
+    {% for row in history %}
+    <li>
+        <a href="/book/{{ row['sid'] }}" class="list-view">
+            <img src="/book/{{ row['sid'] }}/1.svg" class="side-view">
+            <div class="details">
+                <p class="title">{{ row['name'] }}</p>
+                <p><span>By: </span>{{ row['author'] }}</p>
+                <p>{{ row['pages'] }} Page</p>
+                <p>{{ row['pub_date'] }}</p>
+            </div>
+        </a>
+    </li>
+    {% else %}
     <li>Your hisoty is empty</li>
+    {% endfor %}
+    {% if history %}
+    <div class="list-expand">
+        <a href="/wishlist" class="btn btn-sec-blue">
+            See more
+        </a>
+    </div>
+    {% endif %}
 </ul>
 {% endblock %}

@@ -10,7 +10,7 @@ Categories
 <div class="middle">
     <form>
         <div class="search-bar">
-            <input type="text" class="input" placeholder="Search" name="q">
+            <input type="text" class="input" placeholder="Search" name="q" id="search">
             <button type="submit" class="input">
                 <i class="fa-solid fa-magnifying-glass"></i>
             </button>
@@ -30,23 +30,8 @@ Categories
 <!-- ------------------------------------------------------------ -->
 
 {% block main %}
-<div class="all-categories-list book-list">
-    <div class="head">ID</div>
-    <div class="head">Category</div>
-    <div class="head">Books</div>
-    <div class="head">Edit</div>
-    {% for row in data %}
-    <div>{{ row['id'] }}</div>
-    <div>{{ row['name'] }}</div>
-    <div>{{ row['num'] }}</div>
-    <div class="btn-action">
-        <a class="btn" href="/admin/category/{{ row['id'] }}">
-            <i class="fa-solid fa-pen-to-square"></i>
-        </a>
-    </div>
-    {% else %}
-    <div> No data Available, Please Add some categories </div>
-    {% endfor %}
+<div class="all-categories-list book-list" id="container">
+    {% include 'components/admin-search/category-list.html' %}
 </div>
 {% endblock %}
 
